@@ -1,6 +1,6 @@
 {
   "date": "2023-11-15",
-  "count": 12,
+  "count": 13,
   "cves": [
     {
       "cve_id": "CVE-2023-6063",
@@ -59,6 +59,13 @@
       "raw_date": "2023-11-15T21:39:54Z"
     },
     {
+      "cve_id": "CVE-2023-36845",
+      "repo_info": "[P4x1s/ansible-cve-2023-36845](https://github.com/P4x1s/ansible-cve-2023-36845)",
+      "description": "Ansible Playbook for CVE-2023-36845(Juniper Networks Junos OS 远程代码执行漏洞)",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T10:02:22Z"
+    },
+    {
       "cve_id": "CVE-2023-32422",
       "repo_info": "[gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite](https://github.com/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite)",
       "description": "no description",
@@ -87,9 +94,9 @@
       "raw_date": "2023-11-15T20:52:36Z"
     }
   ],
-  "generated_at": "2025-12-12T01:23:12.790243",
+  "generated_at": "2025-12-12T02:55:05.215965",
   "metadata": {
-    "total_cves": 12,
+    "total_cves": 13,
     "date_range": "2023-11-15",
     "source": "README.md",
     "script_version": "2.0"

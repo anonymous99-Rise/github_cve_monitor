@@ -1,6 +1,6 @@
 {
   "date": "2023-10-26",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2024-31315",
@@ -36,6 +36,13 @@
       "description": "Ansible Playbook for CVE-2023-4966",
       "date": "2023-10-26",
       "raw_date": "2023-10-26T09:32:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[trganda/ActiveMQ-RCE](https://github.com/trganda/ActiveMQ-RCE)",
+      "description": "CVE-2023-46604",
+      "date": "2023-10-26",
+      "raw_date": "2023-10-26T03:25:05Z"
     },
     {
       "cve_id": "CVE-2023-46451",
@@ -150,9 +157,9 @@
       "raw_date": "2023-10-26T01:54:49Z"
     }
   ],
-  "generated_at": "2025-12-12T01:23:12.785995",
+  "generated_at": "2025-12-12T02:55:05.212081",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2023-10-26",
     "source": "README.md",
     "script_version": "2.0"

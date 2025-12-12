@@ -1,0 +1,34 @@
+{
+  "date": "2025-12-05",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[l4rm4nd/CVE-2025-55182](https://github.com/l4rm4nd/CVE-2025-55182)",
+      "description": "Docker poc lab for CVE-2025-55182 / CVE-2025-66478 (React2Shell) detection and exploitation",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T12:06:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[ejpir/CVE-2025-55182-bypass](https://github.com/ejpir/CVE-2025-55182-bypass)",
+      "description": "Header bypass for CVE-2025-55182 (React Server Components RCE).",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T23:23:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-49666",
+      "repo_info": "[17patmaks/My-Sigma-Rule-Collection](https://github.com/17patmaks/My-Sigma-Rule-Collection)",
+      "description": "Sigma Rule for CVE-2025-49666",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T21:42:00Z"
+    }
+  ],
+  "generated_at": "2025-12-12T02:55:05.345235",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2025-12-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

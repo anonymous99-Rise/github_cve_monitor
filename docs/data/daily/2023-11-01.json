@@ -1,7 +1,21 @@
 {
   "date": "2023-11-01",
-  "count": 14,
+  "count": 16,
   "cves": [
+    {
+      "cve_id": "CVE-2023-47889",
+      "repo_info": "[actuator/com.bdrm.superreboot](https://github.com/actuator/com.bdrm.superreboot)",
+      "description": "CVE-2023-47889 - CVE-2023-47354",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T00:57:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-47355",
+      "repo_info": "[actuator/com.eypcnnapps.quickreboot](https://github.com/actuator/com.eypcnnapps.quickreboot)",
+      "description": "CVE-2023-47355",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T02:02:16Z"
+    },
     {
       "cve_id": "CVE-2023-47184",
       "repo_info": "[rach1tarora/CVE-2023-47184](https://github.com/rach1tarora/CVE-2023-47184)",
@@ -101,9 +115,9 @@
       "raw_date": "2023-11-01T06:47:06Z"
     }
   ],
-  "generated_at": "2025-12-12T01:23:12.787279",
+  "generated_at": "2025-12-12T02:55:05.213243",
   "metadata": {
-    "total_cves": 14,
+    "total_cves": 16,
     "date_range": "2023-11-01",
     "source": "README.md",
     "script_version": "2.0"

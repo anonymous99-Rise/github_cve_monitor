@@ -1,6 +1,6 @@
 {
   "date": "2024-12-16",
-  "count": 16,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2025-54424",
@@ -87,6 +87,13 @@
       "raw_date": "2024-12-16T17:33:13Z"
     },
     {
+      "cve_id": "CVE-2024-10793",
+      "repo_info": "[djayaGit/CVE-2024-10793](https://github.com/djayaGit/CVE-2024-10793)",
+      "description": "CVE-2024-10793 poc exploit",
+      "date": "2024-12-16",
+      "raw_date": "2024-12-16T13:19:48Z"
+    },
+    {
       "cve_id": "CVE-2023-21554",
       "repo_info": "[Rahul-Thakur7/CVE-2023-21554](https://github.com/Rahul-Thakur7/CVE-2023-21554)",
       "description": "no description",
@@ -115,9 +122,9 @@
       "raw_date": "2024-12-16T03:43:44Z"
     }
   ],
-  "generated_at": "2025-12-12T01:23:12.873909",
+  "generated_at": "2025-12-12T02:55:05.285295",
   "metadata": {
-    "total_cves": 16,
+    "total_cves": 17,
     "date_range": "2024-12-16",
     "source": "README.md",
     "script_version": "2.0"

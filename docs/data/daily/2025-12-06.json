@@ -1,0 +1,27 @@
+{
+  "date": "2025-12-06",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[vercel-labs/fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)",
+      "description": "One command to fix CVE-2025-66478 (React 2 Shell RCE) in your Next.js / React RSC app.",
+      "date": "2025-12-06",
+      "raw_date": "2025-12-06T02:41:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[l0n3m4n/CVE-2025-55182-Waf](https://github.com/l0n3m4n/CVE-2025-55182-Waf)",
+      "description": "CVE-2025-55182 RCE vulnerability in Next.js/React RSC servers (exploit and scanner)",
+      "date": "2025-12-06",
+      "raw_date": "2025-12-06T19:44:10Z"
+    }
+  ],
+  "generated_at": "2025-12-12T02:55:05.345327",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2025-12-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2023-12-13",
-  "count": 12,
+  "count": 13,
   "cves": [
     {
       "cve_id": "CVE-2023-6553",
@@ -29,6 +29,13 @@
       "description": "Unauthenticated Remote Code Execution with default Imagick",
       "date": "2023-12-13",
       "raw_date": "2023-12-13T17:59:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-32629",
+      "repo_info": "[xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC)",
+      "description": "CVE-2023-32629 &amp; CVE-2023-2640  Ubuntu Privilege Escalation POC",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T19:33:38Z"
     },
     {
       "cve_id": "CVE-2023-26035",
@@ -87,9 +94,9 @@
       "raw_date": "2023-12-13T20:43:33Z"
     }
   ],
-  "generated_at": "2025-12-12T01:23:12.795221",
+  "generated_at": "2025-12-12T02:55:05.220581",
   "metadata": {
-    "total_cves": 12,
+    "total_cves": 13,
     "date_range": "2023-12-13",
     "source": "README.md",
     "script_version": "2.0"

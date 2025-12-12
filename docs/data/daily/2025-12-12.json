@@ -1,0 +1,48 @@
+{
+  "date": "2025-12-12",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-55184",
+      "repo_info": "[ejpir/CVE-2025-55184](https://github.com/ejpir/CVE-2025-55184)",
+      "description": "no description",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T01:18:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-55184",
+      "repo_info": "[hans362/CVE-2025-55184-poc](https://github.com/hans362/CVE-2025-55184-poc)",
+      "description": "no description",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T01:14:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-55183",
+      "repo_info": "[kimtruth/CVE-2025-55183-poc](https://github.com/kimtruth/CVE-2025-55183-poc)",
+      "description": "PoC for CVE-2025-55183",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T02:00:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[IrsyadSEC/CVE-2025-55182-MassPayloadAttack](https://github.com/IrsyadSEC/CVE-2025-55182-MassPayloadAttack)",
+      "description": "CVE-2025-55182 payload",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T02:13:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-13780",
+      "repo_info": "[zeropwn/pgadmin4-9.10-CVE-2025-13780](https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780)",
+      "description": "Proof of concept for CVE-2025-13780",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T00:01:31Z"
+    }
+  ],
+  "generated_at": "2025-12-12T02:55:05.346161",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2025-12-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

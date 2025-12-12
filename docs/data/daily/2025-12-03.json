@@ -1,0 +1,27 @@
+{
+  "date": "2025-12-03",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[fatguru/CVE-2025-55182-scanner](https://github.com/fatguru/CVE-2025-55182-scanner)",
+      "description": "A non-intrusive surface scanner for CVE-2025-55182 (React Server Components RCE). Detects exposed RSC endpoints in React 19 and Next.js applications",
+      "date": "2025-12-03",
+      "raw_date": "2025-12-03T21:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Ashwesker/Blackash-CVE-2025-55182](https://github.com/Ashwesker/Blackash-CVE-2025-55182)",
+      "description": "CVE-2025-55182",
+      "date": "2025-12-03",
+      "raw_date": "2025-12-03T21:54:35Z"
+    }
+  ],
+  "generated_at": "2025-12-12T02:55:05.345045",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2025-12-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

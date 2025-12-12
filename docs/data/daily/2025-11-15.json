@@ -1,0 +1,20 @@
+{
+  "date": "2025-11-15",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa)",
+      "description": "Multi-language security scanner with 64 analyzers + AI Agent Security. NEW: React2Shell CVE-2025-55182 detection (CVSS 10.0). Scan Python, JS, Go, Rust, Docker, Terraform, MCP &amp; more. 11,500+ downloads. AGPL-3.0.",
+      "date": "2025-11-15",
+      "raw_date": "2025-11-15T15:55:22Z"
+    }
+  ],
+  "generated_at": "2025-12-12T02:55:05.344732",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2025-11-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2025-12-04",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[wangxso/CVE-2025-66478-POC](https://github.com/wangxso/CVE-2025-66478-POC)",
+      "description": "CVE-2025-66478 Proof of Concept",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T07:44:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Rsatan/Next.js-Exploit-Tool](https://github.com/Rsatan/Next.js-Exploit-Tool)",
+      "description": "Next.js-Exploit-Tool 图形化综合利用工具，基于 Go 开发，一款针对 CVE-2025-55182 的独立安全评估工具。",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T06:50:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[ps-interactive/cve-2025-55182](https://github.com/ps-interactive/cve-2025-55182)",
+      "description": "Vulnerable REACT app in docker container and poc code - for demos",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T18:30:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[aspen-labs/CVE-2025-55182-checker](https://github.com/aspen-labs/CVE-2025-55182-checker)",
+      "description": "React/Next.js React4Shell RCE CVE-2025-55182 checker",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T07:44:39Z"
+    }
+  ],
+  "generated_at": "2025-12-12T02:55:05.345134",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2025-12-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

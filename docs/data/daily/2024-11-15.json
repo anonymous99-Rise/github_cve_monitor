@@ -1,6 +1,6 @@
 {
   "date": "2024-11-15",
-  "count": 22,
+  "count": 23,
   "cves": [
     {
       "cve_id": "CVE-2024-9796",
@@ -29,6 +29,13 @@
       "description": "no description",
       "date": "2024-11-15",
       "raw_date": "2024-11-15T05:55:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-54756",
+      "repo_info": "[Chainmanner/GZDoom-Arbitrary-Code-Execution-via-ZScript-PoC](https://github.com/Chainmanner/GZDoom-Arbitrary-Code-Execution-via-ZScript-PoC)",
+      "description": "Proof of concept for CVE-2024-54756, a vulnerability I found in GZDoom&#x27;s ZScript scripting engine.",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T01:29:13Z"
     },
     {
       "cve_id": "CVE-2024-52301",
@@ -157,9 +164,9 @@
       "raw_date": "2024-11-15T21:00:24Z"
     }
   ],
-  "generated_at": "2025-12-12T01:23:12.867480",
+  "generated_at": "2025-12-12T02:55:05.279937",
   "metadata": {
-    "total_cves": 22,
+    "total_cves": 23,
     "date_range": "2024-11-15",
     "source": "README.md",
     "script_version": "2.0"

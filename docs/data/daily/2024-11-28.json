@@ -1,6 +1,6 @@
 {
   "date": "2024-11-28",
-  "count": 9,
+  "count": 10,
   "cves": [
     {
       "cve_id": "CVE-2024-55215",
@@ -8,6 +8,13 @@
       "description": "Jrohy/trojan 未授权修改管理员密码 CVE-2024-55215",
       "date": "2024-11-28",
       "raw_date": "2024-11-28T07:05:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[funnyDog896/CVE-2024-36401-WoodpeckerPlugin](https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin)",
+      "description": "CVE-2024-36401-GeoServer Property 表达式注入 Rce woodpecker-framework 插件",
+      "date": "2024-11-28",
+      "raw_date": "2024-11-28T10:06:51Z"
     },
     {
       "cve_id": "CVE-2024-23113",
@@ -66,9 +73,9 @@
       "raw_date": "2024-11-28T12:03:36Z"
     }
   ],
-  "generated_at": "2025-12-12T01:23:12.870570",
+  "generated_at": "2025-12-12T02:55:05.282506",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 10,
     "date_range": "2024-11-28",
     "source": "README.md",
     "script_version": "2.0"

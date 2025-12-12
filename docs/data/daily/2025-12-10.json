@@ -1,0 +1,223 @@
+{
+  "date": "2025-12-10",
+  "count": 30,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9074",
+      "repo_info": "[3rendil/CVE-2025-9074-POC](https://github.com/3rendil/CVE-2025-9074-POC)",
+      "description": "Proof-of-Concept exploit for CVE-2025-9074",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T18:06:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-67494",
+      "repo_info": "[Chocapikk/CVE-2025-67494](https://github.com/Chocapikk/CVE-2025-67494)",
+      "description": "no description",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T13:13:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-65964",
+      "repo_info": "[Ashwesker/Blackash-CVE-2025-65964](https://github.com/Ashwesker/Blackash-CVE-2025-65964)",
+      "description": "CVE-2025-65964",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T12:54:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-65742",
+      "repo_info": "[CBx216/CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA](https://github.com/CBx216/CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA)",
+      "description": "Advisory for CVE-2025-65742 — Newgen OmniDocs LDAP Admin BFLA",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T14:17:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-64113",
+      "repo_info": "[Ashwesker/Blackash-CVE-2025-64113](https://github.com/Ashwesker/Blackash-CVE-2025-64113)",
+      "description": "CVE-2025-64113",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T14:00:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-6389",
+      "repo_info": "[itsismarcos/SneeitScanner-CVE-2025-6389](https://github.com/itsismarcos/SneeitScanner-CVE-2025-6389)",
+      "description": "SneeitScanner - PoC &amp; Scanner para RCE não autenticada no Sneeit Framework (CVE-2025-6389)",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T18:16:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-61229",
+      "repo_info": "[graypixel2121/CVE-2025-61229](https://github.com/graypixel2121/CVE-2025-61229)",
+      "description": "no description",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T14:00:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-57462",
+      "repo_info": "[aljoharasubaie/CVE-2025-57462](https://github.com/aljoharasubaie/CVE-2025-57462)",
+      "description": "Unauthenticated Access to Uploaded Files",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T18:18:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-57460",
+      "repo_info": "[aljoharasubaie/CVE-2025-57460](https://github.com/aljoharasubaie/CVE-2025-57460)",
+      "description": "File upload vulnerability in machsol machpanel 8 allows attacker  gain a webshell.",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T18:10:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-57459",
+      "repo_info": "[aljoharasubaie/CVE-2025-57459](https://github.com/aljoharasubaie/CVE-2025-57459)",
+      "description": "An issue was discovered in machpanel 8 allowing attackers to execute arbitrary commands via the ticket text box.",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T18:14:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[theori-io/reactguard](https://github.com/theori-io/reactguard)",
+      "description": "ReactGuard provides framework- and vulnerability-detection tooling for CVE-2025-55182 (React2Shell)",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T04:49:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[oscarmine/R2SAE](https://github.com/oscarmine/R2SAE)",
+      "description": "Firefox extension to detect and exploit CVE-2025-55182 - Prototype Pollution RCE in Next.js React Server Actions",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T21:21:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[J4ck3LSyN-Gen2/CVE-2025-55182](https://github.com/J4ck3LSyN-Gen2/CVE-2025-55182)",
+      "description": "A simple toolkit to validate, exploit &amp; gain an interactive shell via the react2Shell Next.js RCE.",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T20:25:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[gonaumov/cve-2025-55182-checker](https://github.com/gonaumov/cve-2025-55182-checker)",
+      "description": "A portable Bash script to detect vulnerable versions of React Server DOM and Next.js packages affected by [CVE-2025-55182]",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T11:53:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[pkrasulia/CVE-2025-55182-NextJS-RCE-PoC](https://github.com/pkrasulia/CVE-2025-55182-NextJS-RCE-PoC)",
+      "description": "Working Proof of Concept (PoC) for CVE-2025-55182 (React2Shell) - Unauthenticated Remote Code Execution in Next.js 15.0.0 via React Server Components",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T20:28:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[yz9yt/React2Shell-CTF](https://github.com/yz9yt/React2Shell-CTF)",
+      "description": "A CTF challenge based on CVE-2025-55182 Vulnerability",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T19:21:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[rix4uni/CVE-2025-55182](https://github.com/rix4uni/CVE-2025-55182)",
+      "description": "A command-line tool for detecting CVE-2025-55182 and CVE-2025-66478 in Next.js applications using React Server Components.",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T11:45:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Gymnott1/CVE-2025-55182](https://github.com/Gymnott1/CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T20:04:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Saad-Ayady/react2shellNSE](https://github.com/Saad-Ayady/react2shellNSE)",
+      "description": "nmap script to scan react2shell (CVE-2025-55182 and CVE-2025-66478) Vulnerability",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T18:38:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[VeilVulp/RscScan](https://github.com/VeilVulp/RscScan)",
+      "description": "RscScan: Professional cross-platform vulnerability scanner for Next.js Server Actions (CVE-2025-55182). Detects critical RCE flaws with multi-threaded scanning, real-time analytics, and multi-language support. Built with Electron &amp; React.",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T18:47:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[CerberusMrX/Cerberus-React2Shell-Scanner-Exploit](https://github.com/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit)",
+      "description": "Elite exploitation toolkit for CVE-2025-55182 (React Server Components RCE). Async polymorphic payloads, advanced WAF/CDN bypass, proxy rotation, Shodan/Censys mass scan, auto-pwn + reverse shells, Nuclei templates, K8s lab &amp; C2 dashboard. Authored by Sudeepa Wanigarathna – strictly for authorized red team and penetration testing.",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T18:09:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[JahazielLem/NSE_CVE-2025-55182](https://github.com/JahazielLem/NSE_CVE-2025-55182)",
+      "description": "Nmap NSE script for scanning React2Shell (CVE-2025-55182)",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T16:02:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[CrazyloveforWeb/Golang-CVE-2025-55182-POC](https://github.com/CrazyloveforWeb/Golang-CVE-2025-55182-POC)",
+      "description": "no description",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T15:07:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[sponte/nextjs-cve-version-confusion](https://github.com/sponte/nextjs-cve-version-confusion)",
+      "description": "Reproduction for Next.js CVE-2025-55182 version string confusion issue",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T14:59:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[DanielXavierJob/-CVE-2025-55182](https://github.com/DanielXavierJob/-CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T14:02:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Legus-Yeung/CVE-2025-55182-exploit](https://github.com/Legus-Yeung/CVE-2025-55182-exploit)",
+      "description": "no description",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T13:53:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[BeichenDream/CVE-2025-55182-GodzillaMemoryShell](https://github.com/BeichenDream/CVE-2025-55182-GodzillaMemoryShell)",
+      "description": "no description",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T12:28:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-53772",
+      "repo_info": "[sailay1996/CVE-2025-53772](https://github.com/sailay1996/CVE-2025-53772)",
+      "description": "poc for cve-2025-53772",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T07:02:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-33073",
+      "repo_info": "[Iddygodwin/CVE-2025-33073](https://github.com/Iddygodwin/CVE-2025-33073)",
+      "description": "🔧 Exploit CVE-2025-33073 with this universal tool for Windows Domain Controllers, enabling SYSTEM-level code execution through automated techniques.",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T03:46:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[b0ySie7e/CVE-2025-3248-POC](https://github.com/b0ySie7e/CVE-2025-3248-POC)",
+      "description": "no description",
+      "date": "2025-12-10",
+      "raw_date": "2025-12-10T04:49:53Z"
+    }
+  ],
+  "generated_at": "2025-12-12T02:55:05.345587",
+  "metadata": {
+    "total_cves": 30,
+    "date_range": "2025-12-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

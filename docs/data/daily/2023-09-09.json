@@ -1,7 +1,14 @@
 {
   "date": "2023-09-09",
-  "count": 5,
+  "count": 6,
   "cves": [
+    {
+      "cve_id": "CVE-2023-43955",
+      "repo_info": "[actuator/com.phlox.tvwebbrowser](https://github.com/actuator/com.phlox.tvwebbrowser)",
+      "description": "CVE-2023-43955",
+      "date": "2023-09-09",
+      "raw_date": "2023-09-09T19:41:46Z"
+    },
     {
       "cve_id": "CVE-2023-43154",
       "repo_info": "[ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC)",
@@ -38,9 +45,9 @@
       "raw_date": "2023-09-09T04:03:06Z"
     }
   ],
-  "generated_at": "2025-12-12T01:23:12.776648",
+  "generated_at": "2025-12-12T02:55:05.203766",
   "metadata": {
-    "total_cves": 5,
+    "total_cves": 6,
     "date_range": "2023-09-09",
     "source": "README.md",
     "script_version": "2.0"

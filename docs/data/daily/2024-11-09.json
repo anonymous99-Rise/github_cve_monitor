@@ -1,6 +1,6 @@
 {
   "date": "2024-11-09",
-  "count": 12,
+  "count": 13,
   "cves": [
     {
       "cve_id": "CVE-2024-51135",
@@ -29,6 +29,13 @@
       "description": "WP Sessions Time Monitoring Full Automatic &lt;= 1.0.9 - Unauthenticated SQL Injection",
       "date": "2024-11-09",
       "raw_date": "2024-11-09T15:24:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-49607",
+      "repo_info": "[RandomRobbieBF/CVE-2024-49607](https://github.com/RandomRobbieBF/CVE-2024-49607)",
+      "description": "WP Dropbox Dropins &lt;= 1.0 - Unauthenticated Arbitrary File Upload",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T15:46:58Z"
     },
     {
       "cve_id": "CVE-2024-48322",
@@ -87,9 +94,9 @@
       "raw_date": "2024-11-09T17:19:17Z"
     }
   ],
-  "generated_at": "2025-12-12T01:23:12.866148",
+  "generated_at": "2025-12-12T02:55:05.278872",
   "metadata": {
-    "total_cves": 12,
+    "total_cves": 13,
     "date_range": "2024-11-09",
     "source": "README.md",
     "script_version": "2.0"

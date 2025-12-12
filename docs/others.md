@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2025-11-03 15:30:53
+- **生成时间**: 2025-12-12 02:54:38
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -301,9 +301,10 @@
 | 🚫 未识别 | [Andromeda254/cve](https://github.com/Andromeda254/cve) | list of cve from 2001 to 2024 | 2025-09-26T00:13:16Z|
 | 🚫 未识别 | [Katirinata/CMD-Exploit-CVE-2024-RCE-AboRady-FUD-25765-Injection](https://github.com/Katirinata/CMD-Exploit-CVE-2024-RCE-AboRady-FUD-25765-Injection) | Exploit development uses tools like exploitation frameworks and CVE databases. Cmd exploits, such as cmd fud or cmd exploit, enable silent execution while avoiding detection through proper setups. | 2025-10-21T19:42:27Z|
 | 🚫 未识别 | [jiangjialiang1019/cveDataMappingYear_2020](https://github.com/jiangjialiang1019/cveDataMappingYear_2020) | no description | 2025-10-31T07:27:07Z|
+| 🚫 未识别 | [munishwalia/CVE-2025-EXPLOIT-STREET](https://github.com/munishwalia/CVE-2025-EXPLOIT-STREET) | no description | 2025-12-11T01:43:30Z|
 
 
 ---
 
-**报告生成时间**: 2025-11-03 15:42:31  
-**总记录数**: 290
+**报告生成时间**: 2025-12-12 02:55:04  
+**总记录数**: 291

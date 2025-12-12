@@ -1,0 +1,251 @@
+{
+  "date": "2025-12-11",
+  "count": 34,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8110",
+      "repo_info": "[Ashwesker/Blackash-CVE-2025-8110](https://github.com/Ashwesker/Blackash-CVE-2025-8110)",
+      "description": "CVE-2025-8110",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T19:10:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-8110",
+      "repo_info": "[rxerium/CVE-2025-8110](https://github.com/rxerium/CVE-2025-8110)",
+      "description": "Detection template for CVE-2025-8110",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T10:37:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-66628",
+      "repo_info": "[Sumitshah00/CVE-2025-66628](https://github.com/Sumitshah00/CVE-2025-66628)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T05:45:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[Code42Cate/nexts-cve-2025-66478-exploit](https://github.com/Code42Cate/nexts-cve-2025-66478-exploit)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T16:57:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[changgun-lee/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/changgun-lee/Next.js-RSC-RCE-Scanner-CVE-2025-66478)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T01:49:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-66470",
+      "repo_info": "[Jmehta10/CVE-2025-66470](https://github.com/Jmehta10/CVE-2025-66470)",
+      "description": "A fast, simple scanner for detecting CVE-2025-66470 - XSS vulnerability in NiceGUI&#x27;s ui.interactive_image component.",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T14:33:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-64516",
+      "repo_info": "[lem0naids/CVE-2025-64516-POC](https://github.com/lem0naids/CVE-2025-64516-POC)",
+      "description": "POC SQLi CVE-2025-64516",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T09:19:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-64459",
+      "repo_info": "[ALPYAHYA/CVE-2025-64459-Exploit-PoC](https://github.com/ALPYAHYA/CVE-2025-64459-Exploit-PoC)",
+      "description": "CVE-2025-64459-Exploit-PoC",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T11:55:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-64459",
+      "repo_info": "[ALPYAHYA/CVE-2025-64459-Exploit-Fix](https://github.com/ALPYAHYA/CVE-2025-64459-Exploit-Fix)",
+      "description": "CVE-2025-64459-Exploit-Fix",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T11:47:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-6019",
+      "repo_info": "[robbin0919/CVE-2025-6019](https://github.com/robbin0919/CVE-2025-6019)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T14:04:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-60013",
+      "repo_info": "[Mwete404/Scalar-Venom-Attack](https://github.com/Mwete404/Scalar-Venom-Attack)",
+      "description": "🛡️ Exploit the Scalar Venom Attack (CVE-2025-60013) to expose vulnerabilities in hardware security modules, enhancing Bitcoin wallet security against private key theft.",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T01:05:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-59718",
+      "repo_info": "[Ashwesker/Blackash-CVE-2025-59718](https://github.com/Ashwesker/Blackash-CVE-2025-59718)",
+      "description": "CVE-2025-59718",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T09:55:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-55816",
+      "repo_info": "[partywavesec/CVE-2025-55816](https://github.com/partywavesec/CVE-2025-55816)",
+      "description": "CVE-2025-55816 HotelDruid 3.0.7",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T14:55:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-55183",
+      "repo_info": "[Saturate/CVE-2025-55183](https://github.com/Saturate/CVE-2025-55183)",
+      "description": "A CVE-2025-55183 secret miner",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T22:58:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[VolksRat71/react2shellexploitvisualized](https://github.com/VolksRat71/react2shellexploitvisualized)",
+      "description": "Interactive visualization explaining React Server Components, Flight Protocol, and the React2Shell (CVE-2025-55182) RCE vulnerability. Features narrated animations synced with ElevenLabs + Whisper.",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T16:23:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[j0lt-github/react2shell-burp](https://github.com/j0lt-github/react2shell-burp)",
+      "description": "Burp Suite extension for identifying the React Server Components unsafe deserialization vulnerability (React2Shell / CVE-2025-55182). It provides a focused UI tab, context-menu actions, active-scanner integration, and optional Burp Collaborator confirmation.",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T22:05:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[4nuxd/React2Shell](https://github.com/4nuxd/React2Shell)",
+      "description": "R2S is a comprehensive exploitation and post-exploitation framework targeting the Next.js React Server Components vulnerability (CVE-2025-55182). It provides an interactive shell with advanced features for penetration testing, including file transfer, persistence, enumeration, privilege escalation checks, and more.",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T22:01:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Nkwenti-Severian-Ndongtsop/POC_react2shell_CVE-2025-55182](https://github.com/Nkwenti-Severian-Ndongtsop/POC_react2shell_CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T20:01:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[andrei2308/react2shell](https://github.com/andrei2308/react2shell)",
+      "description": "CVE-2025-55182",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T19:26:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[anuththara2007-W/CVE-2025-55182-Exploit-extension](https://github.com/anuththara2007-W/CVE-2025-55182-Exploit-extension)",
+      "description": "A Chrome extension for detecting React2Shell vulnerabilities (CVE-2025-55182 &amp; CVE-2025-66478) in web applications",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T16:31:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[trilogy-group/react2shell-scan](https://github.com/trilogy-group/react2shell-scan)",
+      "description": "React2Shell (CVE-2025-55182) scanner",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T14:57:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Tiger-Foxx/exploit-react-CVE-2025-55182](https://github.com/Tiger-Foxx/exploit-react-CVE-2025-55182)",
+      "description": "This tool is a Proof of Concept (PoC) intended for security research and educational purposes only. Using this tool on systems without explicit permission is illegal and punishable by law. The author (Tiger-Foxx) assumes no responsibility for misuse.",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T08:46:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[LC-pro/CVE-2025-55182-EXP](https://github.com/LC-pro/CVE-2025-55182-EXP)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T07:01:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[xalgord1/CVE-2025-55182-POC](https://github.com/xalgord1/CVE-2025-55182-POC)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T06:41:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[mrmtwoj/React2Shell-CVE-2025-55182](https://github.com/mrmtwoj/React2Shell-CVE-2025-55182)",
+      "description": "Educational / research tool related to React / Next.js vulnerability CVE‑2025‑55182 (“React2Shell”).",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T05:08:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Machine-farmer/PunchingBag-for-React2Shell](https://github.com/Machine-farmer/PunchingBag-for-React2Shell)",
+      "description": "Intentionally vulnerable Next.js app for CVE-2025-55182 security research and CTF challenges",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T04:30:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC](https://github.com/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T04:33:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[min8282/CVE-2025-55182](https://github.com/min8282/CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T01:08:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-53558",
+      "repo_info": "[houqe/POC_CVE-2025-53558](https://github.com/houqe/POC_CVE-2025-53558)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T08:26:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-34299",
+      "repo_info": "[KrE80r/CVE-2025-34299-lab](https://github.com/KrE80r/CVE-2025-34299-lab)",
+      "description": "Docker test environment for CVE-2025-34299 - Monsta FTP Pre-Auth RCE vulnerability",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T03:42:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-23061",
+      "repo_info": "[dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061)",
+      "description": "CVE-2025-23061 - Mongoose Command Injection",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T07:50:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-13401",
+      "repo_info": "[ciscocamelo/CVE-2025-13401-XSS-Stored](https://github.com/ciscocamelo/CVE-2025-13401-XSS-Stored)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T15:17:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-12758",
+      "repo_info": "[dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T03:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-12097",
+      "repo_info": "[matejsmycka/PoC-CVE-2025-12097](https://github.com/matejsmycka/PoC-CVE-2025-12097)",
+      "description": "no description",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T18:17:29Z"
+    }
+  ],
+  "generated_at": "2025-12-12T02:55:05.345846",
+  "metadata": {
+    "total_cves": 34,
+    "date_range": "2025-12-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

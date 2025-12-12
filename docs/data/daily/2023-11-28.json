@@ -1,6 +1,6 @@
 {
   "date": "2023-11-28",
-  "count": 17,
+  "count": 18,
   "cves": [
     {
       "cve_id": "CVE-2023-6289",
@@ -66,6 +66,13 @@
       "raw_date": "2023-11-28T00:38:43Z"
     },
     {
+      "cve_id": "CVE-2023-41991",
+      "repo_info": "[itsgiddd/CVE-2023-41991](https://github.com/itsgiddd/CVE-2023-41991)",
+      "description": "no description",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T23:59:40Z"
+    },
+    {
       "cve_id": "CVE-2023-36025",
       "repo_info": "[J466Y/test_CVE-2023-36025](https://github.com/J466Y/test_CVE-2023-36025)",
       "description": "test repo for CVE-2023-36025",
@@ -122,9 +129,9 @@
       "raw_date": "2023-11-28T10:52:33Z"
     }
   ],
-  "generated_at": "2025-12-12T01:23:12.792564",
+  "generated_at": "2025-12-12T02:55:05.218111",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 18,
     "date_range": "2023-11-28",
     "source": "README.md",
     "script_version": "2.0"
