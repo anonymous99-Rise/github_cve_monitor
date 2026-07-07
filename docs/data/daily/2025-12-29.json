@@ -1,0 +1,146 @@
+{
+  "date": "2025-12-29",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9961",
+      "repo_info": "[yt2w/CVE-2025-9961](https://github.com/yt2w/CVE-2025-9961)",
+      "description": "no description",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T16:26:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[Rishi-kaul/n8n-CVE-2025-68613](https://github.com/Rishi-kaul/n8n-CVE-2025-68613)",
+      "description": "no description",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T16:02:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[cv-sai-kamesh/n8n-CVE-2025-68613](https://github.com/cv-sai-kamesh/n8n-CVE-2025-68613)",
+      "description": "no description",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T09:52:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-66723",
+      "repo_info": "[audiopump/cve-2025-66723](https://github.com/audiopump/cve-2025-66723)",
+      "description": "CVE-2025-66723: inMusic Brands Engine DJ &gt;=3.0.0 through &lt;4.3.4 exposes local and network files to external parties",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T01:21:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-60458",
+      "repo_info": "[0pepsi/CVE-2025-60458](https://github.com/0pepsi/CVE-2025-60458)",
+      "description": "UxPlay version 1.72 contains a double free vulnerability in its RTSP request handling logic.",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T05:59:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[amirali-ramezani/react2shell-CVE-2025-55182-](https://github.com/amirali-ramezani/react2shell-CVE-2025-55182-)",
+      "description": "no description",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T08:34:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-54100",
+      "repo_info": "[xiaoLvChen/CVE-2025-54100](https://github.com/xiaoLvChen/CVE-2025-54100)",
+      "description": "CVE-2025-54100（PowerShell 远程代码执行漏洞）",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T07:03:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[aexdyhaxor/CVE-2025-32463](https://github.com/aexdyhaxor/CVE-2025-32463)",
+      "description": "no description",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T10:48:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433](https://github.com/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433)",
+      "description": "no description",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T10:48:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-22777",
+      "repo_info": "[SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-](https://github.com/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-)",
+      "description": "Work in progress, things might not work yet, dont cry about it",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T17:58:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-15495",
+      "repo_info": "[Asim-QAZi/RCE-Simplephpblog-biggiedroid](https://github.com/Asim-QAZi/RCE-Simplephpblog-biggiedroid)",
+      "description": "CVE-2025-15495 - Arbitrary File Upload Leading to Remote Code Execution (RCE)",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T18:28:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847](https://github.com/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847)",
+      "description": "Exploit lab, docker and code scanner for mongobleed Vulnerability CVE-2025-14847 plus Phoenix Security Sync tools",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T09:00:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[kuyrathdaro/cve-2025-14847](https://github.com/kuyrathdaro/cve-2025-14847)",
+      "description": "MongoBleed: CVE-2025-14847 Memory Leak Discovery Tool",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T13:57:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[lincemorado97/CVE-2025-14847](https://github.com/lincemorado97/CVE-2025-14847)",
+      "description": "CVE-2025-14847 – MongoDB Unauthenticated Memory‑Leak Exploit",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T03:20:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[tunahantekeoglu/MongoDeepDive](https://github.com/tunahantekeoglu/MongoDeepDive)",
+      "description": "Context-Aware Memory Leak Scanner &amp; Exploit for CVE-2025-14847.",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T21:53:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[joshuavanderpoll/CVE-2025-14847](https://github.com/joshuavanderpoll/CVE-2025-14847)",
+      "description": "CVE-2025-14847 (MongoBleed)",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T21:34:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026](https://github.com/14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026)",
+      "description": "Detect exposed MongoDB instances and CVE-2025-14847 &quot;MongoBleed&quot; risks — Zero-Trust Python scanner",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T10:36:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[chinaxploiter/CVE-2025-14847-PoC](https://github.com/chinaxploiter/CVE-2025-14847-PoC)",
+      "description": "Academic proof-of-concept demonstrating CVE-2025-14847 for authorized security research.",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T09:04:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-14611",
+      "repo_info": "[pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit](https://github.com/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit)",
+      "description": "CVE-2025-14611 CentreStack and Triofox full Poc/Exploit",
+      "date": "2025-12-29",
+      "raw_date": "2025-12-29T11:21:07Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.348014",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2025-12-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

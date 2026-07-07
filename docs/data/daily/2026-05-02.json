@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-02",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-41200",
+      "repo_info": "[Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss](https://github.com/Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss)",
+      "description": "no description",
+      "date": "2026-05-02",
+      "raw_date": "2026-05-02T05:49:01Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.351253",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-05-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

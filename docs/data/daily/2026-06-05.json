@@ -1,0 +1,20 @@
+{
+  "date": "2026-06-05",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-20230",
+      "repo_info": "[HORKimhab/CVE-2026-20230](https://github.com/HORKimhab/CVE-2026-20230)",
+      "description": "CVE-2026-20230 - Cisco Unified CM",
+      "date": "2026-06-05",
+      "raw_date": "2026-06-05T01:17:53Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.353295",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-06-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

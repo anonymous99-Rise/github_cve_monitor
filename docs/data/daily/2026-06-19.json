@@ -1,0 +1,118 @@
+{
+  "date": "2026-06-19",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-7515",
+      "repo_info": "[izxci/CVE_2026_7515](https://github.com/izxci/CVE_2026_7515)",
+      "description": "CVE-2026-7515: BetterDocs Pro &lt;= 3.8.0 - Unauthenticated Local File Inclusion TO RCE EXPLOİT",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T08:10:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-54761",
+      "repo_info": "[Saku0512/CVE-2026-54761-poc](https://github.com/Saku0512/CVE-2026-54761-poc)",
+      "description": "no description",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T13:29:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-48611",
+      "repo_info": "[Diznev/CVE-2026-48611-EXPLOIT](https://github.com/Diznev/CVE-2026-48611-EXPLOIT)",
+      "description": "CVE-2026-48611- authentication bypass in phpBB",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T10:28:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-4782",
+      "repo_info": "[xxconi/CVE-2026-4782](https://github.com/xxconi/CVE-2026-4782)",
+      "description": "no description",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T03:20:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-43515",
+      "repo_info": "[covepseng/cve-2026-43515-poc](https://github.com/covepseng/cve-2026-43515-poc)",
+      "description": "Exploitability PoC for CVE-2026-43515 (Apache Tomcat constraint bypass).",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T11:08:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-42530",
+      "repo_info": "[v4ltonn/CVE-2026-42530](https://github.com/v4ltonn/CVE-2026-42530)",
+      "description": "Scanner PoC for CVE-2026-42530 -- nginx 1.31.0-1.31.1 HTTP/3 QPACK encoder stream Use-After-Free (CVSS 9.2)",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T19:23:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-42530",
+      "repo_info": "[0xBlackash/CVE-2026-42530](https://github.com/0xBlackash/CVE-2026-42530)",
+      "description": "CVE-2026-42530",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T20:28:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-42530",
+      "repo_info": "[HORKimhab/CVE-2026-42530](https://github.com/HORKimhab/CVE-2026-42530)",
+      "description": "CVE-2026-42530 - Draft",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T01:04:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-42055",
+      "repo_info": "[HORKimhab/CVE-2026-42055](https://github.com/HORKimhab/CVE-2026-42055)",
+      "description": "CVE-2026-42055 - Draft",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T01:05:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-39259",
+      "repo_info": "[yousif-IQ/CVE-2026-39259](https://github.com/yousif-IQ/CVE-2026-39259)",
+      "description": "CVE-2026-39259",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T13:15:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-25212",
+      "repo_info": "[5170Temp/CVE-2026-25212](https://github.com/5170Temp/CVE-2026-25212)",
+      "description": "POC for CVE-2026-25212",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T20:50:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-11784",
+      "repo_info": "[AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF](https://github.com/AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF)",
+      "description": "no description",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T13:49:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-11551",
+      "repo_info": "[xxconi/2026-11551](https://github.com/xxconi/2026-11551)",
+      "description": "CVE-2026-11551: Branda Plugin - Unauthenticated Privilege Escalation via Account Takeover",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T21:43:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-11551",
+      "repo_info": "[Polosss/By-Poloss..-..CVE-2026-11551-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-11551-PoC)",
+      "description": "Unauthenticated Privilege Escalation via Account Takeover",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T17:29:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-10523",
+      "repo_info": "[gagaltotal/CVE-2026-10523-Ivanti-sentry](https://github.com/gagaltotal/CVE-2026-10523-Ivanti-sentry)",
+      "description": "CVE-2026-10520 - CVE-2026-10523 - Ivanti Sentry",
+      "date": "2026-06-19",
+      "raw_date": "2026-06-19T10:28:47Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.355249",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2026-06-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2024-11-23",
-  "count": 15,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2024-40711",
@@ -31,6 +31,13 @@
       "raw_date": "2024-11-23T04:06:33Z"
     },
     {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[BohemianHacks/CVE-2024-32002-poc](https://github.com/BohemianHacks/CVE-2024-32002-poc)",
+      "description": "CVE-2024-32002 是 Git 中的一个严重漏洞，允许攻击者在用户执行 git clone 操作时远程执行任意代码（RCE）。",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T08:11:56Z"
+    },
+    {
       "cve_id": "CVE-2024-23692",
       "repo_info": "[XiaomingX/CVE-2024-23692-poc](https://github.com/XiaomingX/CVE-2024-23692-poc)",
       "description": "CVE-2024-23692 是影响 Rejetto HTTP File Server（HFS）2.3m 及之前版本的模板注入漏洞。该漏洞允许远程未授权的攻击者通过发送特制的 HTTP 请求，在受影响的系统上执行任意命令。",
@@ -43,6 +50,13 @@
       "description": "no description",
       "date": "2024-11-23",
       "raw_date": "2024-11-23T05:54:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-21534",
+      "repo_info": "[BohemianHacks/CVE-2024-21534-poc](https://github.com/BohemianHacks/CVE-2024-21534-poc)",
+      "description": "no description",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T08:07:38Z"
     },
     {
       "cve_id": "CVE-2024-11201",
@@ -108,9 +122,9 @@
       "raw_date": "2024-11-23T05:39:26Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.378635",
+  "generated_at": "2026-07-07T04:58:53.262896",
   "metadata": {
-    "total_cves": 15,
+    "total_cves": 17,
     "date_range": "2024-11-23",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,0 +1,27 @@
+{
+  "date": "2025-11-17",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-67070",
+      "repo_info": "[teteco/CVE-2025-67070-Intelbras-CFTV-MFA-Bypass](https://github.com/teteco/CVE-2025-67070-Intelbras-CFTV-MFA-Bypass)",
+      "description": "A critical vulnerability in the Intelbras NVD 9032 R Ftd IP CFTV device allows an attacker to bypass the multi-factor authentication during password recovery. This results in the ability to change the admin password and gain full access to the administrative panel.",
+      "date": "2025-11-17",
+      "raw_date": "2025-11-17T19:38:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-54574",
+      "repo_info": "[starrynightsecurity/CVE-2025-54574-Squid-Heap-Buffer-Overflow](https://github.com/starrynightsecurity/CVE-2025-54574-Squid-Heap-Buffer-Overflow)",
+      "description": "Vulnerability Found on Squid Proxy.",
+      "date": "2025-11-17",
+      "raw_date": "2025-11-17T12:20:13Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.341534",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2025-11-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

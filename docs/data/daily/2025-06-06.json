@@ -1,7 +1,14 @@
 {
   "date": "2025-06-06",
-  "count": 17,
+  "count": 18,
   "cves": [
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Mayca369/CVE-2025-55182](https://github.com/Mayca369/CVE-2025-55182)",
+      "description": "🚨 Exploit CVE-2025-55182 to demonstrate RCE in React Server Functions, highlighting risks from insecure prototype references in Next.js applications.",
+      "date": "2025-06-06",
+      "raw_date": "2025-06-06T16:34:46Z"
+    },
     {
       "cve_id": "CVE-2025-5054",
       "repo_info": "[daryllundy/cve-2025-5054](https://github.com/daryllundy/cve-2025-5054)",
@@ -122,9 +129,9 @@
       "raw_date": "2025-06-06T02:23:17Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.423849",
+  "generated_at": "2026-07-07T04:58:53.305495",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 18,
     "date_range": "2025-06-06",
     "source": "README.md",
     "script_version": "2.0"

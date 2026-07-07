@@ -1,0 +1,118 @@
+{
+  "date": "2026-06-27",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8461",
+      "repo_info": "[ray-goldman/ffmpeg-jellyfix](https://github.com/ray-goldman/ffmpeg-jellyfix)",
+      "description": "patched ffmpeg-tools for jellyfin to patch CVE-2026-8461 aka PixelSmash",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T16:09:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-5366",
+      "repo_info": "[renat0z3r0/prefect-cve-2026-5366](https://github.com/renat0z3r0/prefect-cve-2026-5366)",
+      "description": "PoC for CVE-2026-5366: git argument injection in Prefect&#x27;s GitRepository leading to RCE on the worker.",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T13:41:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[grayxploit/CVE-2026-48907](https://github.com/grayxploit/CVE-2026-48907)",
+      "description": "CVE-2026-48907 is a CVSS 10.0 pre-auth RCE in Joomla Content Editor affecting all versions ≤ 2.9.99.4. The Grayxploit team breaks down the 3-weakness chain — missing auth, no extension validation, and an unsafe upload flag — that lets attackers pop a shell in 3 HTTP requests.",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T09:28:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[gh1mau/masta-cve-2026-48907](https://github.com/gh1mau/masta-cve-2026-48907)",
+      "description": "cve-2026-48907 scanner",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T04:48:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-48020",
+      "repo_info": "[Hunt-Benito/traefik-stripprefix-auth-bypass-cve-2026-48020-path-normalization](https://github.com/Hunt-Benito/traefik-stripprefix-auth-bypass-cve-2026-48020-path-normalization)",
+      "description": "no description",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T08:17:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[HORKimhab/CVE-2026-46331](https://github.com/HORKimhab/CVE-2026-46331)",
+      "description": "CVE-2026-46331 - Draft",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T03:54:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-43503",
+      "repo_info": "[douglasmun/pagecache-lpe-containment-kit](https://github.com/douglasmun/pagecache-lpe-containment-kit)",
+      "description": "Educational, defensive kit for two Linux page-cache-corruption LPEs (DirtyClone CVE-2026-43503, pedit COW CVE-2026-46331): hardening, detection, verification, seccomp + validation harness. Detection and prevention only — no exploit code. TLP:CLEAR.",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T14:23:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[MobiusM/CVE-2026-43499](https://github.com/MobiusM/CVE-2026-43499)",
+      "description": "CVE-2026-43499 PoC",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T04:09:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-38751",
+      "repo_info": "[b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751](https://github.com/b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751)",
+      "description": "OpenSTAManager-RCE-Exploit-CVE-2026-38751",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T23:33:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-36834",
+      "repo_info": "[kpatsakis/CVE-2026-36834](https://github.com/kpatsakis/CVE-2026-36834)",
+      "description": "Out-of-bounds array read in LibRaw",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T06:52:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[SugiB3o/CVE-2026-31431](https://github.com/SugiB3o/CVE-2026-31431)",
+      "description": "no description",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T15:41:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[kyukazamiqq/CVE-2026-24061](https://github.com/kyukazamiqq/CVE-2026-24061)",
+      "description": "no description",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T23:44:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-12432",
+      "repo_info": "[Polosss/By-Poloss..-..CVE-2026-12432-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-12432-PoC)",
+      "description": "WP Full Stripe Free &lt;= 8.4.3 - Missing Authorization",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T09:11:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-0073",
+      "repo_info": "[ctnBobong32/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN](https://github.com/ctnBobong32/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN)",
+      "description": "CVE-2026-0073-Android-ADBD-bypass-POC汉化版",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T12:49:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-32432",
+      "repo_info": "[Cosm3No1de/htb-orion-writeup](https://github.com/Cosm3No1de/htb-orion-writeup)",
+      "description": "Hack The Box - Orion (Easy) - CVE-2025-32432 &amp; CVE-2026-24061",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T09:23:23Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.356555",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2026-06-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

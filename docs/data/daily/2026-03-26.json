@@ -1,0 +1,20 @@
+{
+  "date": "2026-03-26",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-24291",
+      "repo_info": "[tracyliving606/RegPwn](https://github.com/tracyliving606/RegPwn)",
+      "description": "Exploit Windows local privilege escalation on clients and servers using tested code for CVE-2026-24291 across multiple Windows versions",
+      "date": "2026-03-26",
+      "raw_date": "2026-03-26T04:38:27Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.350184",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-03-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

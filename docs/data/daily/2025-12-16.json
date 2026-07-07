@@ -1,0 +1,146 @@
+{
+  "date": "2025-12-16",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9809",
+      "repo_info": "[alexan011/Redemption_Assignment_CVE_2025_9809](https://github.com/alexan011/Redemption_Assignment_CVE_2025_9809)",
+      "description": "no description",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T01:44:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-68116",
+      "repo_info": "[x0root/CVE-2025-68116](https://github.com/x0root/CVE-2025-68116)",
+      "description": "A Documentation of CVE-2025-68116",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T01:38:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-67780",
+      "repo_info": "[SteveAkawLabs/MARMALADE-2-CVE-2025-67780-Exploit](https://github.com/SteveAkawLabs/MARMALADE-2-CVE-2025-67780-Exploit)",
+      "description": "Exploit PoCs for MARMALDE 2 (CVE-2025-67780) vulnerability in Starlink Dishes",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T10:21:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-66039",
+      "repo_info": "[cyberleelawat/FreePBX-Multiple-CVEs-2025](https://github.com/cyberleelawat/FreePBX-Multiple-CVEs-2025)",
+      "description": "This repository documents three security vulnerabilities discovered in FreePBX (CVE-2025-66039, CVE-2025-61678, CVE-2025-61675), including analysis, impact, and proof-of-concept details for security research and awareness purposes.",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T06:03:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-65518",
+      "repo_info": "[Jainil-89/CVE-2025-65518](https://github.com/Jainil-89/CVE-2025-65518)",
+      "description": "Denial of Service Vulnerability in Plesk Obsidian via `get_password.php`",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T12:40:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-65427",
+      "repo_info": "[kirubel-cve/CVE-2025-65427](https://github.com/kirubel-cve/CVE-2025-65427)",
+      "description": "CVE-2025-65427: Missing rate limiting in Dbit N300 T1 Pro router login API allows brute-force attacks",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T04:29:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-65270",
+      "repo_info": "[xh4vm/CVE-2025-65270](https://github.com/xh4vm/CVE-2025-65270)",
+      "description": "Reflected XSS in ClinCapture EDC",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T04:22:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[itumo-arigatone/study-CVE-2025-55182](https://github.com/itumo-arigatone/study-CVE-2025-55182)",
+      "description": "試してみるよん",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T04:58:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[M4rgs/CVE-2025-55182-React2Shell-Exploit](https://github.com/M4rgs/CVE-2025-55182-React2Shell-Exploit)",
+      "description": "A proof-of-concept tool for demonstrating the critical React2Shell vulnerability",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T17:32:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[scumfrog/FiberBreak](https://github.com/scumfrog/FiberBreak)",
+      "description": "React2Shell Exploitation Tool (CVE-2025-55182)",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T09:25:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-](https://github.com/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-)",
+      "description": "Quyida to‘liq LAB rejasi: demo-vulnerable app → Python PoC → Metasploit exploit skeleton",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T20:25:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478](https://github.com/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478)",
+      "description": "An advanced vulnerability scanner for detecting **CVE-2025-55182** and **CVE-2025-66478** - critical Remote Code Execution (RCE) vulnerabilities in Next.js applications using React Server Components (RSC).",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T16:13:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[S-Mughal/NextJS-app-CVE-2025-55182](https://github.com/S-Mughal/NextJS-app-CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T01:03:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[d0cnull/nextjs-CVE-2025-55182](https://github.com/d0cnull/nextjs-CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T10:47:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[EQSTLab/CVE-2025-55182](https://github.com/EQSTLab/CVE-2025-55182)",
+      "description": "React2Shell",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T07:35:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-54352",
+      "repo_info": "[mufasa-noir/XML-RPC-Pingback-Vulnerability](https://github.com/mufasa-noir/XML-RPC-Pingback-Vulnerability)",
+      "description": "This is my own written POC on the xmlrpc-pingback vulnerabiity found on wordpress. CVE-2025-54352. This vulnerability affects wordpress 3.5 all through 6.8.2",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T06:39:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-25257",
+      "repo_info": "[lytianahkone-boop/cve-2025-25257](https://github.com/lytianahkone-boop/cve-2025-25257)",
+      "description": "no description",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T10:23:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-24071",
+      "repo_info": "[Abdelrahman0Sayed/CVE-2025-24071](https://github.com/Abdelrahman0Sayed/CVE-2025-24071)",
+      "description": "This is a python PoC scripts for CVE-2025-24071 which is a vulnerability in Windows File Explorer that allows unauthorized access to sensitive information like NTLM Exposure.",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T00:20:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-23339",
+      "repo_info": "[SpiralBL0CK/ce-for-CVE-2025-23339](https://github.com/SpiralBL0CK/ce-for-CVE-2025-23339)",
+      "description": "ce for CVE-2025-23339",
+      "date": "2025-12-16",
+      "raw_date": "2025-12-16T20:40:16Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.345775",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2025-12-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

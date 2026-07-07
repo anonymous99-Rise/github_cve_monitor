@@ -1,7 +1,14 @@
 {
   "date": "2024-04-01",
-  "count": 20,
+  "count": 21,
   "cves": [
+    {
+      "cve_id": "CVE-2024-31680",
+      "repo_info": "[h3rkk/CVE-2024-31680](https://github.com/h3rkk/CVE-2024-31680)",
+      "description": "CVE-2024-31680",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T04:59:37Z"
+    },
     {
       "cve_id": "CVE-2024-3094",
       "repo_info": "[ackemed/detectar_cve-2024-3094](https://github.com/ackemed/detectar_cve-2024-3094)",
@@ -143,9 +150,9 @@
       "raw_date": "2024-04-01T07:33:10Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.324493",
+  "generated_at": "2026-07-07T04:58:53.215688",
   "metadata": {
-    "total_cves": 20,
+    "total_cves": 21,
     "date_range": "2024-04-01",
     "source": "README.md",
     "script_version": "2.0"

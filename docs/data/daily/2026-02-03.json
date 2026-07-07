@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-03",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[obrunolima1910/CVE-2026-24061](https://github.com/obrunolima1910/CVE-2026-24061)",
+      "description": "🚨 Exploit CVE-2026-24061, a critical remote authentication bypass in GNU inetutils-telnetd, for instant root shell access without authentication.",
+      "date": "2026-02-03",
+      "raw_date": "2026-02-03T19:46:10Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.348988",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-02-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

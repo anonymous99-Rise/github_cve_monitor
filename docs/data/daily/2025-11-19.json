@@ -1,0 +1,41 @@
+{
+  "date": "2025-11-19",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-54110",
+      "repo_info": "[canomer/CVE-2025-54110-Kernel-EoP-PoC](https://github.com/canomer/CVE-2025-54110-Kernel-EoP-PoC)",
+      "description": "Project Date : Oct 2025 / PoC implementation for CVE-2025-54110 a Kernel-Level Integer Overflow Vulnerability in the Windows `NtQueryDirectoryObject` system call.",
+      "date": "2025-11-19",
+      "raw_date": "2025-11-19T10:18:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-53779",
+      "repo_info": "[b5null/Invoke-BadSuccessor.ps1](https://github.com/b5null/Invoke-BadSuccessor.ps1)",
+      "description": "PowerShell Script to automatically abuse the BadSuccessor vulnerability (CVE-2025-53779)",
+      "date": "2025-11-19",
+      "raw_date": "2025-11-19T03:27:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-27591",
+      "repo_info": "[0x00Jeff/CVE-2025-27591](https://github.com/0x00Jeff/CVE-2025-27591)",
+      "description": "self cleaning CVE-2025-27591 Poc that grants a root reverse shell instead of modifying passwd files",
+      "date": "2025-11-19",
+      "raw_date": "2025-11-19T19:56:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-13339",
+      "repo_info": "[MooseLoveti/Hippoo-Mobile-App-For-WooCommerce-CVE-Report](https://github.com/MooseLoveti/Hippoo-Mobile-App-For-WooCommerce-CVE-Report)",
+      "description": "Disclosure for CVE-2025-13339",
+      "date": "2025-11-19",
+      "raw_date": "2025-11-19T08:21:45Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.341775",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2025-11-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "date": "2025-12-15",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-66956",
+      "repo_info": "[TheWoodenBench/CVE-2025-66956](https://github.com/TheWoodenBench/CVE-2025-66956)",
+      "description": "Insecure Access Control in Contact Plan, E-Mail, SMS and Fax components in Asseco SEE Live 2.0 allows remote attackers to access and execute attachments via a computable URL.",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T11:30:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-66955",
+      "repo_info": "[TheWoodenBench/CVE-2025-66955](https://github.com/TheWoodenBench/CVE-2025-66955)",
+      "description": "Local File Inclusion in Contact Plan, E-Mail, SMS and Fax components in Asseco SEE Live 2.0 allows remote authenticated users to access files on the host via &quot;path&quot; parameter in the downloadAttachment and downloadAttachmentFromPath API calls.",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T11:28:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[zhixiangyao/CVE-2025-66478-Exploit-PoC](https://github.com/zhixiangyao/CVE-2025-66478-Exploit-PoC)",
+      "description": "Proof-of-concept exploit demo for CVE-2025-66478 using Node.js",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T02:27:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-65855",
+      "repo_info": "[LuisMirandaAcebedo/CVE-2025-65855](https://github.com/LuisMirandaAcebedo/CVE-2025-65855)",
+      "description": "Security advisory for CVE-2025-65855 - Multiple vulnerabilities  in HelpFlash IoT OTA update mechanism",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T23:33:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-65318",
+      "repo_info": "[bbaboha/CVE-2025-65318-and-CVE-2025-65319](https://github.com/bbaboha/CVE-2025-65318-and-CVE-2025-65319)",
+      "description": "Insecure attachment handling when using Canary Mail or Blue mail",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T20:18:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-6218",
+      "repo_info": "[Chrxstxqn/CVE-2025-6218-WinRAR-RCE-POC](https://github.com/Chrxstxqn/CVE-2025-6218-WinRAR-RCE-POC)",
+      "description": "Comprehensive analysis and proof-of-concept for CVE-2025-6218 - WinRAR path traversal RCE vulnerability affecting versions 7.11 and earlier",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T10:08:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-61675",
+      "repo_info": "[rxerium/FreePBX-Vulns-December-25](https://github.com/rxerium/FreePBX-Vulns-December-25)",
+      "description": "Detection for CVE-2025-61675, CVE-2025-61678 &amp; CVE-2025-66039",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T20:51:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[premdanav/react2shelldemo](https://github.com/premdanav/react2shelldemo)",
+      "description": "This repo contains the scripts you can execute to simulate the (CVE-2025-55182) along with next.js server",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T21:01:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[simantchaudhari/CVE-2025-55182](https://github.com/simantchaudhari/CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T13:54:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[hulh122/CVE-2025-55182](https://github.com/hulh122/CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T10:32:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Call123X/-cve-2025-55182](https://github.com/Call123X/-cve-2025-55182)",
+      "description": "cve-2025-55182",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T08:56:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[subhdotsol/CVE-2025-55182](https://github.com/subhdotsol/CVE-2025-55182)",
+      "description": "This project provides a fully functional demonstration of CVE-2025-55182 (React2Shell) - a critical Remote Code Execution vulnerability in React Server Components and Next.js.",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T07:35:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[mivmi/CVE-2025-55182](https://github.com/mivmi/CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T00:50:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-45805",
+      "repo_info": "[mohammed-alsaqqaf/CVE-2025-45805](https://github.com/mohammed-alsaqqaf/CVE-2025-45805)",
+      "description": "PoC of CVE-2025-45805",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T17:27:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-32434",
+      "repo_info": "[B1tBit/CVE-2025-32434-exploit](https://github.com/B1tBit/CVE-2025-32434-exploit)",
+      "description": "A script for exploiting a vulnerability in PyTorch with subsequent RCE in library versions &lt; 2.6.0",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T19:59:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[o0wo0o/CVE-2025-24893_Shell](https://github.com/o0wo0o/CVE-2025-24893_Shell)",
+      "description": "no description",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T16:01:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-12163",
+      "repo_info": "[SnailSploit/CVE-2025-12163](https://github.com/SnailSploit/CVE-2025-12163)",
+      "description": "CVE-2025-12163: Stored Cross-Site Scripting in Omnipress WordPress Plugin",
+      "date": "2025-12-15",
+      "raw_date": "2025-12-15T21:45:00Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.345594",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2025-12-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2025-12-26",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9074",
+      "repo_info": "[Shaoshi17/CVE-2025-9074-Docker-Exploit](https://github.com/Shaoshi17/CVE-2025-9074-Docker-Exploit)",
+      "description": "一个功能强大的 Docker 远程 API 漏洞利用工具，用于 CVE-2025-9074 漏洞的安全研究和测试。",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T09:45:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[LingerANR/n8n-CVE-2025-68613](https://github.com/LingerANR/n8n-CVE-2025-68613)",
+      "description": "This laboratory provides a controlled environment to analyze and reproduce CVE-2025-68613 in a vulnerable n8n instance.",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T22:59:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[Ak-cybe/CVE-2025-68613-n8n-rce-analysis](https://github.com/Ak-cybe/CVE-2025-68613-n8n-rce-analysis)",
+      "description": "CVE-2025-68613 (n8n) Critical RCE analysis + defensive recommendations (patch validation, detection ideas, and hardening tips)",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T19:40:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe](https://github.com/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe)",
+      "description": "The minor methodology for room: https://tryhackme.com/room/n8ncve202568613",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T17:40:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[Khin-96/n8n-cve-2025-68613-thm](https://github.com/Khin-96/n8n-cve-2025-68613-thm)",
+      "description": "no description",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T15:40:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[Dlanang/homelab-CVE-2025-68613](https://github.com/Dlanang/homelab-CVE-2025-68613)",
+      "description": "no description",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T08:52:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-59287",
+      "repo_info": "[gud425/gud425.github.io](https://github.com/gud425/gud425.github.io)",
+      "description": "CVE-2025-59287",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T07:22:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Updatelap/CVE-2025-55182](https://github.com/Updatelap/CVE-2025-55182)",
+      "description": "React2Shell Scanner",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T21:50:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-](https://github.com/kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-)",
+      "description": "script to help solve the lab on hackviser covering (CVE-2025-55182)",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T22:58:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[0xROI/CVE-2025-55182](https://github.com/0xROI/CVE-2025-55182)",
+      "description": "Exploitation script for CVE-2025-55182. This is modified only for my personal use. If you are facing any problem fix it yourself.",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T18:14:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[itsismarcos/Bot-exploit-CVE-2025-55182](https://github.com/itsismarcos/Bot-exploit-CVE-2025-55182)",
+      "description": "Mass Bot Exploit",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T14:19:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[thqxploit666/CVE-2025-55182](https://github.com/thqxploit666/CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T10:02:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-54322",
+      "repo_info": "[Sachinart/CVE-2025-54322](https://github.com/Sachinart/CVE-2025-54322)",
+      "description": "CVE-2025-54322 - XSpeeder SXZOS Pre-Auth RCE 0day Finder Quick",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T20:54:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[onewinner/CVE-2025-14847](https://github.com/onewinner/CVE-2025-14847)",
+      "description": "MongoDB 内存泄露漏洞 (CVE-2025-14847) 检测工具",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T06:13:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[ProbiusOfficial/CVE-2025-14847](https://github.com/ProbiusOfficial/CVE-2025-14847)",
+      "description": "poc for CVE-2025-14847",
+      "date": "2025-12-26",
+      "raw_date": "2025-12-26T07:38:32Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.347601",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-12-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

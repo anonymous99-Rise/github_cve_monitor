@@ -1,0 +1,27 @@
+{
+  "date": "2025-11-27",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-65862",
+      "repo_info": "[rimbadirgantara/opac-fast-automation](https://github.com/rimbadirgantara/opac-fast-automation)",
+      "description": "automation untuk CVE-2025-65862",
+      "date": "2025-11-27",
+      "raw_date": "2025-11-27T02:01:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-12735",
+      "repo_info": "[alecasg555/safe-expr-eval](https://github.com/alecasg555/safe-expr-eval)",
+      "description": "Secure expression evaluator - Drop-in replacement for expr-eval without CVE-2025-12735 vulnerability",
+      "date": "2025-11-27",
+      "raw_date": "2025-11-27T15:22:28Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.342269",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2025-11-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

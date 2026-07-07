@@ -1,0 +1,27 @@
+{
+  "date": "2026-04-12",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-3805",
+      "repo_info": "[Rat5ak/CVE-2026-3805-curl-SMB-UAF](https://github.com/Rat5ak/CVE-2026-3805-curl-SMB-UAF)",
+      "description": "CVE-2026-3805: Use-After-Free in curl SMB connection reuse - heap info disclosure",
+      "date": "2026-04-12",
+      "raw_date": "2026-04-12T11:12:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-2650",
+      "repo_info": "[HackinKraken/Security-Research-and-CVE](https://github.com/HackinKraken/Security-Research-and-CVE)",
+      "description": "Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338",
+      "date": "2026-04-12",
+      "raw_date": "2026-04-12T07:49:34Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.350746",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-04-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

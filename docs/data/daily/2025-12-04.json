@@ -1,13 +1,27 @@
 {
   "date": "2025-12-04",
-  "count": 4,
+  "count": 11,
   "cves": [
+    {
+      "cve_id": "CVE-2025-67325",
+      "repo_info": "[mr7s3d0/CVE-2025-67325](https://github.com/mr7s3d0/CVE-2025-67325)",
+      "description": "Detail about CVE-2025-67325",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T06:04:38Z"
+    },
     {
       "cve_id": "CVE-2025-66478",
       "repo_info": "[wangxso/CVE-2025-66478-POC](https://github.com/wangxso/CVE-2025-66478-POC)",
       "description": "CVE-2025-66478 Proof of Concept",
       "date": "2025-12-04",
       "raw_date": "2025-12-04T07:44:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478)",
+      "description": "A command-line scanner for batch detection of Next.js application versions and determining if they are affected by CVE-2025-66478 vulnerability.",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T13:13:33Z"
     },
     {
       "cve_id": "CVE-2025-55182",
@@ -29,11 +43,46 @@
       "description": "React/Next.js React4Shell RCE CVE-2025-55182 checker",
       "date": "2025-12-04",
       "raw_date": "2025-12-04T07:44:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[clevernyyyy/CVE-2025-55182-Dockerized](https://github.com/clevernyyyy/CVE-2025-55182-Dockerized)",
+      "description": "no description",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T23:29:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[ThemeHackers/CVE-2025-55182](https://github.com/ThemeHackers/CVE-2025-55182)",
+      "description": "a critical Remote Code Execution (RCE) vulnerability in React Server Components (RSC). It also includes a realistic &quot;Lab Environment&quot; to safely test and understand the vulnerability.",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T02:46:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Security-Phoenix-demo/react2shell-scanner-rce-react-next-CVE-2025-55182-CVE-2025-66478](https://github.com/Security-Phoenix-demo/react2shell-scanner-rce-react-next-CVE-2025-55182-CVE-2025-66478)",
+      "description": "Scanner for CVE-2025-55182 (React) and CVE-2025-66478 (Next.js) - Track and remediate a critical React Server Components (RSC) / Flight protocol vulnerability campaign impacting react-server-dom-webpack, react-server-dom-parcel, react-server-dom-turbopack, and RSC-enabled frameworks like Next.js.",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T12:22:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[whiteov3rflow/CVE-2025-55182-poc](https://github.com/whiteov3rflow/CVE-2025-55182-poc)",
+      "description": "React2Shell Proof of Concept",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T01:29:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[nxgn-kd01/react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner)",
+      "description": "Detect CVE-2025-55182 (React2Shell) RCE vulnerability in React Server Components. Fast, accurate scanner with zero false positives.",
+      "date": "2025-12-04",
+      "raw_date": "2025-12-04T19:58:33Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.465085",
+  "generated_at": "2026-07-07T04:58:53.343092",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 11,
     "date_range": "2025-12-04",
     "source": "README.md",
     "script_version": "2.0"

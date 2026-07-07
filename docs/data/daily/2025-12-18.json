@@ -1,0 +1,174 @@
+{
+  "date": "2025-12-18",
+  "count": 23,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-67888",
+      "repo_info": "[reewardius/CVE-2025-67888](https://github.com/reewardius/CVE-2025-67888)",
+      "description": "Control Web Panel &lt;= 0.9.8.1208 (admin/index.php) OS Command Injection Vulnerability • Software Link:",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T09:04:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-67887",
+      "repo_info": "[cyberok-org/CVE-2025-67887](https://github.com/cyberok-org/CVE-2025-67887)",
+      "description": "no description",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T13:07:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-67887",
+      "repo_info": "[reewardius/CVE-2025-67887](https://github.com/reewardius/CVE-2025-67887)",
+      "description": "1C-Bitrix &lt;= 25.100.500 (Translate Module) Remote Code Execution Vulnerability",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T09:00:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-67886",
+      "repo_info": "[reewardius/CVE-2025-67886](https://github.com/reewardius/CVE-2025-67886)",
+      "description": "Bitrix24 &lt;= 25.100.300 (Translate Module) Remote Code Execution Vulnerability",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T09:02:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-67294",
+      "repo_info": "[0xthem7/CVE-2025-67294](https://github.com/0xthem7/CVE-2025-67294)",
+      "description": "no description",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T11:34:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-63353",
+      "repo_info": "[0xA1M/CVE-2025-63353](https://github.com/0xA1M/CVE-2025-63353)",
+      "description": "This is a Proof-Of-Concept of CVE-2025-63353",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T18:50:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-62470",
+      "repo_info": "[96613686/CVE-2025-62470](https://github.com/96613686/CVE-2025-62470)",
+      "description": "no description",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T08:01:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-62454",
+      "repo_info": "[96613686/CVE-2025-62454](https://github.com/96613686/CVE-2025-62454)",
+      "description": "no description",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T07:56:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[RavinduRathnayaka/CVE-2025-55182-PoC](https://github.com/RavinduRathnayaka/CVE-2025-55182-PoC)",
+      "description": "React2Shell (CVE-2025-66478): A Python-based Proof of Concept for Critical Remote Code Execution (RCE) in Next.js Server Components. Features an interactive CLI, custom payload injection, and cleaner output formatting. For educational research only.",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T19:35:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[degenwithheart/React2Shell-Vulnerability-Verification-Script](https://github.com/degenwithheart/React2Shell-Vulnerability-Verification-Script)",
+      "description": "React2Shell Vulnerability Verification Script (React2Shell also known as CVE-2025-55182).",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T18:32:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[rashedhasan090/cve-2025-55182-mitigator](https://github.com/rashedhasan090/cve-2025-55182-mitigator)",
+      "description": "no description",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T18:58:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[r4j3sh-com/CVE-2025-55182](https://github.com/r4j3sh-com/CVE-2025-55182)",
+      "description": "Lightweight Go toolkit plus a Dockerized Next.js lab to explore and triage CVE-2025-55182.",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T08:19:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-40602",
+      "repo_info": "[cyberleelawat/CVE-2025-40602](https://github.com/cyberleelawat/CVE-2025-40602)",
+      "description": "CVE-2025-40602 is a local privilege escalation vulnerability in the appliance management console (AMC) of SonicWall Secure Mobile Access (SMA) 1000 series appliances.",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T10:47:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-40602",
+      "repo_info": "[rxerium/CVE-2025-40602](https://github.com/rxerium/CVE-2025-40602)",
+      "description": "Detection for CVE-2025-40602",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T07:32:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-37164",
+      "repo_info": "[rxerium/CVE-2025-37164](https://github.com/rxerium/CVE-2025-37164)",
+      "description": "Detection for CVE-2025-37164",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T13:41:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-33053",
+      "repo_info": "[Cyberw1ng/CVE-2025-33053-POC](https://github.com/Cyberw1ng/CVE-2025-33053-POC)",
+      "description": "POC for CVE-2025-33053 WebDav Exploit, demonstrating how the vulnerability can be triggered in a real environment. This repository focuses on hands-on exploitation steps, reproducible test cases, and observable impact, helping security researchers and defenders understand the issue and validate fixes.",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T09:00:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-20393",
+      "repo_info": "[cyberleelawat/CVE-2025-20393](https://github.com/cyberleelawat/CVE-2025-20393)",
+      "description": "Cisco is aware of a potential vulnerability.&amp;nbsp; Cisco is currently investigating and&amp;nbsp;will update these details as appropriate&amp;nbsp;as more information becomes available.",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T10:02:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-20393",
+      "repo_info": "[StasonJatham/cisco-sa-sma-attack-N9bf4](https://github.com/StasonJatham/cisco-sa-sma-attack-N9bf4)",
+      "description": "Script to detect CVE-2025-20393 for Cisco Secure Email Gateway And Cisco Secure Email and Web Manager",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T12:55:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-20393",
+      "repo_info": "[KingHacker353/CVE-2025-20393](https://github.com/KingHacker353/CVE-2025-20393)",
+      "description": "no description",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T12:10:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-14700",
+      "repo_info": "[secdongle/POC_CVE-2025-14700](https://github.com/secdongle/POC_CVE-2025-14700)",
+      "description": "Proof of Concept for Authenticated RCE in Crafty Controller",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T11:10:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-14440",
+      "repo_info": "[Nxploited/CVE-2025-14440](https://github.com/Nxploited/CVE-2025-14440)",
+      "description": "JAY Login &amp; Register &lt;= 2.4.01 - Authentication Bypass via Cookie",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T18:51:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-14174",
+      "repo_info": "[Satirush/CVE-2025-14174-Poc](https://github.com/Satirush/CVE-2025-14174-Poc)",
+      "description": "Proof-of-Concept exploit for CVE-2025-14174 (EUVD-2025-203113) - Memory corruption in ANGLE allowing out-of-bounds access and RCE in web browsers. Reliable on iOS/Android/Windows, including patched systems with incomplete fixes.",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T11:58:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-14156",
+      "repo_info": "[Nxploited/CVE-2025-14156](https://github.com/Nxploited/CVE-2025-14156)",
+      "description": "Fox LMS – WordPress LMS Plugin 1.0.4.7 - 1.0.5.1 - Unauthenticated Privilege Escalation via &#x27;createOrder&#x27;",
+      "date": "2025-12-18",
+      "raw_date": "2025-12-18T18:18:01Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.346156",
+  "metadata": {
+    "total_cves": 23,
+    "date_range": "2025-12-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

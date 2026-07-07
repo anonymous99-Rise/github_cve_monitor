@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-06",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[tc4dy/CVE-2026-24061-PoC-Exploit](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)",
+      "description": "🚀 CVE-2026-24061 - GNU inetutils-telnetd Auth Bypass Exploit - Full Control 💥 CRLF injection via NEW_ENVIRON leads to auth bypass &amp; instant root shell. ✅ Single/Mass exploitation, multi-threading, custom port/user, pipe mode, session keep-alive, colored output, retries, timeout support. ⚡ Python &amp; Bash versions. Critical CVSS 9.8.",
+      "date": "2026-06-06",
+      "raw_date": "2026-06-06T12:38:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-21876",
+      "repo_info": "[daytriftnewgen/CVE-2026-21876](https://github.com/daytriftnewgen/CVE-2026-21876)",
+      "description": "CVE-2026-21876 PoC: WAF charset bypass (Flask, ASP.NET and Spring Boot stands)",
+      "date": "2026-06-06",
+      "raw_date": "2026-06-06T11:26:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-20452",
+      "repo_info": "[Hunt-Benito/mediatek-wlan-heap-overflow-cve-2026-20452-filogic-router-rce](https://github.com/Hunt-Benito/mediatek-wlan-heap-overflow-cve-2026-20452-filogic-router-rce)",
+      "description": "no description",
+      "date": "2026-06-06",
+      "raw_date": "2026-06-06T07:25:49Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.353374",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-06-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

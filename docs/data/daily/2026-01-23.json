@@ -1,0 +1,20 @@
+{
+  "date": "2026-01-23",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[sh4den/CVE-2026-24061](https://github.com/sh4den/CVE-2026-24061)",
+      "description": "Proof of Concept: CVE-2026-24061 is a critical authentication bypass vulnerability in GNU inetutils-telnetd allowing unauthenticated remote attackers to gain instant root shell access via malicious NEW_ENVIRON telnet option exploitation.",
+      "date": "2026-01-23",
+      "raw_date": "2026-01-23T17:26:43Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.348822",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-01-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

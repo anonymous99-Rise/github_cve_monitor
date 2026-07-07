@@ -1,0 +1,20 @@
+{
+  "date": "2026-03-12",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-38194",
+      "repo_info": "[4D4J/cormem-read-poc](https://github.com/4D4J/cormem-read-poc)",
+      "description": "This tool demonstrates CVE-2026-38194, a vulnerability in Teledyne Digital Imaging Sapera Memory Manager (v9.0.0.0 and below).  The CORMEM.SYS kernel driver exposes IOCTLs without any access control checks, allowing a standard unprivileged user to read and write arbitrary process memory directly through the kernel — bypassing Win32 API monitoring",
+      "date": "2026-03-12",
+      "raw_date": "2026-03-12T10:06:59Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.350016",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-03-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

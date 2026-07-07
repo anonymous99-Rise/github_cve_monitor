@@ -1,0 +1,62 @@
+{
+  "date": "2025-12-21",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-65790",
+      "repo_info": "[hunterxxx/FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790](https://github.com/hunterxxx/FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790)",
+      "description": "Reflected Cross-Site Scripting (XSS) via SVG Rendering in FuguHub",
+      "date": "2025-12-21",
+      "raw_date": "2025-12-21T18:31:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-64446",
+      "repo_info": "[lequoca/fortinet-fortiweb-cve-2025-64446-58034](https://github.com/lequoca/fortinet-fortiweb-cve-2025-64446-58034)",
+      "description": "Security research on Fortinet FortiWeb vulnerabilities (CVE-2025-64446, CVE-2025-58034)",
+      "date": "2025-12-21",
+      "raw_date": "2025-12-21T17:31:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[vonuyvicoo/nextploiter](https://github.com/vonuyvicoo/nextploiter)",
+      "description": "NextJS exploiter for CVE-2025-55182 and more.",
+      "date": "2025-12-21",
+      "raw_date": "2025-12-21T02:57:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[niokagi/react-cve-2025-55182](https://github.com/niokagi/react-cve-2025-55182)",
+      "description": "Test &amp; Analyze the CVE-2025-55182 vulnerability within Next.js Server Actions",
+      "date": "2025-12-21",
+      "raw_date": "2025-12-21T12:32:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-43541",
+      "repo_info": "[crypt0bit/CVE-2025-43541](https://github.com/crypt0bit/CVE-2025-43541)",
+      "description": "PoC Exploit iOS",
+      "date": "2025-12-21",
+      "raw_date": "2025-12-21T18:15:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-38352",
+      "repo_info": "[farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)",
+      "description": "This is a proof of concept for CVE-2025-38352, a vulnerability in the Linux kernel&#x27;s POSIX CPU timers implementation. The September 2025 Android Bulletin mentions that this vulnerability has been used in limited, targeted exploitation in the wild.",
+      "date": "2025-12-21",
+      "raw_date": "2025-12-21T23:59:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-12139",
+      "repo_info": "[Galaxy-sc/CVE-2025-12139-WordPress-Integrate-Google-Drive-Exploit](https://github.com/Galaxy-sc/CVE-2025-12139-WordPress-Integrate-Google-Drive-Exploit)",
+      "description": "no description",
+      "date": "2025-12-21",
+      "raw_date": "2025-12-21T09:41:13Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.346693",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2025-12-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

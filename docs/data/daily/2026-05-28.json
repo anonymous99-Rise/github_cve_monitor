@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-28",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-52806",
+      "repo_info": "[portbuster1337/CVE-2026-52806](https://github.com/portbuster1337/CVE-2026-52806)",
+      "description": "Gogs RCE via argument injection in git rebase (CWE-88) — Python PoC. CVE-2026-52806",
+      "date": "2026-05-28",
+      "raw_date": "2026-05-28T16:35:45Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.352785",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-05-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

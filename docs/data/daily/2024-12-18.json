@@ -1,7 +1,14 @@
 {
   "date": "2024-12-18",
-  "count": 11,
+  "count": 12,
   "cves": [
+    {
+      "cve_id": "CVE-2024-57521",
+      "repo_info": "[mrlihd/CVE-2024-57521-SQL-Injection-PoC](https://github.com/mrlihd/CVE-2024-57521-SQL-Injection-PoC)",
+      "description": "no description",
+      "date": "2024-12-18",
+      "raw_date": "2024-12-18T16:03:59Z"
+    },
     {
       "cve_id": "CVE-2024-53677",
       "repo_info": "[XiaomingX/CVE-2024-53677-S2-067](https://github.com/XiaomingX/CVE-2024-53677-S2-067)",
@@ -80,9 +87,9 @@
       "raw_date": "2024-12-18T18:12:56Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.384158",
+  "generated_at": "2026-07-07T04:58:53.267608",
   "metadata": {
-    "total_cves": 11,
+    "total_cves": 12,
     "date_range": "2024-12-18",
     "source": "README.md",
     "script_version": "2.0"

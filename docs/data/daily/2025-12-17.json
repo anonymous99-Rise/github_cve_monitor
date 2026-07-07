@@ -1,0 +1,132 @@
+{
+  "date": "2025-12-17",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-68434",
+      "repo_info": "[Nixon-H/CVE-2025-68434-OSPOS-CSRF](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF)",
+      "description": "PoC &amp; Write-up for CVE-2025-68434: Critical CSRF in OpenSourcePOS. Exploits a disabled filter configuration to allow unauthenticated attackers to silently create rogue Administrator accounts, leading to full system takeover. Validated on versions &lt; 3.4.0.",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T17:37:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-68147",
+      "repo_info": "[Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS](https://github.com/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS)",
+      "description": "PoC repository for CVE-2025-68147: Stored Cross-Site Scripting (XSS) in OpenSourcePOS. Vulnerability allows privilege escalation via malicious JavaScript injection in the Store Config module. Includes payload details and patch verification (v3.4.0). Security Researcher: Aditya Singh (Nixon-H).",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T17:30:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-66516",
+      "repo_info": "[sid6224/CVE-2025-66516-POC](https://github.com/sid6224/CVE-2025-66516-POC)",
+      "description": "A POC for the CVE-2025-66516 Apache Tika Vulnerability for educational purposes only",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T07:35:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-66224",
+      "repo_info": "[richard-natan/PoC-CVE-2025-66224](https://github.com/richard-natan/PoC-CVE-2025-66224)",
+      "description": "no description",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T04:40:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-65945",
+      "repo_info": "[jedisct1/CVE-2025-65945-poc](https://github.com/jedisct1/CVE-2025-65945-poc)",
+      "description": "PoC for CVE-2025-65945 (Improper Verification of Cryptographic Signature in node-jws)",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T15:52:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-65857",
+      "repo_info": "[LuisMirandaAcebedo/CVE-2025-65857](https://github.com/LuisMirandaAcebedo/CVE-2025-65857)",
+      "description": "Xiongmai XM530 IP Camera Hardcoded RTSP Credentials Exposure",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T15:40:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-65856",
+      "repo_info": "[LuisMirandaAcebedo/CVE-2025-65856](https://github.com/LuisMirandaAcebedo/CVE-2025-65856)",
+      "description": "Xiongmai XM530 IP Camera ONVIF Complete Authentication Bypass",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T15:41:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-59718",
+      "repo_info": "[exfil0/CVE-2025-59718-PoC](https://github.com/exfil0/CVE-2025-59718-PoC)",
+      "description": "Fortinet announced two closely related authentication‑bypass vulnerabilities on 9 December 2025. Both flaws involve improper verification of cryptographic signatures (CWE‑347) in the handling of SAML responses for the FortiCloud SSO login feature.",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T11:33:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-55184",
+      "repo_info": "[Tarekhshaikh13/CVE-2025-55184](https://github.com/Tarekhshaikh13/CVE-2025-55184)",
+      "description": "Target Code + Exploit",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T00:45:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[pwnxpl0it/react2shell-lab](https://github.com/pwnxpl0it/react2shell-lab)",
+      "description": "React2shell vulnerable lab (CVE-2025-55182)",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T15:32:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[ceh-aditya-raj/CVE-2025-55182](https://github.com/ceh-aditya-raj/CVE-2025-55182)",
+      "description": "Proof-of-concept research tool for CVE-2025-55182, a critical unauthenticated RCE in Next.js App Router caused by server-side object injection in React Server Components and Server Actions, including UTF-16LE WAF evasion techniques.",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T18:00:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-54988",
+      "repo_info": "[galoryber/cve-2025-54988-VulnTikaProject](https://github.com/galoryber/cve-2025-54988-VulnTikaProject)",
+      "description": "Creating a vulnerable instance to test against",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T20:23:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-23419",
+      "repo_info": "[harley-ghostie/safe-check-CVE-2025-23419](https://github.com/harley-ghostie/safe-check-CVE-2025-23419)",
+      "description": "Script em python scanner safe-check da CVE-2025-23419",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T14:04:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-21628",
+      "repo_info": "[elahehasanpour/chatwoot-cve-2025-21628](https://github.com/elahehasanpour/chatwoot-cve-2025-21628)",
+      "description": "A technical write-up explaining how improper SQL structure handling led to CVE-2025-21628 in Chatwoot.",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T13:09:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-14700",
+      "repo_info": "[Nosiume/CVE-2025-14700-poc](https://github.com/Nosiume/CVE-2025-14700-poc)",
+      "description": "Proof of Concept for Authenticated RCE in Crafty Controller &lt;= 4.6.1",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T20:10:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-14269",
+      "repo_info": "[r0binak/CVE-2025-14269](https://github.com/r0binak/CVE-2025-14269)",
+      "description": "CVE-2025-14269 PoC exploit",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T18:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-13780",
+      "repo_info": "[ThemeHackers/CVE-2025-13780](https://github.com/ThemeHackers/CVE-2025-13780)",
+      "description": "A comprehensive vulnerability scanner for CVE-2025-13780, a Remote Code Execution (RCE) vulnerability in pgAdmin 4 versions ≤ 8.14.",
+      "date": "2025-12-17",
+      "raw_date": "2025-12-17T03:59:29Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.345968",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2025-12-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "date": "2025-12-24",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8110",
+      "repo_info": "[tovd-go/CVE-2025-8110](https://github.com/tovd-go/CVE-2025-8110)",
+      "description": "no description",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T02:35:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-8110",
+      "repo_info": "[111ddea/goga-cve-2025-8110](https://github.com/111ddea/goga-cve-2025-8110)",
+      "description": "验证 Gogs 版本 0.13.2 是否存在 **CVE-2025-8110 (符号链接文件覆盖)** 漏洞。",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T01:40:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[intelligent-ears/CVE-2025-68613](https://github.com/intelligent-ears/CVE-2025-68613)",
+      "description": "no description",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T13:19:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[r4j3sh-com/CVE-2025-68613-n8n-lab](https://github.com/r4j3sh-com/CVE-2025-68613-n8n-lab)",
+      "description": "Analysis of CVE-2025-68613",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T13:07:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[manyaigdtuw/CVE-2025-68613_Scanner](https://github.com/manyaigdtuw/CVE-2025-68613_Scanner)",
+      "description": "GUI Shodan-powered scanner to identify n8n instances exposed to CVE-2025-68613 (version range 0.211.0–1.122.0)",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T17:38:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[secjoker/CVE-2025-68613](https://github.com/secjoker/CVE-2025-68613)",
+      "description": "基于Pocsuite3 框架编写的漏洞验证与利用脚本，用于检测 n8n工作流自动化工具中的认证后远程代码执行漏洞（RCE）",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T10:04:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Farhan9488/CVE-2025-55182-research](https://github.com/Farhan9488/CVE-2025-55182-research)",
+      "description": "🛡️ Explore CVE-2025-55182, a critical RCE vulnerability in React&#x27;s Flight Protocol, demonstrating exploitation techniques and mitigation strategies.",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T14:48:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[guiimoraes/react2shell-evolved](https://github.com/guiimoraes/react2shell-evolved)",
+      "description": "A evolved version of assetnote CVE-2025-55182 scanner",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T21:06:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[bigbluewhale111/CVE-2025-55182-LAB](https://github.com/bigbluewhale111/CVE-2025-55182-LAB)",
+      "description": "This is a lab for reproducing CVE-2025-55182.",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T15:57:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-51471",
+      "repo_info": "[ajtazer/CVE-2025-51471-POC](https://github.com/ajtazer/CVE-2025-51471-POC)",
+      "description": "This PoC is for educational and authorized security testing purposes only. Do NOT use against systems you don&#x27;t own.",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T21:25:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-15474",
+      "repo_info": "[NSM-Barii/CVE-2025-15474](https://github.com/NSM-Barii/CVE-2025-15474)",
+      "description": "A denial-of-service vulnerability in the AuntyFey BLE smart padlock allows unauthenticated connection floods to lock out legitimate users.  CVE-2025-15474",
+      "date": "2025-12-24",
+      "raw_date": "2025-12-24T07:09:04Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.347262",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2025-12-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

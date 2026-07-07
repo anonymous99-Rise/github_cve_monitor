@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-20",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-54337",
+      "repo_info": "[4qu4r1um/CVE-2026-54337-PoC](https://github.com/4qu4r1um/CVE-2026-54337-PoC)",
+      "description": "CVE-2026-54337 - Unauthenticated File Write/Overwrite PoC for fireshare &lt;= 1.16.3",
+      "date": "2026-06-20",
+      "raw_date": "2026-06-20T03:49:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-4480",
+      "repo_info": "[ClearLotus-git/CVE-2026-4480-PoC](https://github.com/ClearLotus-git/CVE-2026-4480-PoC)",
+      "description": "no description",
+      "date": "2026-06-20",
+      "raw_date": "2026-06-20T15:59:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-41091",
+      "repo_info": "[tc4dy/CVE-2026-41091-PoC-Exploit](https://github.com/tc4dy/CVE-2026-41091-PoC-Exploit)",
+      "description": "🔥 CVE-2026-41091 SolarFlare - Microsoft Defender LPE exploit. Low-privileged users gain NT AUTHORITY\\SYSTEM via Cloud Files API + NTFS junction trickery. Forces Defender to write malicious payloads to System32 with SYSTEM rights. ⚠️ Actively exploited in wild. CVSS 7.8. Patch: Defender Engine 1.1.26040.8. 🛡️ Educational PoC only.",
+      "date": "2026-06-20",
+      "raw_date": "2026-06-20T10:25:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-37149",
+      "repo_info": "[pateldhyeyit/CVE-2026-37149](https://github.com/pateldhyeyit/CVE-2026-37149)",
+      "description": "CVE-2026-37149 - SQL Injection vulnerability in the scost parameter of search_products.php in GROCERY-STORE-MANAGEMENT-SYSTEM-USING-PHP-AND-MYSQL-PHPMYADMIN v1.0.",
+      "date": "2026-06-20",
+      "raw_date": "2026-06-20T12:51:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-11912",
+      "repo_info": "[Polosss/By-Poloss..-..CVE-2026-11912](https://github.com/Polosss/By-Poloss..-..CVE-2026-11912)",
+      "description": "Missing Authorization to Unauthenticated File Modification",
+      "date": "2026-06-20",
+      "raw_date": "2026-06-20T09:20:46Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.355410",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2026-06-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

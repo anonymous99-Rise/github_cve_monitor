@@ -1,0 +1,118 @@
+{
+  "date": "2026-07-06",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-6421",
+      "repo_info": "[1neptune/chimera](https://github.com/1neptune/chimera)",
+      "description": "Rust-based DLL hijacking loader for MobaXterm (CVE-2026-6421) with persistence",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T10:18:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-49352",
+      "repo_info": "[covepseng/cve-2026-49352-poc](https://github.com/covepseng/cve-2026-49352-poc)",
+      "description": "Exploitability PoC for CVE-2026-49352 (9router Hardcoded JWT Secret Authentication Bypass)",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T12:37:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-48282",
+      "repo_info": "[imbas007/CVE-2026-48282](https://github.com/imbas007/CVE-2026-48282)",
+      "description": "no description",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T12:57:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-4480",
+      "repo_info": "[Cosm3No1de/HTB-Abducted-Writeup](https://github.com/Cosm3No1de/HTB-Abducted-Writeup)",
+      "description": "HTB &quot;Abducted&quot; write-up. Exploit CVE-2026-4480 (Samba RCE) → SMB wide links → systemd → root. Full methodology and flags.",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T11:06:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-40022",
+      "repo_info": "[oscerd/CVE-2026-40022](https://github.com/oscerd/CVE-2026-40022)",
+      "description": "Reproducer for CVE-2026-40022: Apache Camel camel-platform-http-main authentication bypass on non-root context paths",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T13:45:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[diamorphine666/CVE-2026-38526-Exploit](https://github.com/diamorphine666/CVE-2026-38526-Exploit)",
+      "description": "Exploit for Authenticated Remote Code Execution (RCE) in Krayin CRM v2.2.x (CVE-2026-38526)",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T21:30:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report)",
+      "description": "HTB_Nexus Penetration Test Report – Comprehensive security assessment documenting credential leakage from Gitea, CVE-2026-38526 exploitation in Krayin CRM, and privilege escalation via Gitea template sync directory traversal. Mapped to MITRE ATT&amp;CK and NSA D3FEND frameworks with actionable remediation roadmap and full evidence appendix.",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T15:13:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-33454",
+      "repo_info": "[oscerd/CVE-2026-33454](https://github.com/oscerd/CVE-2026-33454)",
+      "description": "Reproducer for CVE-2026-33454: Apache Camel camel-mail header injection to RCE via camel-exec",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T12:56:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-33453",
+      "repo_info": "[oscerd/CVE-2026-33453](https://github.com/oscerd/CVE-2026-33453)",
+      "description": "Reproducer for CVE-2026-33453: Apache Camel camel-coap header injection to RCE via camel-exec",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T12:29:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-](https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-)",
+      "description": "AF_ALG/splice 기반 Linux Page Cache 변조 취약점 분석 및 대응 실습",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T07:46:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-27172",
+      "repo_info": "[oscerd/CVE-2026-27172](https://github.com/oscerd/CVE-2026-27172)",
+      "description": "Reproducer for CVE-2026-27172: Apache Camel camel-consul ConsulRegistry Java deserialization (RCE)",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T10:17:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-25555",
+      "repo_info": "[thecodeb0ss/CVE-2026-25555](https://github.com/thecodeb0ss/CVE-2026-25555)",
+      "description": "OpenBullet2 through version 0.3.2 contains an authentication bypass vulnerability in the API key authentication middleware that allows unauthenticated attackers to gain admin access by supplying an empty X-Api-Key header value.",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T01:47:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[harygovind/CVE-2026-24061](https://github.com/harygovind/CVE-2026-24061)",
+      "description": "CVE-2026-24061-PoC",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T17:34:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-0920",
+      "repo_info": "[Dx3iZ/CVE-2026-0920](https://github.com/Dx3iZ/CVE-2026-0920)",
+      "description": "Creating a Wordpress Admin User",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T00:17:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-0776",
+      "repo_info": "[OverlayCS/Helix](https://github.com/OverlayCS/Helix)",
+      "description": "using the use of CVE-2026-0776 discord &quot;asks&quot; for admin allowing a cmd to be opened as admin",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T18:09:11Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.358134",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2026-07-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

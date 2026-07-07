@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-26",
+  "count": 23,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8932",
+      "repo_info": "[0xBlackash/CVE-2026-8932](https://github.com/0xBlackash/CVE-2026-8932)",
+      "description": "CVE-2026-8932",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T22:21:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-8461",
+      "repo_info": "[0xBlackash/CVE-2026-8461](https://github.com/0xBlackash/CVE-2026-8461)",
+      "description": "CVE-2026-8461",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T07:23:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-54807",
+      "repo_info": "[izxci/CVE-2026-54807](https://github.com/izxci/CVE-2026-54807)",
+      "description": "CVE-2026-54807 WooCommerce Privilege Escalation       ║ ║     Unauthenticated Admin Role Assignment via Reg. Form",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T12:11:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-46558",
+      "repo_info": "[0xmrma/CVE-2026-46558](https://github.com/0xmrma/CVE-2026-46558)",
+      "description": "Plane’s V2 asset subsystem trusted workspace slugs and asset UUIDs without enforcing the right membership checks, which let one authenticated user read, copy, delete, and overwrite assets in other workspaces.",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T12:57:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[0xBlackash/CVE-2026-46331](https://github.com/0xBlackash/CVE-2026-46331)",
+      "description": "CVE-2026-46331",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T18:57:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-45806",
+      "repo_info": "[0xmrma/CVE-2026-45806](https://github.com/0xmrma/CVE-2026-45806)",
+      "description": "Penpot&#x27;s remote image import let an authenticated file editor turn a normal media convenience feature into backend-origin SSRF because attacker-controlled URLs crossed into a redirect-following server fetch path without destination filtering.",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T12:55:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-44788",
+      "repo_info": "[e-corp-demo/CVE-2026-44788](https://github.com/e-corp-demo/CVE-2026-44788)",
+      "description": "no description",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T11:18:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-43503",
+      "repo_info": "[sec0x/CVE-2026-43503](https://github.com/sec0x/CVE-2026-43503)",
+      "description": "no description",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T21:01:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-43503",
+      "repo_info": "[aexdyhaxor/CVE-2026-43503-DirtyClone](https://github.com/aexdyhaxor/CVE-2026-43503-DirtyClone)",
+      "description": "no description",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T11:06:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-43503",
+      "repo_info": "[mooder1/dirtyclone-CVE-2026-43503](https://github.com/mooder1/dirtyclone-CVE-2026-43503)",
+      "description": "no description",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T00:20:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-42089",
+      "repo_info": "[0xmrma/CVE-2026-42089](https://github.com/0xmrma/CVE-2026-42089)",
+      "description": "A local package installation helper trusted caller-supplied package names too much. In yeoman-environment, missing generators could be installed without user confirmation, turning attacker-controlled project metadata into a package-install and code-execution path.",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T12:47:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-39938",
+      "repo_info": "[Polosss/By-Poloss..-..CVE-2026-39938](https://github.com/Polosss/By-Poloss..-..CVE-2026-39938)",
+      "description": "Cacti &lt;= 1.2.30",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T17:27:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-35273",
+      "repo_info": "[12hrformat/CVE-2026-35273-POC](https://github.com/12hrformat/CVE-2026-35273-POC)",
+      "description": "no description",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T05:21:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-34213",
+      "repo_info": "[0xmrma/CVE-2026-34213](https://github.com/0xmrma/CVE-2026-34213)",
+      "description": "A low-privileged Docmost user could supply a victim attachmentId to the generic upload endpoint and overwrite another page&#x27;s stored attachment inside the same workspace.",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T12:43:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-34212",
+      "repo_info": "[0xmrma/CVE-2026-34212](https://github.com/0xmrma/CVE-2026-34212)",
+      "description": "Docmost accepted a javascript: URL inside an attachment node, preserved it through storage and rendering, and turned it back into a clickable anchor in the Docmost origin.",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T12:41:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-34207",
+      "repo_info": "[0xmrma/CVE-2026-34207](https://github.com/0xmrma/CVE-2026-34207)",
+      "description": "The SSRF filter checked hostname text, but the actual destination was decided later by DNS. That gap let attacker-controlled Webhook URLs reach loopback, metadata, and private network targets.",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T12:45:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-33146",
+      "repo_info": "[0xmrma/CVE-2026-33146](https://github.com/0xmrma/CVE-2026-33146)",
+      "description": "A public share looked clean in the page tree, but the search endpoint told a different story. In Docmost, restricted child pages hidden from public share viewers could still leak through public share search results.",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T12:25:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-26980",
+      "repo_info": "[n0bitaemon/CVE-2026-26980-PoC](https://github.com/n0bitaemon/CVE-2026-26980-PoC)",
+      "description": "Ghost CMS Content API Blind SQL Injection",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T16:50:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-26980",
+      "repo_info": "[gagaltotal/CVE-2026-26980-Ghost-CMS-Api](https://github.com/gagaltotal/CVE-2026-26980-Ghost-CMS-Api)",
+      "description": "CVE-2026-26980 - Ghost CMS Content API SQL Injection",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T05:57:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-24207",
+      "repo_info": "[offseckit/CVE-2026-24207](https://github.com/offseckit/CVE-2026-24207)",
+      "description": "CVE-2026-24207 — NVIDIA Triton SageMaker auth bypass to unauth RCE. Detection script, bypass demo, RCE-chain PoC, and IDS rules.",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T06:30:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-20253",
+      "repo_info": "[fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-](https://github.com/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-)",
+      "description": "no description",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T18:13:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-20251",
+      "repo_info": "[reactivezero/CVE-2026-20251](https://github.com/reactivezero/CVE-2026-20251)",
+      "description": "CVE-2026-20251 — Splunk Secure Gateway jsonpickle deserialization RCE (CVSS 8.8) - ReactiveZero Security Research",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T21:12:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-12415",
+      "repo_info": "[xxconi/CVE-2026-12415-or-CVE-2026-12416.py](https://github.com/xxconi/CVE-2026-12415-or-CVE-2026-12416.py)",
+      "description": "CVE-2026-12415-or-CVE-2026-12416.py",
+      "date": "2026-06-26",
+      "raw_date": "2026-06-26T18:12:20Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.356321",
+  "metadata": {
+    "total_cves": 23,
+    "date_range": "2026-06-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

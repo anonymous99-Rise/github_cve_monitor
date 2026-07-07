@@ -1,0 +1,27 @@
+{
+  "date": "2025-11-21",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[Cameloo1/sharepoint-toolshell-micro-postmortem](https://github.com/Cameloo1/sharepoint-toolshell-micro-postmortem)",
+      "description": "Reproducible incident micro-postmortem for on-prem Microsoft SharePoint “ToolShell” (CVE-2025-53770): ATT&amp;CK snapshot, “logs that matter” table, three hunts (KQL/SPL/Sigma), first-4-hours comms, sample data, and figures. Built for fast triage; no org data; SharePoint Online out of scope.",
+      "date": "2025-11-21",
+      "raw_date": "2025-11-21T18:02:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[mylo-2001/AtlassianPwn](https://github.com/mylo-2001/AtlassianPwn)",
+      "description": "Fully automated Confluence RCE exploit (CVE-2023-22527 + OGNL injection)   100% from scratch • Python • 2025",
+      "date": "2025-11-21",
+      "raw_date": "2025-11-21T11:27:32Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.341883",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2025-11-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

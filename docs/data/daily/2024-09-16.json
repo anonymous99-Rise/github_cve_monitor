@@ -1,6 +1,6 @@
 {
   "date": "2024-09-16",
-  "count": 9,
+  "count": 11,
   "cves": [
     {
       "cve_id": "CVE-2024-8190",
@@ -15,6 +15,20 @@
       "description": "This repository contains PoC for CVE-2024-7965. This is the vulnerability in the V8 that occurs only within ARM64.",
       "date": "2024-09-16",
       "raw_date": "2024-09-16T19:04:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-55271",
+      "repo_info": "[shoaibalam112/CVE-2024-55271](https://github.com/shoaibalam112/CVE-2024-55271)",
+      "description": "GYM management system using PHP and MYSQL",
+      "date": "2024-09-16",
+      "raw_date": "2024-09-16T14:05:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-55270",
+      "repo_info": "[shoaibalam112/CVE-2024-55270](https://github.com/shoaibalam112/CVE-2024-55270)",
+      "description": "Student Management System using PHP and MySQL",
+      "date": "2024-09-16",
+      "raw_date": "2024-09-16T16:48:04Z"
     },
     {
       "cve_id": "CVE-2024-44000",
@@ -66,9 +80,9 @@
       "raw_date": "2024-09-16T08:53:59Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.363616",
+  "generated_at": "2026-07-07T04:58:53.249694",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 11,
     "date_range": "2024-09-16",
     "source": "README.md",
     "script_version": "2.0"

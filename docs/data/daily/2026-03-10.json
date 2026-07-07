@@ -1,0 +1,27 @@
+{
+  "date": "2026-03-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-6508",
+      "repo_info": "[jackalkarlos/EvilAhenk](https://github.com/jackalkarlos/EvilAhenk)",
+      "description": "CVE-2026-6508 LiderAhenk Merkezi Yönetim Sistemi mimarisinde, uç birimler (agents) arası tüm istemcilerin birbirleri üzerinde &#x27;root&#x27; yetkisiyle kod çalıştırılmasına (unauthorized rce &amp; lateral movement) olanak tanıyan kritik güvenlik zafiyeti.",
+      "date": "2026-03-10",
+      "raw_date": "2026-03-10T00:51:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-2472",
+      "repo_info": "[megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud](https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud)",
+      "description": "Expose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.130.9.",
+      "date": "2026-03-10",
+      "raw_date": "2026-03-10T14:40:04Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.349919",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-03-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

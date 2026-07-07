@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-01",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-6307",
+      "repo_info": "[J4ck3LSyN-Gen2/CVE-2026-6307-Longinus](https://github.com/J4ck3LSyN-Gen2/CVE-2026-6307-Longinus)",
+      "description": "CVE-2026-6307 PoC: Longinus - 2 Boundaries in One Bug https://nebusec.ai/research/v8-cve-2026-6307-writeup/)",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T17:00:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-6307",
+      "repo_info": "[0xsha/CVE-2026-6307](https://github.com/0xsha/CVE-2026-6307)",
+      "description": "Google Chrome CVE-2026-6307 PoC",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T13:23:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-56011",
+      "repo_info": "[rootdirective-sec/CVE-2026-56011-Lab](https://github.com/rootdirective-sec/CVE-2026-56011-Lab)",
+      "description": "no description",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T14:20:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-55488",
+      "repo_info": "[thecodeb0ss/CVE-2026-55488](https://github.com/thecodeb0ss/CVE-2026-55488)",
+      "description": "motionEye&#x27;s Absolute Path Traversal in Media File Handlers Allows Arbitrary File Read",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T01:10:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-53694",
+      "repo_info": "[do4choo/CVE-2026-53694-NoMachine-LPE](https://github.com/do4choo/CVE-2026-53694-NoMachine-LPE)",
+      "description": "no description",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T15:22:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-51947",
+      "repo_info": "[timtimxs/CVE-2026-51947-Advisory](https://github.com/timtimxs/CVE-2026-51947-Advisory)",
+      "description": "Pivotal CRM&#x27;s patch for an initial deserialization vulnerability was incomplete. The fix switched from BinaryFormatter to JSON.NET but left TypeNameHandling set to 4 without implementing SerializationBinder, allowing attackers to execute arbitrary code through malicious $type payloads. Fixed in 6.6.5.10 and Patch_CWE502_20260316.zip",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T04:53:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[NoXiVaR/CVE-2026-48907](https://github.com/NoXiVaR/CVE-2026-48907)",
+      "description": "CVE-2026-48907 PoC",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T14:05:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[V0IDNETWORK/CVE-2026-46331](https://github.com/V0IDNETWORK/CVE-2026-46331)",
+      "description": "pedit COW",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T02:19:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-44963",
+      "repo_info": "[suce0155/CVE_2026_44963](https://github.com/suce0155/CVE_2026_44963)",
+      "description": "CVE_2026_44963 Veeam Backup and Replication Authenticated RCE",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T22:19:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-43735",
+      "repo_info": "[dem0ns/CVE-2026-43735](https://github.com/dem0ns/CVE-2026-43735)",
+      "description": "Safari 跨域信息读取",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T12:13:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-42945",
+      "repo_info": "[aratane/CVE-2026-42945](https://github.com/aratane/CVE-2026-42945)",
+      "description": "A flaw was found in NGINX, specifically within the ngx_http_rewrite_module. An unauthenticated attacker can exploit this vulnerability by sending crafted HTTP requests under specific rewrite configurations. This can lead to a heap buffer overflow in the NGINX worker process, which may result in arbitrary code execution",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T08:30:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-38751",
+      "repo_info": "[hackthem/OpenSTAManager_RCE_Exploit-CVE-2026-38751-](https://github.com/hackthem/OpenSTAManager_RCE_Exploit-CVE-2026-38751-)",
+      "description": "OpenSTAManager RCE Exploit (CVE-2026-38751)",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T20:09:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-23111",
+      "repo_info": "[bakano98/cve-2026-23111-poc](https://github.com/bakano98/cve-2026-23111-poc)",
+      "description": "scuffed PoC for CVE-2026-23111. Made and ran on Linux Kernel 6.12.69",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T13:21:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-10520",
+      "repo_info": "[emilliewatson96/spryCVE-2026-10520](https://github.com/emilliewatson96/spryCVE-2026-10520)",
+      "description": "no description",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T15:28:39Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.357256",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2026-07-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

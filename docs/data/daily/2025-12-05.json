@@ -1,6 +1,6 @@
 {
   "date": "2025-12-05",
-  "count": 3,
+  "count": 10,
   "cves": [
     {
       "cve_id": "CVE-2025-55182",
@@ -17,16 +17,65 @@
       "raw_date": "2025-12-05T23:23:51Z"
     },
     {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Y3B3L4Y3/CVE-2025-55182-test](https://github.com/Y3B3L4Y3/CVE-2025-55182-test)",
+      "description": "no description",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T10:17:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[yanoshercohen/React2Shell_CVE-2025-55182](https://github.com/yanoshercohen/React2Shell_CVE-2025-55182)",
+      "description": "React2Shell (CVE-2025-55182) Exploit",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T23:29:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[logesh-GIT001/CVE-2025-55182](https://github.com/logesh-GIT001/CVE-2025-55182)",
+      "description": "&quot;One crafted HTTP request can compromise your entire server.&quot; — React Security Team, Dec 2025",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T11:06:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[kOaDT/poc-cve-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182)",
+      "description": "This repository contains a POC of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell.",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T22:32:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Airis101/CVE-2025-55182-analysis](https://github.com/Airis101/CVE-2025-55182-analysis)",
+      "description": "浅谈React Server Components RCE 漏洞分析",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T12:16:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[GarethMSheldon/React2Shell-CVE-2025-55182-Detector](https://github.com/GarethMSheldon/React2Shell-CVE-2025-55182-Detector)",
+      "description": "no description",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T19:37:26Z"
+    },
+    {
       "cve_id": "CVE-2025-49666",
       "repo_info": "[17patmaks/My-Sigma-Rule-Collection](https://github.com/17patmaks/My-Sigma-Rule-Collection)",
       "description": "Sigma Rule for CVE-2025-49666",
       "date": "2025-12-05",
       "raw_date": "2025-12-05T21:42:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-1913",
+      "repo_info": "[S0haib518-KSA/CVE-2025-1913-PoC](https://github.com/S0haib518-KSA/CVE-2025-1913-PoC)",
+      "description": "A PoC demonstrating CVE-2025-1913, showing how the plugin’s unsafe unserialize handling can lead to high-impact behavior in controlled environments. Contains a harmful payload for authorized testing only. Use strictly in isolated labs and for defensive research.",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T13:45:50Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.465235",
+  "generated_at": "2026-07-07T04:58:53.343303",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 10,
     "date_range": "2025-12-05",
     "source": "README.md",
     "script_version": "2.0"

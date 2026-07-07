@@ -1,0 +1,118 @@
+{
+  "date": "2026-06-29",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-56782",
+      "repo_info": "[BiiTts/CVE-2026-56782-Gorse-Auth-Bypass](https://github.com/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass)",
+      "description": "CVE-2026-56782 — Gorse &lt;0.5.10 unauthenticated DB dump/restore (admin_api_key fail-open). Lab + PoC, verified e2e.",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T22:09:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-5562",
+      "repo_info": "[HutTwoThreeFour/CVE-2026-5562-Exploit](https://github.com/HutTwoThreeFour/CVE-2026-5562-Exploit)",
+      "description": "no description",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T03:47:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-55200",
+      "repo_info": "[xd20111/CVE-2026-55200](https://github.com/xd20111/CVE-2026-55200)",
+      "description": "CVE-2026-55200 - Critical libssh2 Remote Code Execution Vulnerability",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T12:11:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-53753",
+      "repo_info": "[BiiTts/CVE-2026-53753-Crawl4AI-RCE](https://github.com/BiiTts/CVE-2026-53753-Crawl4AI-RCE)",
+      "description": "CVE-2026-53753 — Crawl4AI &lt;0.8.7 unauthenticated RCE (AST sandbox escape via gi_frame.f_back). Lab + PoC, verified e2e.",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T21:08:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-48939",
+      "repo_info": "[Polosss/By-Poloss..-..CVE-2026-48939](https://github.com/Polosss/By-Poloss..-..CVE-2026-48939)",
+      "description": "iCagenda Unauthenticated File Upload to RCE",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T11:09:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[K3ysTr0K3R/CVE-2026-48907](https://github.com/K3ysTr0K3R/CVE-2026-48907)",
+      "description": "CVE-2026-48907 – Joomla JCE Unauthenticated Remote Code Execution (RCE)",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T21:14:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[Almavj/Joomla_CVE_2026_48907](https://github.com/Almavj/Joomla_CVE_2026_48907)",
+      "description": "cve-2026-48907 scanner",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T07:17:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[xitexploiter96-dot/CVE-2026-48907-](https://github.com/xitexploiter96-dot/CVE-2026-48907-)",
+      "description": "no description",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T06:36:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-46817",
+      "repo_info": "[0xBlackash/CVE-2026-46817](https://github.com/0xBlackash/CVE-2026-46817)",
+      "description": "CVE-2026-46817",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T23:42:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[Quaerendir/cve-2026-46331-audit](https://github.com/Quaerendir/cve-2026-46331-audit)",
+      "description": "cve-2026-46331-audit script",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T23:04:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-43503",
+      "repo_info": "[SecureWithUmer/CVE-2026-43503](https://github.com/SecureWithUmer/CVE-2026-43503)",
+      "description": "DirtyClone - local privilege escalation (LPE) proof-of-concept targeting a kernel/XFRM-related vulnerability described in the source as CVE-2026-43503",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T15:34:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-43503",
+      "repo_info": "[entra1337/DirtyClone](https://github.com/entra1337/DirtyClone)",
+      "description": "Python Proof of Concept for DirtyClone (CVE-2026-43503) - Linux kernel LPE via page-cache corruption",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T04:44:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-28496",
+      "repo_info": "[rootdirective-sec/CVE-2026-28496-Lab](https://github.com/rootdirective-sec/CVE-2026-28496-Lab)",
+      "description": "no description",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T14:39:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-20253",
+      "repo_info": "[pssec-io/CVE-2026-20253](https://github.com/pssec-io/CVE-2026-20253)",
+      "description": "POC for CVE-2026-20253",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T07:53:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-0000",
+      "repo_info": "[lucidsearch/cve-2026-0000-reference](https://github.com/lucidsearch/cve-2026-0000-reference)",
+      "description": "NIST CVE-2026-0000 Keylogger Analysis",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T22:00:32Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.356887",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2026-06-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

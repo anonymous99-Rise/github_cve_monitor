@@ -1,0 +1,223 @@
+{
+  "date": "2026-06-17",
+  "count": 30,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9691",
+      "repo_info": "[izxci/CVE-2026-9691](https://github.com/izxci/CVE-2026-9691)",
+      "description": "CVE-2026-9691: Integration for ActiveCampaign and Contact Form 7, WPForms, Elementor, Ninja Forms &lt;= 1.1.1 Unauthenticated PHP Object Injection PoC, Patch Analysis &amp; Rule",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T09:59:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-8206",
+      "repo_info": "[izxci/CVE-2026-8206](https://github.com/izxci/CVE-2026-8206)",
+      "description": "CVE-2026-8206 Kirki Plugin Unauthenticated Account Takeover Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T09:50:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-7654",
+      "repo_info": "[izxci/CVE-2026-7654](https://github.com/izxci/CVE-2026-7654)",
+      "description": "CVE-2026-7654 Admin Columns PHP Object Injection RCE Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T09:49:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-7465",
+      "repo_info": "[izxci/-CVE-2026-7465](https://github.com/izxci/-CVE-2026-7465)",
+      "description": "CVE-2026-7465 Spectra Gutenberg Blocks Authenticated RCE Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T09:52:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-7459",
+      "repo_info": "[izxci/CVE-2026-7459](https://github.com/izxci/CVE-2026-7459)",
+      "description": "CVE-2026-7459 Simple History Missing Authorization Account Takeover Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T09:54:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-5415",
+      "repo_info": "[izxci/CVE-2026-5415](https://github.com/izxci/CVE-2026-5415)",
+      "description": "CVE-2026-5415 WP Captcha PRO Authenticated Authentication Bypass Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T09:56:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-5411",
+      "repo_info": "[izxci/CVE-2026-5411](https://github.com/izxci/CVE-2026-5411)",
+      "description": "CVE-2026-5411 WP Captcha PRO",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T09:47:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-49952",
+      "repo_info": "[passwa11/CVE-2026-49952](https://github.com/passwa11/CVE-2026-49952)",
+      "description": "Chaining Security Bugs in Discuz! X5.0: from Race Condition to Pre-Auth RCE",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T09:04:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-49105",
+      "repo_info": "[izxci/CVE-2026-49105](https://github.com/izxci/CVE-2026-49105)",
+      "description": "CVE-2026-49105 WP Zendesk PHP Object Injection Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T10:06:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-49104",
+      "repo_info": "[izxci/CVE-2026-49104-](https://github.com/izxci/CVE-2026-49104-)",
+      "description": "CVE-2026-49104 Integration for Keap/Infusionsoft PHP Object Injection Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T10:05:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-49085",
+      "repo_info": "[izxci/CVE-2026-49085](https://github.com/izxci/CVE-2026-49085)",
+      "description": "CVE-2026-49085 WP Insightly PHP Object Injection Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T09:57:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-49083",
+      "repo_info": "[87achrafg-stack/CVE-2026-49083](https://github.com/87achrafg-stack/CVE-2026-49083)",
+      "description": "no description",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T14:33:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-49083",
+      "repo_info": "[izxci/CVE-2026-49083](https://github.com/izxci/CVE-2026-49083)",
+      "description": "CVE-2026-49083 LatePoint Calendar Booking Plugin Privilege Escalation Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T10:09:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-49079",
+      "repo_info": "[izxci/CVE-2026-49079](https://github.com/izxci/CVE-2026-49079)",
+      "description": "CVE-2026-49079 JetSearch SQL Injection Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T10:08:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-49060",
+      "repo_info": "[rootdirective-sec/CVE-2026-49060-Lab](https://github.com/rootdirective-sec/CVE-2026-49060-Lab)",
+      "description": "no description",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T12:22:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[wearehackers160/CVE-2026-48907](https://github.com/wearehackers160/CVE-2026-48907)",
+      "description": "CVE-2026-48907 is a critical improper access control vulnerability in the JCE editor extension for Joomla. It allows unauthenticated attackers to create new editor profiles, which can ultimately lead to arbitrary PHP file upload and remote code execution on affected systems",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T15:06:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[HORKimhab/CVE-2026-48907](https://github.com/HORKimhab/CVE-2026-48907)",
+      "description": "CVE-2026-48907",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T06:09:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)",
+      "description": "PACKET_EDIT_MEME.c (aka CVE-2026-46331): yet another page cache poisoning nightmare",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T04:09:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-46300",
+      "repo_info": "[BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project](https://github.com/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project)",
+      "description": "The project documents the completion and analysis of the Fragnesia (CVE-2026-46300) TryHackME lab, which demonstrates a Linux kernel page -cache corruption vulnerability capable of achieving local privilege escalation through modification of cached file pages without altering files on disk.",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T18:27:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-46300",
+      "repo_info": "[BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough](https://github.com/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough)",
+      "description": "This project documents the completion and analysis  of the Fragnesia (CVE-2026-46300) TryHackMe lab, which demonstrates a Linux kernel page-cache corruption vulnerability capable of achieving local priviledge escalation through modification of cached file pages without altering files on disk.",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T18:03:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-45777",
+      "repo_info": "[morepoints/CVE-2026-45777](https://github.com/morepoints/CVE-2026-45777)",
+      "description": "CVE-2026-45777 PoC",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T18:37:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-42945",
+      "repo_info": "[hulina9900-boop/DIY-CVE-2026-42945-POC](https://github.com/hulina9900-boop/DIY-CVE-2026-42945-POC)",
+      "description": "no description",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T15:15:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-42758",
+      "repo_info": "[izxci/CVE-2026-42758](https://github.com/izxci/CVE-2026-42758)",
+      "description": "CVE-2026-42758 WebinarIgnition Exploit",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T09:44:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-39813",
+      "repo_info": "[HORKimhab/CVE-2026-39813](https://github.com/HORKimhab/CVE-2026-39813)",
+      "description": "CVE-2026-39813 - Fortinet Sandbox - Draft",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T01:41:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-39808",
+      "repo_info": "[HORKimhab/CVE-2026-39808](https://github.com/HORKimhab/CVE-2026-39808)",
+      "description": "CVE-2026-39808 - Fortinet Sandbox - Draft",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T01:42:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-36425",
+      "repo_info": "[redteamfortress/CVE-2026-36425](https://github.com/redteamfortress/CVE-2026-36425)",
+      "description": "CVE-2026-36425 OPSWAT AppRemover (ardrv.sys) improper access control advisory",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T15:11:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-32488",
+      "repo_info": "[izxci/CVE-2026-32488](https://github.com/izxci/CVE-2026-32488)",
+      "description": "CVE-2026-32488",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T10:19:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-25177",
+      "repo_info": "[HORKimhab/CVE-2026-25177](https://github.com/HORKimhab/CVE-2026-25177)",
+      "description": "CVE-2026-25177 - Draft",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T06:08:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[akpmarcelin/CVE-2026-24061-lab](https://github.com/akpmarcelin/CVE-2026-24061-lab)",
+      "description": "no description",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T19:59:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-20262",
+      "repo_info": "[fevar54/CVE-2026-20262-Cisco-Catalyst-SD-WAN-Manager-Arbitrary-File-Write-](https://github.com/fevar54/CVE-2026-20262-Cisco-Catalyst-SD-WAN-Manager-Arbitrary-File-Write-)",
+      "description": "CVE-2026-20262 - Cisco Catalyst SD-WAN Manager Arbitrary File Write Path Traversal Vulnerability (CWE-22) - Authenticated Remote File Write",
+      "date": "2026-06-17",
+      "raw_date": "2026-06-17T16:36:33Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.354818",
+  "metadata": {
+    "total_cves": 30,
+    "date_range": "2026-06-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

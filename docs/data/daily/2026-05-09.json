@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-09",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe](https://github.com/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe)",
+      "description": "no description",
+      "date": "2026-05-09",
+      "raw_date": "2026-05-09T06:55:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-0073",
+      "repo_info": "[xqi1337/poc-CVE-2026-0073](https://github.com/xqi1337/poc-CVE-2026-0073)",
+      "description": "CVE-2026-0073 - ADB Wireless Mutual Authentication Bypass PoC",
+      "date": "2026-05-09",
+      "raw_date": "2026-05-09T15:40:26Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.351705",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-05-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

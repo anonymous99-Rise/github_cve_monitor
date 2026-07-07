@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-11",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8023",
+      "repo_info": "[ret2c/CVE-2026-8023](https://github.com/ret2c/CVE-2026-8023)",
+      "description": "PoC for CVE-2026-8023: Improper Limitation of a Pathname to a Restricted Directory (&#x27;Path Traversal&#x27;)",
+      "date": "2026-05-11",
+      "raw_date": "2026-05-11T14:48:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-40987",
+      "repo_info": "[daehyuh/CVE-2026-40987](https://github.com/daehyuh/CVE-2026-40987)",
+      "description": "CVE-2026-40987 PoC",
+      "date": "2026-05-11",
+      "raw_date": "2026-05-11T18:17:53Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.351868",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-05-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2024-11-26",
-  "count": 12,
+  "count": 13,
   "cves": [
     {
       "cve_id": "CVE-2024-53255",
@@ -15,6 +15,13 @@
       "description": "CVE-2024-51567 is a Python PoC exploit targeting an RCE vulnerability in CyberPanel v2.3.6’s upgrademysqlstatus endpoint, bypassing CSRF protections.",
       "date": "2024-11-26",
       "raw_date": "2024-11-26T02:18:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-46671",
+      "repo_info": "[ixec-lab/fortinet-cve-2024-46671](https://github.com/ixec-lab/fortinet-cve-2024-46671)",
+      "description": "A poc of fortinet 0-day privilege escalation",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T13:48:12Z"
     },
     {
       "cve_id": "CVE-2024-43468",
@@ -87,9 +94,9 @@
       "raw_date": "2024-11-26T07:29:58Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.379311",
+  "generated_at": "2026-07-07T04:58:53.263525",
   "metadata": {
-    "total_cves": 12,
+    "total_cves": 13,
     "date_range": "2024-11-26",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-04",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9090",
+      "repo_info": "[biosGit/CVE-2026-9090](https://github.com/biosGit/CVE-2026-9090)",
+      "description": "Casdoor version 2.362.0",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T23:22:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-57517",
+      "repo_info": "[shinthink/CVE-2026-57517](https://github.com/shinthink/CVE-2026-57517)",
+      "description": "💉 Blind SQL Injection → RCE exploit for Control Web Panel (CWP) ≤ 0.9.8.1224 — userRes POST → INTO DUMPFILE → cwpsvc shell",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T14:48:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-56290",
+      "repo_info": "[shinthink/pbck-exploit](https://github.com/shinthink/pbck-exploit)",
+      "description": "📤 Mass exploitation framework for CVE-2026-56290 — Page Builder CK Joomla unauthenticated file upload to RCE",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T00:01:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-5524",
+      "repo_info": "[caterscam/CVE-2026-5524-PoC](https://github.com/caterscam/CVE-2026-5524-PoC)",
+      "description": "no description",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T00:12:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-54998",
+      "repo_info": "[sentinel-aidefense/CVE-2026-54998-exp](https://github.com/sentinel-aidefense/CVE-2026-54998-exp)",
+      "description": "CVE-2026-54998 RCE Exploit",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T22:34:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-54415",
+      "repo_info": "[abdugafforov-bobur/CVE-2026-54415-PoC](https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC)",
+      "description": "PoC for CVE-2026-54415 — Azuriom CMS (&lt;1.2.11) Broken Access Control → account takeover",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T11:11:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-53360",
+      "repo_info": "[0xCyberstan/CVE-2026-53360-POC](https://github.com/0xCyberstan/CVE-2026-53360-POC)",
+      "description": "PoC for CVE-2026-53360: guest-triggered heap out-of-bounds read/write in KVM SEV-SNP Page State Change (PSC) handling.",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T12:27:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-49049",
+      "repo_info": "[shinthink/CVE-2026-49049](https://github.com/shinthink/CVE-2026-49049)",
+      "description": "Read-only vulnerability scanner for CVE-2026-49049 — Helix3 Joomla plugin unauthenticated AJAX handler",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T16:28:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[bayu06802/CVE-2026-48907](https://github.com/bayu06802/CVE-2026-48907)",
+      "description": "Python &amp; template nuclei",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T02:43:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-46242",
+      "repo_info": "[0xBlackash/CVE-2026-46242](https://github.com/0xBlackash/CVE-2026-46242)",
+      "description": "CVE-2026-46242",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T16:52:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-34197",
+      "repo_info": "[dinosn/apache-activemq-rce-research](https://github.com/dinosn/apache-activemq-rce-research)",
+      "description": "Apache ActiveMQ Classic RCE research: CVE-2026-34197 / CVE-2026-42588 bypass chain + hardened-6.2.6 audit findings + Crowdfense comparison",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T06:45:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-34038",
+      "repo_info": "[ThemeHackers/CVE-2026-34038](https://github.com/ThemeHackers/CVE-2026-34038)",
+      "description": "CVE-2026-34038: Authenticated Remote Command Injection in Coolify",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T04:05:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[diamorphine666/CVE-2026-33017-Exploit](https://github.com/diamorphine666/CVE-2026-33017-Exploit)",
+      "description": "Unauthenticated RCE in Langflow &lt;1.9.0 (CVE-2026-33017) Exploit",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T21:54:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[yayip/CVE-2026-33017](https://github.com/yayip/CVE-2026-33017)",
+      "description": "PoC of Langflow CVE-2026-33017",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T11:27:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-23869",
+      "repo_info": "[shaheryar773/mitigate-cve-2026-23869-react-server-component-loops](https://github.com/shaheryar773/mitigate-cve-2026-23869-react-server-component-loops)",
+      "description": "Technical troubleshooting repository for fixing infinite rendering vulnerability loops and resource exhaustion threats under CVE-2026-23869 cleanly.",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T07:17:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[diamorphine666/CVE-2026-23744-exploit](https://github.com/diamorphine666/CVE-2026-23744-exploit)",
+      "description": "Exploit for MCPJam Inspector - Remote Code Execution (CVE-2026-23744)",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T20:53:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-22874",
+      "repo_info": "[M8seven/cve-2026-22874-gitea-ssrf-allowlist](https://github.com/M8seven/cve-2026-22874-gitea-ssrf-allowlist)",
+      "description": "CVE-2026-22874 writeup: incomplete SSRF allow-list in Gitea webhook/migration (IPv6 transition and cloud metadata). Fixed in Gitea 1.26.3.",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T21:42:18Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.357788",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2026-07-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

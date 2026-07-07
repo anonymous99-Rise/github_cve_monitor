@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2025-12-12 02:54:38
+- **生成时间**: 2026-07-07 04:58:12
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -302,9 +302,46 @@
 | 🚫 未识别 | [Katirinata/CMD-Exploit-CVE-2024-RCE-AboRady-FUD-25765-Injection](https://github.com/Katirinata/CMD-Exploit-CVE-2024-RCE-AboRady-FUD-25765-Injection) | Exploit development uses tools like exploitation frameworks and CVE databases. Cmd exploits, such as cmd fud or cmd exploit, enable silent execution while avoiding detection through proper setups. | 2025-10-21T19:42:27Z|
 | 🚫 未识别 | [jiangjialiang1019/cveDataMappingYear_2020](https://github.com/jiangjialiang1019/cveDataMappingYear_2020) | no description | 2025-10-31T07:27:07Z|
 | 🚫 未识别 | [munishwalia/CVE-2025-EXPLOIT-STREET](https://github.com/munishwalia/CVE-2025-EXPLOIT-STREET) | no description | 2025-12-11T01:43:30Z|
+| 🚫 未识别 | [willygailo/W_RENAQETANA](https://github.com/willygailo/W_RENAQETANA) | Advanced Open-Source Legal CLI for Bug Bounty &amp; CVE Research — 2026 Edition | 2026-07-07T03:34:33Z|
+| 🚫 未识别 | [msdaly200/BobSentry](https://github.com/msdaly200/BobSentry) | WatsonX Challenge July 2026 - BobSentry - agent files and playbook to triage potential security vulnerabilities based on a repo&#x27;s CVE history and codebase. | 2026-07-01T07:47:36Z|
+| 🚫 未识别 | [studiomeyer-io/mcp-armor](https://github.com/studiomeyer-io/mcp-armor) | Drop-in Rust sidecar for MCP servers — scans tool calls for prompt injection, validates Ed25519 manifest signatures, blocks marketplace-poisoning vectors. &lt;5ms p99 overhead. Defense against OX Security MCP advisory (10+ CVEs, April 2026). | 2026-05-03T21:49:25Z|
+| 🚫 未识别 | [thecodeb0ss/New-Magento-PoC](https://github.com/thecodeb0ss/New-Magento-PoC) | The new vuln of Magento has a Arbitary file upload/Remote code execution conditions. | 2026-07-06T01:12:36Z|
+| 🚫 未识别 | [RyuRyu727975727975/snortrule_2026](https://github.com/RyuRyu727975727975/snortrule_2026) | CVE-2026-????? | 2026-07-04T10:37:10Z|
+| 🚫 未识别 | [Metbcy/bomdrift](https://github.com/Metbcy/bomdrift) | SBOM diff with supply-chain risk signals — flags new CVEs, typosquats, and young maintainers on changed deps. Built after axios (Mar 2026), Shai-Hulud, and xz. | 2026-04-28T04:15:32Z|
+| 🚫 未识别 | [Wh4l3X/CVE-2026-XXXX-atlassian-email-enumeration](https://github.com/Wh4l3X/CVE-2026-XXXX-atlassian-email-enumeration) | CVE-2026-XXXX: Atlassian GraphQL Email Enumeration Oracle (CWE-204, CVSS 5.3 MEDIUM) | 2026-07-02T06:31:59Z|
+| 🚫 未识别 | [Asad2liaqat/NetProbe](https://github.com/Asad2liaqat/NetProbe) | IoT vulnerability scanner with device discovery, CVE scoring, red team simulation, PDF reporting &amp; watch mode. Python - Scapy - CustomTkinter - SQLite - Flask - FYP 2026 | 2026-06-29T20:18:30Z|
+| 🚫 未识别 | [attaattaatta/cve_2026_frag_family_fix](https://github.com/attaattaatta/cve_2026_frag_family_fix) | no description | 2026-05-31T06:49:56Z|
+| 🚫 未识别 | [CVE2026/CVE2026](https://github.com/CVE2026/CVE2026) | no description | 2026-02-03T05:23:18Z|
+| 🚫 未识别 | [blackjack550/vigil](https://github.com/blackjack550/vigil) | FFmpeg vulnerability pre-scanner in Go. Detects 30+ CVEs (2020-2026) via container header analysis without triggering decode. RCE risk assessment + codec-based exploit detection. | 2026-06-24T07:00:34Z|
+| 🚫 未识别 | [Rakeshu99/rakie-k3s-security2](https://github.com/Rakeshu99/rakie-k3s-security2) | Kubernetes K3s security hardening - NetworkPolicy, CVE remediation (CRITICAL:0), securityContext, Trivy + kubeaudit + penetration testing, Prometheus + Grafana observability. TU Dublin MSc DevOps CA2 2026. | 2026-05-24T21:39:40Z|
+| 🚫 未识别 | [UmbraDeorum/cutenews-2.0-CVEs-2026-Disclosure](https://github.com/UmbraDeorum/cutenews-2.0-CVEs-2026-Disclosure) | Cutenews (https://github.com/CuteNews/cutenews-2.0) Multiple CVEs 2026 Disclosure Repository | 2026-06-18T10:49:22Z|
+| 🚫 未识别 | [system-bliss/vuln-lab-docker](https://github.com/system-bliss/vuln-lab-docker) | CVE-2026 Docker vulnerability reproduction labs | 2026-06-04T07:29:09Z|
+| 🚫 未识别 | [MUHAMMADHARIS1144/dirtyfrag-cve-2026](https://github.com/MUHAMMADHARIS1144/dirtyfrag-cve-2026) | Kernel page cache corruption POCs. Educational/research use only. | 2026-06-23T03:47:54Z|
+| 🚫 未识别 | [LittleSuRii/CVE-2026-MSIAPService](https://github.com/LittleSuRii/CVE-2026-MSIAPService) | no description | 2026-06-21T08:45:50Z|
+| 🚫 未识别 | [abdurazzoqovjavohir700-dev/security-disclosures-2026](https://github.com/abdurazzoqovjavohir700-dev/security-disclosures-2026) | Responsible security disclosures — SQL Injection, RCE, XSS in open-source PHP applications (CVE candidates 2026) | 2026-06-19T16:59:49Z|
+| 🚫 未识别 | [sparka777/cra-compliance-kit](https://github.com/sparka777/cra-compliance-kit) | Open-source EU Cyber Resilience Act compliance toolkit — SBOMs, CVE matching, device identity, ready for the Sep 2026 deadline | 2026-06-16T15:46:37Z|
+| 🚫 未识别 | [janAWARE7/cross-country-cve-2026](https://github.com/janAWARE7/cross-country-cve-2026) | no description | 2026-04-16T11:33:14Z|
+| 🚫 未识别 | [Mlassout/anssi-cve-analysis](https://github.com/Mlassout/anssi-cve-analysis) | Pipeline Python d&#x27;analyse des bulletins ANSSI (CERT-FR) avec enrichissement CVE — EFREI 2026 | 2026-06-11T09:01:24Z|
+| 🚫 未识别 | [arbabDeveolperEnterpuner/Aether](https://github.com/arbabDeveolperEnterpuner/Aether) | A modular, enterprise-grade defensive security suite featuring Biometric Face Authentication, deep Nmap CVE (2017-2026) vulnerability scanning, network packet analysis, and automated remediation mapping. | 2026-06-14T18:27:05Z|
+| 🚫 未识别 | [macbuildssys/vulnscope](https://github.com/macbuildssys/vulnscope) | ML pipeline for analysing NVD supply-chain CVE trends (2015–2026) using Linear Regression, Logistic Regression, and Random Forest to forecast emerging weakness categories. | 2026-06-14T00:07:50Z|
+| 🚫 未识别 | [Rat5ak/Rat5ak-Nadsec-2026-CVE-CERTIFIED-HOOD-CLASSICS](https://github.com/Rat5ak/Rat5ak-Nadsec-2026-CVE-CERTIFIED-HOOD-CLASSICS) | Stuff I be lookin @ | 2026-05-05T12:50:40Z|
+| 🚫 未识别 | [cavadalizada/typeorm-sqli](https://github.com/cavadalizada/typeorm-sqli) | cve-2025–60542 | 2025-06-22T18:18:26Z|
+| 🚫 未识别 | [Muhammad5235/HostBill-CVEs-2025](https://github.com/Muhammad5235/HostBill-CVEs-2025) | Recently found CVEs in Hostbill app Client and admin sides | 2025-12-22T22:07:44Z|
+| 🚫 未识别 | [jgamblin/2025CVEBlog](https://github.com/jgamblin/2025CVEBlog) | 2025 CVE Blog | 2025-12-31T20:00:02Z|
+| 🚫 未识别 | [imad457/-CVE-2025-XXXX-Firebase-Misconfiguration---Unauthenticated-RCE-](https://github.com/imad457/-CVE-2025-XXXX-Firebase-Misconfiguration---Unauthenticated-RCE-) | 🔥 Firebase Firestore RCE (CVSS 9.9) + CSP Wildcard Exploit Full pentest report with PoC, curl commands, and remediation. Production database compromised - images defaced.  📄 Report: [PDF] By imad (imsecure) - Dec 2025 | 2025-12-03T19:14:50Z|
+| 🚫 未识别 | [gpheheise/Urve-Smart-Office-Unauthenticated-SQLi-CVE-2025-XXXXX-](https://github.com/gpheheise/Urve-Smart-Office-Unauthenticated-SQLi-CVE-2025-XXXXX-) | no description | 2025-08-13T18:53:16Z|
+| 🚫 未识别 | [gpheheise/Urve-Smart-Office-Reflected-XSS-POC-CVE-2025-XXXXX-](https://github.com/gpheheise/Urve-Smart-Office-Reflected-XSS-POC-CVE-2025-XXXXX-) | no description | 2025-08-13T19:10:22Z|
+| 🚫 未识别 | [gpheheise/Urve-Smart-Office-Stored-XSS-POC-CVE-2025-XXXXX-](https://github.com/gpheheise/Urve-Smart-Office-Stored-XSS-POC-CVE-2025-XXXXX-) | no description | 2025-08-13T19:08:56Z|
+| 🚫 未识别 | [gpheheise/URVE-Smart-Office-RCE-via-php-Code-Injection-POC-CVE-2025-XXXXX-](https://github.com/gpheheise/URVE-Smart-Office-RCE-via-php-Code-Injection-POC-CVE-2025-XXXXX-) | no description | 2025-08-13T19:11:51Z|
+| 🚫 未识别 | [Muhammadshibili/High-Risk-Web-CVEs-Sep-Nov-2025](https://github.com/Muhammadshibili/High-Risk-Web-CVEs-Sep-Nov-2025) | A cybersecurity research report covering the top 15 web-based vulnerabilities from Sep–Nov 2025, with CVSS analysis, exploitation status, and impact assessment. | 2025-12-31T12:59:39Z|
+| 🚫 未识别 | [Sneden/qualtrics-xm-file-upload-validation-bypass-CVE-2025-XXXX](https://github.com/Sneden/qualtrics-xm-file-upload-validation-bypass-CVE-2025-XXXX) | Independent security finding – Qualtrics XM file upload validation bypass leading to stored XSS via admin file download (patched 2025) | 2025-12-31T03:12:02Z|
+| 🚫 未识别 | [SITESDOWN-net/2025-Top-5-CVE-POCs](https://github.com/SITESDOWN-net/2025-Top-5-CVE-POCs) | This repository is POCs for the top 2025 CVEs.  Impacting React, Fortinet, GoAnywhere, Oracle and Sharepoint. | 2025-12-26T02:38:13Z|
+| 🚫 未识别 | [firdavsxy-png/ninja-forms-cve-2025](https://github.com/firdavsxy-png/ninja-forms-cve-2025) | ninja-forms-object-injection | 2025-12-18T15:01:24Z|
+| 🚫 未识别 | [MIFT-D3v/scanner_fortinet-cve-2025](https://github.com/MIFT-D3v/scanner_fortinet-cve-2025) | scanner para detectar vulnerabilidades en fortinet | 2025-12-18T17:47:23Z|
+| 🚫 未识别 | [Geekujin/React2-PowerShell-CVE-Checker](https://github.com/Geekujin/React2-PowerShell-CVE-Checker) | PowerShell script to see if a website is affected by the &#x27;React2Shell&#x27; vulnerability (CVE 2025-55182/CVE2025-66478) | 2025-12-16T11:17:53Z|
 
 
 ---
 
-**报告生成时间**: 2025-12-12 02:55:04  
-**总记录数**: 291
+**报告生成时间**: 2026-07-07 04:58:52  
+**总记录数**: 328

@@ -1,6 +1,6 @@
 {
   "date": "2025-11-02",
-  "count": 11,
+  "count": 12,
   "cves": [
     {
       "cve_id": "CVE-2025-8088",
@@ -8,6 +8,13 @@
       "description": "CVE-2025-8088",
       "date": "2025-11-02",
       "raw_date": "2025-11-02T19:23:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-65442",
+      "repo_info": "[zero-day348/CVE-2025-65442-DOM-based-Cross-Site-Scripting-XSS-Vulnerability-in-novel-V3.5.0-CWE-79-](https://github.com/zero-day348/CVE-2025-65442-DOM-based-Cross-Site-Scripting-XSS-Vulnerability-in-novel-V3.5.0-CWE-79-)",
+      "description": "DOM-based Cross-Site Scripting (XSS) Vulnerability in novel V3.5.0 (CWE-79)",
+      "date": "2025-11-02",
+      "raw_date": "2025-11-02T02:36:35Z"
     },
     {
       "cve_id": "CVE-2025-62168",
@@ -80,9 +87,9 @@
       "raw_date": "2025-11-02T05:46:46Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.464203",
+  "generated_at": "2026-07-07T04:58:53.340307",
   "metadata": {
-    "total_cves": 11,
+    "total_cves": 12,
     "date_range": "2025-11-02",
     "source": "README.md",
     "script_version": "2.0"

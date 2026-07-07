@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-14",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-28992",
+      "repo_info": "[zeroxjf/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions](https://github.com/zeroxjf/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions)",
+      "description": "UAF and AOP coprocessor panic in IOHIDEventServiceFastPathUserClient. No entitlements, reachable from app sandbox.",
+      "date": "2026-02-14",
+      "raw_date": "2026-02-14T03:20:49Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.349156",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-02-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

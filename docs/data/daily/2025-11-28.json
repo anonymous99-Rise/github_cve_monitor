@@ -1,0 +1,20 @@
+{
+  "date": "2025-11-28",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-61638",
+      "repo_info": "[gui-ying233/CVE-2025-61638](https://github.com/gui-ying233/CVE-2025-61638)",
+      "description": "CVE-2025-61638 PoC",
+      "date": "2025-11-28",
+      "raw_date": "2025-11-28T11:15:01Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.342369",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2025-11-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

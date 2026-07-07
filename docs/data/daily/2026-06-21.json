@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-21",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-49777",
+      "repo_info": "[xxconi/CVE-2026-49777-CVE-2026-10735](https://github.com/xxconi/CVE-2026-49777-CVE-2026-10735)",
+      "description": "no description",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T17:46:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-49757",
+      "repo_info": "[Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching](https://github.com/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching)",
+      "description": "no description",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T07:03:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-48909",
+      "repo_info": "[Is4yev/CVE-2026-48909](https://github.com/Is4yev/CVE-2026-48909)",
+      "description": "CVE-2026-48909 PoC",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T21:30:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-48908",
+      "repo_info": "[webshellseo8/CVE-2026-48908-POC](https://github.com/webshellseo8/CVE-2026-48908-POC)",
+      "description": "no description",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T09:22:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-47729",
+      "repo_info": "[0xBlackash/CVE-2026-47729](https://github.com/0xBlackash/CVE-2026-47729)",
+      "description": "CVE-2026-47729",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T23:13:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-43655",
+      "repo_info": "[Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF](https://github.com/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF)",
+      "description": "Public disclosure for CVE-2026-43655 AppleM2ScalerCSCDriver use-after-free",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T20:22:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-39676",
+      "repo_info": "[OkamiSpade/Cve-2026-39676](https://github.com/OkamiSpade/Cve-2026-39676)",
+      "description": "Version: Download Manager 3.3.5.2 Title: Missing Authorization - Unauthenticated IDOR Exploit",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T21:28:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-32202",
+      "repo_info": "[1fox23/CVE-2026-32202](https://github.com/1fox23/CVE-2026-32202)",
+      "description": "no description",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T16:51:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-24688",
+      "repo_info": "[Fomovet/cve-2026-24688](https://github.com/Fomovet/cve-2026-24688)",
+      "description": "POC for CVE-2026-24688",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T14:31:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-21858",
+      "repo_info": "[Fomovet/cve-2026-21858](https://github.com/Fomovet/cve-2026-21858)",
+      "description": "POC for CVE-2026-21858",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T14:31:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-11561",
+      "repo_info": "[alperenkesk/CVE-2026-11561](https://github.com/alperenkesk/CVE-2026-11561)",
+      "description": "Nuclei template for CVE-2026-11561 — Apinizer SSTI / RCE version detection",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T10:26:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-11551",
+      "repo_info": "[ubaydev/CVE-2026-11551-PoC](https://github.com/ubaydev/CVE-2026-11551-PoC)",
+      "description": "no description",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T04:21:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-59536",
+      "repo_info": "[Perufitlife/dotclaude-security](https://github.com/Perufitlife/dotclaude-security)",
+      "description": "Scan a repo&#x27;s .claude/ config (settings.json hooks, MCP servers, env, allowed-tools) for the RCE &amp; API-key-exfiltration footguns (CVE-2025-59536, CVE-2026-21852) that fire when you clone+open an untrusted repository. Static, zero-dep, local-first.",
+      "date": "2026-06-21",
+      "raw_date": "2026-06-21T11:50:53Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.355551",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2026-06-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

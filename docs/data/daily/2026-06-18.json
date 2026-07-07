@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-18",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-7515",
+      "repo_info": "[Polosss/By-Poloss..-..CVE-2026-7515-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-7515-PoC)",
+      "description": "Unauthenticated Local File Inclusion",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T19:02:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-54420",
+      "repo_info": "[fevar54/CVE-2026-54420-LiteSpeed-Symlink-Exploit](https://github.com/fevar54/CVE-2026-54420-LiteSpeed-Symlink-Exploit)",
+      "description": "A vulnerability in LiteSpeed cPanel Plugin before 2.4.8 and WHM Plugin before 5.3.2.0 mishandles symlinks provided by a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS.",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T15:18:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-54316",
+      "repo_info": "[InertFluid/cve-2026-54316-lab](https://github.com/InertFluid/cve-2026-54316-lab)",
+      "description": "Reproduction lab for CVE-2026-54316 (Claude Code WebFetch huggingface.co bare-hostname permission bypass / exfiltration)",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T11:36:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-50751",
+      "repo_info": "[WadesWeaponShed/CheckPoint-CVE-Webscanner](https://github.com/WadesWeaponShed/CheckPoint-CVE-Webscanner)",
+      "description": "A web version of the bash scripts wrote for Check Point CVE-2026-50751 and CVE-2026-50752.  This uses a local server to scan and make changes using Check Point Web API",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T21:45:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-50656",
+      "repo_info": "[0xBlackash/CVE-2026-50656](https://github.com/0xBlackash/CVE-2026-50656)",
+      "description": "CVE-2026-50656",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T13:16:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-49975",
+      "repo_info": "[0xc03307b/CVE-2026-49975](https://github.com/0xc03307b/CVE-2026-49975)",
+      "description": "HTTP2-Bomb",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T13:17:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[g0thamRabb1t/joomla-jce-cve-2026-48907-detection](https://github.com/g0thamRabb1t/joomla-jce-cve-2026-48907-detection)",
+      "description": "Defensive lab validation and SOC detection guidance for CVE-2026-48907 in Joomla JCE &lt;= 2.9.99.4, including Apache/Joomla/auditd telemetry, webshell artifacts, Sigma rules, MITRE ATT&amp;CK mapping and mitigation recommendations.",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T22:12:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-47670",
+      "repo_info": "[error-inside/CVE-2026-47670](https://github.com/error-inside/CVE-2026-47670)",
+      "description": "Authenticated Remote Code Execution via loadReader functionName code injection in DbGate",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T20:12:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-46215",
+      "repo_info": "[0xCyberstan/CVE-2026-46215-POC](https://github.com/0xCyberstan/CVE-2026-46215-POC)",
+      "description": "no description",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T14:39:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-44963",
+      "repo_info": "[SentinelXofficial/CVE-2026-44963](https://github.com/SentinelXofficial/CVE-2026-44963)",
+      "description": "Detection scripts, patch checker &amp; hardening guide for CVE-2026-44963 (Veeam B&amp;R RCE)",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T02:50:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-42588",
+      "repo_info": "[gentleman567/POC](https://github.com/gentleman567/POC)",
+      "description": "Store vulnerability POC files including CVE-2026-42588 Spring RCE xml payload",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T11:20:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-40369",
+      "repo_info": "[0xBlackash/CVE-2026-40369](https://github.com/0xBlackash/CVE-2026-40369)",
+      "description": "CVE-2026-40369",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T16:16:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-39808",
+      "repo_info": "[error-inside/CVE-2026-39808](https://github.com/error-inside/CVE-2026-39808)",
+      "description": "Fortinet FortiSandbox 4.4.0-4.4.8 - OS Command Injection via tracer-behavior Endpoint",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T20:32:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-38165",
+      "repo_info": "[AT190510-Cuong/CVE-2026-38165-SSTI-](https://github.com/AT190510-Cuong/CVE-2026-38165-SSTI-)",
+      "description": "CVE-2026-38165 (SSTI)",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T02:49:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-3359",
+      "repo_info": "[itsthalisman/cve-2026-3359-exp](https://github.com/itsthalisman/cve-2026-3359-exp)",
+      "description": "A PoC/exploit written in python for the unauthenticated SQL injection vulnerability CVE-2026-3359 situated within Form Maker (version &lt;= 1.15.42) by 10Web.",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T17:51:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-10520",
+      "repo_info": "[error-inside/CVE-2026-10520](https://github.com/error-inside/CVE-2026-10520)",
+      "description": "Root-Level RCE via OS Command Injection in Ivanti Sentry",
+      "date": "2026-06-18",
+      "raw_date": "2026-06-18T20:20:55Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.355075",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2026-06-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2025-11-24",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-64087",
+      "repo_info": "[AT190510-Cuong/CVE-2025-64087-SSTI-](https://github.com/AT190510-Cuong/CVE-2025-64087-SSTI-)",
+      "description": "CVE-2025-64087 (SSTI)",
+      "date": "2025-11-24",
+      "raw_date": "2025-11-24T08:13:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-62726",
+      "repo_info": "[baktistr/cve-2025-62726-poc](https://github.com/baktistr/cve-2025-62726-poc)",
+      "description": "This is a proof-of-concept demonstration for CVE-2025-62726, created for educational purposes as part of a class project. Part of CMU Course : 18-739 Hacking &amp; Offensive Security in Fall 2025",
+      "date": "2025-11-24",
+      "raw_date": "2025-11-24T20:39:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-38678",
+      "repo_info": "[guard-wait/CVE-2025-38678_POC](https://github.com/guard-wait/CVE-2025-38678_POC)",
+      "description": "maybe the first poc for CVE-2025-38678?",
+      "date": "2025-11-24",
+      "raw_date": "2025-11-24T10:12:57Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.342062",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2025-11-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

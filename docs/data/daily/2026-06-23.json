@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-23",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9082",
+      "repo_info": "[eliHiHo/portfolio-drupal-cve-2026-9082](https://github.com/eliHiHo/portfolio-drupal-cve-2026-9082)",
+      "description": "no description",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T16:06:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-8461",
+      "repo_info": "[anyanything/CVE-2026-8461-PoC](https://github.com/anyanything/CVE-2026-8461-PoC)",
+      "description": "no description",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T18:08:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-55200",
+      "repo_info": "[0xBlackash/CVE-2026-55200](https://github.com/0xBlackash/CVE-2026-55200)",
+      "description": "CVE-2026-55200",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T21:13:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-45156",
+      "repo_info": "[cybertechajju/CVE-2026-45156-POC](https://github.com/cybertechajju/CVE-2026-45156-POC)",
+      "description": "This repository contains the Proof of Concept (PoC) exploit script for CVE-2026-45156",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T19:02:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-42978",
+      "repo_info": "[grizzzer/CVE-2026-42978-PoC-Research](https://github.com/grizzzer/CVE-2026-42978-PoC-Research)",
+      "description": "CVE-2026-42978 — Use-After-Free race condition in Windows Push Notifications (WpnService). Patch diff, root cause analysis, TOCTOU lab, Sysmon/ETW detection rules.",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T21:05:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-42221",
+      "repo_info": "[fuchiuebusi-lab/nginx-ui-CVE-2026-42221-CVE-2026-42238-](https://github.com/fuchiuebusi-lab/nginx-ui-CVE-2026-42221-CVE-2026-42238-)",
+      "description": "no description",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T06:59:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-41096",
+      "repo_info": "[personnumber3377/dns_client_fuzzing](https://github.com/personnumber3377/dns_client_fuzzing)",
+      "description": "Fuzzing the Microsoft Windows DNS client library. Inspired by CVE-2026-41096.",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T12:59:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-40369",
+      "repo_info": "[CCELEND/CVE-2026-40369](https://github.com/CCELEND/CVE-2026-40369)",
+      "description": "CVE-2026-40369本地权限提升漏洞exp",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T02:37:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-39253",
+      "repo_info": "[timtimxs/CVE-2026-39253-Advisory](https://github.com/timtimxs/CVE-2026-39253-Advisory)",
+      "description": "Public advisory for CVE-2026-39253, addressing an insecure deserialisation in Pivotal CRM 6.6.04.08 allowing remote code execution via unsafe BinaryFormatter usage in Smart Client and PBS components. Includes vulnerability details, affected versions, and remediation guidance.",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T12:26:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-21018",
+      "repo_info": "[Filipemendonca1978/CVE-2026-21018](https://github.com/Filipemendonca1978/CVE-2026-21018)",
+      "description": "A minimal PoC for CVE-2026-21018, demonstrating how it works",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T00:53:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-11837",
+      "repo_info": "[M8seven/cve-2026-11837-ansible-posix-authorized-key](https://github.com/M8seven/cve-2026-11837-ansible-posix-authorized-key)",
+      "description": "CVE-2026-11837: local privilege escalation in the ansible.posix authorized_key module via symlink-following chown. Technical writeup; sibling of CVE-2024-9902.",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T14:05:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-11834",
+      "repo_info": "[mattgsys/CVE-2026-11834](https://github.com/mattgsys/CVE-2026-11834)",
+      "description": "Proof of Concept (PoC) for the TP-Link DHCP Option 66 Unauthenticated RCE (CVE-2026-11834)",
+      "date": "2026-06-23",
+      "raw_date": "2026-06-23T19:41:07Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.355891",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2026-06-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

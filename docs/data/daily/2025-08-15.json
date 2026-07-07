@@ -1,6 +1,6 @@
 {
   "date": "2025-08-15",
-  "count": 27,
+  "count": 28,
   "cves": [
     {
       "cve_id": "CVE-2025-9043",
@@ -29,6 +29,13 @@
       "description": "ZeroDay on exiv2!CVE-2025-XXXX: Heap-based buffer overflow in PngChunk::readRawProfile (PNG iTXt “Raw profile”)",
       "date": "2025-08-15",
       "raw_date": "2025-08-15T19:44:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-70600",
+      "repo_info": "[gpheheise/CVE-2025-70600---Urve-Smart-Office---Stored-XSS-in-iOS-App](https://github.com/gpheheise/CVE-2025-70600---Urve-Smart-Office---Stored-XSS-in-iOS-App)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T20:17:27Z"
     },
     {
       "cve_id": "CVE-2025-53766",
@@ -192,9 +199,9 @@
       "raw_date": "2025-08-15T11:08:31Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.443301",
+  "generated_at": "2026-07-07T04:58:53.321812",
   "metadata": {
-    "total_cves": 27,
+    "total_cves": 28,
     "date_range": "2025-08-15",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-16",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9082",
+      "repo_info": "[sourcecode347/CVE-2026-9082-Mass_Scanner](https://github.com/sourcecode347/CVE-2026-9082-Mass_Scanner)",
+      "description": "Mass Scanner For Drupal Exploit CVE-2026-9082",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T19:30:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-55168",
+      "repo_info": "[KovachVL/CVE-2026-55168](https://github.com/KovachVL/CVE-2026-55168)",
+      "description": "no description",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T17:35:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-54686",
+      "repo_info": "[Saku0512/CVE-2026-54686-poc](https://github.com/Saku0512/CVE-2026-54686-poc)",
+      "description": "no description",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T04:41:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-54420",
+      "repo_info": "[mahfuzreham/litespeed-cpanel-cve-2026-54420-fix](https://github.com/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix)",
+      "description": "no description",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T07:39:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-54420",
+      "repo_info": "[Resellnom/litespeed-cpanel-cve-2026-54420-fix](https://github.com/Resellnom/litespeed-cpanel-cve-2026-54420-fix)",
+      "description": "no description",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T07:14:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-54420",
+      "repo_info": "[HORKimhab/CVE-2026-54420](https://github.com/HORKimhab/CVE-2026-54420)",
+      "description": "CVE-2026-54420",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T06:09:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-53582",
+      "repo_info": "[eev4n/CVE-2026-53582](https://github.com/eev4n/CVE-2026-53582)",
+      "description": "no description",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T11:25:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-52943",
+      "repo_info": "[vn-lazyming/CVE-2026-52943](https://github.com/vn-lazyming/CVE-2026-52943)",
+      "description": "This is a Linux Kernel Local Privilege Escalation PoC code for CVE-2026-52943 a use-after-free in skbuff.c, my first 0day found by me in linux kernel",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T10:16:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-47101",
+      "repo_info": "[HORKimhab/CVE-LiteLLM](https://github.com/HORKimhab/CVE-LiteLLM)",
+      "description": "CVE-2026-47101, CVE-2026-47102,  CVE-2026-40217",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T01:23:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[Desireeontrial76/yellowkey-bitlocker](https://github.com/Desireeontrial76/yellowkey-bitlocker)",
+      "description": "Manage and recover BitLocker encrypted drives with this tool for Windows 11 recovery key management and educational study of CVE-2026-45585.",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T07:21:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-44881",
+      "repo_info": "[0xdak/CVE-2026-44881_exploit](https://github.com/0xdak/CVE-2026-44881_exploit)",
+      "description": "no description",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T09:32:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-4480",
+      "repo_info": "[Vusal777/CVE-2026-4480-exploit-poc](https://github.com/Vusal777/CVE-2026-4480-exploit-poc)",
+      "description": "This is an exploit poc for CVE-2026-4480",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T09:49:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-39949",
+      "repo_info": "[lukehebe/CVE-2026-39949](https://github.com/lukehebe/CVE-2026-39949)",
+      "description": "Cacti ≤ 1.2.30 Auth RCE - Host variable injection",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T20:48:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-36522",
+      "repo_info": "[deepwoodssec/CVE-2026-36522](https://github.com/deepwoodssec/CVE-2026-36522)",
+      "description": "CVE-2026-36522: unauthenticated NaN injection via MAVLink PARAM_SET in ArduPilot ArduPlane (CWE-1287, DoS/integrity)",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T01:43:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-32488",
+      "repo_info": "[webshellseo8/CVE-2026-32488-POC](https://github.com/webshellseo8/CVE-2026-32488-POC)",
+      "description": "CVE-2026-32488",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T12:21:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-20262",
+      "repo_info": "[HORKimhab/CVE-2026-20262](https://github.com/HORKimhab/CVE-2026-20262)",
+      "description": "CVE-2026-20262 - Draft",
+      "date": "2026-06-16",
+      "raw_date": "2026-06-16T06:24:11Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.354643",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2026-06-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

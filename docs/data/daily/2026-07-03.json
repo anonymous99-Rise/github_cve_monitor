@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-03",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8451",
+      "repo_info": "[0xBlackash/CVE-2026-8451](https://github.com/0xBlackash/CVE-2026-8451)",
+      "description": "CVE-2026-8451",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T15:16:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-56290",
+      "repo_info": "[sagsooz/PageBuilderCK-CVE-2026-56290-Exploit](https://github.com/sagsooz/PageBuilderCK-CVE-2026-56290-Exploit)",
+      "description": "Page Builder CK for Joomla - Unauthenticated SSRF / Remote File Write leading to PHP execution Exploiter",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T00:52:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-53753",
+      "repo_info": "[thecodeb0ss/Advanced-CVE-2026-53753](https://github.com/thecodeb0ss/Advanced-CVE-2026-53753)",
+      "description": "Crawl4AI is an open-source LLM friendly web crawler &amp; scraper. Prior to 0.8.7, the _safe_eval_expression() function in the computed fields feature uses an AST validator that only blocks attributes starting with underscore.",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T02:17:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-49468",
+      "repo_info": "[BiiTts/CVE-2026-49468-LiteLLM-Auth-Bypass](https://github.com/BiiTts/CVE-2026-49468-LiteLLM-Auth-Bypass)",
+      "description": "CVE-2026-49468 — LiteLLM (&lt;1.84.0) unauthenticated auth bypass via Host-header route confusion. PoC + docker lab.",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T06:05:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-44825",
+      "repo_info": "[shinthink/solrradar](https://github.com/shinthink/solrradar)",
+      "description": "☄️ Mass reconnaissance &amp; exploitation framework for Apache Solr CVE-2026-44825 — Velocity template injection to RCE",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T23:24:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-36851",
+      "repo_info": "[SyntaxSaiyan/CVE-2026-36851](https://github.com/SyntaxSaiyan/CVE-2026-36851)",
+      "description": "Walkthrough and PoC of File path traversal vulnerability(CVE-2026-36851) for UnPoller 2.33.0",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T15:27:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-34835",
+      "repo_info": "[Cyber-note/CVE-2026-34835-Black-box-Analysis](https://github.com/Cyber-note/CVE-2026-34835-Black-box-Analysis)",
+      "description": "A black-box (DAST) security analysis of CVE-2026-34835 focusing on external validation methodology, observable behavior, security impact, and defensive recommendations.",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T02:50:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-28995",
+      "repo_info": "[Robertmak2014-sudow/CVE-2026-28995](https://github.com/Robertmak2014-sudow/CVE-2026-28995)",
+      "description": "# CVE-2026-28995  Proof of Concept for CVE-2026-28995 — Path Traversal vulnerability in App Intents on iOS 26.4.2 and below.",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T04:19:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-26114",
+      "repo_info": "[huynambka/cve-2026-26114-poc](https://github.com/huynambka/cve-2026-26114-poc)",
+      "description": "no description",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T14:46:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-14459",
+      "repo_info": "[dasokkk/CVE-2026-14459-14460-pardus-software](https://github.com/dasokkk/CVE-2026-14459-14460-pardus-software)",
+      "description": "Pardus Software Local Privilege Escalation PoC - affected from &lt;= 1.0.4",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T17:30:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-11387",
+      "repo_info": "[1beelze/CVE-2026-11387](https://github.com/1beelze/CVE-2026-11387)",
+      "description": "no description",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T08:35:14Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.357644",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2026-07-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "date": "2025-12-19",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-68461",
+      "repo_info": "[rxerium/CVE-2025-68461](https://github.com/rxerium/CVE-2025-68461)",
+      "description": "Detection for CVE-2025-68461",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T11:19:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-68055",
+      "repo_info": "[Nosiume/CVE-2025-68055-poc](https://github.com/Nosiume/CVE-2025-68055-poc)",
+      "description": "Exploit POC for CVE-2025-68055 SQL injection in WP Hydra Booking Plugin &lt;= 1.1.32",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T10:01:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-66516",
+      "repo_info": "[intSheep/Tika-CVE-2025-66516-Lab](https://github.com/intSheep/Tika-CVE-2025-66516-Lab)",
+      "description": "no description",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T07:26:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-65817",
+      "repo_info": "[Istaarkk/CVE-2025-65817](https://github.com/Istaarkk/CVE-2025-65817)",
+      "description": "Here is the CVE-2025-65817",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T18:54:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-55184",
+      "repo_info": "[shubham-01-star/OpsGuard-simulation](https://github.com/shubham-01-star/OpsGuard-simulation)",
+      "description": "OpsGuard eliminates the &quot;3 AM PagerDuty&quot; nightmare, specifically protecting against threats like the recent CVE-2025-55184 (Next.js DoS)",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T17:55:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[mahaveer-choudhary/CVE-2025-55182](https://github.com/mahaveer-choudhary/CVE-2025-55182)",
+      "description": "A Python-based security scanner for detecting and exploiting **React Server Components (RSC)** vulnerabilities in Next.js applications. This tool performs passive detection, active fingerprinting, and RCE exploitation testing.",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T17:06:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[lamaper/CVE-2025-55182-Toolbox](https://github.com/lamaper/CVE-2025-55182-Toolbox)",
+      "description": "no description",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T11:40:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[chrahman/react2shell-CVE-2025-55182-full-rce-script](https://github.com/chrahman/react2shell-CVE-2025-55182-full-rce-script)",
+      "description": "React2Shell vulnerability (CVE-2025-55182 / CVE-2025-66478) Full Script",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T10:17:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[open-flaw/CVE-2025-55182](https://github.com/open-flaw/CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T04:07:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-37164",
+      "repo_info": "[g0vguy/CVE-2025-37164-PoC](https://github.com/g0vguy/CVE-2025-37164-PoC)",
+      "description": "PoC for CVE-2025-37164",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T22:00:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-13486",
+      "repo_info": "[whattheslime/CVE-2025-13486](https://github.com/whattheslime/CVE-2025-13486)",
+      "description": "CVE-2025-13486 - Remote Code Execution &amp; Privilege Escalation exploit",
+      "date": "2025-12-19",
+      "raw_date": "2025-12-19T10:49:16Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.346374",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2025-12-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

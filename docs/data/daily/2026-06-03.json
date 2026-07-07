@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-03",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-54088",
+      "repo_info": "[Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)",
+      "description": "no description",
+      "date": "2026-06-03",
+      "raw_date": "2026-06-03T11:49:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-41089",
+      "repo_info": "[hnytgl/CVE-2026-41089](https://github.com/hnytgl/CVE-2026-41089)",
+      "description": "CVE-2026-41089 是 Windows Netlogon 服务中一个关键的远程代码执行漏洞，单包即可崩溃 lsass.exe，导致域控制器在约 30-60 秒内重启。此期间该 DC 的所有域认证将失败。",
+      "date": "2026-06-03",
+      "raw_date": "2026-06-03T02:29:06Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.353117",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-06-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

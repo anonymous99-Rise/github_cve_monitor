@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-01",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-48710",
+      "repo_info": "[eris-ths/supply-chain-guard](https://github.com/eris-ths/supply-chain-guard)",
+      "description": "Detect, assess, and respond to supply chain attacks across npm/yarn and Python (pip/poetry/uv). Claude Code skill + standalone scripts. Built during axios RAT (2026-03-31) and Starlette BadHost CVE-2026-48710 (2026-05-22).",
+      "date": "2026-04-01",
+      "raw_date": "2026-04-01T02:12:00Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.350352",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-04-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

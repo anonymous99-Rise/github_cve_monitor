@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-30",
+  "count": 21,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8451",
+      "repo_info": "[derekpreston81/CVE_ADC_IOC_2026](https://github.com/derekpreston81/CVE_ADC_IOC_2026)",
+      "description": "Citrix NetScaler CVE Preconditions Checker as per CTX696604 - Supported CVE : CVE-2026-8451, CVE-2026-8452, CVE-2026-8655, CVE-2026-10816, CVE-2026-10817, and CVE-2026-13474",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T22:15:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-8451",
+      "repo_info": "[watchtowrlabs/watchTowr-vs-Netscaler-CVE-2026-8451](https://github.com/watchtowrlabs/watchTowr-vs-Netscaler-CVE-2026-8451)",
+      "description": "no description",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T15:28:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-8037",
+      "repo_info": "[HORKimhab/CVE-2026-8037](https://github.com/HORKimhab/CVE-2026-8037)",
+      "description": "CVE-2026-8037 - Draft",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T07:57:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-58138",
+      "repo_info": "[BiiTts/CVE-2026-58138-Conductor-Unauth-RCE](https://github.com/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE)",
+      "description": "CVE-2026-58138 — Conductor (3.21.21..&lt;3.30.2) unauthenticated RCE via INLINE GraalVM evaluator (HostAccess.ALL). Lab + PoC, verified e2e (root).",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T19:48:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-56121",
+      "repo_info": "[BiiTts/CVE-2026-56121-Feast-Unauth-RCE](https://github.com/BiiTts/CVE-2026-56121-Feast-Unauth-RCE)",
+      "description": "CVE-2026-56121 — Feast &lt;0.63.0 unauthenticated RCE via gRPC registry dill.loads of OnDemandFeatureView UDF (pre-auth). Lab + PoC, verified e2e.",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T08:27:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-55255",
+      "repo_info": "[rootdirective-sec/CVE-2026-55255-Lab](https://github.com/rootdirective-sec/CVE-2026-55255-Lab)",
+      "description": "no description",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T14:49:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-49869",
+      "repo_info": "[Ap0dexMe0/CVE-2026-49869](https://github.com/Ap0dexMe0/CVE-2026-49869)",
+      "description": "Kestra Auth-Bypass Vulnerability Checker",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T14:13:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[pssec-io/CVE-2026-48907](https://github.com/pssec-io/CVE-2026-48907)",
+      "description": "POC for CVE-2026-48907",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T15:35:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-46817",
+      "repo_info": "[HORKimhab/CVE-2026-46817](https://github.com/HORKimhab/CVE-2026-46817)",
+      "description": "CVE-2026-46817 - Draft",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T08:00:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-46490",
+      "repo_info": "[BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection](https://github.com/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection)",
+      "description": "CVE-2026-46490 — samlify &lt;2.13.0 SAML AttributeValue XML injection -&gt; signed-assertion privilege escalation. Self-contained PoC, verified e2e.",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T19:13:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection](https://github.com/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection)",
+      "description": "Defensive validation of CVE-2026-46331 / pedit COW with auditd, AppArmor, mitigation comparison and detection logic.",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T18:29:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[seguridadentrerios/CVE-2026-46331](https://github.com/seguridadentrerios/CVE-2026-46331)",
+      "description": "Chequeo y Fix de la vulnerabilidad &quot;pedit COW&quot;",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T10:55:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-46300",
+      "repo_info": "[MadExploits/CVE-2026-46300](https://github.com/MadExploits/CVE-2026-46300)",
+      "description": "CVE-2026-43284 - CVE-2026-43500 - CVE-2026-46300 Variant of dirtyfrag exploit",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T18:15:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-44789",
+      "repo_info": "[BiiTts/CVE-2026-44789-n8n-PrototypePollution-RCE](https://github.com/BiiTts/CVE-2026-44789-n8n-PrototypePollution-RCE)",
+      "description": "CVE-2026-44789 — n8n &lt;1.123.43 HTTP Request pagination prototype pollution to RCE (NODE_OPTIONS runner-spawn gadget). Lab + automated PoC, verified e2e.",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T02:11:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-43700",
+      "repo_info": "[dem0ns/CVE-2026-43700](https://github.com/dem0ns/CVE-2026-43700)",
+      "description": "Safari 跨域读取视频",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T03:06:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-4020",
+      "repo_info": "[faizdotid/CVE-2026-4020](https://github.com/faizdotid/CVE-2026-4020)",
+      "description": "no description",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T11:37:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-31694",
+      "repo_info": "[0xCyberstan/CVE-2026-31694-POC](https://github.com/0xCyberstan/CVE-2026-31694-POC)",
+      "description": "Linux kernel FUSE readdir cache out-of-bounds write (CVE-2026-31694): a malicious FUSE server overflows a page-cache page by 24 bytes. PoC plus an unprivileged local-root exploit via /etc/passwd page-cache corruption. Run only inside a VM.",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T11:49:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-27626",
+      "repo_info": "[0xh7ml/CVE-2026-27626-PoC](https://github.com/0xh7ml/CVE-2026-27626-PoC)",
+      "description": "OliveTin is a self-hosted web UI for exposing predefined shell commands to end users. This repository contains a proof-of-concept demonstrating two independent OS command injection vectors in OliveTin&#x27;s Shell mode execution path, both of which bypass the application&#x27;s intended shell-argument safety checks.",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T06:46:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-22557",
+      "repo_info": "[gagaltotal/CVE-2026-22557-Path-Traversal-Ubiquti-UniFi](https://github.com/gagaltotal/CVE-2026-22557-Path-Traversal-Ubiquti-UniFi)",
+      "description": "CVE-2026-22557 Path Traversal Ubiquti UniFi Network Application",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T15:47:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-21509",
+      "repo_info": "[sentinel-aidefense/CVE-2026-21509](https://github.com/sentinel-aidefense/CVE-2026-21509)",
+      "description": "no description",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T16:19:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-10580",
+      "repo_info": "[0xgh057r3c0n/CVE-2026-10580](https://github.com/0xgh057r3c0n/CVE-2026-10580)",
+      "description": "PoC exploit for CVE-2026-10580 - Authentication Bypass in Hippoo Mobile App for WooCommerce &lt;= 1.9.4 leading to Admin Account Takeover",
+      "date": "2026-06-30",
+      "raw_date": "2026-06-30T09:08:23Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.357053",
+  "metadata": {
+    "total_cves": 21,
+    "date_range": "2026-06-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

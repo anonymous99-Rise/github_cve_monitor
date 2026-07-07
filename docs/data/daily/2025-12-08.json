@@ -1,18 +1,74 @@
 {
   "date": "2025-12-08",
-  "count": 1,
+  "count": 9,
   "cves": [
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[Letalandroid/cve-2025-66478_rce_vulnerable](https://github.com/Letalandroid/cve-2025-66478_rce_vulnerable)",
+      "description": "IMPORTANTE: Proyecto de Next JS VULNERABLE creado solo para fines educativos, de pruebas y explotación, NO SE RECOMIENDA INSTALACIÓN EN PRODUCCION, SÓLO PARA ÁMBITO LOCAL O ENTORNO CONTROLADO",
+      "date": "2025-12-08",
+      "raw_date": "2025-12-08T13:34:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-65741",
+      "repo_info": "[vinicius-batistella/CVE-2025-65741](https://github.com/vinicius-batistella/CVE-2025-65741)",
+      "description": "no description",
+      "date": "2025-12-08",
+      "raw_date": "2025-12-08T18:57:20Z"
+    },
     {
       "cve_id": "CVE-2025-55182",
       "repo_info": "[0xSalm0n/CVE-2025-55182](https://github.com/0xSalm0n/CVE-2025-55182)",
       "description": "no description",
       "date": "2025-12-08",
       "raw_date": "2025-12-08T11:20:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[theman001/CVE-2025-55182](https://github.com/theman001/CVE-2025-55182)",
+      "description": "CVE-2025-55182 React RCE Test Program",
+      "date": "2025-12-08",
+      "raw_date": "2025-12-08T01:01:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[0xsj/CVE-2025-55182](https://github.com/0xsj/CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-08",
+      "raw_date": "2025-12-08T09:23:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[faizdotid/rust-cve-2025-55182](https://github.com/faizdotid/rust-cve-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-08",
+      "raw_date": "2025-12-08T04:11:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[jandelima/cve-2025-55182-poc-test](https://github.com/jandelima/cve-2025-55182-poc-test)",
+      "description": "no description",
+      "date": "2025-12-08",
+      "raw_date": "2025-12-08T12:58:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182](https://github.com/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182)",
+      "description": "React2shell-web-scanner",
+      "date": "2025-12-08",
+      "raw_date": "2025-12-08T10:12:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[LucasPDiniz/CVE-2025-55182](https://github.com/LucasPDiniz/CVE-2025-55182)",
+      "description": "React2Shell Vulnerability",
+      "date": "2025-12-08",
+      "raw_date": "2025-12-08T05:43:45Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.465551",
+  "generated_at": "2026-07-07T04:58:53.343835",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 9,
     "date_range": "2025-12-08",
     "source": "README.md",
     "script_version": "2.0"

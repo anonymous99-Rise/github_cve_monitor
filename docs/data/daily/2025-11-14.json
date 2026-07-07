@@ -1,0 +1,27 @@
+{
+  "date": "2025-11-14",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-13159",
+      "repo_info": "[MooseLoveti/Flo-Forms-CVE-Report](https://github.com/MooseLoveti/Flo-Forms-CVE-Report)",
+      "description": "Disclosure for CVE-2025-13159",
+      "date": "2025-11-14",
+      "raw_date": "2025-11-14T21:13:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-13156",
+      "repo_info": "[MooseLoveti/Vitepos-CVE-Report](https://github.com/MooseLoveti/Vitepos-CVE-Report)",
+      "description": "Disclosure for CVE-2025-13156",
+      "date": "2025-11-14",
+      "raw_date": "2025-11-14T21:47:59Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.341191",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2025-11-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

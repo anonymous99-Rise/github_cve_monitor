@@ -1,7 +1,35 @@
 {
   "date": "2025-12-12",
-  "count": 5,
+  "count": 17,
   "cves": [
+    {
+      "cve_id": "CVE-2025-66516",
+      "repo_info": "[chasingimpact/CVE-2025-66516-Writeup-POC](https://github.com/chasingimpact/CVE-2025-66516-Writeup-POC)",
+      "description": "CVE-2025-66516 working exploit, scanner, explanation.",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T04:28:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[abdozkaya/rsc-security-auditor](https://github.com/abdozkaya/rsc-security-auditor)",
+      "description": "🛡️ Audit your Next.js &amp; React Server Components stack for critical vulnerabilities (CVE-2025-66478, CVE-2025-55184). Detects risks &amp; generates fix commands. 100% Client-side.",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T22:37:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[viperh/poc-cve-next](https://github.com/viperh/poc-cve-next)",
+      "description": "PoC for Next.js RCE Vulnerability  CVE-2025-66478",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T14:54:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-58360",
+      "repo_info": "[Joker-Wiggin/CVE-2025-58360-GeoServer-XXE](https://github.com/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE)",
+      "description": "no description",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T18:51:38Z"
+    },
     {
       "cve_id": "CVE-2025-55184",
       "repo_info": "[ejpir/CVE-2025-55184](https://github.com/ejpir/CVE-2025-55184)",
@@ -24,6 +52,20 @@
       "raw_date": "2025-12-12T02:00:01Z"
     },
     {
+      "cve_id": "CVE-2025-55183",
+      "repo_info": "[StealthMoud/react-server-cve-lab](https://github.com/StealthMoud/react-server-cve-lab)",
+      "description": "Security research lab for CVE-2025-55183 and CVE-2025-55184 in React Server Components",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T21:54:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-55183",
+      "repo_info": "[omaidnebari/RSC-Scanner-POC](https://github.com/omaidnebari/RSC-Scanner-POC)",
+      "description": "CVE-2025-55183 Scanner",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T18:42:24Z"
+    },
+    {
       "cve_id": "CVE-2025-55182",
       "repo_info": "[IrsyadSEC/CVE-2025-55182-MassPayloadAttack](https://github.com/IrsyadSEC/CVE-2025-55182-MassPayloadAttack)",
       "description": "CVE-2025-55182 payload",
@@ -31,16 +73,58 @@
       "raw_date": "2025-12-12T02:13:20Z"
     },
     {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[raivenLockdown/WEB-CLI_RCE_React2Shell](https://github.com/raivenLockdown/WEB-CLI_RCE_React2Shell)",
+      "description": "WEB-CLI_RCE_React2Shell is an educational PoC exploit tool for CVE-2025-55182, a critical Prototype Pollution flaw in Next.js applications using React Server Components. Designed for CTFs and research, it features a single-command mode, an interactive web CLI, and reverse shell capabilities to demonstrate RCE.",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T09:30:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)",
+      "description": "CVE-2025-55182 – CVE-2025-66478 – React2Shell",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T15:57:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[sho-luv/React2Shell](https://github.com/sho-luv/React2Shell)",
+      "description": "CVE-2025-55182 security test kit: CLI scanner + Chrome extension + Nuclei templates + Docker lab.",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T18:33:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-43426",
+      "repo_info": "[csrXamfi/CVE-2025-43426](https://github.com/csrXamfi/CVE-2025-43426)",
+      "description": "CVE-2025-43426 (video + report)",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T15:37:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-43400",
+      "repo_info": "[csrXamfi/CVE-2025-43400](https://github.com/csrXamfi/CVE-2025-43400)",
+      "description": "CVE-2025-43400 (video + report)",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T15:31:23Z"
+    },
+    {
       "cve_id": "CVE-2025-13780",
       "repo_info": "[zeropwn/pgadmin4-9.10-CVE-2025-13780](https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780)",
       "description": "Proof of concept for CVE-2025-13780",
       "date": "2025-12-12",
       "raw_date": "2025-12-12T00:01:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-11001",
+      "repo_info": "[I3r1h0n/7Ziprowler](https://github.com/I3r1h0n/7Ziprowler)",
+      "description": "Exploit for CVE-2025-11001",
+      "date": "2025-12-12",
+      "raw_date": "2025-12-12T16:49:26Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.466622",
+  "generated_at": "2026-07-07T04:58:53.344885",
   "metadata": {
-    "total_cves": 5,
+    "total_cves": 17,
     "date_range": "2025-12-12",
     "source": "README.md",
     "script_version": "2.0"

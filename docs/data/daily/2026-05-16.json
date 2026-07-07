@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-16",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-6433",
+      "repo_info": "[murrez/CVE-2026-6433](https://github.com/murrez/CVE-2026-6433)",
+      "description": "PoC for CVE-2026-6433: WordPress FlipperCode Custom CSS, JS &amp; PHP (≤2.0.7) — unauthenticated SQLi to RCE. Python 3 stdlib; single target or bulk multi-threaded scanning. Authorized testing &amp; research only.",
+      "date": "2026-05-16",
+      "raw_date": "2026-05-16T09:29:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-42945",
+      "repo_info": "[limo57640-crypto/nginx-rift-detector](https://github.com/limo57640-crypto/nginx-rift-detector)",
+      "description": "Free NGINX Rift CVE-2026-42945 detector for version, rewrite config, ASLR, crash logs, and exploitation indicators.",
+      "date": "2026-05-16",
+      "raw_date": "2026-05-16T12:13:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[limo57640-crypto/cpanel-cve-41940-detector](https://github.com/limo57640-crypto/cpanel-cve-41940-detector)",
+      "description": "Read-only cPanel CVE-2026-41940 IOC detector for .sorry ransomware, Mr_Rot13 Filemanager backdoors, C2 callbacks, cron, SSH, and logs.",
+      "date": "2026-05-16",
+      "raw_date": "2026-05-16T12:12:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-1492",
+      "repo_info": "[limo57640-crypto/wp-user-registration-vuln-checker](https://github.com/limo57640-crypto/wp-user-registration-vuln-checker)",
+      "description": "Read-only WordPress User Registration CVE-2026-1492 checker for hidden admins, plugin version, uploads PHP, cron, and compromise IOCs.",
+      "date": "2026-05-16",
+      "raw_date": "2026-05-16T12:12:50Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.352214",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-05-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

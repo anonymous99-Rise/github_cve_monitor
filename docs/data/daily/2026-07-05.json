@@ -1,0 +1,118 @@
+{
+  "date": "2026-07-05",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9290",
+      "repo_info": "[shinthink/CVE-2026-9290](https://github.com/shinthink/CVE-2026-9290)",
+      "description": "Pre-auth Local File Inclusion in WP User Manager &lt;= 2.9.17 via path traversal in tab parameter (CVSS 7.5)",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T23:17:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-8713",
+      "repo_info": "[shinthink/CVE-2026-8713](https://github.com/shinthink/CVE-2026-8713)",
+      "description": "Pre-auth path traversal to arbitrary file delete in Avada (Fusion) Builder &lt;= 3.15.3 leading to RCE (CVSS 9.1)",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T22:26:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-49975",
+      "repo_info": "[Manisso/http2-bomb](https://github.com/Manisso/http2-bomb)",
+      "description": "Proof of Concept (PoC) for CVE-2026-49975 – HTTP/2 server memory exhaustion attack leveraging HPACK amplification and connection retention (HTTP/2 Slowloris).",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T20:50:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-49049",
+      "repo_info": "[frada321/asdsadsadasdasdsadsad](https://github.com/frada321/asdsadsadasdasdsadsad)",
+      "description": "CVE-2026-49049 - Unauthenticated File Deletion, Arbitrary Write &amp; XSS Injection for Helix3 Joomla Extension",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T12:52:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-48939",
+      "repo_info": "[shinthink/CVE-2026-48939](https://github.com/shinthink/CVE-2026-48939)",
+      "description": "Pre-auth arbitrary file upload RCE exploit for iCagenda Joomla extension &lt; 4.0.8 (CVSS 10.0)",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T20:56:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-48908",
+      "repo_info": "[bayu06802/CVE-2026-48908](https://github.com/bayu06802/CVE-2026-48908)",
+      "description": "no description",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T14:09:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-39047",
+      "repo_info": "[J4ck3LSyN-Gen2/CVE-2026-39047](https://github.com/J4ck3LSyN-Gen2/CVE-2026-39047)",
+      "description": "Epson Printer RAW Protocol Exploit Framework",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T03:26:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-28867",
+      "repo_info": "[speedyfriend433/CVE-2026-28867-PoC](https://github.com/speedyfriend433/CVE-2026-28867-PoC)",
+      "description": "Kernel info leak Proof of Concept patched in iOS 26.4 / macOS 26.4",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T02:46:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-27966",
+      "repo_info": "[shinthink/CVE-2026-27966](https://github.com/shinthink/CVE-2026-27966)",
+      "description": "Pre-auth RCE scanner for Langflow &lt; 1.8.0 — Route Injection + Vertex Injection → Code Execution (CVSS 9.8)",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T19:59:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-27944",
+      "repo_info": "[BimaBalance/Cve-2026-27944-Tools-Exploit](https://github.com/BimaBalance/Cve-2026-27944-Tools-Exploit)",
+      "description": "Suka suka lah",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T10:59:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-23550",
+      "repo_info": "[1beelze/CVE-2026-23550](https://github.com/1beelze/CVE-2026-23550)",
+      "description": "no description",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T09:37:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-22874",
+      "repo_info": "[Eliot-code/CVE-2026-22874-PoC](https://github.com/Eliot-code/CVE-2026-22874-PoC)",
+      "description": "no description",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T16:30:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-20896",
+      "repo_info": "[rz1027/CVE-2026-20896](https://github.com/rz1027/CVE-2026-20896)",
+      "description": "Public PoC and detector for CVE-2026-20896 (&quot;Gitea Docker: One Header, Any User&quot;)",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T17:35:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-14628",
+      "repo_info": "[MESLIMOHAMEDM22005188/path-traversal-CVE-2026-14628](https://github.com/MESLIMOHAMEDM22005188/path-traversal-CVE-2026-14628)",
+      "description": "no description",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T19:34:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-10104",
+      "repo_info": "[Ravi-lk/CVE-2026-10104-POC](https://github.com/Ravi-lk/CVE-2026-10104-POC)",
+      "description": "Product Video Gallery for Woocommerce &lt;= 1.5.1.8 - Authenticated Stored Cross-Site Scripting Proof of Concept",
+      "date": "2026-07-05",
+      "raw_date": "2026-07-05T14:22:29Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.357971",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2026-07-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

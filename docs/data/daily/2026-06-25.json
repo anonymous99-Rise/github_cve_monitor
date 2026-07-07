@@ -1,0 +1,83 @@
+{
+  "date": "2026-06-25",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8181",
+      "repo_info": "[Squamity/CVE-2026-8181-PoC](https://github.com/Squamity/CVE-2026-8181-PoC)",
+      "description": "no description",
+      "date": "2026-06-25",
+      "raw_date": "2026-06-25T05:34:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-7574",
+      "repo_info": "[0xBlackash/CVE-2026-7574](https://github.com/0xBlackash/CVE-2026-7574)",
+      "description": "CVE-2026-7574",
+      "date": "2026-06-25",
+      "raw_date": "2026-06-25T08:11:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-55584",
+      "repo_info": "[mirackayikci/CVE-2026-55584](https://github.com/mirackayikci/CVE-2026-55584)",
+      "description": "CVE-2026-55584 — phpSysInfo IP Allowlist Bypass",
+      "date": "2026-06-25",
+      "raw_date": "2026-06-25T18:29:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-53075",
+      "repo_info": "[lottiedeyan/CVE-2026-53075poc](https://github.com/lottiedeyan/CVE-2026-53075poc)",
+      "description": "POC of CVE-2026-53075",
+      "date": "2026-06-25",
+      "raw_date": "2026-06-25T02:32:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-45321",
+      "repo_info": "[7whyex/CVE-2026-45321-Tanstack](https://github.com/7whyex/CVE-2026-45321-Tanstack)",
+      "description": "no description",
+      "date": "2026-06-25",
+      "raw_date": "2026-06-25T08:21:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-43503",
+      "repo_info": "[0xBlackash/CVE-2026-43503](https://github.com/0xBlackash/CVE-2026-43503)",
+      "description": "CVE-2026-43503",
+      "date": "2026-06-25",
+      "raw_date": "2026-06-25T21:58:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-4253",
+      "repo_info": "[renzi25031469/CVE-2026-4253-Scanner](https://github.com/renzi25031469/CVE-2026-4253-Scanner)",
+      "description": "Non-destructive vulnerability scanner for NGINX HTTP/3 (ngx_http_v3_module). It ONLY performs a safe probe: opens an HTTP/3 (QUIC) connection, sends a single HEAD request and inspects the `Server` response header. It NEVER attempts to reopen a QPACK encoder stream or trigger the use-after-free.",
+      "date": "2026-06-25",
+      "raw_date": "2026-06-25T12:11:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-3227",
+      "repo_info": "[do4choo/CVE-2026-3227-TP-Link-authenticated-RCE](https://github.com/do4choo/CVE-2026-3227-TP-Link-authenticated-RCE)",
+      "description": "no description",
+      "date": "2026-06-25",
+      "raw_date": "2026-06-25T16:31:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-23111",
+      "repo_info": "[Baba01hacker666/CVE-2026-23111](https://github.com/Baba01hacker666/CVE-2026-23111)",
+      "description": "Linux Kernel nf_tables Use-After-Free (CVE-2026-23111) — LPE PoC",
+      "date": "2026-06-25",
+      "raw_date": "2026-06-25T11:15:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-20230",
+      "repo_info": "[W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230](https://github.com/W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230)",
+      "description": "no description",
+      "date": "2026-06-25",
+      "raw_date": "2026-06-25T09:56:26Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.356184",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2026-06-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "date": "2026-06-13",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-6279",
+      "repo_info": "[87achrafg-stack/CVE-2026-6279](https://github.com/87achrafg-stack/CVE-2026-6279)",
+      "description": "no description",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T11:31:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-6279",
+      "repo_info": "[87achrafg-stack/CVE-2026-6279.py](https://github.com/87achrafg-stack/CVE-2026-6279.py)",
+      "description": "CVE-2026-6279",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T11:27:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-6130",
+      "repo_info": "[fan-67/local-mcp](https://github.com/fan-67/local-mcp)",
+      "description": "A lightweight stdio-based MCP server for local file system operations — read, write, edit, search, exec for AI assistants. Specially optimized for Chatbox: bat-bypass for exec (CVE-2026-6130), b64 encoding to eliminate escaping issues, and multi-pattern regex for precise code block targeting.",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T12:10:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-49975",
+      "repo_info": "[razureink/cve-2026-49975-http2bomb_reproduction](https://github.com/razureink/cve-2026-49975-http2bomb_reproduction)",
+      "description": "no description",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T17:05:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-49975",
+      "repo_info": "[adminlove520/http2-bomb-detector](https://github.com/adminlove520/http2-bomb-detector)",
+      "description": "HTTP/2 Bomb (CVE-2026-49975) non-destructive vulnerability detector for Nginx / Apache httpd. Zero-dependency Python.",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T04:05:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-49975",
+      "repo_info": "[minc-nice-100/http2-bomb-analysis-paper](https://github.com/minc-nice-100/http2-bomb-analysis-paper)",
+      "description": "HTTP/2 Bomb: HPACK indexed-reference amplification + flow-control stall. A high school student&#x27;s full protocol analysis (LaTeX). CVE-2026-49975, CVE-2026-47774.",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T03:50:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[87achrafg-stack/CVE-2026-48907](https://github.com/87achrafg-stack/CVE-2026-48907)",
+      "description": "no description",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T11:45:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-48611",
+      "repo_info": "[citruscitruscitruscitruscitrusci/CVE-2026-48611-poc](https://github.com/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc)",
+      "description": "(phpBB authentication bypass)",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T10:21:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-48017",
+      "repo_info": "[romain-deperne/CVE-2026-48017](https://github.com/romain-deperne/CVE-2026-48017)",
+      "description": "Remote Code Execution in DbGate via functionName injection in the loadReader endpoint — CVSS 8.8",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T07:10:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-45447",
+      "repo_info": "[0xBlackash/CVE-2026-45447](https://github.com/0xBlackash/CVE-2026-45447)",
+      "description": "CVE-2026-45447",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T13:57:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-42647",
+      "repo_info": "[rootdirective-sec/CVE-2026-42647-Lab](https://github.com/rootdirective-sec/CVE-2026-42647-Lab)",
+      "description": "no description",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T16:29:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-41490",
+      "repo_info": "[romain-deperne/CVE-2026-41490](https://github.com/romain-deperne/CVE-2026-41490)",
+      "description": "SQL Injection in Dagster database I/O managers via dynamic partition keys (DuckDB/Snowflake/BigQuery/DeltaLake) — High",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T07:10:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-40864",
+      "repo_info": "[romain-deperne/CVE-2026-40864](https://github.com/romain-deperne/CVE-2026-40864)",
+      "description": "JupyterHub XSRF bypass via cross-origin form POST (Sec-Fetch-Mode: no-cors) — CWE-352",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T07:11:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-37197",
+      "repo_info": "[Pavanvootla-sec/CVE-2026-37197](https://github.com/Pavanvootla-sec/CVE-2026-37197)",
+      "description": "no description",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T16:58:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-35273",
+      "repo_info": "[ekomsSavior/POC_cve_2026_35273](https://github.com/ekomsSavior/POC_cve_2026_35273)",
+      "description": "this ones for ILLWILL - Universal Unauthenticated RCE via PeopleSoft SSRF",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T21:21:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-22356",
+      "repo_info": "[xxconi/CVE-2026-22356](https://github.com/xxconi/CVE-2026-22356)",
+      "description": "CVE-2026-22356: Jetpack CRM Path Traversal Vulnerability and RCE",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T04:42:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-20253",
+      "repo_info": "[0xBlackash/CVE-2026-20253](https://github.com/0xBlackash/CVE-2026-20253)",
+      "description": "CVE-2026-20253",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T18:09:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-1555",
+      "repo_info": "[webshellseo8/CVE-2026-1555-POC](https://github.com/webshellseo8/CVE-2026-1555-POC)",
+      "description": "no description",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T13:43:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-11450",
+      "repo_info": "[Hunt-Benito/glinet-beryl-ax-triple-rce-cve-2026-11450-11451-11452-unauthenticated-root-on-travel-router](https://github.com/Hunt-Benito/glinet-beryl-ax-triple-rce-cve-2026-11450-11451-11452-unauthenticated-root-on-travel-router)",
+      "description": "no description",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T09:11:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-11417",
+      "repo_info": "[HeshamASH/CVE-2026-11417-AWS-CDK-RCE](https://github.com/HeshamASH/CVE-2026-11417-AWS-CDK-RCE)",
+      "description": "Technical writeup and Proof of Concept (PoC) for CVE-2026-11417: OS Command Injection / Remote Code Execution (RCE) in AWS CDK&#x27;s NodejsFunction.",
+      "date": "2026-06-13",
+      "raw_date": "2026-06-13T14:55:19Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.353971",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2026-06-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

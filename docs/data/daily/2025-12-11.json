@@ -1,6 +1,6 @@
 {
   "date": "2025-12-11",
-  "count": 34,
+  "count": 36,
   "cves": [
     {
       "cve_id": "CVE-2025-8110",
@@ -15,6 +15,13 @@
       "description": "Detection template for CVE-2025-8110",
       "date": "2025-12-11",
       "raw_date": "2025-12-11T10:37:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-69720",
+      "repo_info": "[Cao-Wuhui/CVE-2025-69720](https://github.com/Cao-Wuhui/CVE-2025-69720)",
+      "description": "Advisory for CVE-2025-69720: stack-based buffer overflow in GNU ncurses infocmp (CWE-121)",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T09:43:36Z"
     },
     {
       "cve_id": "CVE-2025-66628",
@@ -50,6 +57,13 @@
       "description": "POC SQLi CVE-2025-64516",
       "date": "2025-12-11",
       "raw_date": "2025-12-11T09:19:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-64512",
+      "repo_info": "[luigigubello/CVE-2025-64512-Polyglot-PoC](https://github.com/luigigubello/CVE-2025-64512-Polyglot-PoC)",
+      "description": "A Proof-of-Concept for CVE-2025-64512 using a polyglot file.",
+      "date": "2025-12-11",
+      "raw_date": "2025-12-11T22:21:42Z"
     },
     {
       "cve_id": "CVE-2025-64459",
@@ -241,9 +255,9 @@
       "raw_date": "2025-12-11T18:17:29Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.466197",
+  "generated_at": "2026-07-07T04:58:53.344527",
   "metadata": {
-    "total_cves": 34,
+    "total_cves": 36,
     "date_range": "2025-12-11",
     "source": "README.md",
     "script_version": "2.0"

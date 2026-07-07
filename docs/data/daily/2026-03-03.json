@@ -1,0 +1,20 @@
+{
+  "date": "2026-03-03",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-2441",
+      "repo_info": "[fartlover37/CVE-2026-2441-PoC](https://github.com/fartlover37/CVE-2026-2441-PoC)",
+      "description": "Demonstrate a proof-of-concept exploit for CVE-2026-2441, a high-risk Chrome use-after-free vulnerability in the Blink CSS engine.",
+      "date": "2026-03-03",
+      "raw_date": "2026-03-03T14:19:18Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.349596",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-03-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

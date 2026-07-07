@@ -1,0 +1,104 @@
+{
+  "date": "2025-12-25",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[JohannesLks/CVE-2025-68613-Python-Exploit](https://github.com/JohannesLks/CVE-2025-68613-Python-Exploit)",
+      "description": "Python Exploit for CVE-2025-68613.",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T16:22:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[releaseown/analysis-and-poc-n8n-CVE-2025-68613](https://github.com/releaseown/analysis-and-poc-n8n-CVE-2025-68613)",
+      "description": "Technical study of the CVE-2025-68613 vulnerability in n8n, covering affected versions, laboratory exploration scenario, offensive and defensive analysis, and mitigation strategies.",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T23:00:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613](https://github.com/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613)",
+      "description": "Proof-of-Concept exploit for CVE-2025-68613: Authenticated Remote Code Execution in n8n via Expression Injection",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T20:01:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate](https://github.com/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate)",
+      "description": "n8n God Mode Ultimate - CVE-2025-68613 Scanner v1.0.0         ║ ║           Workflow Automation Remote Code Execution",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T19:12:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-68613",
+      "repo_info": "[AbdulRKB/n8n-RCE](https://github.com/AbdulRKB/n8n-RCE)",
+      "description": "Remote Code Execution via n8n Workflows (Based on CVE-2025-68613)",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T12:11:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478)",
+      "description": "🔍 Scan Next.js apps for CVE-2025-66478 vulnerability detection with this command-line tool, ensuring your applications remain secure and unaffected.",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T19:01:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-59532",
+      "repo_info": "[baktistr/cve-2025-59532-poc](https://github.com/baktistr/cve-2025-59532-poc)",
+      "description": "A Docker-based research environment for analyzing CVE-2025-59532, a path traversal vulnerability in OpenAI Codex CLI that allows arbitrary file write outside the intended workspace sandbox. Part of CMU Course : 18-739 Hacking &amp; Offensive Security in Fall 2025",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T08:21:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Jakelife/HACKVISER-CVE-2025-55182-LAB](https://github.com/Jakelife/HACKVISER-CVE-2025-55182-LAB)",
+      "description": "no description",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T21:20:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-49844",
+      "repo_info": "[hzhsec/redis-cve_2025_49844](https://github.com/hzhsec/redis-cve_2025_49844)",
+      "description": "redis_rce",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T09:44:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[Mr-Alperen/CVE-2025-32463](https://github.com/Mr-Alperen/CVE-2025-32463)",
+      "description": "no description",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T19:27:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-32462",
+      "repo_info": "[OffSecPlaybook/CVE-2025-32462-](https://github.com/OffSecPlaybook/CVE-2025-32462-)",
+      "description": "CVE-2025-32462 is a local privilege escalation vulnerability in sudo",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T16:42:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[giriaryan694-a11y/cve-2025-32433_rce_exploit](https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit)",
+      "description": "This exploit script is designed to simplify exploitation of the Erlang/OTP SSH vulnerability CVE-2025-32433 in the TryHackMe lab environment.",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T08:42:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-14765",
+      "repo_info": "[InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766](https://github.com/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766)",
+      "description": "no description",
+      "date": "2025-12-25",
+      "raw_date": "2025-12-25T10:39:50Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.347409",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-12-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

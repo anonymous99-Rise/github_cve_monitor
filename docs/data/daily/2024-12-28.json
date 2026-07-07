@@ -1,6 +1,6 @@
 {
   "date": "2024-12-28",
-  "count": 7,
+  "count": 8,
   "cves": [
     {
       "cve_id": "CVE-2024-9234",
@@ -8,6 +8,13 @@
       "description": "no description",
       "date": "2024-12-28",
       "raw_date": "2024-12-28T11:00:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-8069",
+      "repo_info": "[mdiqbalahmad/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN](https://github.com/mdiqbalahmad/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN)",
+      "description": "Citrix Virtual Apps and Desktops (XEN) Unauthenticated RCE",
+      "date": "2024-12-28",
+      "raw_date": "2024-12-28T09:23:34Z"
     },
     {
       "cve_id": "CVE-2024-7954",
@@ -52,9 +59,9 @@
       "raw_date": "2024-12-28T01:58:26Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.386229",
+  "generated_at": "2026-07-07T04:58:53.269475",
   "metadata": {
-    "total_cves": 7,
+    "total_cves": 8,
     "date_range": "2024-12-28",
     "source": "README.md",
     "script_version": "2.0"

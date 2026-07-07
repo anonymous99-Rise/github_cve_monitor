@@ -1,0 +1,90 @@
+{
+  "date": "2026-06-24",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8461",
+      "repo_info": "[HORKimhab/CVE-2026-8461](https://github.com/HORKimhab/CVE-2026-8461)",
+      "description": "CVE-2026-8461 - Draft",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T07:31:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-8461",
+      "repo_info": "[Y5neKO/CVE-2026-8461-EXP](https://github.com/Y5neKO/CVE-2026-8461-EXP)",
+      "description": "no description",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T07:08:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-56111",
+      "repo_info": "[Christbowel/CVE-2026-56111](https://github.com/Christbowel/CVE-2026-56111)",
+      "description": "Proof of concept for CVE-2026-56111, an out-of-bounds write in the M421 G-code handler of Marlin Firmware",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T21:00:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-49777",
+      "repo_info": "[HORKimhab/CVE-Wordpress](https://github.com/HORKimhab/CVE-Wordpress)",
+      "description": "CVE-2026-49777, CVE-2026-10735 - Draft",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T03:12:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-48908",
+      "repo_info": "[0xBlackash/CVE-2026-48908](https://github.com/0xBlackash/CVE-2026-48908)",
+      "description": "CVE-2026-48908",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T23:33:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-48908",
+      "repo_info": "[gagaltotal/CVE-2026-48908-SP-Page-Builder-Joomla](https://github.com/gagaltotal/CVE-2026-48908-SP-Page-Builder-Joomla)",
+      "description": "CVE-2026-48908 - SP Page Builder Joomla Unauthenticated RCE",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T08:31:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-45504",
+      "repo_info": "[hawktrace/CVE-2026-45504](https://github.com/hawktrace/CVE-2026-45504)",
+      "description": "CVE-2026-45504 Microsoft Exchange File Read",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T01:05:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-39275",
+      "repo_info": "[Securify-AI/CVE-2026-39275](https://github.com/Securify-AI/CVE-2026-39275)",
+      "description": "CVE-2026-39275 - Stored XSS Leading to Account Takeover in Cockpit CMS",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T15:19:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[pawpic/CVE-2026-38526-POC](https://github.com/pawpic/CVE-2026-38526-POC)",
+      "description": "Proof of Concept of CVE-2026-38526 in Krayin CRM &lt;= v2.2.x. Arbitrary File Upload leading to Remote Code Execution",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T22:16:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[kinryulabs/rootpacket-cve-2026-31431](https://github.com/kinryulabs/rootpacket-cve-2026-31431)",
+      "description": "CVE-2026-31431 getroot from a Turkish Cryptominer",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T05:41:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-12416",
+      "repo_info": "[Nxploited/CVE-2026-12416-CVE-2026-12417](https://github.com/Nxploited/CVE-2026-12416-CVE-2026-12417)",
+      "description": "Unauthenticated Account Takeover via Weak Password Reset Validation via &#x27;reset_user_id&#x27; Parameter - Unauthenticated Privilege Escalation via Weak Password Reset Validation via &#x27;reset_activation_code&#x27; Leading to Account Takeover",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T13:49:45Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.356040",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2026-06-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2025-08-22",
-  "count": 19,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2025-55575",
@@ -57,6 +57,13 @@
       "description": "PoC exploit for Below privilege escalation (CVE-2025-27591) allowing local root access via symlink manipulation in world-writable log directory.",
       "date": "2025-08-22",
       "raw_date": "2025-08-22T08:05:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-26153",
+      "repo_info": "[mexeck88/CSRF-via-stored-XSS-for-PrivEsc](https://github.com/mexeck88/CSRF-via-stored-XSS-for-PrivEsc)",
+      "description": "Chamilo-LMS (v2.0) CVE-2025-26153",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T20:50:50Z"
     },
     {
       "cve_id": "CVE-2025-24893",
@@ -136,9 +143,9 @@
       "raw_date": "2025-08-22T13:11:21Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.446162",
+  "generated_at": "2026-07-07T04:58:53.324203",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 20,
     "date_range": "2025-08-22",
     "source": "README.md",
     "script_version": "2.0"

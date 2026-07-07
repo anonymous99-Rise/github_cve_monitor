@@ -1,0 +1,20 @@
+{
+  "date": "2025-11-29",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9435",
+      "repo_info": "[passtheticket/CVE-2025-9435](https://github.com/passtheticket/CVE-2025-9435)",
+      "description": "ADManager Plus Build &lt; 7230 Elevation of Privilege",
+      "date": "2025-11-29",
+      "raw_date": "2025-11-29T12:52:50Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.342594",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2025-11-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "date": "2025-12-13",
+  "count": 23,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8110",
+      "repo_info": "[zAbuQasem/gogs-CVE-2025-8110](https://github.com/zAbuQasem/gogs-CVE-2025-8110)",
+      "description": "CVE-2025-8110 PoC",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T04:15:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-66947",
+      "repo_info": "[kabir0104k/CVE-2025-66947](https://github.com/kabir0104k/CVE-2025-66947)",
+      "description": "SQL Injection in krishanmuraiji SMS v1.0 (CVE-2025-66947)",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T04:50:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-65964",
+      "repo_info": "[Saboor-Hakimi-23/CVE-2025-65964](https://github.com/Saboor-Hakimi-23/CVE-2025-65964)",
+      "description": "no description",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T06:04:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-55184",
+      "repo_info": "[KkHackingLearning/CVE-2025-55184_Testing](https://github.com/KkHackingLearning/CVE-2025-55184_Testing)",
+      "description": "Python script for Testing CVE-2025-55184",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T16:55:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-55184",
+      "repo_info": "[cybertechajju/CVE-2025-55184-POC-Expolit](https://github.com/cybertechajju/CVE-2025-55184-POC-Expolit)",
+      "description": "no description",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T15:17:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Ya0h4cker/CVE-2025-55182](https://github.com/Ya0h4cker/CVE-2025-55182)",
+      "description": "Analysis, Validation Environment, and POC for CVE-225-55182 Vulnerability.",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T09:56:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[MoLeft/React2Shell-Toolbox](https://github.com/MoLeft/React2Shell-Toolbox)",
+      "description": "A CVE-2025-55182(React2Shell) Toolbox Application",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T08:54:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[mantvmass/react2shell](https://github.com/mantvmass/react2shell)",
+      "description": "A CLI tool that exploits vulnerabilities in React Server Components and Server Actions (CVE-2025-55182, CVE-2025-66478) to achieve remote code execution (RCE) on vulnerable servers.",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T07:21:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[grejh0t/CVE-2025-55182](https://github.com/grejh0t/CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T20:21:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[hidden-investigations/react2shell-vulnlab](https://github.com/hidden-investigations/react2shell-vulnlab)",
+      "description": "A modern Next.js vulnerable web app themed as a news / blog portal for CVE-2025-55182 (React) and CVE-2025-66478 (Next.js) to learn, detect, and safely exercise React2Shell. Runs unpatched React 19.0.0 and Next.js 15.0.3.",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T21:54:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[mounta11n/CHECK-CVE-2025-55182-AND-CVE-2025-66478](https://github.com/mounta11n/CHECK-CVE-2025-55182-AND-CVE-2025-66478)",
+      "description": "Check if your server is affected by CVE-2025-55182 &amp; CVE-2025-66478",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T18:28:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[sangleshubham/React-Security-CVE-2025-55182-Exploit](https://github.com/sangleshubham/React-Security-CVE-2025-55182-Exploit)",
+      "description": "NodeJS-based exploit script and scanner for the React Server Components &quot;React2Shell&quot; vulnerability (CVE-2025-55182).",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T16:24:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[TheStingR/ReactOOPS-WriteUp](https://github.com/TheStingR/ReactOOPS-WriteUp)",
+      "description": "Hack The Box Writeup for Retired Challenge ReactOOPS - Complete solution and educational guide to CVE-2025-55182/CVE-2025-66478 (React2Shell RCE). Includes detailed vulnerability analysis, exploitation techniques, and team learning materials.",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T03:48:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[TrixSec/CVE-2025-55182-Scanner](https://github.com/TrixSec/CVE-2025-55182-Scanner)",
+      "description": "A hybrid security scanner for detecting CVE-2025-55182 in Next.js and Waku applications. Features combined static code analysis and safe dynamic verification for DevSecOps workflows.",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T16:56:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[InfoSecAntara/CTF_CVE_2025_55182](https://github.com/InfoSecAntara/CTF_CVE_2025_55182)",
+      "description": "no description",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T11:53:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[h0tak88r/next88](https://github.com/h0tak88r/next88)",
+      "description": "High-performance Go implementation for detecting React Server Components RCE vulnerabilities (CVE-2025-55182 &amp; CVE-2025-66478).",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T03:42:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[ZorvithonLeo-Null/CVE-2025-55182-exploit](https://github.com/ZorvithonLeo-Null/CVE-2025-55182-exploit)",
+      "description": "no description",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T15:23:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[dhananjayakumarn/CVE-2025-55182-Lab](https://github.com/dhananjayakumarn/CVE-2025-55182-Lab)",
+      "description": "A hands-on lab for understanding and exploiting CVE-2025-55182 (React2Shell) - Remote Code Execution in React Server Components",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T14:30:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[Kugelbyte/React2Shell-Analysis](https://github.com/Kugelbyte/React2Shell-Analysis)",
+      "description": "A research report on CVE-2025-55182 (React2Shell).",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T10:26:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-54100",
+      "repo_info": "[ThemeHackers/CVE-2025-54100](https://github.com/ThemeHackers/CVE-2025-54100)",
+      "description": "CVE-2025-54100 (CVSS 7.8 High) is a command injection vulnerability in the Invoke-WebRequest cmdlet of Windows PowerShell 5.1. It arises from improper neutralization of special elements during the automatic parsing of Web responses.",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T06:40:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-2539",
+      "repo_info": "[fazaroot/CVE-2025-2539---File-Away-WordPress-Plugin-Arbitrary-File-Read](https://github.com/fazaroot/CVE-2025-2539---File-Away-WordPress-Plugin-Arbitrary-File-Read)",
+      "description": "CVE-2025-2539 - File Away WordPress Plugin Arbitrary File Read",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T06:27:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-14598",
+      "repo_info": "[Afnaan-Ahmed/CVE-2025-14598](https://github.com/Afnaan-Ahmed/CVE-2025-14598)",
+      "description": "CVE-2025-14598 Remote Unauthenticated SQL Injection leading to Remote Code Execution.",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T04:01:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-14221",
+      "repo_info": "[fatmatrabelsi17/CVE-2025-14221](https://github.com/fatmatrabelsi17/CVE-2025-14221)",
+      "description": "no description",
+      "date": "2025-12-13",
+      "raw_date": "2025-12-13T13:47:04Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.345124",
+  "metadata": {
+    "total_cves": 23,
+    "date_range": "2025-12-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

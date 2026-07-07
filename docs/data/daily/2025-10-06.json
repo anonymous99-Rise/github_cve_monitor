@@ -1,6 +1,6 @@
 {
   "date": "2025-10-06",
-  "count": 13,
+  "count": 14,
   "cves": [
     {
       "cve_id": "CVE-2025-9074",
@@ -22,6 +22,13 @@
       "description": "PoC for popping a system shell against the LnvMSRIO.sys driver",
       "date": "2025-10-06",
       "raw_date": "2025-10-06T09:33:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-63587",
+      "repo_info": "[NRTLOX/CVE-2025-63587](https://github.com/NRTLOX/CVE-2025-63587)",
+      "description": "CVE-2025-63587",
+      "date": "2025-10-06",
+      "raw_date": "2025-10-06T12:52:44Z"
     },
     {
       "cve_id": "CVE-2025-61882",
@@ -94,9 +101,9 @@
       "raw_date": "2025-10-06T10:29:30Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.457111",
+  "generated_at": "2026-07-07T04:58:53.334212",
   "metadata": {
-    "total_cves": 13,
+    "total_cves": 14,
     "date_range": "2025-10-06",
     "source": "README.md",
     "script_version": "2.0"

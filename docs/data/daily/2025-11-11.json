@@ -1,0 +1,20 @@
+{
+  "date": "2025-11-11",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-63666",
+      "repo_info": "[Remenis/CVE-2025-63666](https://github.com/Remenis/CVE-2025-63666)",
+      "description": "Tenda AC15 cookie exposure",
+      "date": "2025-11-11",
+      "raw_date": "2025-11-11T14:07:18Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.341012",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2025-11-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2025-12-27",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-68664",
+      "repo_info": "[Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC)",
+      "description": "A testing framework to identify and demonstrate deserialization vulnerabilities in LangChain Core (&lt;0.3.81). Educational use only",
+      "date": "2025-12-27",
+      "raw_date": "2025-12-27T06:49:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-59718",
+      "repo_info": "[moften/CVE-2025-59718-Fortinet-Poc](https://github.com/moften/CVE-2025-59718-Fortinet-Poc)",
+      "description": "PoC para determinar si Fortinet es vulnerable a CVE-2025-59718 / CVE-2025-59719",
+      "date": "2025-12-27",
+      "raw_date": "2025-12-27T04:24:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-56513",
+      "repo_info": "[psycho-prince/CVE-2025-56513-NiceHash-Update-Chain-Compromise](https://github.com/psycho-prince/CVE-2025-56513-NiceHash-Update-Chain-Compromise)",
+      "description": "Critical supply-chain vulnerability research on NiceHash QuickMiner update mechanism (CVE-2025-56513). Includes technical analysis, attack scenarios, impact assessment, and remediation guidance.",
+      "date": "2025-12-27",
+      "raw_date": "2025-12-27T19:11:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[KingHacker353/R2C-CVE-2025-55182-66478](https://github.com/KingHacker353/R2C-CVE-2025-55182-66478)",
+      "description": "no description",
+      "date": "2025-12-27",
+      "raw_date": "2025-12-27T16:58:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-54424",
+      "repo_info": "[anonnymous5/1Panel-CVE-2025-54424-](https://github.com/anonnymous5/1Panel-CVE-2025-54424-)",
+      "description": "no description",
+      "date": "2025-12-27",
+      "raw_date": "2025-12-27T13:31:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[Black1hp/mongobleed-scanner](https://github.com/Black1hp/mongobleed-scanner)",
+      "description": "MongoDB CVE-2025-14847 Heap Memory Leak Scanner - OP_COMPRESSED zlib Vulnerability - Bug Bounty &amp; Red Team Tool",
+      "date": "2025-12-27",
+      "raw_date": "2025-12-27T21:57:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[saereya/CVE-2025-14847---MongoBleed](https://github.com/saereya/CVE-2025-14847---MongoBleed)",
+      "description": "no description",
+      "date": "2025-12-27",
+      "raw_date": "2025-12-27T23:39:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[nma-io/mongobleed](https://github.com/nma-io/mongobleed)",
+      "description": "golang test tool for mongobleed (cve-2025-14847)",
+      "date": "2025-12-27",
+      "raw_date": "2025-12-27T23:39:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[cybertechajju/CVE-2025-14847_Expolit](https://github.com/cybertechajju/CVE-2025-14847_Expolit)",
+      "description": "a critical memory disclosure vulnerability in MongoDB&#x27;s zlib compression handling. This tool allows security researchers to extract sensitive data from vulnerable MongoDB instances.",
+      "date": "2025-12-27",
+      "raw_date": "2025-12-27T15:01:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-14847",
+      "repo_info": "[KingHacker353/CVE-2025-14847_Expolit](https://github.com/KingHacker353/CVE-2025-14847_Expolit)",
+      "description": "no description",
+      "date": "2025-12-27",
+      "raw_date": "2025-12-27T15:54:28Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.347767",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2025-12-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

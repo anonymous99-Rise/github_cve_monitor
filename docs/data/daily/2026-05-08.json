@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-54424",
+      "repo_info": "[tomadimitrie/CVE-2026-54424](https://github.com/tomadimitrie/CVE-2026-54424)",
+      "description": "Exploiting Parsec for Windows to gain SYSTEM privileges",
+      "date": "2026-05-08",
+      "raw_date": "2026-05-08T18:21:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[krisiasty/vcheck](https://github.com/krisiasty/vcheck)",
+      "description": "Vulnerability detection and mitigation tool for Copy Fail and Dirty Frag bugs (CVE-2026-31431, CVE-2026-43284, CVE-2026-43500)",
+      "date": "2026-05-08",
+      "raw_date": "2026-05-08T17:54:04Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.351615",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-05-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2025-08-17",
-  "count": 37,
+  "count": 38,
   "cves": [
     {
       "cve_id": "CVE-2025-9090",
@@ -36,6 +36,13 @@
       "description": "PoC exploit for CVE-2025-32778: command injection in Web-Check OSINT tool",
       "date": "2025-08-17",
       "raw_date": "2025-08-17T06:29:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[s11s11/CVE-2025-29927](https://github.com/s11s11/CVE-2025-29927)",
+      "description": "Demo of CVE-2025-29927 for secure programming class",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T16:06:31Z"
     },
     {
       "cve_id": "CVE-2024-28397",
@@ -262,9 +269,9 @@
       "raw_date": "2025-08-17T12:23:11Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.444128",
+  "generated_at": "2026-07-07T04:58:53.322492",
   "metadata": {
-    "total_cves": 37,
+    "total_cves": 38,
     "date_range": "2025-08-17",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,0 +1,90 @@
+{
+  "date": "2026-06-14",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-5950",
+      "repo_info": "[billybaraja/cve-2026-5950-bind9-resolver-dos](https://github.com/billybaraja/cve-2026-5950-bind9-resolver-dos)",
+      "description": "Defensive research notes for CVE-2026-5950, a BIND 9 resolver DoS vulnerability credited to Billy Baraja (BielraX).",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T00:28:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-5513",
+      "repo_info": "[87achrafg-stack/CVE-2026-5513](https://github.com/87achrafg-stack/CVE-2026-5513)",
+      "description": "CVE-2026-5513 — Bookly ≤ 27.2 Stored XSS via Cookie",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T22:33:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-5513",
+      "repo_info": "[Xaanziu/CVE-2026-5513](https://github.com/Xaanziu/CVE-2026-5513)",
+      "description": "CVE-2026-5513: Bookly &lt;= 27.2 Stored XSS via Cookie (Unauthenticated)",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T07:53:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-53787",
+      "repo_info": "[webshellseo8/CVE-2026-53787-POC-](https://github.com/webshellseo8/CVE-2026-53787-POC-)",
+      "description": "no description",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T14:58:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-48019",
+      "repo_info": "[derrickschoen/laravel-framework](https://github.com/derrickschoen/laravel-framework)",
+      "description": "Fork of laravel/framework 10.50.2 with CVE-2026-48019 (CRLF injection in default email rule) backported into ValidatesAttributes::validateEmail. Tagged 10.51.0.",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T01:16:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-42945",
+      "repo_info": "[sec-sys/CVE-2026-42945-Reverse-Shell-POC](https://github.com/sec-sys/CVE-2026-42945-Reverse-Shell-POC)",
+      "description": "Python RCE PoC with reverse-shell listener for CVE-2026-42945 (NGINX Rift)",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T16:49:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-36826",
+      "repo_info": "[Forklit/CVE-2026-36826](https://github.com/Forklit/CVE-2026-36826)",
+      "description": "genesisQL-sqli-CVE-2026-36826",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T22:36:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[rohit-sundar/cve-2026-23744](https://github.com/rohit-sundar/cve-2026-23744)",
+      "description": "no description",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T03:30:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-20253",
+      "repo_info": "[HORKimhab/CVE-2026-20253](https://github.com/HORKimhab/CVE-2026-20253)",
+      "description": "CVE-2026-20253 - Splunk Enterprise",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T04:18:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-20245",
+      "repo_info": "[0xBlackash/CVE-2026-20245](https://github.com/0xBlackash/CVE-2026-20245)",
+      "description": "CVE-2026-20245",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T10:23:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-20127",
+      "repo_info": "[0xBlackash/CVE-2026-20127](https://github.com/0xBlackash/CVE-2026-20127)",
+      "description": "CVE-2026-20127",
+      "date": "2026-06-14",
+      "raw_date": "2026-06-14T13:15:00Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.354246",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2026-06-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2025-12-06",
-  "count": 2,
+  "count": 6,
   "cves": [
     {
       "cve_id": "CVE-2025-66478",
@@ -15,11 +15,39 @@
       "description": "CVE-2025-55182 RCE vulnerability in Next.js/React RSC servers (exploit and scanner)",
       "date": "2025-12-06",
       "raw_date": "2025-12-06T19:44:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[rapticore/ore_react2shell_scanner](https://github.com/rapticore/ore_react2shell_scanner)",
+      "description": "CVE-2025-55182 (React2Shell) Scanner",
+      "date": "2025-12-06",
+      "raw_date": "2025-12-06T02:39:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[zack0x01/vuln-app-CVE-2025-55182](https://github.com/zack0x01/vuln-app-CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-06",
+      "raw_date": "2025-12-06T14:29:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web](https://github.com/AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web)",
+      "description": "React2Shell, CVE-2025-55182, RCE Vulnerability: A critical breakdown of the unsafe deserialization flaw in React Server Components that enables unauthenticated remote code execution across default React/Next.js setups.",
+      "date": "2025-12-06",
+      "raw_date": "2025-12-06T18:16:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[keklick1337/CVE-2025-55182-golang-PoC](https://github.com/keklick1337/CVE-2025-55182-golang-PoC)",
+      "description": "CVE-2025-55182 React Server Components RCE - Go PoC",
+      "date": "2025-12-06",
+      "raw_date": "2025-12-06T15:49:06Z"
     }
   ],
-  "generated_at": "2026-07-07T02:47:22.465411",
+  "generated_at": "2026-07-07T04:58:53.343521",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 6,
     "date_range": "2025-12-06",
     "source": "README.md",
     "script_version": "2.0"

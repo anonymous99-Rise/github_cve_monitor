@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-28",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-69212",
+      "repo_info": "[c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)",
+      "description": "Python poc, exploit for CVE-2025-69212",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T19:30:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-49048",
+      "repo_info": "[KARA-git/CVE-2026-49048-JoomCCK-SQLi](https://github.com/KARA-git/CVE-2026-49048-JoomCCK-SQLi)",
+      "description": "CVE-2026-49048 — JoomCCK 6.4.0 Unauthenticated SQL Injection (CVSS 9.8)",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T17:15:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-48908",
+      "repo_info": "[ayiezola/CVE-2026-48908](https://github.com/ayiezola/CVE-2026-48908)",
+      "description": "Unauthenticated RCE PoC for CVE-2026-48908  SP Page Builder (Joomla) arbitrary file upload and remote code execution exploit with mass scaning support.",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T23:54:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[vulnquest58/dirtyclone-exploit](https://github.com/vulnquest58/dirtyclone-exploit)",
+      "description": "CVE-2026-46331 — Linux Kernel Local Privilege Escalation TC pedit + IPsec TEE Page Cache Corruption · Affected kernels: ≤ 6.12.9",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T11:24:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-43503",
+      "repo_info": "[gl1tch0x1/DirtyClone](https://github.com/gl1tch0x1/DirtyClone)",
+      "description": "DirtyClone - local privilege escalation (LPE) proof-of-concept targeting a kernel/XFRM-related vulnerability described in the source as CVE-2026-43503",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T03:23:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[aquace/CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)",
+      "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T07:13:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-41179",
+      "repo_info": "[pssec-io/CVE-2026-41179](https://github.com/pssec-io/CVE-2026-41179)",
+      "description": "POC for CVE-2026-41179",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T11:58:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-38751",
+      "repo_info": "[Why-Shell/CVE-2026-38751](https://github.com/Why-Shell/CVE-2026-38751)",
+      "description": "no description",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T15:27:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-27654",
+      "repo_info": "[dead-lamer/CVE-2026-27654](https://github.com/dead-lamer/CVE-2026-27654)",
+      "description": "Обзор n-day уязвимости на русском языке.",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T10:34:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-24418",
+      "repo_info": "[BridgerAlderson/CVE-2026-24418](https://github.com/BridgerAlderson/CVE-2026-24418)",
+      "description": "OpenSTAManager v2.9.8 and earlier contain a critical Error-Based SQL Injection vulnerability in the bulk operations handler for the Scadenzario (Payment Schedule) module.",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T21:57:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-23918",
+      "repo_info": "[gagaltotal/CVE-2026-23918-Double-free-Apache-httpd-mod_http2](https://github.com/gagaltotal/CVE-2026-23918-Double-free-Apache-httpd-mod_http2)",
+      "description": "Double-free in Apache httpd mod_http2 stream cleanup leading to pre-auth RCE",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T20:50:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[timgad794/DevHub-HTB-Walkthrough](https://github.com/timgad794/DevHub-HTB-Walkthrough)",
+      "description": "Hack The Box - DevHub Machine Walkthrough (Medium Linux, CVE-2026-23744, Chisel Tunneling, Jupyter, Root Privilege Escalation)",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T12:29:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-12485",
+      "repo_info": "[0xBlackash/CVE-2026-12485](https://github.com/0xBlackash/CVE-2026-12485)",
+      "description": "CVE-2026-12485",
+      "date": "2026-06-28",
+      "raw_date": "2026-06-28T13:45:41Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.356727",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2026-06-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

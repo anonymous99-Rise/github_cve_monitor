@@ -1,0 +1,118 @@
+{
+  "date": "2025-12-14",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.](https://github.com/DavionGowie/-vercel-application-is-vulnerable-to-CVE-2025-66478.)",
+      "description": "bug bounty",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T18:32:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-66478",
+      "repo_info": "[DavionGowie/-vercel-prod.yml-application-is-vulnerable-to-CVE-2025-66478.](https://github.com/DavionGowie/-vercel-prod.yml-application-is-vulnerable-to-CVE-2025-66478.)",
+      "description": "bug bounty",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T18:25:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-66039",
+      "repo_info": "[BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX](https://github.com/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX)",
+      "description": "This vulnerability allows both authenticated and unauthenticated remote attackers to execute remote code on vulnerable FreePBX instances. These issues have been fixed in FreePBX versions 16.0.42, 16.0.92, 17.0.6, and 17.0.22. It&#x27;s important to note that this authentication bypass vulnerability is not present in the default FreePBX configuration.",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T07:57:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-64720",
+      "repo_info": "[dantsco/CVE-2025-64720-PoC](https://github.com/dantsco/CVE-2025-64720-PoC)",
+      "description": "no description",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T18:41:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-6019",
+      "repo_info": "[phamdinhquy2512/CVE-2025-6019-Exploitation](https://github.com/phamdinhquy2512/CVE-2025-6019-Exploitation)",
+      "description": "no description",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T16:28:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-55184",
+      "repo_info": "[KingHacker353/CVE-2025-55184](https://github.com/KingHacker353/CVE-2025-55184)",
+      "description": "no description",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T18:35:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[hidden-investigations/react2shell-scanner](https://github.com/hidden-investigations/react2shell-scanner)",
+      "description": "Precision-Based Detection of RSC/Next.js Remote Code Execution Vulnerabilities (CVE-2025-55182, CVE-2025-66478)",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T14:24:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[MammaniNelsonD/React2P4IM0Nshell](https://github.com/MammaniNelsonD/React2P4IM0Nshell)",
+      "description": "💥Extension Tool para Auditoría y Explotación avanzada RCE/Source Leak/Dos (CVE-2025-55182/83/84) para entornos Next.js y React Server Components (RSC) directamente desde tu navegador + Laboratorio Vulnerable❌",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T05:24:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[CyberPrince-hub/React2shell-ultimate-scanner](https://github.com/CyberPrince-hub/React2shell-ultimate-scanner)",
+      "description": "CVE-2025-55182-Advanced-Scanner is an automated security tool designed to detect and validate the CVE-2025-55182 vulnerability efficiently. it helps security researchers and bug bounty hunters quickly identify affected targets with accurate results and minimal false positives.",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T12:59:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[VVVI5HNU/CVE-2025-55182](https://github.com/VVVI5HNU/CVE-2025-55182)",
+      "description": "Proof-of-Concept for CVE-2025-55182, a critical unauthenticated RCE in React Server Components.",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T12:23:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[ProwlSec/React2Shell](https://github.com/ProwlSec/React2Shell)",
+      "description": "An advanced command-line framework for discovery, validation, and exploitation of  CVE-2025-55182 and CVE-2025-66478 affecting Next.js applications using React Server Components (RSC).",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T09:52:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[tinashelorenzi/CVE-2025-55182](https://github.com/tinashelorenzi/CVE-2025-55182)",
+      "description": "no description",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T09:42:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[vignesh21-git/CVE-2025-48384](https://github.com/vignesh21-git/CVE-2025-48384)",
+      "description": "GIT vulnerability - Carriage Return and RCE on cloning",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T10:04:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[vignesh21-git/CVE-2025-48384-submodule](https://github.com/vignesh21-git/CVE-2025-48384-submodule)",
+      "description": "Test",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T10:08:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-24367",
+      "repo_info": "[SoftAndoWetto/CVE-2025-24367-PoC-Cacti](https://github.com/SoftAndoWetto/CVE-2025-24367-PoC-Cacti)",
+      "description": "Authenticated RCE PoC for Cacti (CVE‑2025‑24367). Uses graph template injection to write and execute a payload via the “Unix – Logged in Users” template. Intended for labs and controlled testing only.",
+      "date": "2025-12-14",
+      "raw_date": "2025-12-14T20:29:14Z"
+    }
+  ],
+  "generated_at": "2026-07-07T04:58:53.345387",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-12-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
