@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-08",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8206",
+      "repo_info": "[amnsecurity/CVE-2026-8206-Kirki-WP](https://github.com/amnsecurity/CVE-2026-8206-Kirki-WP)",
+      "description": "CVE-2026-8206 - Kirki WordPress Plugin Unauthenticated Account Takeover - PoC &amp; Analysis - CVSS 9.8 CRITICAL - AMN SECURITY",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T00:14:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-49777",
+      "repo_info": "[amnsecurity/CVE-2026-49777-WooCommerce-RCE](https://github.com/amnsecurity/CVE-2026-49777-WooCommerce-RCE)",
+      "description": "CVE-2026-49777 - WooCommerce Product Slider Pro Malicious Software Implantation RCE - PoC &amp; Analysis - CVSS 10.0 CRITICAL - AMN SECURITY",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T00:15:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-46242",
+      "repo_info": "[SaithFranklinB/ScannerBadEpoll](https://github.com/SaithFranklinB/ScannerBadEpoll)",
+      "description": "Verificador de Vulnerabilidad: Bad Epoll (CVE-2026-46242)",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T00:26:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-0257",
+      "repo_info": "[amnsecurity/CVE-2026-0257-GlobalProtect-Bypass](https://github.com/amnsecurity/CVE-2026-0257-GlobalProtect-Bypass)",
+      "description": "CVE-2026-0257 - Palo Alto PAN-OS GlobalProtect Auth Override Cookie Forgery - PoC &amp; Analysis - CVSS 9.1 CRITICAL CISA KEV - AMN SECURITY",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T00:18:11Z"
+    }
+  ],
+  "generated_at": "2026-07-08T04:19:36.279940",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-07-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

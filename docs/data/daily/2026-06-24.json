@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "count": 11,
+  "count": 12,
   "cves": [
     {
       "cve_id": "CVE-2026-8461",
@@ -15,6 +15,13 @@
       "description": "no description",
       "date": "2026-06-24",
       "raw_date": "2026-06-24T07:08:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-57851",
+      "repo_info": "[readmsr/MSI_FeatureManager_CVE](https://github.com/readmsr/MSI_FeatureManager_CVE)",
+      "description": "CVE-2026-57851",
+      "date": "2026-06-24",
+      "raw_date": "2026-06-24T23:57:57Z"
     },
     {
       "cve_id": "CVE-2026-56111",
@@ -80,9 +87,9 @@
       "raw_date": "2026-06-24T13:49:45Z"
     }
   ],
-  "generated_at": "2026-07-08T02:25:27.170880",
+  "generated_at": "2026-07-08T04:19:36.277223",
   "metadata": {
-    "total_cves": 11,
+    "total_cves": 12,
     "date_range": "2026-06-24",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "count": 15,
+  "count": 16,
   "cves": [
     {
       "cve_id": "CVE-2026-6421",
@@ -94,6 +94,13 @@
       "raw_date": "2026-07-06T17:34:25Z"
     },
     {
+      "cve_id": "CVE-2026-14382",
+      "repo_info": "[jaf0rk/CVE-2026-14382](https://github.com/jaf0rk/CVE-2026-14382)",
+      "description": "no description",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T09:34:07Z"
+    },
+    {
       "cve_id": "CVE-2026-0920",
       "repo_info": "[Dx3iZ/CVE-2026-0920](https://github.com/Dx3iZ/CVE-2026-0920)",
       "description": "Creating a Wordpress Admin User",
@@ -108,9 +115,9 @@
       "raw_date": "2026-07-06T18:09:11Z"
     }
   ],
-  "generated_at": "2026-07-08T02:25:27.173825",
+  "generated_at": "2026-07-08T04:19:36.279392",
   "metadata": {
-    "total_cves": 15,
+    "total_cves": 16,
     "date_range": "2026-07-06",
     "source": "README.md",
     "script_version": "2.0"

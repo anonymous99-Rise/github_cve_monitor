@@ -1,7 +1,14 @@
 {
   "date": "2026-07-07",
-  "count": 5,
+  "count": 25,
   "cves": [
+    {
+      "cve_id": "CVE-2026-8451",
+      "repo_info": "[amnsecurity/CVE-2026-8451-CitrixBleed](https://github.com/amnsecurity/CVE-2026-8451-CitrixBleed)",
+      "description": "CVE-2026-8451 - Citrix NetScaler SAML Memory Overread (CitrixBleed) - PoC &amp; Analysis - CVSS 8.8 - AMN SECURITY",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T23:52:08Z"
+    },
     {
       "cve_id": "CVE-2026-54350",
       "repo_info": "[BiiTts/CVE-2026-54350-Budibase-NoSQL-Injection](https://github.com/BiiTts/CVE-2026-54350-Budibase-NoSQL-Injection)",
@@ -17,11 +24,67 @@
       "raw_date": "2026-07-07T04:35:23Z"
     },
     {
+      "cve_id": "CVE-2026-53359",
+      "repo_info": "[Aoripus-LTD/Januscape-Hotfix](https://github.com/Aoripus-LTD/Januscape-Hotfix)",
+      "description": "Complete fix collection for the CVE-2026-53359 guest-to-host escape vulnerability in the KVM/x86 shadow MMU. From zero-downtime livepatch to kernel upgrade — covers every operational scenario. / KVM/x86 shadow MMU 虚拟机逃逸漏洞（CVE-2026-53359）的完整修复方案集合。 从零停机热修复到内核升级，覆盖所有运维场景。",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T09:52:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-53359",
+      "repo_info": "[0xBlackash/CVE-2026-53359](https://github.com/0xBlackash/CVE-2026-53359)",
+      "description": "CVE-2026-53359",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T07:18:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-53359",
+      "repo_info": "[chuzhongyun/CVE-2026-53359-Kernel-Fix](https://github.com/chuzhongyun/CVE-2026-53359-Kernel-Fix)",
+      "description": "Linux 内核升级指南 - 修复 CVE-2026-53359",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T21:21:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-51119",
+      "repo_info": "[A17-ba/CVE-2026-51119](https://github.com/A17-ba/CVE-2026-51119)",
+      "description": "no description",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T20:29:41Z"
+    },
+    {
       "cve_id": "CVE-2026-48908",
       "repo_info": "[Jenderal92/CVE-2026-48908](https://github.com/Jenderal92/CVE-2026-48908)",
       "description": "CVE-2026-48908 — PoC exploit for unauthenticated RCE in SP Page Builder (Joomla) via arbitrary file upload. Multi‑threaded, case‑bypass, shell verification. For authorized security testing only.",
       "date": "2026-07-07",
       "raw_date": "2026-07-07T01:31:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-48611",
+      "repo_info": "[wanmywan/CVE-2026-48611-phpBB](https://github.com/wanmywan/CVE-2026-48611-phpBB)",
+      "description": "Bypass Authentication",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T14:45:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-48282",
+      "repo_info": "[g0thamRabb1t/cve-2026-48282-coldfusion-rds-detection](https://github.com/g0thamRabb1t/cve-2026-48282-coldfusion-rds-detection)",
+      "description": "Laboratory validation of CVE-2026-48282 in Adobe ColdFusion RDS, covering arbitrary CFM file write, code execution as the ColdFusion service user, auditd and PCAP evidence, event timeline reconstruction, and SOC detection recommendations. Includes Polish and English reports.",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T22:23:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-45659",
+      "repo_info": "[amnsecurity/CVE-2026-45659-SharePoint-RCE](https://github.com/amnsecurity/CVE-2026-45659-SharePoint-RCE)",
+      "description": "CVE-2026-45659 - Microsoft SharePoint Deserialization RCE - PoC &amp; Analysis - CVSS 8.8 - AMN SECURITY",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T23:52:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[lukeslp/redtail-ioc](https://github.com/lukeslp/redtail-ioc)",
+      "description": "IOCs and a read-only triage checklist from a real Linux root compromise: RedTail miner, XorDDoS persistence, MoneroOcean miner, DirtyFrag LPE (CVE-2026-43284/43500). CC0.",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T21:18:14Z"
     },
     {
       "cve_id": "CVE-2026-42980",
@@ -31,16 +94,93 @@
       "raw_date": "2026-07-07T03:52:26Z"
     },
     {
+      "cve_id": "CVE-2026-42271",
+      "repo_info": "[amnsecurity/CVE-2026-42271-LiteLLM-RCE](https://github.com/amnsecurity/CVE-2026-42271-LiteLLM-RCE)",
+      "description": "CVE-2026-42271 - LiteLLM AI Gateway MCP Command Injection RCE - PoC &amp; Analysis - CVSS 8.8 - AMN SECURITY",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T23:52:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-39492",
+      "repo_info": "[shinthink/CVE-2026-39492](https://github.com/shinthink/CVE-2026-39492)",
+      "description": "CVE-2026-39492 — WP Maps (wp-google-map-plugin) &lt;= 4.9.1 Unauthenticated Blind SQL Injection Mass Scanner - sqlmap-style detection - backtick bypass esc_sql() - 100K+ installs",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T12:28:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-36214",
+      "repo_info": "[WesWrench/CVE-2026-36214](https://github.com/WesWrench/CVE-2026-36214)",
+      "description": "Stored Cross-Site Scripting (XSS) in osTicket via Vulnerable Bootstrap Tooltip Component",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T19:11:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-33320",
+      "repo_info": "[Omer-Asher/dasel-cve-exercise](https://github.com/Omer-Asher/dasel-cve-exercise)",
+      "description": "Melange packaging and apko image for Dasel v3.3.1 with a backported fix for CVE-2026-33320.",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T14:46:16Z"
+    },
+    {
       "cve_id": "CVE-2026-25262",
       "repo_info": "[shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research)",
       "description": "Experimental verification of CVE-2026-25262 (Write-What-Where in Sahara protocol) on SM8450 platform, enabling Firehose authentication bypass without server-side token.",
       "date": "2026-07-07",
       "raw_date": "2026-07-07T04:29:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-23698",
+      "repo_info": "[JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698](https://github.com/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698)",
+      "description": "Vtiger CRM 8.3.0, 8.4.0 Module Import Authenticated RCE PoC",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T16:27:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-23697",
+      "repo_info": "[JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697](https://github.com/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697)",
+      "description": "Vtiger CRM 8.3.0 Authenticated RCE via .phar Upload",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T16:26:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-20896",
+      "repo_info": "[szybnev/cve-2026-20896-gitea-poc](https://github.com/szybnev/cve-2026-20896-gitea-poc)",
+      "description": "CVE-2026-20896 Gitea Docker X-WEBAUTH-USER auth bypass checker",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T20:31:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-14762",
+      "repo_info": "[tc4dy/CVE-2026-14762-PoC-Exploit](https://github.com/tc4dy/CVE-2026-14762-PoC-Exploit)",
+      "description": "CVE-2026-14762 exploit for Hotel &amp; Tourism Reservation 1.0. Time-based blind SQL injection via /admin/rooms.php?delete. Dumps DB, tables, columns, reads files, writes webshells. Multi-threaded, proxy support, interactive shell. CVSS 7.3. Authorized testing only. By- @tc4dy",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T12:20:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-14191",
+      "repo_info": "[HORKimhab/CVE-2026-14191](https://github.com/HORKimhab/CVE-2026-14191)",
+      "description": "CVE-2026-14191 - Draft",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T09:40:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-12277",
+      "repo_info": "[moritakaaz/CVE-2026-12277](https://github.com/moritakaaz/CVE-2026-12277)",
+      "description": "Frontend File Manager Plugin (WordPress) &lt;= 23.6 - Unauthenticated Arbitrary File Deletion to RCE",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T20:11:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-11405",
+      "repo_info": "[HORKimhab/CVE-2026-11405](https://github.com/HORKimhab/CVE-2026-11405)",
+      "description": "CVE-2026-11405 - Draft",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T07:32:02Z"
     }
   ],
-  "generated_at": "2026-07-08T02:25:27.174056",
+  "generated_at": "2026-07-08T04:19:36.279680",
   "metadata": {
-    "total_cves": 5,
+    "total_cves": 25,
     "date_range": "2026-07-07",
     "source": "README.md",
     "script_version": "2.0"
