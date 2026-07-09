@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "count": 15,
+  "count": 16,
   "cves": [
     {
       "cve_id": "CVE-2026-56782",
@@ -29,6 +29,13 @@
       "description": "CVE-2026-53753 — Crawl4AI &lt;0.8.7 unauthenticated RCE (AST sandbox escape via gi_frame.f_back). Lab + PoC, verified e2e.",
       "date": "2026-06-29",
       "raw_date": "2026-06-29T21:08:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-52658",
+      "repo_info": "[mirackayikci/CVE-2026-52658](https://github.com/mirackayikci/CVE-2026-52658)",
+      "description": "CVE-2026-52658 — AureusERP Stored XSS",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T22:27:47Z"
     },
     {
       "cve_id": "CVE-2026-48939",
@@ -108,9 +115,9 @@
       "raw_date": "2026-06-29T22:00:32Z"
     }
   ],
-  "generated_at": "2026-07-09T02:39:30.810969",
+  "generated_at": "2026-07-09T04:59:01.968584",
   "metadata": {
-    "total_cves": 15,
+    "total_cves": 16,
     "date_range": "2026-06-29",
     "source": "README.md",
     "script_version": "2.0"

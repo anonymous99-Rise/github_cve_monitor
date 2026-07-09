@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-09",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-54520",
+      "repo_info": "[chaitanyagarware/CVE-2026-54520](https://github.com/chaitanyagarware/CVE-2026-54520)",
+      "description": "CVE-2026-54520 / GHSA-cm8g-8jfq-887p: ai-agent-automation workflow path traversal advisory landing page",
+      "date": "2026-07-09",
+      "raw_date": "2026-07-09T00:31:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-54519",
+      "repo_info": "[chaitanyagarware/CVE-2026-54519](https://github.com/chaitanyagarware/CVE-2026-54519)",
+      "description": "CVE-2026-54519 / GHSA-qv97-83w4-ff86: ai-agent-automation memory authorization advisory landing page",
+      "date": "2026-07-09",
+      "raw_date": "2026-07-09T00:30:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-53571",
+      "repo_info": "[TazmiDev/CVE-2026-53571](https://github.com/TazmiDev/CVE-2026-53571)",
+      "description": "CVE-2026-53571 `server.fs.deny` bypass on Windows alternate paths PoC.",
+      "date": "2026-07-09",
+      "raw_date": "2026-07-09T02:02:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-50746",
+      "repo_info": "[HORKimhab/Ubiquiti-CVE](https://github.com/HORKimhab/Ubiquiti-CVE)",
+      "description": "CVE-2026-50746... - Draft",
+      "date": "2026-07-09",
+      "raw_date": "2026-07-09T01:09:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-50181",
+      "repo_info": "[chaitanyagarware/CVE-2026-50181](https://github.com/chaitanyagarware/CVE-2026-50181)",
+      "description": "CVE-2026-50181 / GHSA-fg23-3346-88f5: Langroid path traversal advisory landing page",
+      "date": "2026-07-09",
+      "raw_date": "2026-07-09T00:30:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-50131",
+      "repo_info": "[chaitanyagarware/CVE-2026-50131](https://github.com/chaitanyagarware/CVE-2026-50131)",
+      "description": "CVE-2026-50131 / GHSA-xw9q-2mv6-9fr8: Fedify incomplete SSRF mitigation advisory landing page",
+      "date": "2026-07-09",
+      "raw_date": "2026-07-09T00:30:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[tc3650/CVE-2026-43499-armv7](https://github.com/tc3650/CVE-2026-43499-armv7)",
+      "description": "no description",
+      "date": "2026-07-09",
+      "raw_date": "2026-07-09T00:41:15Z"
+    }
+  ],
+  "generated_at": "2026-07-09T04:59:01.969972",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2026-07-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

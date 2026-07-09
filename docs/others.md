@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-07-08 04:19:10
+- **生成时间**: 2026-07-09 04:58:35
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -340,9 +340,11 @@
 | 🚫 未识别 | [MIFT-D3v/scanner_fortinet-cve-2025](https://github.com/MIFT-D3v/scanner_fortinet-cve-2025) | scanner para detectar vulnerabilidades en fortinet | 2025-12-18T17:47:23Z|
 | 🚫 未识别 | [Geekujin/React2-PowerShell-CVE-Checker](https://github.com/Geekujin/React2-PowerShell-CVE-Checker) | PowerShell script to see if a website is affected by the &#x27;React2Shell&#x27; vulnerability (CVE 2025-55182/CVE2025-66478) | 2025-12-16T11:17:53Z|
 | 🚫 未识别 | [Greejith-k/SourceCodester-Class-and-Exam-Timetabling-System-1.0-CVE-2026-](https://github.com/Greejith-k/SourceCodester-Class-and-Exam-Timetabling-System-1.0-CVE-2026-) | no description | 2026-07-07T07:20:56Z|
+| 🚫 未识别 | [SecureWithUmer/CVE-2026-PoCs](https://github.com/SecureWithUmer/CVE-2026-PoCs) | A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. | 2026-07-08T09:14:07Z|
+| 🚫 未识别 | [MiLab-HITSZ/2026LiFedCVESA](https://github.com/MiLab-HITSZ/2026LiFedCVESA) | no description | 2026-07-08T04:58:09Z|
 
 
 ---
 
-**报告生成时间**: 2026-07-08 04:19:35  
-**总记录数**: 329
+**报告生成时间**: 2026-07-09 04:59:01  
+**总记录数**: 331

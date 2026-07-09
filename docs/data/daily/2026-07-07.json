@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2026-8451",
@@ -8,6 +8,13 @@
       "description": "CVE-2026-8451 - Citrix NetScaler SAML Memory Overread (CitrixBleed) - PoC &amp; Analysis - CVSS 8.8 - AMN SECURITY",
       "date": "2026-07-07",
       "raw_date": "2026-07-07T23:52:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-6300",
+      "repo_info": "[notthemystery/CVE-2026-6300-PoC](https://github.com/notthemystery/CVE-2026-6300-PoC)",
+      "description": "This is a Proof-of-Concept for the Blink CSS UAF vulnerability tracked as CVE-2026-6300.",
+      "date": "2026-07-07",
+      "raw_date": "2026-07-07T14:18:43Z"
     },
     {
       "cve_id": "CVE-2026-54350",
@@ -178,9 +185,9 @@
       "raw_date": "2026-07-07T07:32:02Z"
     }
   ],
-  "generated_at": "2026-07-09T02:39:30.812627",
+  "generated_at": "2026-07-09T04:59:01.969634",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2026-07-07",
     "source": "README.md",
     "script_version": "2.0"

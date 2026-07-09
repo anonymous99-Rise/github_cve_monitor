@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "count": 4,
+  "count": 19,
   "cves": [
     {
       "cve_id": "CVE-2026-8206",
@@ -8,6 +8,27 @@
       "description": "CVE-2026-8206 - Kirki WordPress Plugin Unauthenticated Account Takeover - PoC &amp; Analysis - CVSS 9.8 CRITICAL - AMN SECURITY",
       "date": "2026-07-08",
       "raw_date": "2026-07-08T00:14:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-56290",
+      "repo_info": "[Jenderal92/CVE-2026-56290](https://github.com/Jenderal92/CVE-2026-56290)",
+      "description": "CVE-2026-56290 - Mass Exploit for Joomla Com_pagebuilderck component (Unrestricted File Upload → RCE). Multi-threaded, automatic CSRF bypass, PHP shell uploader.",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T04:30:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-51788",
+      "repo_info": "[aykhan32/CVE-2026-51788](https://github.com/aykhan32/CVE-2026-51788)",
+      "description": "no description",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T16:46:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-50229",
+      "repo_info": "[zero-trace7/CVE-2026-50229](https://github.com/zero-trace7/CVE-2026-50229)",
+      "description": "no description",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T08:56:04Z"
     },
     {
       "cve_id": "CVE-2026-49777",
@@ -24,6 +45,90 @@
       "raw_date": "2026-07-08T00:26:26Z"
     },
     {
+      "cve_id": "CVE-2026-44825",
+      "repo_info": "[gagaltotal/CVE-2026-44825-Apache-Solr-Scanner](https://github.com/gagaltotal/CVE-2026-44825-Apache-Solr-Scanner)",
+      "description": "Apache Solr instances that may be affected by CVE-2026-44825, related to Velocity Template Remote Code Execution (RCE) conditions.",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T16:51:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[0xBlackash/CVE-2026-43499](https://github.com/0xBlackash/CVE-2026-43499)",
+      "description": "CVE-2026-43499",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T23:50:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[HORKimhab/CVE-2026-43499](https://github.com/HORKimhab/CVE-2026-43499)",
+      "description": "CVE-2026-43499 - Draft",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T06:55:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[armircetaj/tetragon-dirtyfrag](https://github.com/armircetaj/tetragon-dirtyfrag)",
+      "description": "Blocking the DirtyFrag Linux LPE chain (CVE-2026-43284 / CVE-2026-43500) at runtime with a Cilium Tetragon TracingPolicy",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T12:35:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-40453",
+      "repo_info": "[oscerd/CVE-2026-40453](https://github.com/oscerd/CVE-2026-40453)",
+      "description": "Reproducer for CVE-2026-40453: Apache Camel case-variant Camel header injection (incomplete fix of CVE-2025-27636)",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T18:10:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-40048",
+      "repo_info": "[oscerd/CVE-2026-40048](https://github.com/oscerd/CVE-2026-40048)",
+      "description": "Reproducer for CVE-2026-40048: Apache Camel camel-pqc FileBasedKeyLifecycleManager unsafe deserialization (RCE)",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T16:00:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-40047",
+      "repo_info": "[oscerd/CVE-2026-40047](https://github.com/oscerd/CVE-2026-40047)",
+      "description": "Reproducer for CVE-2026-40047: Apache Camel camel-docling CLI argument injection / path traversal",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T10:58:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[b0nyo/CVE-2026-38526](https://github.com/b0nyo/CVE-2026-38526)",
+      "description": "Automated exploit for Krayin CRM ≤ 2.2.x.",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T15:57:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-35204",
+      "repo_info": "[h3ck13r/CVE-2026-35204](https://github.com/h3ck13r/CVE-2026-35204)",
+      "description": "CVE-2026-35204 PoC",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T14:26:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-34197",
+      "repo_info": "[pssec-io/CVE-2026-34197](https://github.com/pssec-io/CVE-2026-34197)",
+      "description": "Poc for CVE-2026-34197",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T11:35:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-27495",
+      "repo_info": "[DexSemon/CVE-2026-27495](https://github.com/DexSemon/CVE-2026-27495)",
+      "description": "Proof-of-concept exploit and lab environment for CVE-2026-27495",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T14:59:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-25262",
+      "repo_info": "[shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research)",
+      "description": "CVE-2026-25262 applicability to Snapdragon 8 Gen 1 — experimental results",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T09:51:38Z"
+    },
+    {
       "cve_id": "CVE-2026-0257",
       "repo_info": "[amnsecurity/CVE-2026-0257-GlobalProtect-Bypass](https://github.com/amnsecurity/CVE-2026-0257-GlobalProtect-Bypass)",
       "description": "CVE-2026-0257 - Palo Alto PAN-OS GlobalProtect Auth Override Cookie Forgery - PoC &amp; Analysis - CVSS 9.1 CRITICAL CISA KEV - AMN SECURITY",
@@ -31,9 +136,9 @@
       "raw_date": "2026-07-08T00:18:11Z"
     }
   ],
-  "generated_at": "2026-07-09T02:39:30.812905",
+  "generated_at": "2026-07-09T04:59:01.969836",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 19,
     "date_range": "2026-07-08",
     "source": "README.md",
     "script_version": "2.0"
