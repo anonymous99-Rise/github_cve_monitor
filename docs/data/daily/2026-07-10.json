@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-10",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-56423",
+      "repo_info": "[BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl](https://github.com/BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl)",
+      "description": "PoC for CVE-2026-56423: MISP deleteSelection broken access control (CWE-862, contributor hard-deletes other orgs&#x27; Event Reports/Sharing Groups, CVSS 8.8)",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T01:27:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[aexdyhaxor/CVE-2026-46331](https://github.com/aexdyhaxor/CVE-2026-46331)",
+      "description": "A Proof of Concept (PoC) exploit for CVE-2026-46331",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T03:07:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[inforcqb/CVE-2026-43499-pja110](https://github.com/inforcqb/CVE-2026-43499-pja110)",
+      "description": "no description",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T03:16:06Z"
+    }
+  ],
+  "generated_at": "2026-07-10T04:58:07.790909",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-07-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

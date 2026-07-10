@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-07-09 04:58:35
+- **生成时间**: 2026-07-10 04:57:39
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -342,9 +342,13 @@
 | 🚫 未识别 | [Greejith-k/SourceCodester-Class-and-Exam-Timetabling-System-1.0-CVE-2026-](https://github.com/Greejith-k/SourceCodester-Class-and-Exam-Timetabling-System-1.0-CVE-2026-) | no description | 2026-07-07T07:20:56Z|
 | 🚫 未识别 | [SecureWithUmer/CVE-2026-PoCs](https://github.com/SecureWithUmer/CVE-2026-PoCs) | A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. | 2026-07-08T09:14:07Z|
 | 🚫 未识别 | [MiLab-HITSZ/2026LiFedCVESA](https://github.com/MiLab-HITSZ/2026LiFedCVESA) | no description | 2026-07-08T04:58:09Z|
+| 🚫 未识别 | [ADWMC/wukong-harvest](https://github.com/ADWMC/wukong-harvest) | Steam租号系统安全研究工具 (AI Generated, Educational Only) | 2026-07-09T09:49:39Z|
+| 🚫 未识别 | [Correctover/ccs-demo](https://github.com/Correctover/ccs-demo) | CCS Demo: Fail-closed governance for CrewAI Agents (CVE-2026-XXXX) | 2026-07-09T10:31:46Z|
+| 🚫 未识别 | [luongs3/wtf-audit-trail](https://github.com/luongs3/wtf-audit-trail) | Encrypted CVE audit trail on iExec Nox — severity scores stored as euint256 handles, never visible on-chain. WTF!! Hackathon Summer Edition 2026. | 2026-07-09T09:27:32Z|
+| 🚫 未识别 | [AASHS25/CVE-Mikrotik-2026](https://github.com/AASHS25/CVE-Mikrotik-2026) | no description | 2026-07-09T08:04:53Z|
 
 
 ---
 
-**报告生成时间**: 2026-07-09 04:59:01  
-**总记录数**: 331
+**报告生成时间**: 2026-07-10 04:58:06  
+**总记录数**: 335
