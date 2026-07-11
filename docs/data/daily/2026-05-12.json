@@ -1,7 +1,14 @@
 {
   "date": "2026-05-12",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[tc4dy/CVE-2026-41940-PoC-Exploit](https://github.com/tc4dy/CVE-2026-41940-PoC-Exploit)",
+      "description": "🚀 CVE-2026-41940 cPanel/WHM Auth Bypass Exploit - Best Flow 💥 CRLF injection leads to auth bypass, session hijacking &amp; account leak. ✅ Proxy, custom UA, keep-alive, retries, SSL verify, colored output, file save support. ⚡ Advanced PoC for pentesters.",
+      "date": "2026-05-12",
+      "raw_date": "2026-05-12T14:47:21Z"
+    },
     {
       "cve_id": "CVE-2026-31431",
       "repo_info": "[sh4den/CVE-2026-31431-copyfail-aarch64](https://github.com/sh4den/CVE-2026-31431-copyfail-aarch64)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-05-12T19:56:36Z"
     }
   ],
-  "generated_at": "2026-07-11T02:22:44.277082",
+  "generated_at": "2026-07-11T04:18:00.765040",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-05-12",
     "source": "README.md",
     "script_version": "2.0"

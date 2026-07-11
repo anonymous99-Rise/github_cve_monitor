@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-11",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-46242",
+      "repo_info": "[Baba01hacker666/CVE-2026-46242](https://github.com/Baba01hacker666/CVE-2026-46242)",
+      "description": "CVE-2026-46242",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T03:26:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-43501",
+      "repo_info": "[Anyone202/cybermeowfia-termux](https://github.com/Anyone202/cybermeowfia-termux)",
+      "description": "Termux Privilege Escalation Tool &amp; Root Manager - CVE-2026-43501",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T03:46:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-40887",
+      "repo_info": "[thecodeb0ss/CVE-2026-40887](https://github.com/thecodeb0ss/CVE-2026-40887)",
+      "description": "An unauthenticated SQL injection vulnerability exists in the Vendure Shop API. A user-controlled query string parameter is interpolated directly into a raw SQL expression without parameterization or validation, allowing an attacker to execute arbitrary SQL against the database.",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T02:47:52Z"
+    }
+  ],
+  "generated_at": "2026-07-11T04:18:00.773411",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-07-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

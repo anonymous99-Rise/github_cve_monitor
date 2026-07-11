@@ -1,13 +1,48 @@
 {
   "date": "2026-07-10",
-  "count": 3,
+  "count": 17,
   "cves": [
+    {
+      "cve_id": "CVE-2026-9558",
+      "repo_info": "[covepseng/cve-2026-9558-poc](https://github.com/covepseng/cve-2026-9558-poc)",
+      "description": "Exploitability PoC for CVE-2026-9558 (SSTI Mautic Theme)",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T12:13:25Z"
+    },
     {
       "cve_id": "CVE-2026-56423",
       "repo_info": "[BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl](https://github.com/BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl)",
       "description": "PoC for CVE-2026-56423: MISP deleteSelection broken access control (CWE-862, contributor hard-deletes other orgs&#x27; Event Reports/Sharing Groups, CVSS 8.8)",
       "date": "2026-07-10",
       "raw_date": "2026-07-10T01:27:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-54390",
+      "repo_info": "[shinthink/CVE-2026-54390](https://github.com/shinthink/CVE-2026-54390)",
+      "description": "CVE-2026-54390 — JTL Shop Smarty SSTI RCE - Pre-Auth Template Injection via fetch(&#x27;string:&#x27; . ) - 5.2.0-5.7.1",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T10:55:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-50980",
+      "repo_info": "[bugresearch/CVE-2026-50980](https://github.com/bugresearch/CVE-2026-50980)",
+      "description": "oPnael DNS-Based Cross-Site Scripting (XSS) &amp; Session Hijacking",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T06:48:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-50979",
+      "repo_info": "[bugresearch/CVE-2026-50979](https://github.com/bugresearch/CVE-2026-50979)",
+      "description": "oPanel Authanticated Remote Code Execution via &#x27;advenced/curl&#x27; Component",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T06:40:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-49049",
+      "repo_info": "[Dr-D25/CVE-2026-49049](https://github.com/Dr-D25/CVE-2026-49049)",
+      "description": "no description",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T08:26:45Z"
     },
     {
       "cve_id": "CVE-2026-46331",
@@ -22,11 +57,74 @@
       "description": "no description",
       "date": "2026-07-10",
       "raw_date": "2026-07-10T03:16:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[caspy123/CVE-2026-43499](https://github.com/caspy123/CVE-2026-43499)",
+      "description": "no description",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T21:16:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-40860",
+      "repo_info": "[oscerd/CVE-2026-40860](https://github.com/oscerd/CVE-2026-40860)",
+      "description": "Reproducer for CVE-2026-40860 — Apache Camel camel-jms/sjms/amqp JMS ObjectMessage unsafe deserialization (RCE)",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T09:13:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-40859",
+      "repo_info": "[oscerd/CVE-2026-40859](https://github.com/oscerd/CVE-2026-40859)",
+      "description": "Reproducer for CVE-2026-40859 — Apache Camel camel-netty-http / camel-vertx-http producer-side unsafe deserialization of HTTP response bodies (RCE)",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T08:54:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-40858",
+      "repo_info": "[oscerd/CVE-2026-40858](https://github.com/oscerd/CVE-2026-40858)",
+      "description": "Reproducer for CVE-2026-40858 — Apache Camel camel-infinispan remote aggregation repository unsafe deserialization (RCE)",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T07:33:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-28992",
+      "repo_info": "[clogan9019-dotcom/IOHIDFamily-PoC-Research](https://github.com/clogan9019-dotcom/IOHIDFamily-PoC-Research)",
+      "description": "CVE-2026-28992 IOHIDFamily FastPathUserClient race condition PoC — security research",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T20:50:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-27626",
+      "repo_info": "[Cobrastrike62/CVE-2026-27626-POC](https://github.com/Cobrastrike62/CVE-2026-27626-POC)",
+      "description": "no description",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T18:25:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-25253",
+      "repo_info": "[cain66666/openclaw-hardening-check](https://github.com/cain66666/openclaw-hardening-check)",
+      "description": "Offline, read-only hardening check for a self-hosted OpenClaw install — gateway exposure, auth, CVE-2026-25253. Never prints secrets, makes no network calls.",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T09:06:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[stoerti2/Abyssal](https://github.com/stoerti2/Abyssal)",
+      "description": "Abyssal is a high-performance Telnet vulnerability scanner for CVE-2026-24061,  delivering root shells on vulnerable systems with false-positive detection.",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T15:01:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[0x77FSec/CVE-2026-23744](https://github.com/0x77FSec/CVE-2026-23744)",
+      "description": "no description",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T07:39:22Z"
     }
   ],
-  "generated_at": "2026-07-11T02:22:44.302564",
+  "generated_at": "2026-07-11T04:18:00.773276",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 17,
     "date_range": "2026-07-10",
     "source": "README.md",
     "script_version": "2.0"
