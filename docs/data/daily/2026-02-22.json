@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-22",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-25253",
+      "repo_info": "[FrigateCaptain/openclaw_vulnerabilities_and_solutions](https://github.com/FrigateCaptain/openclaw_vulnerabilities_and_solutions)",
+      "description": "&gt; OpenClaw security audit and hardened deployment guide — known vulnerabilities (CVE-2026-25253, malicious skills, credential leakage), architectural mitigations, and a step-by-step VPS deployment plan",
+      "date": "2026-02-22",
+      "raw_date": "2026-02-22T00:03:15Z"
+    }
+  ],
+  "generated_at": "2026-07-12T04:29:20.990235",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-02-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

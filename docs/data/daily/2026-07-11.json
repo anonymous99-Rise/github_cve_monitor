@@ -1,13 +1,55 @@
 {
   "date": "2026-07-11",
-  "count": 3,
+  "count": 21,
   "cves": [
+    {
+      "cve_id": "CVE-2026-9082",
+      "repo_info": "[MW-HF/Drupal-CVE-2026-9082](https://github.com/MW-HF/Drupal-CVE-2026-9082)",
+      "description": "no description",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T05:23:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-7275",
+      "repo_info": "[ExDev994/CVE-2026-7275-moodle](https://github.com/ExDev994/CVE-2026-7275-moodle)",
+      "description": "PoC &amp; dokumentasi untuk CVE-2026-7275: Moodle Google Drive Repository (repository_googledocs) — Path Traversal / Arbitrary File Write yang dapat mengarah ke RCE pada versi Moodle yang belum dipatch.",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T17:09:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-59734",
+      "repo_info": "[cybertechajju/CVE-2026-59734-POC](https://github.com/cybertechajju/CVE-2026-59734-POC)",
+      "description": "OS Command Injection in Health Check → Remote Code Execution",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T08:27:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-57850",
+      "repo_info": "[sn0x-sharma/CVE-2026-57850](https://github.com/sn0x-sharma/CVE-2026-57850)",
+      "description": "no description",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T22:27:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[yanxinwu946/CVE-2026-46331](https://github.com/yanxinwu946/CVE-2026-46331)",
+      "description": "CVE-2026-46331 act_pedit page-cache corruption exploit, with Alpine PIE fix",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T06:42:33Z"
+    },
     {
       "cve_id": "CVE-2026-46242",
       "repo_info": "[Baba01hacker666/CVE-2026-46242](https://github.com/Baba01hacker666/CVE-2026-46242)",
       "description": "CVE-2026-46242",
       "date": "2026-07-11",
       "raw_date": "2026-07-11T03:26:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-46215",
+      "repo_info": "[bluedragonsecurity/CVE-2026-46215-EXPLOIT](https://github.com/bluedragonsecurity/CVE-2026-46215-EXPLOIT)",
+      "description": "This is and exploit for CVE-2026-46215 (Linux Kernel Use After Free) Adapted for Linux 7.0 !!! by Antonius (ev1lut10n / sw0rdm4n)",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T16:16:51Z"
     },
     {
       "cve_id": "CVE-2026-43501",
@@ -17,16 +59,100 @@
       "raw_date": "2026-07-11T03:46:50Z"
     },
     {
+      "cve_id": "CVE-2026-42527",
+      "repo_info": "[oscerd/CVE-2026-42527](https://github.com/oscerd/CVE-2026-42527)",
+      "description": "Reproducer for CVE-2026-42527 — Apache Camel permissive default ObjectInputFilter admits java.net.URL, enabling a DNS-based out-of-band side channel",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T17:10:35Z"
+    },
+    {
       "cve_id": "CVE-2026-40887",
       "repo_info": "[thecodeb0ss/CVE-2026-40887](https://github.com/thecodeb0ss/CVE-2026-40887)",
       "description": "An unauthenticated SQL injection vulnerability exists in the Vendure Shop API. A user-controlled query string parameter is interpolated directly into a raw SQL expression without parameterization or validation, allowing an attacker to execute arbitrary SQL against the database.",
       "date": "2026-07-11",
       "raw_date": "2026-07-11T02:47:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[Resolvdd/CVE-2026-38526-PoC-htb-nexus](https://github.com/Resolvdd/CVE-2026-38526-PoC-htb-nexus)",
+      "description": "A PoC script for CVE-2026-38526, RCE via a file upload vulnerability in the /admin/tinymce/upload endpoint of webkul krayin 2.2.x",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T10:57:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-29145",
+      "repo_info": "[gkdgkd123/CVE-2026-29145-Everything](https://github.com/gkdgkd123/CVE-2026-29145-Everything)",
+      "description": "no description",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T08:39:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-29116",
+      "repo_info": "[CrimsonfiedOfficial/CVE-2026-29116](https://github.com/CrimsonfiedOfficial/CVE-2026-29116)",
+      "description": "Dahua CVE-2026-29116",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T06:03:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-29115",
+      "repo_info": "[CrimsonfiedOfficial/CVE-2026-29115](https://github.com/CrimsonfiedOfficial/CVE-2026-29115)",
+      "description": "Dahua CVE-2026-29115",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T06:09:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-29114",
+      "repo_info": "[CrimsonfiedOfficial/CVE-2026-29114](https://github.com/CrimsonfiedOfficial/CVE-2026-29114)",
+      "description": "Dahua CVE-2026-29114",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T06:14:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-29000",
+      "repo_info": "[dua2z3rr/CVE-2026-29000-PoC](https://github.com/dua2z3rr/CVE-2026-29000-PoC)",
+      "description": "CVE-2026-29000 - pac4j-jwt (&lt; 4.5.9 / &lt; 5.7.9 / &lt; 6.3.3) JwtAuthenticator authentication bypass PoC",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T13:12:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[ozcanpng/CVE-2026-23744](https://github.com/ozcanpng/CVE-2026-23744)",
+      "description": "CVE-2026-23744 MCPJam Inspector unauthenticated RCE PoC",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T11:57:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-15282",
+      "repo_info": "[shinthink/CVE-2026-15282](https://github.com/shinthink/CVE-2026-15282)",
+      "description": "Instant Appointment &lt;= 1.2 — Unauthenticated Arbitrary File Upload to RCE via add_service_front AJAX - CVSS 9.8",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T10:24:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-14894",
+      "repo_info": "[1beelze/CVE-2026-14894](https://github.com/1beelze/CVE-2026-14894)",
+      "description": "no description",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T13:34:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-13768",
+      "repo_info": "[J4ck3LSyN-Gen2/CVE-2026-13768](https://github.com/J4ck3LSyN-Gen2/CVE-2026-13768)",
+      "description": "Azure IoT Hub where exposure of an owner-level Shared Access Key enables unauthenticated remote code execution (RCE) against connected IoT devices. Proof-Of-Concept",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T23:19:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-0740",
+      "repo_info": "[ExDev994/CVE-2026-0740-mass](https://github.com/ExDev994/CVE-2026-0740-mass)",
+      "description": "PoC untuk CVE-2026-0740: Ninja Forms File Uploads &lt;= 3.3.26 — Unauthenticated Arbitrary File Upload yang dapat mengarah ke RCE.",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T13:27:07Z"
     }
   ],
-  "generated_at": "2026-07-12T02:27:46.634670",
+  "generated_at": "2026-07-12T04:29:20.996785",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 21,
     "date_range": "2026-07-11",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-12",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-20127",
+      "repo_info": "[anuththara2007-W/CVE-2026-20127-Exploit-Extension](https://github.com/anuththara2007-W/CVE-2026-20127-Exploit-Extension)",
+      "description": "no description",
+      "date": "2026-07-12",
+      "raw_date": "2026-07-12T04:08:28Z"
+    }
+  ],
+  "generated_at": "2026-07-12T04:29:20.996929",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-07-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
