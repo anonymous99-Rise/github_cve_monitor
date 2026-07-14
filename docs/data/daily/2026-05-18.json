@@ -1,7 +1,14 @@
 {
   "date": "2026-05-18",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-46300",
+      "repo_info": "[First-John/cve_2026_frag_family_fix](https://github.com/First-John/cve_2026_frag_family_fix)",
+      "description": "CVE-2026-46300 / CVE-2026-43500 / CVE-2026-31431 / CVE-2026-43284 golang hotfix",
+      "date": "2026-05-18",
+      "raw_date": "2026-05-18T19:32:29Z"
+    },
     {
       "cve_id": "CVE-2026-33824",
       "repo_info": "[EpSiLoNPoInTOrI/IKEV2-POC](https://github.com/EpSiLoNPoInTOrI/IKEV2-POC)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-05-18T13:44:31Z"
     }
   ],
-  "generated_at": "2026-07-14T02:08:46.616749",
+  "generated_at": "2026-07-14T04:08:29.251934",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-05-18",
     "source": "README.md",
     "script_version": "2.0"

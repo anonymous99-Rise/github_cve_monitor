@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-14",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Bartixxx32/CVE-2026-43499-OnePlus15](https://github.com/Bartixxx32/CVE-2026-43499-OnePlus15)",
+      "description": "no description",
+      "date": "2026-07-14",
+      "raw_date": "2026-07-14T00:15:16Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026](https://github.com/MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026)",
+      "description": "Vulnerability research write-up on CVE-2017-7921 — a critical unauthenticated auth bypass in Hikvision IP cameras/DVRs/NVRs, covering root cause, exploitation path, detection, and remediation.",
+      "date": "2026-07-14",
+      "raw_date": "2026-07-14T02:08:52Z"
+    }
+  ],
+  "generated_at": "2026-07-14T04:08:29.261609",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-07-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

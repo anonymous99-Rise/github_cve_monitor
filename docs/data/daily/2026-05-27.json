@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-45659",
+      "repo_info": "[HORKimhab/CVE-2026-45659](https://github.com/HORKimhab/CVE-2026-45659)",
+      "description": "CVE-2026-45659",
+      "date": "2026-05-27",
+      "raw_date": "2026-05-27T01:25:03Z"
+    }
+  ],
+  "generated_at": "2026-07-14T04:08:29.252516",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-05-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

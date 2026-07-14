@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-9082",
@@ -29,6 +29,13 @@
       "description": "no description",
       "date": "2026-07-11",
       "raw_date": "2026-07-11T22:27:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-56291",
+      "repo_info": "[shinthink/CVE-2026-56291](https://github.com/shinthink/CVE-2026-56291)",
+      "description": "Balbooa Forms (com_baforms) &lt; 2.4.1 — Unauthenticated File Upload to RCE via form.uploadAttachmentFile - CVSS 9.8 - CISA KEV",
+      "date": "2026-07-11",
+      "raw_date": "2026-07-11T10:50:54Z"
     },
     {
       "cve_id": "CVE-2026-46331",
@@ -150,9 +157,9 @@
       "raw_date": "2026-07-11T13:27:07Z"
     }
   ],
-  "generated_at": "2026-07-14T02:08:46.625372",
+  "generated_at": "2026-07-14T04:08:29.260866",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-07-11",
     "source": "README.md",
     "script_version": "2.0"

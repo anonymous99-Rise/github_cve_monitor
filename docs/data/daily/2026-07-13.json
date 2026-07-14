@@ -1,0 +1,209 @@
+{
+  "date": "2026-07-13",
+  "count": 28,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-6307",
+      "repo_info": "[amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape](https://github.com/amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape)",
+      "description": "CVE-2026-6307 - Google Chrome V8 Turbofan Type Confusion Sandbox Escape - PoC &amp; Analysis - CVSS 8.8 HIGH - AMN SECURITY",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T13:22:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-57830",
+      "repo_info": "[Is4yev/CVE-2026-57830](https://github.com/Is4yev/CVE-2026-57830)",
+      "description": "Unauthenticated Arbitrary File/Folder Deletion in Joomla Helix Ultimate (JoomShaper) &lt;= 2.2.6 — CVE-2026-57830",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T08:12:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-57829",
+      "repo_info": "[Is4yev/CVE-2026-57829](https://github.com/Is4yev/CVE-2026-57829)",
+      "description": "Unauthenticated Stored XSS in Joomla Helix Ultimate (JoomShaper) &lt;= 2.2.6",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T08:08:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-56291",
+      "repo_info": "[0xdenis77/CVE-2026-56291](https://github.com/0xdenis77/CVE-2026-56291)",
+      "description": "Mendeteksi versi (passive detection) &amp; Exploitation CVE POC",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T19:50:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-56291",
+      "repo_info": "[rimbadirgantara/CVE-2026-56291.yaml](https://github.com/rimbadirgantara/CVE-2026-56291.yaml)",
+      "description": "nuclei template for CVE-2026-56291",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T14:50:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-55494",
+      "repo_info": "[4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE](https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE)",
+      "description": "A combination of CVE-2026-55494 and CVE-2026-62308 to get root privilege RCE in tugtainer",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T08:42:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-53805",
+      "repo_info": "[HORKimhab/CVE-2026-53805](https://github.com/HORKimhab/CVE-2026-53805)",
+      "description": "CVE-2026-53805 - Draft",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T07:29:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-5118",
+      "repo_info": "[1beelze/CVE-2026-5118](https://github.com/1beelze/CVE-2026-5118)",
+      "description": "no description",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T05:45:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-49049",
+      "repo_info": "[ExDev994/CVE-2026-49049](https://github.com/ExDev994/CVE-2026-49049)",
+      "description": "CVE-2026-49049 Helix3 (JoomShaper) Joomla Unauthenticated AJAX RCE Scanner",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T19:38:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[amnsecurity/CVE-2026-48907-Joomla-JCE-RCE](https://github.com/amnsecurity/CVE-2026-48907-Joomla-JCE-RCE)",
+      "description": "CVE-2026-48907 - Joomla JCE Editor Unauthenticated RCE - PoC &amp; Analysis - CVSS 9.8 CRITICAL - AMN SECURITY",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T13:23:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-46529",
+      "repo_info": "[amnsecurity/CVE-2026-46529-Atril-PDF-RCE](https://github.com/amnsecurity/CVE-2026-46529-Atril-PDF-RCE)",
+      "description": "CVE-2026-46529 - Atril Evince XReader PDF Clickable Link RCE - PoC &amp; Analysis - CVSS 7.8 HIGH - AMN SECURITY",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T13:26:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-46456",
+      "repo_info": "[oscerd/CVE-2026-46456](https://github.com/oscerd/CVE-2026-46456)",
+      "description": "Reproducer for CVE-2026-46456 — Apache Camel camel-aws2-sqs inbound message-attribute header injection (Camel control-header injection via sqs:SendMessage → downstream producer steering / RCE)",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T19:01:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-46455",
+      "repo_info": "[oscerd/CVE-2026-46455](https://github.com/oscerd/CVE-2026-46455)",
+      "description": "Reproducer for CVE-2026-46455 — Apache Camel camel-keycloak missing TokenVerifier.IS_ACTIVE check (expired access tokens accepted)",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T15:47:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-46454",
+      "repo_info": "[oscerd/CVE-2026-46454](https://github.com/oscerd/CVE-2026-46454)",
+      "description": "Reproducer for CVE-2026-46454 — Apache Camel camel-cometd inbound Bayeux header injection (unauthenticated Camel control-header injection → downstream producer steering / RCE)",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T12:58:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-46453",
+      "repo_info": "[oscerd/CVE-2026-46453](https://github.com/oscerd/CVE-2026-46453)",
+      "description": "Reproducer for CVE-2026-46453 — Apache Camel camel-elasticsearch-rest-client unprefixed-header injection (operation/query override via inbound HTTP headers)",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T12:30:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-43867",
+      "repo_info": "[oscerd/CVE-2026-43867](https://github.com/oscerd/CVE-2026-43867)",
+      "description": "Reproducer for CVE-2026-43867 — Apache Camel camel-pqc AwsSecretsManagerKeyLifecycleManager unsafe key-metadata deserialization (RCE)",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T08:42:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-43724",
+      "repo_info": "[impost0r/Rie](https://github.com/impost0r/Rie)",
+      "description": "CVE-2026-43724 - Apple&#x27;s published enough advisories about the issue, I&#x27;m not getting paid for any of my kernel bugs.",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T22:38:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Yakayna/SpringPeace](https://github.com/Yakayna/SpringPeace)",
+      "description": "(Hopefully) A tool to root for (most) Android devices through CVE-2026-43499",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T05:45:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499)",
+      "description": "Android version CVE-2026-43499 tester",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T13:31:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[joehquak/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499)",
+      "description": "Multi OS Support: Version for MacOS/Linux and Windows, Fully translated to English",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T05:10:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock)",
+      "description": "OPPO Find X6 Pro GhostLock (CVE-2026-43499) exploit adaptation",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T07:35:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-40047",
+      "repo_info": "[amnsecurity/CVE-2026-40047-Apache-Camel-Docling-Injection](https://github.com/amnsecurity/CVE-2026-40047-Apache-Camel-Docling-Injection)",
+      "description": "CVE-2026-40047 - Apache Camel Docling CLI Argument Injection - PoC &amp; Analysis - CVSS 9.1 CRITICAL - AMN SECURITY",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T13:29:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526](https://github.com/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526)",
+      "description": "CVE-2026-38526 exploit for Krayin CRM v2.2.x - Authenticated RCE via TinyMCE file upload bypass. Features interactive shell, multi-type payloads, auto shell generation, and verification. Author: Sudeepa Wanigarathna. For authorized testing only.",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T21:33:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[Qurclinc/CVE-2026-38526](https://github.com/Qurclinc/CVE-2026-38526)",
+      "description": "no description",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T10:31:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-36214",
+      "repo_info": "[amnsecurity/CVE-2026-36214-osTicket-XSS](https://github.com/amnsecurity/CVE-2026-36214-osTicket-XSS)",
+      "description": "CVE-2026-36214 - osTicket Stored XSS via Bootstrap Tooltip - PoC &amp; Analysis - CVSS 8.7 HIGH - AMN SECURITY",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T13:31:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-35204",
+      "repo_info": "[amnsecurity/CVE-2026-35204-Helm-Plugin-Traversal](https://github.com/amnsecurity/CVE-2026-35204-Helm-Plugin-Traversal)",
+      "description": "CVE-2026-35204 - Helm Plugin Path Traversal Arbitrary File Write - PoC &amp; Analysis - CVSS 8.6 HIGH - AMN SECURITY",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T13:32:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-34048",
+      "repo_info": "[0xmrma/CVE-2026-34048](https://github.com/0xmrma/CVE-2026-34048)",
+      "description": "Admin-only terminal bootstrap routes checked only for login state, which let a normal team member drive Coolify&#x27;s realtime terminal backend and execute commands on team servers.",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T09:16:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-23415",
+      "repo_info": "[addman2/uaf-exploit-cve-2026-23415](https://github.com/addman2/uaf-exploit-cve-2026-23415)",
+      "description": "no description",
+      "date": "2026-07-13",
+      "raw_date": "2026-07-13T11:21:08Z"
+    }
+  ],
+  "generated_at": "2026-07-14T04:08:29.261311",
+  "metadata": {
+    "total_cves": 28,
+    "date_range": "2026-07-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
