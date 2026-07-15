@@ -1,0 +1,20 @@
+{
+  "date": "2026-01-15",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-26719",
+      "repo_info": "[Ibrahim-Sartawi/CVE-2026-26719](https://github.com/Ibrahim-Sartawi/CVE-2026-26719)",
+      "description": "A stored Cross‑Site Scripting vulnerability exists in xxl-job-admin JobInfoController.java where the addressList parameter accepts unsanitized URL‑encoded JavaScript. The payload is stored and later executed in users’ browsers, lead unauthorized actions.",
+      "date": "2026-01-15",
+      "raw_date": "2026-01-15T13:50:14Z"
+    }
+  ],
+  "generated_at": "2026-07-15T04:10:00.664713",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-01-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

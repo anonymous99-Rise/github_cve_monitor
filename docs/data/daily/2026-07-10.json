@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "count": 17,
+  "count": 18,
   "cves": [
     {
       "cve_id": "CVE-2026-9558",
@@ -22,6 +22,13 @@
       "description": "CVE-2026-54390 — JTL Shop Smarty SSTI RCE - Pre-Auth Template Injection via fetch(&#x27;string:&#x27; . ) - 5.2.0-5.7.1",
       "date": "2026-07-10",
       "raw_date": "2026-07-10T10:55:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-51833",
+      "repo_info": "[dennywise/CVE-2026-51833-Public-Disclosure](https://github.com/dennywise/CVE-2026-51833-Public-Disclosure)",
+      "description": "CVE-2026-51833 Advisory",
+      "date": "2026-07-10",
+      "raw_date": "2026-07-10T17:12:46Z"
     },
     {
       "cve_id": "CVE-2026-50980",
@@ -122,9 +129,9 @@
       "raw_date": "2026-07-10T07:39:22Z"
     }
   ],
-  "generated_at": "2026-07-15T02:06:21.589767",
+  "generated_at": "2026-07-15T04:10:00.673555",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 18,
     "date_range": "2026-07-10",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-15",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-55511",
+      "repo_info": "[junfuture1103/CVE-2026-55511](https://github.com/junfuture1103/CVE-2026-55511)",
+      "description": "Remote Code Execution (RCE) in Yamcs Mission Control System via Java Statement Injection in Yarch SQL Double-Quoted IdentifiersRemote Code Execution (RCE) in Yamcs Mission Control System via Java Statement Injection in Yarch SQL Double-Quoted Identifiers",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T00:32:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root)",
+      "description": "Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU integration",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T03:59:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499](https://github.com/HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499)",
+      "description": "罗技云掌机 · GhostLock CVE-2026-43499 root 尝试",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T02:03:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-36669",
+      "repo_info": "[firstlax6t/CVE-2026-36669-FengOffice](https://github.com/firstlax6t/CVE-2026-36669-FengOffice)",
+      "description": "no description",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T01:25:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-15410",
+      "repo_info": "[HORKimhab/CVE-2026-15410](https://github.com/HORKimhab/CVE-2026-15410)",
+      "description": "CVE-2026-15410 - Draft",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T02:31:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-15409",
+      "repo_info": "[HORKimhab/CVE-2026-15409](https://github.com/HORKimhab/CVE-2026-15409)",
+      "description": "CVE-2026-15409 - Dectect",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T02:30:50Z"
+    }
+  ],
+  "generated_at": "2026-07-15T04:10:00.674361",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2026-07-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

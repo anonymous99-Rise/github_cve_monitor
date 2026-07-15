@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-38934",
+      "repo_info": "[VadlaReddySai/cve-writeups](https://github.com/VadlaReddySai/cve-writeups)",
+      "description": "Multiple CVEs (CVE-2026-38934, CVE-2026-38935, CVE-2026-38936) discovered in diskover-community including CSRF and XSS vulnerabilities with proof-of-concept and impact analysis.",
+      "date": "2026-04-27",
+      "raw_date": "2026-04-27T08:57:53Z"
+    }
+  ],
+  "generated_at": "2026-07-15T04:10:00.666813",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-04-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
