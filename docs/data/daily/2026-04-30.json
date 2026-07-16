@@ -1,7 +1,14 @@
 {
   "date": "2026-04-30",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-43500",
+      "repo_info": "[attaattaatta/CVE-2026-43500](https://github.com/attaattaatta/CVE-2026-43500)",
+      "description": "CVE-2026-43500 / CVE-2026-31431 / CVE-2026-43284 golang hotfix",
+      "date": "2026-04-30",
+      "raw_date": "2026-04-30T12:27:15Z"
+    },
     {
       "cve_id": "CVE-2026-31431",
       "repo_info": "[adampielak/CVE-2026-31431_SCA_WAZUH](https://github.com/adampielak/CVE-2026-31431_SCA_WAZUH)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-04-30T09:56:23Z"
     }
   ],
-  "generated_at": "2026-07-16T02:19:22.984541",
+  "generated_at": "2026-07-16T04:13:28.600092",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-04-30",
     "source": "README.md",
     "script_version": "2.0"

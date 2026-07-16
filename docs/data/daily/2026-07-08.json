@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "count": 19,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2026-8206",
@@ -8,6 +8,13 @@
       "description": "CVE-2026-8206 - Kirki WordPress Plugin Unauthenticated Account Takeover - PoC &amp; Analysis - CVSS 9.8 CRITICAL - AMN SECURITY",
       "date": "2026-07-08",
       "raw_date": "2026-07-08T00:14:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-57239",
+      "repo_info": "[Paradoxis/CVE-2026-57239](https://github.com/Paradoxis/CVE-2026-57239)",
+      "description": "Proof of concept exploit for CVE-2026-3775/CVE-2026-3780 and CVE-2026-57239 which lets you obtain NT AUTHORITY\\SYSTEM rights via the Foxit PDF Reader updater service.",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T13:47:31Z"
     },
     {
       "cve_id": "CVE-2026-56290",
@@ -136,9 +143,9 @@
       "raw_date": "2026-07-08T00:18:11Z"
     }
   ],
-  "generated_at": "2026-07-16T02:19:22.995157",
+  "generated_at": "2026-07-16T04:13:28.609115",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 20,
     "date_range": "2026-07-08",
     "source": "README.md",
     "script_version": "2.0"

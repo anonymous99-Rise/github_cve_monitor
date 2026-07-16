@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "count": 15,
+  "count": 16,
   "cves": [
     {
       "cve_id": "CVE-2026-8461",
@@ -8,6 +8,13 @@
       "description": "patched ffmpeg-tools for jellyfin to patch CVE-2026-8461 aka PixelSmash",
       "date": "2026-06-27",
       "raw_date": "2026-06-27T16:09:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-62958",
+      "repo_info": "[0Linear/CVE-2026-62958](https://github.com/0Linear/CVE-2026-62958)",
+      "description": "no description",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T19:39:21Z"
     },
     {
       "cve_id": "CVE-2026-5366",
@@ -108,9 +115,9 @@
       "raw_date": "2026-06-27T09:23:23Z"
     }
   ],
-  "generated_at": "2026-07-16T02:19:22.992234",
+  "generated_at": "2026-07-16T04:13:28.606692",
   "metadata": {
-    "total_cves": 15,
+    "total_cves": 16,
     "date_range": "2026-06-27",
     "source": "README.md",
     "script_version": "2.0"

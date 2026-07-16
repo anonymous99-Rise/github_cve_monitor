@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-16",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-57155",
+      "repo_info": "[babyshen/CVE-2026-57155](https://github.com/babyshen/CVE-2026-57155)",
+      "description": "OPNsense Root RCE (CVE-2026-57155)",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T02:31:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[DistrictBlauw/CyberMeowfia-ace3](https://github.com/DistrictBlauw/CyberMeowfia-ace3)",
+      "description": "CVE-2026-43499 exploit with OnePlus Ace3 support",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T03:19:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko)",
+      "description": "CVE-2026-43499 GhostLock exploit for Redmi K70 Ultra (rothko) - data-only physmap overwrite",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T01:48:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-21955",
+      "repo_info": "[minq0x1412/CVE-2026-21955](https://github.com/minq0x1412/CVE-2026-21955)",
+      "description": "no description",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T01:34:35Z"
+    }
+  ],
+  "generated_at": "2026-07-16T04:13:28.610924",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-07-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

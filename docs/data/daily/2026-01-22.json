@@ -1,0 +1,20 @@
+{
+  "date": "2026-01-22",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-0594",
+      "repo_info": "[m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit)",
+      "description": "CVE-2026-0594 List Site Contributors Plugin Exploit",
+      "date": "2026-01-22",
+      "raw_date": "2026-01-22T19:58:18Z"
+    }
+  ],
+  "generated_at": "2026-07-16T04:13:28.596783",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-01-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

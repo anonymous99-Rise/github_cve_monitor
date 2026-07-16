@@ -1,13 +1,125 @@
 {
   "date": "2026-07-15",
-  "count": 6,
+  "count": 39,
   "cves": [
+    {
+      "cve_id": "CVE-2026-59827",
+      "repo_info": "[c0gnit00/CVE-2026-59827](https://github.com/c0gnit00/CVE-2026-59827)",
+      "description": "Blog on CVE-2026-59827, Unsafe H2 query ouput deserialization",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T08:00:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-58635",
+      "repo_info": "[DavidCarliez/CVE-2026-58635-PoC](https://github.com/DavidCarliez/CVE-2026-58635-PoC)",
+      "description": "Proof of concept for CVE-2026-58635",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T12:53:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-58138",
+      "repo_info": "[Ch4120N/CVE-2026-58138](https://github.com/Ch4120N/CVE-2026-58138)",
+      "description": "CVE-2026-58138 — Conductor (3.21.21..&lt;3.30.2) unauthenticated RCE via INLINE GraalVM evaluator (HostAccess.ALL). Lab + PoC, verified e2e (root).",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T19:07:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-58138",
+      "repo_info": "[seqra/cve-2026-58138](https://github.com/seqra/cve-2026-58138)",
+      "description": "no description",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T15:07:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-56164",
+      "repo_info": "[sentinel-aidefense/CVE-2026-56164-EXP](https://github.com/sentinel-aidefense/CVE-2026-56164-EXP)",
+      "description": "CVE-2026-56164 EOP Exploit",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T08:53:00Z"
+    },
     {
       "cve_id": "CVE-2026-55511",
       "repo_info": "[junfuture1103/CVE-2026-55511](https://github.com/junfuture1103/CVE-2026-55511)",
       "description": "Remote Code Execution (RCE) in Yamcs Mission Control System via Java Statement Injection in Yarch SQL Double-Quoted IdentifiersRemote Code Execution (RCE) in Yamcs Mission Control System via Java Statement Injection in Yarch SQL Double-Quoted Identifiers",
       "date": "2026-07-15",
       "raw_date": "2026-07-15T00:32:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-53359",
+      "repo_info": "[x024n/almalinux-januscape-mitigation](https://github.com/x024n/almalinux-januscape-mitigation)",
+      "description": "Panduan mitigasi Januscape (CVE-2026-53359) AlmaLinux 9.5 production-safe + scripts",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T14:46:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-53359",
+      "repo_info": "[ndouglas-cloudsmith/CVE-2026-53359](https://github.com/ndouglas-cloudsmith/CVE-2026-53359)",
+      "description": "A 16-year-old bug in the Linux kernel lets a rented VM break out and attack the host it runs on. Intel and AMD alike. Januscape is a use-after-free vulnerability in the KVM code that has been sitting there since 2010.",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T10:52:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-52199",
+      "repo_info": "[lamaper/CVE-2026-52199](https://github.com/lamaper/CVE-2026-52199)",
+      "description": "no description",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T14:15:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-50657",
+      "repo_info": "[NeseOS-Corp/CVE-2026-50657](https://github.com/NeseOS-Corp/CVE-2026-50657)",
+      "description": "no description",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T04:14:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-48909",
+      "repo_info": "[CerberusMrXi/CVE-2026-48909-Joomla-SP-Exploit](https://github.com/CerberusMrXi/CVE-2026-48909-Joomla-SP-Exploit)",
+      "description": "CVE-2026-48909 - Unauthenticated PHP Object Injection to RCE exploit for Joomla SP LMS extension versions &lt;= 4.1.3. Exploits lmsOrders cookie deserialization to write webshell via Joomla FormattedtextLogger gadget chain. Includes interactive shell, path discovery, and cleanup. For authorized security testing only.",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T20:27:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-48282",
+      "repo_info": "[arpit-bansal15/cve-2026-48282-pentest-lab](https://github.com/arpit-bansal15/cve-2026-48282-pentest-lab)",
+      "description": "no description",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T08:26:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-46591",
+      "repo_info": "[oscerd/CVE-2026-46591](https://github.com/oscerd/CVE-2026-46591)",
+      "description": "Reproducer for CVE-2026-46591: Apache Camel camel-neo4j Cypher injection via property names in CamelNeo4jMatchProperties, enabling authorization bypass / cross-label data exfiltration (fixed in 4.14.8/4.18.3/4.21.0)",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T19:13:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-46590",
+      "repo_info": "[oscerd/CVE-2026-46590](https://github.com/oscerd/CVE-2026-46590)",
+      "description": "Reproducer for CVE-2026-46590: Apache Camel camel-pqc key-lifecycle unsafe deserialization (FileBasedKeyLifecycleManager legacy .key migration via ObjectInputStream), incomplete remediation of CVE-2026-40048 (fixed in 4.18.3/4.21.0)",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T13:15:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-46588",
+      "repo_info": "[oscerd/CVE-2026-46588](https://github.com/oscerd/CVE-2026-46588)",
+      "description": "Reproducer for CVE-2026-46588: Apache Camel camel-couchdb CouchDb* header injection (operation confusion) subverting a write-only endpoint into read + delete of arbitrary documents (fixed in 4.14.8/4.18.3/4.21.0)",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T12:14:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-46587",
+      "repo_info": "[oscerd/CVE-2026-46587](https://github.com/oscerd/CVE-2026-46587)",
+      "description": "Reproducer for CVE-2026-46587: Apache Camel camel-couchbase CCB_* header injection enabling document disclosure, tampering, and TTL-forced data destruction (fixed in 4.14.8/4.18.3/4.21.0)",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T09:57:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-46585",
+      "repo_info": "[oscerd/CVE-2026-46585](https://github.com/oscerd/CVE-2026-46585)",
+      "description": "Reproducer for CVE-2026-46585: Apache Camel camel-lucene QUERY header injection enabling authorization bypass / index data exfiltration (fixed in 4.14.8/4.18.3/4.21.0)",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T07:25:28Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -24,11 +136,88 @@
       "raw_date": "2026-07-15T02:03:56Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ctnBobong32/CVE-2026-43499-so-build](https://github.com/ctnBobong32/CVE-2026-43499-so-build)",
+      "description": "no description",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T09:00:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ctnBobong32/auto_extract_offsets](https://github.com/ctnBobong32/auto_extract_offsets)",
+      "description": "CvE-2026-43499偏移量计算",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T09:34:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[onesmiledx/CVE-2026-43499](https://github.com/onesmiledx/CVE-2026-43499)",
+      "description": "A modified method to root Android device with locked bootloader via new exploit. (Only for Samsung now or smthing like that devices cuz i ported it to N970U1), Fork of https://github.com/localhosts-A/CyberMeowfia",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T09:32:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Cxyofficial/x200-cve-2026-43499](https://github.com/Cxyofficial/x200-cve-2026-43499)",
+      "description": "no description",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T08:53:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[qianmo-xw/CVE-2026-43499-popsicle](https://github.com/qianmo-xw/CVE-2026-43499-popsicle)",
+      "description": "CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T09:51:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-3891",
+      "repo_info": "[shinthink/CVE-2026-3891](https://github.com/shinthink/CVE-2026-3891)",
+      "description": "Pix for WooCommerce Unauthenticated File Upload via certificate_crt_path Parameter - CVSS 9.8",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T19:24:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-3891",
+      "repo_info": "[m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit)",
+      "description": "PoC for CVE-2026-3891 — Unauthenticated Arbitrary File Upload leading to Remote Code Execution in Pix for WooCommerce &lt;= 1.5.0",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T19:06:14Z"
+    },
+    {
       "cve_id": "CVE-2026-36669",
       "repo_info": "[firstlax6t/CVE-2026-36669-FengOffice](https://github.com/firstlax6t/CVE-2026-36669-FengOffice)",
       "description": "no description",
       "date": "2026-07-15",
       "raw_date": "2026-07-15T01:25:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-33634",
+      "repo_info": "[dfs333/trivycompromiseanalysis](https://github.com/dfs333/trivycompromiseanalysis)",
+      "description": "Formally verified, quantitative reconstruction of the Trivy/TeamPCP GitHub Actions supply-chain attack (CVE-2026-33634): a TLA+/TLC incident model, PRISM probabilistic analysis, and a 189-workflow corpus study.",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T06:47:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-27944",
+      "repo_info": "[Cosm3No1de/HTB-Snapped-Writeup](https://github.com/Cosm3No1de/HTB-Snapped-Writeup)",
+      "description": "Writeup de la máquina Snapped (Hard) de Hack The Box.  Foothold: CVE-2026-27944 — Nginx UI unauthenticated backup disclosure Privilege Escalation: CVE-2026-3888 — snapd race condition LPE  Técnicas: subdomain enumeration, AES decryption, bcrypt cracking, namespace manipulation, dynamic linker hijacking.",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T05:40:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-27483",
+      "repo_info": "[nabhan-mohy/cve-2026-27483-lab](https://github.com/nabhan-mohy/cve-2026-27483-lab)",
+      "description": "A containerized enterprise-style lab for researching and defending against CVE-2026-27483.",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T06:35:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-21045",
+      "repo_info": "[Filipemendonca1978/CVE-2026-21045_and_CVE-2026-21048](https://github.com/Filipemendonca1978/CVE-2026-21045_and_CVE-2026-21048)",
+      "description": "Samsung libimagecodec.quram.so OOB Write PoC",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T22:22:44Z"
     },
     {
       "cve_id": "CVE-2026-15410",
@@ -43,11 +232,53 @@
       "description": "CVE-2026-15409 - Dectect",
       "date": "2026-07-15",
       "raw_date": "2026-07-15T02:30:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-15409",
+      "repo_info": "[0xBlackash/CVE-2026-15409](https://github.com/0xBlackash/CVE-2026-15409)",
+      "description": "CVE-2026-15409",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T16:51:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-15409",
+      "repo_info": "[remmons-r7/rapid7-CVE-2026-15409](https://github.com/remmons-r7/rapid7-CVE-2026-15409)",
+      "description": "This repo contains a proof-of-concept exploit for CVE-2026-15409. It establishes non-root remote code execution on SonicWall SMA 1000 by implementing the Erlang protocol expected by localhost:1050 and tunneling it through the websocket for file r/w and arbitrary code execution via RPC calls.",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T15:37:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-14960",
+      "repo_info": "[FzRsLLaSheR/CVE-2026-14960-CVE-2026-14961](https://github.com/FzRsLLaSheR/CVE-2026-14960-CVE-2026-14961)",
+      "description": "no description",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T18:19:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-13001",
+      "repo_info": "[shinthink/CVE-2026-13001](https://github.com/shinthink/CVE-2026-13001)",
+      "description": "Podlove Podcast Publisher Unauthenticated File Upload RCE via is_image() vs extract_file_extension() Mismatch - CVSS 9.8",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T19:16:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-13001",
+      "repo_info": "[Raimu0x19/CVE-2026-13001](https://github.com/Raimu0x19/CVE-2026-13001)",
+      "description": "no description",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T09:58:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-11989",
+      "repo_info": "[repo-ranger21/security-portfolio-chris-peterson](https://github.com/repo-ranger21/security-portfolio-chris-peterson)",
+      "description": "My portfolio showcasing vulnerability research (CVE-2026-11989, CVE-2026-11395) and automated threat orchestration engineering (Lucius Engine, TalonVigil).",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T16:16:28Z"
     }
   ],
-  "generated_at": "2026-07-16T02:19:22.997076",
+  "generated_at": "2026-07-16T04:13:28.610599",
   "metadata": {
-    "total_cves": 6,
+    "total_cves": 39,
     "date_range": "2026-07-15",
     "source": "README.md",
     "script_version": "2.0"
