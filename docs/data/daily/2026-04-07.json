@@ -1,6 +1,6 @@
 {
   "date": "2026-04-07",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-20131",
@@ -10,6 +10,13 @@
       "raw_date": "2026-04-07T03:35:37Z"
     },
     {
+      "cve_id": "CVE-2026-13585",
+      "repo_info": "[416rehman/asus-bsitf-0-day-poc](https://github.com/416rehman/asus-bsitf-0-day-poc)",
+      "description": "PoC for CVE-2026-13585",
+      "date": "2026-04-07",
+      "raw_date": "2026-04-07T00:41:14Z"
+    },
+    {
       "cve_id": "CVE-2026-0740",
       "repo_info": "[whattheslime/CVE-2026-0740](https://github.com/whattheslime/CVE-2026-0740)",
       "description": "Ninja Forms File Uploads &lt;= 3.3.26 - Unauthenticated Arbitrary File Upload to RCE (CVE-2026-0740)",
@@ -17,9 +24,9 @@
       "raw_date": "2026-04-07T18:34:14Z"
     }
   ],
-  "generated_at": "2026-07-17T02:23:09.162554",
+  "generated_at": "2026-07-17T04:12:37.065659",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-04-07",
     "source": "README.md",
     "script_version": "2.0"

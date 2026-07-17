@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-07-16 04:12:59
+- **生成时间**: 2026-07-17 04:12:11
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -347,9 +347,10 @@
 | 🚫 未识别 | [luongs3/wtf-audit-trail](https://github.com/luongs3/wtf-audit-trail) | Encrypted CVE audit trail on iExec Nox — severity scores stored as euint256 handles, never visible on-chain. WTF!! Hackathon Summer Edition 2026. | 2026-07-09T09:27:32Z|
 | 🚫 未识别 | [AASHS25/CVE-Mikrotik-2026](https://github.com/AASHS25/CVE-Mikrotik-2026) | no description | 2026-07-09T08:04:53Z|
 | 🚫 未识别 | [diedromeo/CVE-Labs-2025-2026](https://github.com/diedromeo/CVE-Labs-2025-2026) | Educational, Dockerized reproductions of publicly disclosed 2025-2026 CVEs: root-cause analysis, attack flows, PoCs, detections, and patch analysis. | 2026-07-13T19:57:34Z|
+| 🚫 未识别 | [enjoylife96962930-a11y/bug-bounty-series-2026](https://github.com/enjoylife96962930-a11y/bug-bounty-series-2026) | Bug Bounty Series 2026 - Complete Ethical Hacker Playbook with 25+ interactive modules, Metasploit integration, CVE database, and command cheat sheets | 2026-07-16T19:03:13Z|
 
 
 ---
 
-**报告生成时间**: 2026-07-16 04:13:27  
-**总记录数**: 336
+**报告生成时间**: 2026-07-17 04:12:36  
+**总记录数**: 337

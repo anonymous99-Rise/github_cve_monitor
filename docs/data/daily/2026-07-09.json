@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "count": 23,
+  "count": 24,
   "cves": [
     {
       "cve_id": "CVE-2026-8037",
@@ -157,6 +157,13 @@
       "raw_date": "2026-07-09T22:49:57Z"
     },
     {
+      "cve_id": "CVE-2026-25993",
+      "repo_info": "[MoxitPanchal/EverShop-Lab-CVE-2026-25993](https://github.com/MoxitPanchal/EverShop-Lab-CVE-2026-25993)",
+      "description": "no description",
+      "date": "2026-07-09",
+      "raw_date": "2026-07-09T13:35:21Z"
+    },
+    {
       "cve_id": "CVE-2026-12400",
       "repo_info": "[0x00phantom-hat/CVE-2026-12400-Exploit](https://github.com/0x00phantom-hat/CVE-2026-12400-Exploit)",
       "description": "no description",
@@ -164,9 +171,9 @@
       "raw_date": "2026-07-09T21:10:54Z"
     }
   ],
-  "generated_at": "2026-07-17T02:23:09.172268",
+  "generated_at": "2026-07-17T04:12:37.076883",
   "metadata": {
-    "total_cves": 23,
+    "total_cves": 24,
     "date_range": "2026-07-09",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,7 +1,14 @@
 {
   "date": "2026-05-25",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-43494",
+      "repo_info": "[jayhutajulu1/CVE-2026-43494-PinTheft-PoC](https://github.com/jayhutajulu1/CVE-2026-43494-PinTheft-PoC)",
+      "description": "Proof-of-concept for CVE-2026-43494 (PinTheft): Linux LPE via RDS zerocopy refcount bug + io_uring fixed buffers → SUID page-cache overwrite. Authorized research only.",
+      "date": "2026-05-25",
+      "raw_date": "2026-05-25T07:45:54Z"
+    },
     {
       "cve_id": "CVE-2026-0091",
       "repo_info": "[canyie/TransitionPlayer](https://github.com/canyie/TransitionPlayer)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-05-25T03:41:43Z"
     }
   ],
-  "generated_at": "2026-07-17T02:23:09.164693",
+  "generated_at": "2026-07-17T04:12:37.068656",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-05-25",
     "source": "README.md",
     "script_version": "2.0"

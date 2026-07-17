@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-17",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-55579",
+      "repo_info": "[Ch4120N/CVE-2026-55579](https://github.com/Ch4120N/CVE-2026-55579)",
+      "description": "CVE-2026-55579 – Unauthenticated RCE in Pheditor via hardcoded default password &quot;admin&quot;. Full Python exploit with file upload &amp; terminal execution. No dependencies.",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T00:44:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[2932796375github/CVE-2026-43499_OPPO-MT6835](https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835)",
+      "description": "no description",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T00:40:53Z"
+    }
+  ],
+  "generated_at": "2026-07-17T04:12:37.079062",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-07-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

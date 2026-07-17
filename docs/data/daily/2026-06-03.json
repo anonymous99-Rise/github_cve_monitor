@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-54088",
@@ -10,6 +10,13 @@
       "raw_date": "2026-06-03T11:49:20Z"
     },
     {
+      "cve_id": "CVE-2026-50343",
+      "repo_info": "[Rat5ak/CVE-2026-50343-InstallService-EoP](https://github.com/Rat5ak/CVE-2026-50343-InstallService-EoP)",
+      "description": "CVE-2026-50343 InstallService StaticPluginMap EoP - standard user to SYSTEM",
+      "date": "2026-06-03",
+      "raw_date": "2026-06-03T08:50:32Z"
+    },
+    {
       "cve_id": "CVE-2026-41089",
       "repo_info": "[hnytgl/CVE-2026-41089](https://github.com/hnytgl/CVE-2026-41089)",
       "description": "CVE-2026-41089 是 Windows Netlogon 服务中一个关键的远程代码执行漏洞，单包即可崩溃 lsass.exe，导致域控制器在约 30-60 秒内重启。此期间该 DC 的所有域认证将失败。",
@@ -17,9 +24,9 @@
       "raw_date": "2026-06-03T02:29:06Z"
     }
   ],
-  "generated_at": "2026-07-17T02:23:09.165364",
+  "generated_at": "2026-07-17T04:12:37.069549",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-06-03",
     "source": "README.md",
     "script_version": "2.0"

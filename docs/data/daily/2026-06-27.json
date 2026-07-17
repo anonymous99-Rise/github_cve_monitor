@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "count": 16,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-8461",
@@ -66,6 +66,13 @@
       "raw_date": "2026-06-27T04:09:11Z"
     },
     {
+      "cve_id": "CVE-2026-40083",
+      "repo_info": "[hakaioffsec/CVE-2026-40083](https://github.com/hakaioffsec/CVE-2026-40083)",
+      "description": "SQL Injection at Cacti",
+      "date": "2026-06-27",
+      "raw_date": "2026-06-27T17:26:15Z"
+    },
+    {
       "cve_id": "CVE-2026-38751",
       "repo_info": "[b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751](https://github.com/b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751)",
       "description": "OpenSTAManager-RCE-Exploit-CVE-2026-38751",
@@ -115,9 +122,9 @@
       "raw_date": "2026-06-27T09:23:23Z"
     }
   ],
-  "generated_at": "2026-07-17T02:23:09.169434",
+  "generated_at": "2026-07-17T04:12:37.073973",
   "metadata": {
-    "total_cves": 16,
+    "total_cves": 17,
     "date_range": "2026-06-27",
     "source": "README.md",
     "script_version": "2.0"

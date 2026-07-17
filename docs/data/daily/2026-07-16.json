@@ -1,13 +1,90 @@
 {
   "date": "2026-07-16",
-  "count": 4,
+  "count": 25,
   "cves": [
+    {
+      "cve_id": "CVE-2026-8838",
+      "repo_info": "[Sana-404/CVE-2026-8838-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8838-Mitigation-and-Detection)",
+      "description": "no description",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T07:01:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-8388",
+      "repo_info": "[Sana-404/CVE-2026-8388-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8388-Mitigation-and-Detection)",
+      "description": "no description",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T06:54:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-58457",
+      "repo_info": "[J4ck3LSyN-Gen2/CVE-2026-58457](https://github.com/J4ck3LSyN-Gen2/CVE-2026-58457)",
+      "description": "PoC tools for CVE-2026-58457: Unauthenticated OS Command Injection leading to remote root on Shenzhen Aitemi M300 Wi-Fi Repeater (MT02). Includes exploit, validator, payload generator, and Metasploit module. For educational and authorized pentesting only.",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T22:53:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-57821",
+      "repo_info": "[tc4dy/CVE-2026-57821-PoC-Exploit](https://github.com/tc4dy/CVE-2026-57821-PoC-Exploit)",
+      "description": "🔐 CVE-2026-57821 - Apache Fineract SQL Injection Toolkit (Educational) 📚 Two Python scripts for authorized security testing: verifier.py (safe detection, no extraction) and exploit.py (deep analysis). Supports 11 DB types. Perfect for understanding SQL injection vulnerabilities. ⚠️ for educational &amp; research purposes only.",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T11:12:25Z"
+    },
     {
       "cve_id": "CVE-2026-57155",
       "repo_info": "[babyshen/CVE-2026-57155](https://github.com/babyshen/CVE-2026-57155)",
       "description": "OPNsense Root RCE (CVE-2026-57155)",
       "date": "2026-07-16",
       "raw_date": "2026-07-16T02:31:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-54992",
+      "repo_info": "[DavidCarliez/CVE-2026-54992-PoC](https://github.com/DavidCarliez/CVE-2026-54992-PoC)",
+      "description": "Proof of concept for CVE-2026-54992, an MSMQ remote-read integer overflow",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T09:49:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-53359",
+      "repo_info": "[x024n/kvm-kernelcare-januscape](https://github.com/x024n/kvm-kernelcare-januscape)",
+      "description": "KVM KernelCare + Januscape (CVE-2026-53359) verification &amp; mitigation scripts",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T10:51:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-50369",
+      "repo_info": "[syxlox/CVE-2026-50369](https://github.com/syxlox/CVE-2026-50369)",
+      "description": "no description",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T08:13:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-50011",
+      "repo_info": "[bibotai/secveri-cve-2026-50011-negative](https://github.com/bibotai/secveri-cve-2026-50011-negative)",
+      "description": "no description",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T14:26:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-50011",
+      "repo_info": "[bibotai/secveri-cve-2026-50011-positive](https://github.com/bibotai/secveri-cve-2026-50011-positive)",
+      "description": "no description",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T13:09:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-46726",
+      "repo_info": "[oscerd/CVE-2026-46726](https://github.com/oscerd/CVE-2026-46726)",
+      "description": "Reproducer for CVE-2026-46726: Apache Camel camel-vertx-websocket unfiltered inbound header injection enabling SSRF and secret disclosure via property-placeholder resolution (fixed in 4.14.8/4.18.3/4.21.0)",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T12:51:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-46592",
+      "repo_info": "[oscerd/CVE-2026-46592](https://github.com/oscerd/CVE-2026-46592)",
+      "description": "Reproducer for CVE-2026-46592: Apache Camel camel-cxf operationName header injection redirecting the invoked SOAP operation (confused deputy) from a read to a destructive one (fixed in 4.14.8/4.18.3/4.21.0)",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T08:46:45Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -24,16 +101,86 @@
       "raw_date": "2026-07-16T01:48:30Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ayyy7128/CVE-2026-43499-jinghu](https://github.com/ayyy7128/CVE-2026-43499-jinghu)",
+      "description": "CVE-2026-43499 exploit reproduction on jinghu (Xiaomi Pad 7 Ultra)",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T14:06:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[BuSung-dev/CVE-2026-43499-S25U](https://github.com/BuSung-dev/CVE-2026-43499-S25U)",
+      "description": "Galaxy S25 Ultra SM-S938N S938NKSUACZF1 port of CVE-2026-43499",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T08:02:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-34197",
+      "repo_info": "[K3ysTr0K3R/CVE-2026-34197](https://github.com/K3ysTr0K3R/CVE-2026-34197)",
+      "description": "CVE-2026-34197 - Apache ActiveMQ Jolokia Remote Code Execution (RCE)",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T14:34:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE)",
+      "description": "CVE-2026-33017 Exploit - by infrar3d",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T17:13:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-3180",
+      "repo_info": "[CerberusMrXi/WP-Contest-Gallery-28.1.4-Exploit](https://github.com/CerberusMrXi/WP-Contest-Gallery-28.1.4-Exploit)",
+      "description": "Complete exploitation toolkit for CVE-2026-3180 - WordPress Contest Gallery SQL Injection vulnerability. Features automated data extraction, WAF bypass, reverse shell, SQLMap integration, Burp extension generation, and reporting for penetration testing and security research.",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T10:18:29Z"
+    },
+    {
       "cve_id": "CVE-2026-21955",
       "repo_info": "[minq0x1412/CVE-2026-21955](https://github.com/minq0x1412/CVE-2026-21955)",
       "description": "no description",
       "date": "2026-07-16",
       "raw_date": "2026-07-16T01:34:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-20896",
+      "repo_info": "[XaocZenon/CVE-2026-20896](https://github.com/XaocZenon/CVE-2026-20896)",
+      "description": "this is a modified POC of rz1027 for CVE-2026-20896",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T13:11:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-20833",
+      "repo_info": "[AlMarWorld/KerberosAudit-PS](https://github.com/AlMarWorld/KerberosAudit-PS)",
+      "description": "Kerberos audit for CVE-2026-20833",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T06:45:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-15409",
+      "repo_info": "[MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check](https://github.com/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check)",
+      "description": "Unofficial Bash IoC checker for SonicWall SMA1000 appliances affected by actively exploited CVE-2026-15409 and CVE-2026-15410.",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T08:31:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-14894",
+      "repo_info": "[shinthink/CVE-2026-14894](https://github.com/shinthink/CVE-2026-14894)",
+      "description": "Super Forms Unauthenticated File Upload RCE - CVSS 9.8",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T15:24:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-13001",
+      "repo_info": "[sadb98523-eng/CVE-2026-13001](https://github.com/sadb98523-eng/CVE-2026-13001)",
+      "description": "no description",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T18:57:36Z"
     }
   ],
-  "generated_at": "2026-07-17T02:23:09.174131",
+  "generated_at": "2026-07-17T04:12:37.078771",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 25,
     "date_range": "2026-07-16",
     "source": "README.md",
     "script_version": "2.0"

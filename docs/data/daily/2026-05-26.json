@@ -1,6 +1,6 @@
 {
   "date": "2026-05-26",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-5426",
@@ -15,11 +15,18 @@
       "description": "CVE-2026-48095",
       "date": "2026-05-26",
       "raw_date": "2026-05-26T08:21:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC](https://github.com/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC)",
+      "description": "Proof-of-concept for CVE-2026-43284 — 4-byte XFRM/ESP page-cache write primitive to patch a setuid binary (x86_64, user namespaces). Includes kernel preflight + SUID scan.",
+      "date": "2026-05-26",
+      "raw_date": "2026-05-26T07:35:08Z"
     }
   ],
-  "generated_at": "2026-07-17T02:23:09.164774",
+  "generated_at": "2026-07-17T04:12:37.068787",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-05-26",
     "source": "README.md",
     "script_version": "2.0"
