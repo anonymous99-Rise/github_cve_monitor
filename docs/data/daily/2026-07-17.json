@@ -1,7 +1,28 @@
 {
   "date": "2026-07-17",
-  "count": 2,
+  "count": 19,
   "cves": [
+    {
+      "cve_id": "CVE-2026-9271",
+      "repo_info": "[CerberusMrXi/WordPress-KeepInMind-CVE-2026-9271-Exploit](https://github.com/CerberusMrXi/WordPress-KeepInMind-CVE-2026-9271-Exploit)",
+      "description": "WordPress KeepInMind CVE-2026-9271 Exploit - Tool detecting stored XSS in KeepInMind plugin v0.8.4.2 and below. Built by Sudeepa Wanigarathna, it simulates CSS injection to hijack admin accounts. Features safe testing, attack simulation, credential capture, bulk scanning, reporting. Essential for security researchers.",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T20:37:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[ZephrFish/wp2shell-scanner](https://github.com/ZephrFish/wp2shell-scanner)",
+      "description": "CVE-2026-63030, CVE-2026-60137, wp2shell scanner",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T23:15:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[attackercan/wp2shell-poc2](https://github.com/attackercan/wp2shell-poc2)",
+      "description": "CVE-2026-63030",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T23:10:07Z"
+    },
     {
       "cve_id": "CVE-2026-55579",
       "repo_info": "[Ch4120N/CVE-2026-55579](https://github.com/Ch4120N/CVE-2026-55579)",
@@ -10,16 +31,114 @@
       "raw_date": "2026-07-17T00:44:30Z"
     },
     {
+      "cve_id": "CVE-2026-50416",
+      "repo_info": "[karollooool/CVE-2026-50416-writeup-and-poc](https://github.com/karollooool/CVE-2026-50416-writeup-and-poc)",
+      "description": "CVE-2026-50416: Windows 11 KASLR bypass",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T12:12:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-48205",
+      "repo_info": "[oscerd/CVE-2026-48205](https://github.com/oscerd/CVE-2026-48205)",
+      "description": "Reproducer for CVE-2026-48205: Apache Camel camel-dns dns.* header injection redirecting DNS queries to an attacker-controlled resolver (SSRF via DNS) and enabling internal-hostname reconnaissance (fixed in 4.14.8/4.18.3/4.21.0)",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T15:58:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-48204",
+      "repo_info": "[oscerd/CVE-2026-48204](https://github.com/oscerd/CVE-2026-48204)",
+      "description": "Reproducer for CVE-2026-48204: Apache Camel camel-mongodb-gridfs gridfs.* header injection overriding the GridFS operation (enumerate/read/delete files) from an unauthenticated HTTP request (fixed in 4.14.8/4.18.3/4.21.0)",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T13:00:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-48203",
+      "repo_info": "[oscerd/CVE-2026-48203](https://github.com/oscerd/CVE-2026-48203)",
+      "description": "Reproducer for CVE-2026-48203: Apache Camel camel-solr SolrParam./SolrField. header injection enabling Solr document-field injection and SSRF via the shards parameter (fixed in 4.14.8/4.18.3/4.21.0)",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T10:20:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-47777",
+      "repo_info": "[bekwiner/cve-2026-47777](https://github.com/bekwiner/cve-2026-47777)",
+      "description": "no description",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T15:25:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-47323",
+      "repo_info": "[oscerd/CVE-2026-47323](https://github.com/oscerd/CVE-2026-47323)",
+      "description": "Reproducer for CVE-2026-47323: Apache Camel CXF/Knative HeaderFilterStrategy missing inbound filtering, enabling Camel control-header injection (RCE via camel-exec) through CXF-RS/CXF-SOAP/Knative endpoints (fixed in 4.14.6/4.18.2/4.19.0)",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T08:01:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-46442",
+      "repo_info": "[codeb0ssx/CVE-2026-46442-PoC](https://github.com/codeb0ssx/CVE-2026-46442-PoC)",
+      "description": "Academic proof-of-concept demonstrating CVE-2026-46442 for authorized security research.",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T20:52:07Z"
+    },
+    {
       "cve_id": "CVE-2026-43499",
       "repo_info": "[2932796375github/CVE-2026-43499_OPPO-MT6835](https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835)",
       "description": "no description",
       "date": "2026-07-17",
       "raw_date": "2026-07-17T00:40:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[MiaPatsune/cve-2026-43499](https://github.com/MiaPatsune/cve-2026-43499)",
+      "description": "no description",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T11:51:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[sorrow404Null/CVE-2026-43499-RMX5200](https://github.com/sorrow404Null/CVE-2026-43499-RMX5200)",
+      "description": "no description",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T13:08:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Wtrwx/cve_2026_43499_sm-t878u](https://github.com/Wtrwx/cve_2026_43499_sm-t878u)",
+      "description": "no description",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T10:00:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-15583",
+      "repo_info": "[codeb0ssx/CVE-2026-15583-PoC](https://github.com/codeb0ssx/CVE-2026-15583-PoC)",
+      "description": "Academic proof-of-concept demonstrating CVE-2026-15583 for authorized security research.",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T21:03:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-15409",
+      "repo_info": "[tc4dy/CVE-2026-15409-15410-Framework](https://github.com/tc4dy/CVE-2026-15409-15410-Framework)",
+      "description": "CVE-2026-15409/15410 SonicWall SMA1000 multi-exploit Framework 🔥 SSRF→Erlang RPC→RCE→root privesc. Features: --detect safe check, --exec, --read-file, --privesc, --rpc, interactive shell, batch threading, file write, ws-url override, pipe support.🛡️ KEV listed CVSS 10.0 actively exploited. Authorized testing only. Use Ethically, Stay Legal. 🔒",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T17:30:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-14431",
+      "repo_info": "[jaf0rk/CVE-2026-14431](https://github.com/jaf0rk/CVE-2026-14431)",
+      "description": "no description",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T11:28:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-14266",
+      "repo_info": "[hg0434hongzh0/CVE-2026-14266](https://github.com/hg0434hongzh0/CVE-2026-14266)",
+      "description": "no description",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T08:01:38Z"
     }
   ],
-  "generated_at": "2026-07-18T02:07:51.982554",
+  "generated_at": "2026-07-18T04:04:44.384148",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 19,
     "date_range": "2026-07-17",
     "source": "README.md",
     "script_version": "2.0"

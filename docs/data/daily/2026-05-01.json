@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-41940",
@@ -15,11 +15,18 @@
       "description": "cPanel CVE-2026-41940 nuclear.x86 Security Audit &amp; Cleanup Script",
       "date": "2026-05-01",
       "raw_date": "2026-05-01T07:27:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[karollooool/Porting-CVE-2026-31431-Copy-Fail-to-a-Constrained-Java-Runner](https://github.com/karollooool/Porting-CVE-2026-31431-Copy-Fail-to-a-Constrained-Java-Runner)",
+      "description": "CVE-2026-31431 (copy.fail) — adapted for constrained Java execution environments via FFM syscall layer + javac   annotation processor delivery",
+      "date": "2026-05-01",
+      "raw_date": "2026-05-01T00:01:07Z"
     }
   ],
-  "generated_at": "2026-07-18T02:07:51.970445",
+  "generated_at": "2026-07-18T04:04:44.372566",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-05-01",
     "source": "README.md",
     "script_version": "2.0"

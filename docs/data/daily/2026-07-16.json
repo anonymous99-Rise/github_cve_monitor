@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2026-8838",
@@ -115,6 +115,13 @@
       "raw_date": "2026-07-16T08:02:46Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[justsoman/CyberMeowfia-ace3](https://github.com/justsoman/CyberMeowfia-ace3)",
+      "description": "CVE-2026-43499 exploit with OnePlus Ace3 support",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T15:23:56Z"
+    },
+    {
       "cve_id": "CVE-2026-34197",
       "repo_info": "[K3ysTr0K3R/CVE-2026-34197](https://github.com/K3ysTr0K3R/CVE-2026-34197)",
       "description": "CVE-2026-34197 - Apache ActiveMQ Jolokia Remote Code Execution (RCE)",
@@ -178,9 +185,9 @@
       "raw_date": "2026-07-16T18:57:36Z"
     }
   ],
-  "generated_at": "2026-07-18T02:07:51.982206",
+  "generated_at": "2026-07-18T04:04:44.383842",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2026-07-16",
     "source": "README.md",
     "script_version": "2.0"

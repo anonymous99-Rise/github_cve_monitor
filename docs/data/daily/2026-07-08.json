@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "count": 20,
+  "count": 21,
   "cves": [
     {
       "cve_id": "CVE-2026-8206",
@@ -122,6 +122,13 @@
       "raw_date": "2026-07-08T11:35:21Z"
     },
     {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[Usman0220/CVE-2026-33017-Langflow-RCE](https://github.com/Usman0220/CVE-2026-33017-Langflow-RCE)",
+      "description": "CVE-2026-33017 - Langflow &lt; 1.9.0 Unauthenticated RCE PoC",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T18:36:03Z"
+    },
+    {
       "cve_id": "CVE-2026-27495",
       "repo_info": "[DexSemon/CVE-2026-27495](https://github.com/DexSemon/CVE-2026-27495)",
       "description": "Proof-of-concept exploit and lab environment for CVE-2026-27495",
@@ -143,9 +150,9 @@
       "raw_date": "2026-07-08T00:18:11Z"
     }
   ],
-  "generated_at": "2026-07-18T02:07:51.980036",
+  "generated_at": "2026-07-18T04:04:44.381810",
   "metadata": {
-    "total_cves": 20,
+    "total_cves": 21,
     "date_range": "2026-07-08",
     "source": "README.md",
     "script_version": "2.0"

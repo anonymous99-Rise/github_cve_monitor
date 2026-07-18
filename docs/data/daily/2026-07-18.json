@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-18",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[47Cid/wp2shell-lab](https://github.com/47Cid/wp2shell-lab)",
+      "description": "Educational PoC + lab for CVE-2026-63030 + CVE-2026-60137: pre-auth SQLi in WordPress core via REST batch-route confusion",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T03:16:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[dinosn/wp2shell-lab](https://github.com/dinosn/wp2shell-lab)",
+      "description": "Non-destructive detector + Docker lab for wp2shell (CVE-2026-63030 REST /batch/v1 route confusion + CVE-2026-60137 author__not_in SQLi) in WordPress core 6.9.0-6.9.4 / 7.0.0-7.0.1",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T03:04:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[tcyph3r/wp2shell-cve-2026-63030-root-cause](https://github.com/tcyph3r/wp2shell-cve-2026-63030-root-cause)",
+      "description": "no description",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T02:49:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[zeroc00I/CVE-2026-63030](https://github.com/zeroc00I/CVE-2026-63030)",
+      "description": "That wasnt tested on a vulnerable target yet",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T01:02:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[Senanfurkan/wordpress-cve-2026-63030](https://github.com/Senanfurkan/wordpress-cve-2026-63030)",
+      "description": "Pre-auth RCE in WordPress Core via REST API batch route confusion + WP_Query SQLi (CVE-2026-63030 / CVE-2026-60137). Detection PoC.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T00:44:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-44262",
+      "repo_info": "[akash-osmsec/CVE-2026-44262-](https://github.com/akash-osmsec/CVE-2026-44262-)",
+      "description": "no description",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T02:20:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[fuukliam/vivo-x-fold6-ghostlock](https://github.com/fuukliam/vivo-x-fold6-ghostlock)",
+      "description": "vivo X Fold6 (V2545A) GhostLock CVE-2026-43499 临时root/永久解锁研究",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T00:32:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-43074",
+      "repo_info": "[PeronGH/android-selinux-disabler](https://github.com/PeronGH/android-selinux-disabler)",
+      "description": "Use CVE-2026-43074 to disable SELinux on Android",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T01:04:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-1999",
+      "repo_info": "[manoelprovider20-lgtm/merge-authz-test](https://github.com/manoelprovider20-lgtm/merge-authz-test)",
+      "description": "authz test (CVE-2026-1999 siblings)",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T02:16:37Z"
+    }
+  ],
+  "generated_at": "2026-07-18T04:04:44.384365",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2026-07-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-29",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[tgies/copy-fail-c](https://github.com/tgies/copy-fail-c)",
+      "description": "Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint.",
+      "date": "2026-04-29",
+      "raw_date": "2026-04-29T23:29:14Z"
+    }
+  ],
+  "generated_at": "2026-07-18T04:04:44.372243",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-04-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
