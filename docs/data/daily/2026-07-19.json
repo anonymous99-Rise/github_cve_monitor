@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-19",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-39200",
+      "repo_info": "[r00tali/CVE-2026-39200](https://github.com/r00tali/CVE-2026-39200)",
+      "description": "The value of the produk request parameter is copied into the value of an HTML tag attribute which is encapsulated in double quotation marks. The payload xbnw0&quot;&gt;&lt;script&gt;alert(1)&lt;/script&gt;skc2h was submitted in the produk parameter. This input was echoed as xbnw0\\&quot;&gt;&lt;script&gt;alert(1)&lt;/script&gt;skc2h in the application&#x27;s response.",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T00:43:32Z"
+    }
+  ],
+  "generated_at": "2026-07-19T04:25:53.602871",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-07-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

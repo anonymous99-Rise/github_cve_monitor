@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "count": 9,
+  "count": 48,
   "cves": [
     {
       "cve_id": "CVE-2026-63030",
@@ -38,6 +38,209 @@
       "raw_date": "2026-07-18T00:44:18Z"
     },
     {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[zi3lak/wp2shell_scanner](https://github.com/zi3lak/wp2shell_scanner)",
+      "description": "Non-intrusive detection scanner for the WordPress wp2shell pre-auth RCE chain (CVE-2026-63030 + CVE-2026-60137). Detection-only, no exploitation.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T17:56:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[ekomsSavior/wp2shell](https://github.com/ekomsSavior/wp2shell)",
+      "description": "CVE-2026-63030 (RCE) + CVE-2026-60137 (SQLi)",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T06:40:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[fullhunt/wp2shell-scan](https://github.com/fullhunt/wp2shell-scan)",
+      "description": "A scanner and proof-of-concept toolkit for CVE-2026-63030 (wp2shell) - pre-authenticated remote code execution in WordPress core",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T20:12:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[JohenLastGen-JLG/wp2shell](https://github.com/JohenLastGen-JLG/wp2shell)",
+      "description": "wp2shell - WordPress RCE &amp; PoC (CVE-2026-63030 + CVE-2026-60137)",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T21:11:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[own2pwn-fr/wp2shell-detect](https://github.com/own2pwn-fr/wp2shell-detect)",
+      "description": "Blackbox, non-intrusive detector for wp2shell (WordPress core pre-auth RCE, CVE-2026-63030 / CVE-2026-60137). Detection only.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T21:06:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[mhtsec/CVE-2026-63030](https://github.com/mhtsec/CVE-2026-63030)",
+      "description": "WordPress 未授权RCE EXP - CVE-2026-63030",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T21:13:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[ChiefYoru/CVE-2026-63030_PoC](https://github.com/ChiefYoru/CVE-2026-63030_PoC)",
+      "description": "CVE-2026-63030 - WordPress Core Pre-Auth RCE Mass Exploit",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T20:46:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t](https://github.com/J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t)",
+      "description": "A fully red-team(offensive security) weaponized variant of wp2shell, built for authorized penetration testing &amp; educational purposes.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T16:07:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[securelayer7/WordPresShell](https://github.com/securelayer7/WordPresShell)",
+      "description": "Pre-auth RCE PoC for CVE-2026-63030 / CVE-2026-60137 (WordPress core)",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T19:55:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[ebrasha/abdal-cve-2026-63030](https://github.com/ebrasha/abdal-cve-2026-63030)",
+      "description": "Abdal CVE-2026-63030 is a professional WordPress vulnerability scanner designed to detect exposure to CVE-2026-63030 through version analysis and REST API security checks. Developed by Ebrahim Shafiei (EbraSha) for cybersecurity research, penetration testing, and WordPress security assessment.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T19:24:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[mverschu/CVE-2026-63030](https://github.com/mverschu/CVE-2026-63030)",
+      "description": "PoC Exploit of WordPress Core Unauthenticated RCE known as WP2Shell",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T14:06:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[0xsha/wp2shell](https://github.com/0xsha/wp2shell)",
+      "description": "CVE-2026-63030 + CVE-2026-60137 - “wp2shell”: unauthenticated RCE in WordPress core",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T14:27:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[0xBlackash/CVE-2026-63030](https://github.com/0xBlackash/CVE-2026-63030)",
+      "description": "CVE-2026-63030",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T16:24:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[0xWhoknows/wp2shell](https://github.com/0xWhoknows/wp2shell)",
+      "description": "Automated exploit chain for CVE-2026-63030 / CVE-2026-60137 — unauthenticated blind SQLi via WordPress REST batch route-confusion. Dumps user hashes, cracks credentials, deploys webshell. Supports single target and bulk site lists. For authorized security testing only.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T17:21:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[mrx-arafat/CVE-2026-63030-POC](https://github.com/mrx-arafat/CVE-2026-63030-POC)",
+      "description": "no description",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T17:07:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[gbrsh/CVE-2026-63030](https://github.com/gbrsh/CVE-2026-63030)",
+      "description": "A critical unauthenticated &quot;remote code execution&quot; vulnerability affecting WordPress Core",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T16:17:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[4minx/CVE-2026-63030](https://github.com/4minx/CVE-2026-63030)",
+      "description": "CVE-2026-63030 (wp2shell) POC.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T12:11:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[CybersecSpirit/CVE-2026-63030](https://github.com/CybersecSpirit/CVE-2026-63030)",
+      "description": "no description",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T10:19:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[kulichr/wp2shell](https://github.com/kulichr/wp2shell)",
+      "description": "Non-intrusive checker for CVE-2026-63030 / CVE-2026-60137 (&quot;wp2shell&quot;), a pre-authentication RCE chain in WordPress core.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T10:05:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[NULL200OK/WP2Shell](https://github.com/NULL200OK/WP2Shell)",
+      "description": "WP2Shell - CVE-2026-63030 / CVE-2026-60137 This tool exploits a critical SQL injection vulnerability in the WordPress REST API `/wp-json/batch/v1` endpoint, allowing unauthenticated attackers to execute arbitrary SQL queries and achieve Remote Code Execution (RCE) on vulnerable WordPress installations.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T07:30:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[Lutfifakee-Project/wp2shell](https://github.com/Lutfifakee-Project/wp2shell)",
+      "description": "wp2shell - WordPress CVE-2026-63030 Exploit &amp; Scanner",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T05:57:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[codeb0ssx/Ultimate-wp2shell](https://github.com/codeb0ssx/Ultimate-wp2shell)",
+      "description": "wp2shell — Pre-authentication RCE in WordPress Core (CVE-2026-60137 + CVE-2026-63030). Chains an SQL injection in author__not_in with batch-route confusion for unauthenticated remote code execution on WP 6.9.0–6.9.4 / 7.0.0–7.0.1.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T21:16:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[ebrasha/abdal-cve-2026-60137](https://github.com/ebrasha/abdal-cve-2026-60137)",
+      "description": "Abdal CVE-2026-60137 is an advanced WordPress security scanner for identifying systems potentially affected by the CVE-2026-60137 SQL Injection vulnerability. Developed by Ebrahim Shafiei (EbraSha) for vulnerability assessment, security research, and authorized penetration testing.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T19:23:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[yoerivegt/wp2shell-poc](https://github.com/yoerivegt/wp2shell-poc)",
+      "description": "wp2shell (CVE-2026-60137 / CVE-2026-63030)",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T19:02:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[h4cd0c/wp2shell](https://github.com/h4cd0c/wp2shell)",
+      "description": "wp2shell — Pre-authentication RCE in WordPress Core (CVE-2026-60137 + CVE-2026-63030). Chains an SQL injection in author__not_in with batch-route confusion for unauthenticated remote code execution on WP 6.9.0–6.9.4 / 7.0.0–7.0.1.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T16:36:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-56291",
+      "repo_info": "[ChiefYoru/CVE-2026-56291_PoC](https://github.com/ChiefYoru/CVE-2026-56291_PoC)",
+      "description": "The Joomla extension Balbooa Forms is vulnerable to an unauthenticated arbitrary file upload that allows uploading executable files and leads to full RCE.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T22:12:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-51385",
+      "repo_info": "[Arturo0x90/CVE-2026-51385](https://github.com/Arturo0x90/CVE-2026-51385)",
+      "description": "Advisory for CVE-2026-51385. Needed to publish it as GRAPHIFY hasnt recognized the advisory neither publish it, and MITRE assigned CVE-2026-51385, this is the advisory for it.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T14:47:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-48939",
+      "repo_info": "[ChiefYoru/CVE-2026-48939_PoC](https://github.com/ChiefYoru/CVE-2026-48939_PoC)",
+      "description": "iCagenda extension for Joomla allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T22:02:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-46420",
+      "repo_info": "[Jvr2022/CVE-2026-46420](https://github.com/Jvr2022/CVE-2026-46420)",
+      "description": "PoC for CVE-2026-46420, command injection in shivammathur/setup-php via repository-controlled PHP version resolution.",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T22:27:39Z"
+    },
+    {
       "cve_id": "CVE-2026-44262",
       "repo_info": "[akash-osmsec/CVE-2026-44262-](https://github.com/akash-osmsec/CVE-2026-44262-)",
       "description": "no description",
@@ -52,6 +255,41 @@
       "raw_date": "2026-07-18T00:32:50Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[d224407/CVE-2026-43499](https://github.com/d224407/CVE-2026-43499)",
+      "description": "CVE-2026-43499",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T13:18:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall](https://github.com/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall)",
+      "description": "CVE-2026-43499 reproduce in Xiaomi 17T. (kernelsu incomplete)",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T14:19:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[PeronGH/ghostlock-selinux-disabler](https://github.com/PeronGH/ghostlock-selinux-disabler)",
+      "description": "Use CVE-2026-43499 to disable SELinux on Android",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T05:33:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Wtrwx/smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc)",
+      "description": "CVE-2026-43499 (IonStack/GhostLock) pure-C re-root POC for Samsung SM-T878U / gts7l (T878USQS8DXE1)",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T08:18:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)",
+      "description": "（CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加设备。",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T06:24:34Z"
+    },
+    {
       "cve_id": "CVE-2026-43074",
       "repo_info": "[PeronGH/android-selinux-disabler](https://github.com/PeronGH/android-selinux-disabler)",
       "description": "Use CVE-2026-43074 to disable SELinux on Android",
@@ -59,16 +297,51 @@
       "raw_date": "2026-07-18T01:04:37Z"
     },
     {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[oguz-kagan-akar/CVE-2026-41940-analysis](https://github.com/oguz-kagan-akar/CVE-2026-41940-analysis)",
+      "description": "Technical analysis of the cPanel/WHM auth bypass",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T05:44:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-21978",
+      "repo_info": "[Eangly/CVE-2026-21978](https://github.com/Eangly/CVE-2026-21978)",
+      "description": "My CVE in Oracle FLEXCUBE Universal Banking",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T18:48:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-21628",
+      "repo_info": "[ChiefYoru/CVE-2026-21628_PoC](https://github.com/ChiefYoru/CVE-2026-21628_PoC)",
+      "description": "Unauthenticated Remote Code Execution in Astroid Framework 2.0.0 - 3.3.10 for Joomla",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T21:49:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-20253",
+      "repo_info": "[Het-Kalariya/CVE-2026-20253](https://github.com/Het-Kalariya/CVE-2026-20253)",
+      "description": "no description",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T10:54:12Z"
+    },
+    {
       "cve_id": "CVE-2026-1999",
       "repo_info": "[manoelprovider20-lgtm/merge-authz-test](https://github.com/manoelprovider20-lgtm/merge-authz-test)",
       "description": "authz test (CVE-2026-1999 siblings)",
       "date": "2026-07-18",
       "raw_date": "2026-07-18T02:16:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-10672",
+      "repo_info": "[Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri](https://github.com/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri)",
+      "description": "no description",
+      "date": "2026-07-18",
+      "raw_date": "2026-07-18T09:28:51Z"
     }
   ],
-  "generated_at": "2026-07-19T02:24:56.532652",
+  "generated_at": "2026-07-19T04:25:53.602416",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 48,
     "date_range": "2026-07-18",
     "source": "README.md",
     "script_version": "2.0"

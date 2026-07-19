@@ -1,7 +1,7 @@
 {
-  "github_token": "ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJuVUpNQ2hjcWQ1c0VIV2dOWXlqUHh6Q0ZaaENGTDFFVWphZXZpU2RkQUJHbVpQU19sa0VyYmdvIiwiZXhwIjoxNzg0MzUxMDM4LCJpYXQiOjE3ODQzNDc0MzgsImlzcyI6ImdpdGh1YiIsImp0aSI6ImIzYzMzMjI4LTQ0YzgtNDQ5MS1hNTE5LTkzNTk1NmIwYWE3ZSIsInZlciI6M30.sl_vBc4lYNCaUdYThs8XhJSLksK2XAa28JegAWxzN_6_44EsLYi-0izXXdypWfMGQe6ohqmikYTpPLUKY4gTTg",
+  "github_token": "ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJab1NxZDVzbkdZWEt5RkljQS1UZXlmM3pKaFhVSjFxTndaeVNVbFZHcmtBMTk5VHNiUGdMWGFzIiwiZXhwIjoxNzg0NDM4NjkyLCJpYXQiOjE3ODQ0MzUwOTIsImlzcyI6ImdpdGh1YiIsImp0aSI6ImZlN2EzOTM2LTMyMjAtNDM4My05ODcxLTVkMTIxYjkzNDM3OCIsInZlciI6M30.YH1dWmAfh4fIlSdUqpeE0OYTeM4LZ-5Xrk3NgABLQLhE5Nmyf4I4B6Pw33pyKfe_vsoHxSYkxUdC3PBbnvxvcQ",
   "api_base_url": "https://api.github.com",
   "repository": "adminlove520/github_cve_monitor",
-  "generated_at": "2026-07-18T04:04:02Z",
+  "generated_at": "2026-07-19T04:24:57Z",
   "token_note": "GitHub Actions内置Token"
 }
