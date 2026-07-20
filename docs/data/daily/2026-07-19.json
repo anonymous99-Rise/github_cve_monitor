@@ -1,18 +1,158 @@
 {
   "date": "2026-07-19",
-  "count": 1,
+  "count": 21,
   "cves": [
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[hidden-investigations/wp2shell-scanner](https://github.com/hidden-investigations/wp2shell-scanner)",
+      "description": "WordPress wp2shell vulnerability-chain scanner for CVE-2026-63030 and CVE-2026-60137, with active detection, optional PoC, JSON export.",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T17:32:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[eyesecurity/wp2shell-compromise-scanner-plugin](https://github.com/eyesecurity/wp2shell-compromise-scanner-plugin)",
+      "description": "Read-only WordPress plugin that scans for artifacts of the wp2shell exploit chain (CVE-2026-63030 / CVE-2026-60137)",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T12:55:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[ZenithGenius/wordpress-batch-rce-lab](https://github.com/ZenithGenius/wordpress-batch-rce-lab)",
+      "description": "CVE-2026-63030: WordPress REST batch-endpoint array desync. Mechanism, detection, mitigation, and a safe reproduction lab.",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T21:15:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[ananay/wp2shell-lab](https://github.com/ananay/wp2shell-lab)",
+      "description": "Validation target: minimal WordPress core slice reproducing the wp2shell (CVE-2026-63030 + CVE-2026-60137) REST-to-SQLi chain",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T18:16:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030](https://github.com/skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030)",
+      "description": "The wp2shell vulnerability chain represents one of the most significant WordPress Core security issues in recent years. Because exploitation begins with an unauthenticated request and can ultimately result in Remote Code Execution, organizations should treat remediation as an emergency.",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T19:15:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[vulnquest58/PressVector](https://github.com/vulnquest58/PressVector)",
+      "description": "PressVector - Advanced WordPress Vulnerability Scanner CVE-2026-63030 (REST batch route confusion) / CVE-2026-60137 (SQLi) Developer: Vulnquest",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T19:20:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[Lukols-Dev/wp-cve-2026-63030-check](https://github.com/Lukols-Dev/wp-cve-2026-63030-check)",
+      "description": "Non-intrusive exposure checker for the WordPress wp2shell pre-auth RCE chain (CVE-2026-63030 / CVE-2026-60137).",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T19:00:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[4B3R4M4-607D/CVE-2026-63030-POC](https://github.com/4B3R4M4-607D/CVE-2026-63030-POC)",
+      "description": "CVE-2026-63030 / wp2shell",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T15:52:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[InstaWP/wp2shell-scan](https://github.com/InstaWP/wp2shell-scan)",
+      "description": "Detect &amp; clean up wp2shell (CVE-2026-63030) WordPress compromise — bulk-runnable, read-only by default",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T16:02:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[bahartanir/wp2shell-scanner](https://github.com/bahartanir/wp2shell-scanner)",
+      "description": "CVE-2026-63030 / CVE-2026-60137 - WordPress pre-auth RCE scanner",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T08:52:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[0xh7ml/CVE-2026-63030](https://github.com/0xh7ml/CVE-2026-63030)",
+      "description": "no description",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T14:07:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[ikow/wp2shell](https://github.com/ikow/wp2shell)",
+      "description": "wp2shell — WordPress Core Pre-Auth RCE (CVE-2026-63030 + CVE-2026-60137). Exploit toolkit + remediation.",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T06:23:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[c0gnit00/Wp2Shell](https://github.com/c0gnit00/Wp2Shell)",
+      "description": "Exploit POC for Wp2Shell,  CVE-2026-63030 + CVE-2026-63137",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T06:12:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-56290",
+      "repo_info": "[ChiefYoru/CVE-2026-56290_PoC](https://github.com/ChiefYoru/CVE-2026-56290_PoC)",
+      "description": "The Joomla extension Page Builder CK is vulnerable to an unauthenticated arbitrary file upload that allows uploading executable files and leads to full RCE.",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T08:07:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-50402",
+      "repo_info": "[SY115/CVE-Writeups](https://github.com/SY115/CVE-Writeups)",
+      "description": "Security vulnerability research writeups. CVE-2026-50402: Windows NTFS Elevation of Privilege (CVSS 7.8)",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T08:42:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[ChiefYoru/CVE-2026-48907_PoC](https://github.com/ChiefYoru/CVE-2026-48907_PoC)",
+      "description": "Unauthenticated Remote Code Execution (RCE) vulnerability in the JCE (Joomla Content Editor) extension for Joomla",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T08:21:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-46215",
+      "repo_info": "[bluedragonsecurity/CVE-2026-46215-exploit-linux-7.0-uaf-stable](https://github.com/bluedragonsecurity/CVE-2026-46215-exploit-linux-7.0-uaf-stable)",
+      "description": "CVE-2026-46215 DRM GEM UAF Exploit for Linux 7.0 - by Antonius (sw0rdm4n, w1sdom, ev1lut10n)",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T05:37:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[yellowkey-bitlocker/YellowKey-Bitlocker](https://github.com/yellowkey-bitlocker/YellowKey-Bitlocker)",
+      "description": "Yellowkey bitlocker CVE-2026-45585 provides an open-source utility manager to extract, backup, and organize BitLocker recovery keys on Windows drives. Automate volume decryption logs, manage drive encryption states via command-line tools, and export secure configuration files directly to GitHub.",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T17:08:18Z"
+    },
     {
       "cve_id": "CVE-2026-39200",
       "repo_info": "[r00tali/CVE-2026-39200](https://github.com/r00tali/CVE-2026-39200)",
       "description": "The value of the produk request parameter is copied into the value of an HTML tag attribute which is encapsulated in double quotation marks. The payload xbnw0&quot;&gt;&lt;script&gt;alert(1)&lt;/script&gt;skc2h was submitted in the produk parameter. This input was echoed as xbnw0\\&quot;&gt;&lt;script&gt;alert(1)&lt;/script&gt;skc2h in the application&#x27;s response.",
       "date": "2026-07-19",
       "raw_date": "2026-07-19T00:43:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-3891",
+      "repo_info": "[VeronnX666/CVE-2026-3891](https://github.com/VeronnX666/CVE-2026-3891)",
+      "description": "This tool was created solely for educational purposes, not for criminal activities or anything of the sort. Do not misuse this tool. Good luck trying it out.",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T14:10:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[CerberusMrXi/Langflow-cve-2026-33017-exploit](https://github.com/CerberusMrXi/Langflow-cve-2026-33017-exploit)",
+      "description": "CVE-2026-33017 exploitation tool for Langflow &lt;1.9.0. Features reverse shells, command execution, file operations, persistence, and automated testing. Validates critical RCE vulnerability impact. For authorized security assessments only.",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T10:44:19Z"
     }
   ],
-  "generated_at": "2026-07-20T02:40:11.724682",
+  "generated_at": "2026-07-20T04:40:14.698347",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 21,
     "date_range": "2026-07-19",
     "source": "README.md",
     "script_version": "2.0"

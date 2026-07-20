@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-20",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[administrator-01001/CVE-2026-63030](https://github.com/administrator-01001/CVE-2026-63030)",
+      "description": "Proof-of-concept exploit for CVE-2026-63030, a pre-authentication vulnerability in WordPress (versions 6.9.0 through 7.0.1).",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T01:20:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-42533",
+      "repo_info": "[srkyn/nginx-map-risk-audit](https://github.com/srkyn/nginx-map-risk-audit)",
+      "description": "Defensive NGINX CVE-2026-42533 map regex risk audit with config scanner, Splunk/Defender notes, and lab evidence.",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T01:20:58Z"
+    }
+  ],
+  "generated_at": "2026-07-20T04:40:14.698613",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-07-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

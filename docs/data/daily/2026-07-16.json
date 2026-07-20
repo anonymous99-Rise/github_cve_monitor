@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "count": 26,
+  "count": 27,
   "cves": [
     {
       "cve_id": "CVE-2026-8838",
@@ -71,6 +71,13 @@
       "description": "no description",
       "date": "2026-07-16",
       "raw_date": "2026-07-16T13:09:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-49176",
+      "repo_info": "[DavidCarliez/CVE-2026-49176_LPE_POC](https://github.com/DavidCarliez/CVE-2026-49176_LPE_POC)",
+      "description": "Local privilege-escalation proof of concept for the Windows WalletService vulnerability fixed in July 2026.",
+      "date": "2026-07-16",
+      "raw_date": "2026-07-16T13:36:10Z"
     },
     {
       "cve_id": "CVE-2026-46726",
@@ -185,9 +192,9 @@
       "raw_date": "2026-07-16T18:57:36Z"
     }
   ],
-  "generated_at": "2026-07-20T02:40:11.723444",
+  "generated_at": "2026-07-20T04:40:14.697252",
   "metadata": {
-    "total_cves": 26,
+    "total_cves": 27,
     "date_range": "2026-07-16",
     "source": "README.md",
     "script_version": "2.0"
