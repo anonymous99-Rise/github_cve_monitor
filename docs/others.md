@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-07-20 04:39:43
+- **生成时间**: 2026-07-21 04:18:44
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -349,9 +349,10 @@
 | 🚫 未识别 | [diedromeo/CVE-Labs-2025-2026](https://github.com/diedromeo/CVE-Labs-2025-2026) | Educational, Dockerized reproductions of publicly disclosed 2025-2026 CVEs: root-cause analysis, attack flows, PoCs, detections, and patch analysis. | 2026-07-13T19:57:34Z|
 | 🚫 未识别 | [enjoylife96962930-a11y/bug-bounty-series-2026](https://github.com/enjoylife96962930-a11y/bug-bounty-series-2026) | Bug Bounty Series 2026 - Complete Ethical Hacker Playbook with 25+ interactive modules, Metasploit integration, CVE database, and command cheat sheets | 2026-07-16T19:03:13Z|
 | 🚫 未识别 | [HaakimSec/zero2shell-50](https://github.com/HaakimSec/zero2shell-50) | Zero2Shell-50: 50 containerized Remote Code Execution labs covering critical CVEs from 2014-2026. Each lab includes vulnerable Docker environments, working exploits, root cause analysis, and mitigation guides. Covers Java, Python, PHP, JavaScript, and shell-based vulnerabilities. | 2026-07-18T09:10:38Z|
+| 🚫 未识别 | [davischrisqfst2030/aegis-ai-v2026-agent](https://github.com/davischrisqfst2030/aegis-ai-v2026-agent) | Python-based genAI security analysis agent for CVE, component, and vulnerability context, built around LLM-oriented workflows in version 2026. | 2026-07-20T21:38:42Z|
 
 
 ---
 
-**报告生成时间**: 2026-07-20 04:40:13  
-**总记录数**: 338
+**报告生成时间**: 2026-07-21 04:19:09  
+**总记录数**: 339

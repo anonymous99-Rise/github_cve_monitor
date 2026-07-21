@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "count": 10,
+  "count": 11,
   "cves": [
     {
       "cve_id": "CVE-2026-46331",
@@ -59,6 +59,13 @@
       "raw_date": "2026-07-12T16:05:24Z"
     },
     {
+      "cve_id": "CVE-2026-3576",
+      "repo_info": "[anirbala98/CVE-2026-3576](https://github.com/anirbala98/CVE-2026-3576)",
+      "description": "Proof of Concept exploit for CVE-2026-3576",
+      "date": "2026-07-12",
+      "raw_date": "2026-07-12T07:41:30Z"
+    },
+    {
       "cve_id": "CVE-2026-21055",
       "repo_info": "[Hunt-Benito/samsung-bixby-command-execution-cve-2026-21055-improper-component-export](https://github.com/Hunt-Benito/samsung-bixby-command-execution-cve-2026-21055-improper-component-export)",
       "description": "no description",
@@ -73,9 +80,9 @@
       "raw_date": "2026-07-12T04:08:28Z"
     }
   ],
-  "generated_at": "2026-07-21T02:23:55.460755",
+  "generated_at": "2026-07-21T04:19:10.658114",
   "metadata": {
-    "total_cves": 10,
+    "total_cves": 11,
     "date_range": "2026-07-12",
     "source": "README.md",
     "script_version": "2.0"

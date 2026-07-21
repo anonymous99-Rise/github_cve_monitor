@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "count": 21,
+  "count": 23,
   "cves": [
     {
       "cve_id": "CVE-2026-63030",
@@ -94,6 +94,20 @@
       "raw_date": "2026-07-19T06:12:24Z"
     },
     {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[Crypto-Cat/wp2shell](https://github.com/Crypto-Cat/wp2shell)",
+      "description": "PoC for CVE-2026-63030 + CVE-2026-60137, AKA WP2Shell",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T21:51:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[TomorrowX6/CVE-2026-63030-poc](https://github.com/TomorrowX6/CVE-2026-63030-poc)",
+      "description": "no description",
+      "date": "2026-07-19",
+      "raw_date": "2026-07-19T07:29:49Z"
+    },
+    {
       "cve_id": "CVE-2026-56290",
       "repo_info": "[ChiefYoru/CVE-2026-56290_PoC](https://github.com/ChiefYoru/CVE-2026-56290_PoC)",
       "description": "The Joomla extension Page Builder CK is vulnerable to an unauthenticated arbitrary file upload that allows uploading executable files and leads to full RCE.",
@@ -150,9 +164,9 @@
       "raw_date": "2026-07-19T10:44:19Z"
     }
   ],
-  "generated_at": "2026-07-21T02:23:55.462664",
+  "generated_at": "2026-07-21T04:19:10.659589",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 23,
     "date_range": "2026-07-19",
     "source": "README.md",
     "script_version": "2.0"

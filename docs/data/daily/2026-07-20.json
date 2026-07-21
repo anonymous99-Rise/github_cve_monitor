@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "count": 2,
+  "count": 27,
   "cves": [
     {
       "cve_id": "CVE-2026-63030",
@@ -10,16 +10,191 @@
       "raw_date": "2026-07-20T01:20:53Z"
     },
     {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[GhostInExile/CVE-2026-63030-Wp2Shell](https://github.com/GhostInExile/CVE-2026-63030-Wp2Shell)",
+      "description": "WordPress REST API SQLi to RCE (CVE-2026-63030)",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T10:59:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[Ch4120N/CVE-2026-63030](https://github.com/Ch4120N/CVE-2026-63030)",
+      "description": "CVE-2026-63030 - WordPress REST Batch Route-Confusion SQL Injection Proof of Concept",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T18:20:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[lucifer0xf/wp2shell-Wordpress-TOWN](https://github.com/lucifer0xf/wp2shell-Wordpress-TOWN)",
+      "description": "Unauthenticated Remote Code Execution (RCE) in WordPress Core allows attackers to execute arbitrary code without logging in by chaining CVE-2026-63030 and CVE-2026-60137, potentially leading to full site compromise.",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T16:07:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[ASYquan/wp2shell-cf-WAF-bypass](https://github.com/ASYquan/wp2shell-cf-WAF-bypass)",
+      "description": "wp2shell PoC with Cloudflare WAF bypass via body padding (CVE-2026-63030)",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T13:54:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[SentinelXofficial/sxwp2shell](https://github.com/SentinelXofficial/sxwp2shell)",
+      "description": "WordPress wp2shell pre-auth RCE exploit kit (CVE-2026-63030 + CVE-2026-60137)",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T10:41:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[0xjessie21/wp2shell-checker](https://github.com/0xjessie21/wp2shell-checker)",
+      "description": "WordPress Core Unauthenticated RCE (CVE-2026-63030, CVE-2026-60137)",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T06:06:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[joaovicdev/EXPLOIT-CVE-2026-63030](https://github.com/joaovicdev/EXPLOIT-CVE-2026-63030)",
+      "description": "no description",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T04:58:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-62183",
+      "repo_info": "[NicPWNs/CVE-2026-62183](https://github.com/NicPWNs/CVE-2026-62183)",
+      "description": "Apache Syncope: User self-service privilege escalation",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T22:56:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-60121",
+      "repo_info": "[HORKimhab/CVE-2026-60121-CVE-2026-61498](https://github.com/HORKimhab/CVE-2026-60121-CVE-2026-61498)",
+      "description": "CVE-2026-60121, CVE-2026-61498 - Draft",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T08:55:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-52910",
+      "repo_info": "[Dere3046/ElevateMe_noLKM](https://github.com/Dere3046/ElevateMe_noLKM)",
+      "description": "noLKM,5.10 use CVE-2026-52910.",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T16:12:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-5029",
+      "repo_info": "[0x00phantom-hat/CVE-2026-5029-Exploit](https://github.com/0x00phantom-hat/CVE-2026-5029-Exploit)",
+      "description": "no description",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T11:43:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-49098",
+      "repo_info": "[oscerd/CVE-2026-49098](https://github.com/oscerd/CVE-2026-49098)",
+      "description": "PoC reproducer for CVE-2026-49098 (Apache Camel camel-kafka): the non-Camel-prefixed kafka.OVERRIDE_TOPIC header escapes the upstream HTTP header filter and overrides the producer&#x27;s configured topic, injecting an attacker-forged record onto a privileged Kafka topic (cross-topic injection). Fixed in 4.14.8/4.18.3/4.21.0.",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T16:39:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-49097",
+      "repo_info": "[oscerd/CVE-2026-49097](https://github.com/oscerd/CVE-2026-49097)",
+      "description": "PoC reproducer for CVE-2026-49097 (Apache Camel camel-irc): the non-Camel-prefixed irc.sendTo header escapes the HTTP header filter and overrides the producer&#x27;s configured channel, redirecting an IRC message to an attacker-chosen destination. Fixed in 4.14.8/4.18.3/4.21.0.",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T13:41:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-49086",
+      "repo_info": "[oscerd/CVE-2026-49086](https://github.com/oscerd/CVE-2026-49086)",
+      "description": "PoC reproducer for CVE-2026-49086 (Apache Camel camel-dapr): the pub/sub consumer copies the untrusted CloudEvent&#x27;s pubsubName/topic into producer-routing headers, letting an attacker redirect a republished message to an arbitrary Dapr pub/sub component+topic (confused deputy). Fixed in 4.14.8/4.18.3/4.21.0.",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T12:12:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-49042",
+      "repo_info": "[oscerd/CVE-2026-49042](https://github.com/oscerd/CVE-2026-49042)",
+      "description": "PoC reproducer for CVE-2026-49042 (Apache Camel camel-langchain4j-tools): a prompt-injected LLM&#x27;s tool-call arguments become unfiltered Exchange headers, hijacking the tool route&#x27;s exec: sink for RCE. Fixed in 4.14.8/4.18.3/4.21.0.",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T08:23:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-4858",
+      "repo_info": "[EvtDanya/CVE-2026-4858](https://github.com/EvtDanya/CVE-2026-4858)",
+      "description": "CVE-2026-4858 research",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T06:52:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-48206",
+      "repo_info": "[oscerd/CVE-2026-48206](https://github.com/oscerd/CVE-2026-48206)",
+      "description": "Reproducer for CVE-2026-48206: Apache Camel camel-jira IssueKey (and other non-Camel-prefixed) header injection driving arbitrary JIRA issue operations with the endpoint&#x27;s service-account credentials (fixed in 4.14.8/4.18.3/4.21.0)",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T07:19:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[yellowkeys/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585)",
+      "description": "YellowKey BitLocker CVE-2026-45585 is an open-source utility to extract, backup, and organize BitLocker recovery keys on Windows encrypted drives. Automate volume decryption, manage drive encryption states via command-line tools, export secure configuration files, and track recovery key logs. Download direct repository setup files.",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T18:10:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-44680",
+      "repo_info": "[CerberusMrXi/CVE-2026-44680-MikroORM-SQL-Injection-Exploit-Framework](https://github.com/CerberusMrXi/CVE-2026-44680-MikroORM-SQL-Injection-Exploit-Framework)",
+      "description": "PoC tool for CVE-2026-44680 affecting MikroORM ≤7.0.13. Exploits JSON path injection to extract database contents via UNION-based attacks. Features vulnerability detection, automated data extraction, table enumeration, and blind injection support. Includes proxy integration for Burp Suite and WAF evasion techniques.",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T17:46:14Z"
+    },
+    {
       "cve_id": "CVE-2026-42533",
       "repo_info": "[srkyn/nginx-map-risk-audit](https://github.com/srkyn/nginx-map-risk-audit)",
       "description": "Defensive NGINX CVE-2026-42533 map regex risk audit with config scanner, Splunk/Defender notes, and lab evidence.",
       "date": "2026-07-20",
       "raw_date": "2026-07-20T01:20:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-42533",
+      "repo_info": "[Daniyal48/ghostlock-vagrant-box](https://github.com/Daniyal48/ghostlock-vagrant-box)",
+      "description": "An isolated Vagrant testbed designed to simulate a complete attack chain: Initial access via the Nginx heap buffer overflow (CVE-2026-42533) followed by root privilege escalation using the Ghostlock kernel vulnerability (CVE-2026-43449).",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T07:22:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[soverineg/cve-2026-41940-PoC](https://github.com/soverineg/cve-2026-41940-PoC)",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T14:15:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-23550",
+      "repo_info": "[baktistr/cve-2026-23550-poc](https://github.com/baktistr/cve-2026-23550-poc)",
+      "description": "no description",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T16:03:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-16219",
+      "repo_info": "[HELLBOY3110/cve-2026-16219-croogo-lab](https://github.com/HELLBOY3110/cve-2026-16219-croogo-lab)",
+      "description": "no description",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T14:05:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-12191",
+      "repo_info": "[hakaioffsec/CVE-2026-12191](https://github.com/hakaioffsec/CVE-2026-12191)",
+      "description": "PoC for CVE-2026-12191",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T19:23:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-11374",
+      "repo_info": "[BishopFox/CVE-2026-11374-check](https://github.com/BishopFox/CVE-2026-11374-check)",
+      "description": "Detection script for CVE-2026-11374",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T15:52:06Z"
     }
   ],
-  "generated_at": "2026-07-21T02:23:55.462897",
+  "generated_at": "2026-07-21T04:19:10.659776",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 27,
     "date_range": "2026-07-20",
     "source": "README.md",
     "script_version": "2.0"
