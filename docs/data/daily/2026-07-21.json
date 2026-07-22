@@ -1,7 +1,140 @@
 {
   "date": "2026-07-21",
-  "count": 2,
+  "count": 30,
   "cves": [
+    {
+      "cve_id": "CVE-2026-9973",
+      "repo_info": "[jaf0rk/CVE-2026-9973-exploit](https://github.com/jaf0rk/CVE-2026-9973-exploit)",
+      "description": "no description",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T11:57:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-9198",
+      "repo_info": "[0xdak/CVE-2026-9198_exploit](https://github.com/0xdak/CVE-2026-9198_exploit)",
+      "description": "no description",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T11:14:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-6875",
+      "repo_info": "[tc4dy/CVE-2026-6875-PoC-Exploit](https://github.com/tc4dy/CVE-2026-6875-PoC-Exploit)",
+      "description": "CVE-2026-6875 ServiceNow Pre-Auth RCE Framework 🔥 JS Injection → Sandbox Escape → RCE → Root. Features: --detect, --exec, reverse/interactive shell, batch threading, WAF bypass, persistence, lateral movement, credential dump, fileless exec, clean tracks. 🛡️ CVSS 9.5 actively exploited. Authorized &amp; Legal use only. Stay Legal. 🔒",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T18:07:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-6875",
+      "repo_info": "[HORKimhab/CVE-2026-6875](https://github.com/HORKimhab/CVE-2026-6875)",
+      "description": "CVE-2026-6875",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T07:53:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[Bhanunamikaze/WP2Shell-CVE-2026-63030-POC](https://github.com/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC)",
+      "description": "PoC detector &amp; safe validator for the WP2Shell WordPress vulnerability chain: CVE-2026-63030 (REST batch-route confusion) + CVE-2026-60137 (author__not_in SQL injection). For authorized security testing only.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T17:51:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[Colere-Sys/wp2shell-poc](https://github.com/Colere-Sys/wp2shell-poc)",
+      "description": "Analysis and end-to-end implementation of the patched wordpress RCE vulnerability - CVE-2026-60137 and CVE-2026-63030",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T17:49:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress](https://github.com/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress)",
+      "description": "CVE-2026-60137Temporary Emergency Mitigation for CVE-2026-60137 &amp; CVE-2026-63030 (wp2shell)",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T17:44:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-57588",
+      "repo_info": "[CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC](https://github.com/CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC)",
+      "description": "PoC for CVE-2026-57588 - SQL injection in Nessus 10.12.0 XML import. Generates malicious .nessus files to enumerate databases, exfiltrate credentials, and test time-based blind injection. For authorized security research. Author: Sudeepa Wanigarathna. Patched in 10.12.1.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T18:13:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-53913",
+      "repo_info": "[oscerd/CVE-2026-53913](https://github.com/oscerd/CVE-2026-53913)",
+      "description": "PoC reproducer for CVE-2026-53913 (Apache Camel camel-keycloak): KeycloakSecurityPolicy fails open in the Basic Setup — with no required roles/permissions the token is never verified, so any forged/garbage bearer token bypasses authentication (unauthenticated RCE). Fixed in 4.18.3/4.21.0.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T12:46:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-53595",
+      "repo_info": "[0xdak/CVE-2026-53595_exploit](https://github.com/0xdak/CVE-2026-53595_exploit)",
+      "description": "no description",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T19:36:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-52910",
+      "repo_info": "[Dere3046/ScreenOff](https://github.com/Dere3046/ScreenOff)",
+      "description": "CVE-2026-52910 kernel crash PoC. screen goes off.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T04:26:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-52813",
+      "repo_info": "[iqx6889/CVE-2026-52813-Gogs-RCE](https://github.com/iqx6889/CVE-2026-52813-Gogs-RCE)",
+      "description": "CVE-2026-52813 (Gogs Path Traversal → Git Hooks RCE) defensive writeup: root-cause &amp; patch analysis, Sigma/SIEM detection rules, IOCs, non-intrusive version scanner. No weaponized PoC.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T15:19:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-49365",
+      "repo_info": "[oscerd/CVE-2026-49365](https://github.com/oscerd/CVE-2026-49365)",
+      "description": "PoC reproducer for CVE-2026-49365 (Apache Camel camel-netty-http / camel-undertow): muteException defaults to false, so an uncaught exception&#x27;s full Java stack trace is returned to the HTTP client (CWE-209). Fixed in 4.14.8/4.18.3/4.21.0.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T09:55:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-49099",
+      "repo_info": "[oscerd/CVE-2026-49099](https://github.com/oscerd/CVE-2026-49099)",
+      "description": "PoC reproducer for CVE-2026-49099 (Apache Camel camel-salesforce): the non-Camel-prefixed sObjectQuery header escapes the HTTP header filter and overrides the producer&#x27;s configured SOQL (SOQL injection / broken access control). Fixed in 4.14.8/4.18.3/4.21.0.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T09:20:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[boobalover7/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/boobalover7/YellowKey-Bitlocker-CVE-2026-45585)",
+      "description": "Manage BitLocker recovery keys, monitor drive encryption status, and unlock volumes through a portable interface for Windows.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T22:11:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[DistrictBlauw/Ace3-GhostLock-Preload](https://github.com/DistrictBlauw/Ace3-GhostLock-Preload)",
+      "description": "OnePlus Ace 3 preload.so for CVE-2026-43499 (GhostLock)",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T18:25:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[geecjdj/CVE-2026-43499](https://github.com/geecjdj/CVE-2026-43499)",
+      "description": "CVE-2026-43499",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T04:34:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Petalrain224/CVE-2026-43499-Redmi-Turbo5](https://github.com/Petalrain224/CVE-2026-43499-Redmi-Turbo5)",
+      "description": "Use CVE-2026-43499 on Redmi Turbo 5 to escalate privilege",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T11:28:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-42533",
+      "repo_info": "[suominen/CVE-2026-42533](https://github.com/suominen/CVE-2026-42533)",
+      "description": "no description",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T05:27:18Z"
+    },
     {
       "cve_id": "CVE-2026-41089",
       "repo_info": "[HydraSoft/CVE-2026-41089-Netlogon-RCE](https://github.com/HydraSoft/CVE-2026-41089-Netlogon-RCE)",
@@ -10,16 +143,79 @@
       "raw_date": "2026-07-21T02:05:07Z"
     },
     {
+      "cve_id": "CVE-2026-33697",
+      "repo_info": "[pduggusa/dugganusa-ietf](https://github.com/pduggusa/dugganusa-ietf)",
+      "description": "DugganUSA threat-intelligence contributions to the IETF Hackathon — real-world agentic-attack benchmark vectors, CVE-2026-33697 attestation analysis, MCP verification. Empirical grounding for standards work.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T15:44:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-30623",
+      "repo_info": "[csinexus/mcpshield](https://github.com/csinexus/mcpshield)",
+      "description": "Drop-in fix for the unpatched MCP STDIO command-injection flaw (CVE-2026-30623 family)",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T10:57:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-27971",
+      "repo_info": "[Ghalendar/CVE-2026-27971_POC](https://github.com/Ghalendar/CVE-2026-27971_POC)",
+      "description": "CVE-2026-27971 qwik rce",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T07:55:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-27654",
+      "repo_info": "[Debajyoti0-0/CVE-2026-27654-PoC](https://github.com/Debajyoti0-0/CVE-2026-27654-PoC)",
+      "description": "Proof-of-Concept and technical analysis for CVE-2026-27654, a heap-based buffer overflow vulnerability in the NGINX HTTP WebDAV module, including root cause analysis, reproduction, and mitigation.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T12:05:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-25632",
+      "repo_info": "[lazarus0x1337/CVE-2026-25632](https://github.com/lazarus0x1337/CVE-2026-25632)",
+      "description": "CVE-2026-25632 — Fix Unsafe JSON Deserialization Leading to Remote Code Execution",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T23:00:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-21858",
+      "repo_info": "[qianlijaingshan/n8n-cve-2026-21858](https://github.com/qianlijaingshan/n8n-cve-2026-21858)",
+      "description": "CVE-2026-21858 + CVE-2025-68613 — n8n unauthenticated file read to RCE exploit",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T08:56:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-20169",
+      "repo_info": "[gigachadusers/CVE-2026-20169](https://github.com/gigachadusers/CVE-2026-20169)",
+      "description": "no description",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T22:13:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-13233",
+      "repo_info": "[KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233](https://github.com/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233)",
+      "description": "CVE-2026-13233 (Drupal OpenAI Provider, SA-CONTRIB-2026-053): response-URL SSRF / local file read. Untrusted upstream, not the prompt. Safe reproducer + detections. Fixed in 1.1.1/1.2.2.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T09:27:25Z"
+    },
+    {
       "cve_id": "CVE-2026-13156",
       "repo_info": "[MinhHK68/CVE-2026-13156](https://github.com/MinhHK68/CVE-2026-13156)",
       "description": "CVE-2026-13156 Vulnerability Advisory &amp; PoC — Discovered by Huynh Kien Minh (MinhHK).",
       "date": "2026-07-21",
       "raw_date": "2026-07-21T01:46:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-0059",
+      "repo_info": "[paul-goon/bootlicka-POC](https://github.com/paul-goon/bootlicka-POC)",
+      "description": "a shitty poc utilizing CVE-2026-0059.",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T19:44:45Z"
     }
   ],
-  "generated_at": "2026-07-22T02:22:15.735202",
+  "generated_at": "2026-07-22T04:21:23.439393",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 30,
     "date_range": "2026-07-21",
     "source": "README.md",
     "script_version": "2.0"

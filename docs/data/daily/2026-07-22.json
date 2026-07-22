@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-22",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-50522",
+      "repo_info": "[HORKimhab/CVE-2026-50522](https://github.com/HORKimhab/CVE-2026-50522)",
+      "description": "CVE-2026-50522 - Draft",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T01:04:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[gagaltotal/CVE-2026-43499-PoC-Scanner](https://github.com/gagaltotal/CVE-2026-43499-PoC-Scanner)",
+      "description": "CVE-2026-43499 PoC Scanner",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T03:34:16Z"
+    }
+  ],
+  "generated_at": "2026-07-22T04:21:23.439686",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-07-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
