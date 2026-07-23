@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-23",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[razureink/cve-2026-63030_60137-wordpress_rce_reproduction](https://github.com/razureink/cve-2026-63030_60137-wordpress_rce_reproduction)",
+      "description": "CVE Reproduction: cve-2026-63030_60137-wordpress_rce_reproduction",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T03:46:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[razureink/cve-2026-41940-cpanel_authbypass_reproduction](https://github.com/razureink/cve-2026-41940-cpanel_authbypass_reproduction)",
+      "description": "CVE Reproduction: cve-2026-41940-cpanel_authbypass_reproduction",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T03:46:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-34486",
+      "repo_info": "[razureink/cve-2026-34486-tomcat_encrypt_bypass_reproduction](https://github.com/razureink/cve-2026-34486-tomcat_encrypt_bypass_reproduction)",
+      "description": "CVE Reproduction: cve-2026-34486-tomcat_encrypt_bypass_reproduction",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T03:46:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-21509",
+      "repo_info": "[razureink/cve-2026-21509-office_security_bypass_reproduction](https://github.com/razureink/cve-2026-21509-office_security_bypass_reproduction)",
+      "description": "CVE Reproduction: cve-2026-21509-office_security_bypass_reproduction",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T03:46:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-0770",
+      "repo_info": "[razureink/cve-2026-0770-langflow_rce_reproduction](https://github.com/razureink/cve-2026-0770-langflow_rce_reproduction)",
+      "description": "CVE Reproduction: cve-2026-0770-langflow_rce_reproduction",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T03:46:10Z"
+    }
+  ],
+  "generated_at": "2026-07-23T04:20:17.252378",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2026-07-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

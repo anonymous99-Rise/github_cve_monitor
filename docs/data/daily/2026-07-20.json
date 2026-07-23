@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "count": 27,
+  "count": 28,
   "cves": [
     {
       "cve_id": "CVE-2026-63030",
@@ -57,6 +57,13 @@
       "description": "no description",
       "date": "2026-07-20",
       "raw_date": "2026-07-20T04:58:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[wn-iqbal/wp2shell](https://github.com/wn-iqbal/wp2shell)",
+      "description": "unauthenticated RCE in WordPress core (CVE-2026-63030 + CVE-2026-60137)",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T07:11:52Z"
     },
     {
       "cve_id": "CVE-2026-62183",
@@ -192,9 +199,9 @@
       "raw_date": "2026-07-20T15:52:06Z"
     }
   ],
-  "generated_at": "2026-07-23T02:27:21.806338",
+  "generated_at": "2026-07-23T04:20:17.251451",
   "metadata": {
-    "total_cves": 27,
+    "total_cves": 28,
     "date_range": "2026-07-20",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "count": 16,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-56782",
@@ -101,6 +101,13 @@
       "raw_date": "2026-06-29T14:39:05Z"
     },
     {
+      "cve_id": "CVE-2026-22226",
+      "repo_info": "[LucasVanHaaren/CVE-2026-22226](https://github.com/LucasVanHaaren/CVE-2026-22226)",
+      "description": "Proof of Concept for the CVE-2026-22226",
+      "date": "2026-06-29",
+      "raw_date": "2026-06-29T09:39:38Z"
+    },
+    {
       "cve_id": "CVE-2026-20253",
       "repo_info": "[pssec-io/CVE-2026-20253](https://github.com/pssec-io/CVE-2026-20253)",
       "description": "POC for CVE-2026-20253",
@@ -115,9 +122,9 @@
       "raw_date": "2026-06-29T22:00:32Z"
     }
   ],
-  "generated_at": "2026-07-23T02:27:21.801719",
+  "generated_at": "2026-07-23T04:20:17.245493",
   "metadata": {
-    "total_cves": 16,
+    "total_cves": 17,
     "date_range": "2026-06-29",
     "source": "README.md",
     "script_version": "2.0"

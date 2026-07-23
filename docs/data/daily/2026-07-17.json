@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-9271",
@@ -122,6 +122,13 @@
       "raw_date": "2026-07-17T14:24:08Z"
     },
     {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)",
+      "description": "CVE-2026-38526 Exploit - by infrar3d",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T11:59:50Z"
+    },
+    {
       "cve_id": "CVE-2026-15583",
       "repo_info": "[codeb0ssx/CVE-2026-15583-PoC](https://github.com/codeb0ssx/CVE-2026-15583-PoC)",
       "description": "Academic proof-of-concept demonstrating CVE-2026-15583 for authorized security research.",
@@ -150,9 +157,9 @@
       "raw_date": "2026-07-17T08:01:38Z"
     }
   ],
-  "generated_at": "2026-07-23T02:27:21.805409",
+  "generated_at": "2026-07-23T04:20:17.250334",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-07-17",
     "source": "README.md",
     "script_version": "2.0"

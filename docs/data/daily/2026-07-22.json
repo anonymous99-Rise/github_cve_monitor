@@ -1,7 +1,70 @@
 {
   "date": "2026-07-22",
-  "count": 2,
+  "count": 18,
   "cves": [
+    {
+      "cve_id": "CVE-2026-64600",
+      "repo_info": "[0xBlackash/CVE-2026-64600](https://github.com/0xBlackash/CVE-2026-64600)",
+      "description": "CVE-2026-64600",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T20:55:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[raphy76/wp2shell-poc-fulljs](https://github.com/raphy76/wp2shell-poc-fulljs)",
+      "description": "full javascript reproduction of CVE-2026-63030 (author_exclude, author__not_in and misalignment between validations and matches)",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T13:22:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc](https://github.com/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc)",
+      "description": "CVE-2026-63030 &amp; CVE-2026-60137 Wp2shell Poc",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T16:21:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[Adrees-Basheer/wp2shell-vulnerability-scanner](https://github.com/Adrees-Basheer/wp2shell-vulnerability-scanner)",
+      "description": "Scan WordPress installations for wp2shell vulnerabilities (CVE-2026-63030 + CVE-2026-60137). Identifies full RCE and SQL injection risks across multiple sites with severity classification and CSV reporting.",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T12:25:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[mcipekci/wp2shell](https://github.com/mcipekci/wp2shell)",
+      "description": "Pre-auth RCE PoC for WordPress core — chains CVE-2026-63030 (REST /batch/v1 route-confusion desync) with CVE-2026-60137 (author__not_in SQLi) into an unauthenticated shell. Authorized testing only.",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T10:53:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-58138",
+      "repo_info": "[0xgh057r3c0n/CVE-2026-58138](https://github.com/0xgh057r3c0n/CVE-2026-58138)",
+      "description": "CVE-2026-58138 - Conductor (3.21.21..&lt;3.30.2) unauthenticated RCE via INLINE GraalVM evaluator",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T17:07:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-56139",
+      "repo_info": "[oscerd/CVE-2026-56139](https://github.com/oscerd/CVE-2026-56139)",
+      "description": "PoC reproducer for CVE-2026-56139 (Apache Camel camel-undertow Rest DSL): the Rest DSL binding hard-codes muteException=false, so a configured muteException=true is ignored and an uncaught exception&#x27;s full stack trace is returned to the client (CWE-209). Fixed in 4.14.8/4.18.3/4.21.0.",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T10:39:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-55994",
+      "repo_info": "[oscerd/CVE-2026-55994](https://github.com/oscerd/CVE-2026-55994)",
+      "description": "PoC reproducer for CVE-2026-55994 (Apache Camel camel-iggy): the consumer copies an Iggy message&#x27;s user-headers onto the Exchange unfiltered, so an injected CamelHttpUri drives a server-side request (SSRF) and leaks resolved property placeholders. Fixed in 4.18.3/4.21.0.",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T10:03:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-55993",
+      "repo_info": "[oscerd/CVE-2026-55993](https://github.com/oscerd/CVE-2026-55993)",
+      "description": "PoC reproducer for CVE-2026-55993 (Apache Camel camel-atmosphere-websocket): the WebSocket consumer copies connection query parameters onto the Exchange unfiltered, so an injected CamelHttpUri drives a server-side request (SSRF) and leaks resolved property placeholders. Fixed in 4.14.8/4.18.3/4.21.0.",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T09:13:11Z"
+    },
     {
       "cve_id": "CVE-2026-50522",
       "repo_info": "[HORKimhab/CVE-2026-50522](https://github.com/HORKimhab/CVE-2026-50522)",
@@ -10,16 +73,65 @@
       "raw_date": "2026-07-22T01:04:53Z"
     },
     {
+      "cve_id": "CVE-2026-50055",
+      "repo_info": "[HORKimhab/CVE-2026-50055](https://github.com/HORKimhab/CVE-2026-50055)",
+      "description": "CVE-2026-50055 - Draft",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T04:42:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-45729",
+      "repo_info": "[yeahhbean/CVE-2026-45729](https://github.com/yeahhbean/CVE-2026-45729)",
+      "description": "ThorVG NULL pointer dereference via malformed SVG — AFL++ fuzzing writeup",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T11:28:03Z"
+    },
+    {
       "cve_id": "CVE-2026-43499",
       "repo_info": "[gagaltotal/CVE-2026-43499-PoC-Scanner](https://github.com/gagaltotal/CVE-2026-43499-PoC-Scanner)",
       "description": "CVE-2026-43499 PoC Scanner",
       "date": "2026-07-22",
       "raw_date": "2026-07-22T03:34:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-42533",
+      "repo_info": "[seguridadentrerios/CVE-2026-42533](https://github.com/seguridadentrerios/CVE-2026-42533)",
+      "description": "Vulnerabilidad en NGINX",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T12:48:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-41089",
+      "repo_info": "[opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE](https://github.com/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE)",
+      "description": "Scan Windows Domain Controllers for CVE-2026-41089 to detect unauthenticated remote code execution vulnerabilities in the Netlogon service.",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T15:40:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-16540",
+      "repo_info": "[huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments](https://github.com/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments)",
+      "description": "CVE-2026-16540 — Simply Schedule Appointments &lt; 1.6.12.6 Unauthenticated Appointment Data Disclosure and Mass Deletion",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T15:15:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-16232",
+      "repo_info": "[WadesWeaponShed/Check-Point-Trusted-Access-Review](https://github.com/WadesWeaponShed/Check-Point-Trusted-Access-Review)",
+      "description": "Local web app for conducting a Check Point Trusted Access Review. This scanner is built specifically to look for configuration issues around CVE-2026-16232, CVE-2026-62144 , and CVE-2026-62145. This tool is not created or supported by Check Point and should be used at your own risk.",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T00:23:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-14266",
+      "repo_info": "[4minx/CVE-2026-14266](https://github.com/4minx/CVE-2026-14266)",
+      "description": "CVE-2026-14266 - XZ Heap Buffer Overflow PoC Generator for 7-Zip",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T14:32:34Z"
     }
   ],
-  "generated_at": "2026-07-23T02:27:21.806886",
+  "generated_at": "2026-07-23T04:20:17.252107",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 18,
     "date_range": "2026-07-22",
     "source": "README.md",
     "script_version": "2.0"
