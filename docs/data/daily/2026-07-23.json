@@ -1,13 +1,118 @@
 {
   "date": "2026-07-23",
-  "count": 5,
+  "count": 26,
   "cves": [
+    {
+      "cve_id": "CVE-2026-65971",
+      "repo_info": "[BiiTts/POC-CVE-2026-65971](https://github.com/BiiTts/POC-CVE-2026-65971)",
+      "description": "Proof-of-concept and technical write-up for CVE-2026-65971 — SQL injection via the sortDirection Livewire property in power-components/livewire-powergrid (&lt; 6.10.4)",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T21:47:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-64600",
+      "repo_info": "[HORKimhab/CVE-2026-64600](https://github.com/HORKimhab/CVE-2026-64600)",
+      "description": "CVE-2026-64600 - Draft - Check todo",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T09:29:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-63766",
+      "repo_info": "[0xdak/CVE-2026-63766_exploit](https://github.com/0xdak/CVE-2026-63766_exploit)",
+      "description": "no description",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T11:27:34Z"
+    },
     {
       "cve_id": "CVE-2026-63030",
       "repo_info": "[razureink/cve-2026-63030_60137-wordpress_rce_reproduction](https://github.com/razureink/cve-2026-63030_60137-wordpress_rce_reproduction)",
       "description": "CVE Reproduction: cve-2026-63030_60137-wordpress_rce_reproduction",
       "date": "2026-07-23",
       "raw_date": "2026-07-23T03:46:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-59880",
+      "repo_info": "[nvth/cve-2026-59880](https://github.com/nvth/cve-2026-59880)",
+      "description": "finding by nvth",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T18:43:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-59827",
+      "repo_info": "[pickl31/CVE-2026-59827](https://github.com/pickl31/CVE-2026-59827)",
+      "description": "Metabase CVE-2026-59827 Vulnerability Scanner",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T08:46:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-58057",
+      "repo_info": "[CerberusMrXi/Flowise-CVE-2026-58057-exploit](https://github.com/CerberusMrXi/Flowise-CVE-2026-58057-exploit)",
+      "description": "Flowise Windows RCE exploit for CVE-2026-58057. Bypasses environment variable validation via case-sensitive flaw. Uses node_options to inject arbitrary code through MCP stdio. Supports reverse shell, persistence, file upload, credential dumping. For authorized security testing only.",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T18:07:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-56121",
+      "repo_info": "[0xdak/CVE-2026-56121_exploit](https://github.com/0xdak/CVE-2026-56121_exploit)",
+      "description": "no description",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T09:49:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)",
+      "description": "Certighost POC",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T18:54:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-48546",
+      "repo_info": "[ghapvharmo/gha-lab-a5c1876997-1](https://github.com/ghapvharmo/gha-lab-a5c1876997-1)",
+      "description": "GitHub Actions workflow sandbox (CVE-2026-48546 reproduction)",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T18:06:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[yellowkey-exploit/YellowKey-Bitlocker](https://github.com/yellowkey-exploit/YellowKey-Bitlocker)",
+      "description": "YellowKey free tool for the CVE-2026-45585 BitLocker bypass vulnerability on Windows 10/11. Covered on Tom&#x27;s Hardware: extract recovery keys, apply remediation, test bypass mitigation and manage BitLocker encryption state. Download YellowKey",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T20:08:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-45132",
+      "repo_info": "[ghapvharmo/gha-lab-a815a82f03-1](https://github.com/ghapvharmo/gha-lab-a815a82f03-1)",
+      "description": "GitHub Actions workflow sandbox for CVE-2026-45132 reproduction",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T18:28:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[soralis0912/CVE-2026-43499-aristotle-apk](https://github.com/soralis0912/CVE-2026-43499-aristotle-apk)",
+      "description": "no description",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T07:47:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[soralis0912/CVE-2026-43499-aristotle](https://github.com/soralis0912/CVE-2026-43499-aristotle)",
+      "description": "no description",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T07:40:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Bailan766/rmx3888-cve-2026-43499-config](https://github.com/Bailan766/rmx3888-cve-2026-43499-config)",
+      "description": "CVE-2026-43499 exploit configuration for realme RMX3888 (Android 16) - 20 verified kernel offsets",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T10:23:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-42533",
+      "repo_info": "[gagaltotal/CVE-2026-42533-nginx](https://github.com/gagaltotal/CVE-2026-42533-nginx)",
+      "description": "CVE-2026-42533 Nginx",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T10:11:00Z"
     },
     {
       "cve_id": "CVE-2026-41940",
@@ -17,11 +122,39 @@
       "raw_date": "2026-07-23T03:46:28Z"
     },
     {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[dann3xplo1t/Cpanel](https://github.com/dann3xplo1t/Cpanel)",
+      "description": "CVE-2026-41940 &amp; CVE-2026-41948 — cPanel &amp; WHM Auth Bypass",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T15:42:12Z"
+    },
+    {
       "cve_id": "CVE-2026-34486",
       "repo_info": "[razureink/cve-2026-34486-tomcat_encrypt_bypass_reproduction](https://github.com/razureink/cve-2026-34486-tomcat_encrypt_bypass_reproduction)",
       "description": "CVE Reproduction: cve-2026-34486-tomcat_encrypt_bypass_reproduction",
       "date": "2026-07-23",
       "raw_date": "2026-07-23T03:46:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[Dynamo2k1/CVE-2026-33017](https://github.com/Dynamo2k1/CVE-2026-33017)",
+      "description": "no description",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T11:04:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-27641",
+      "repo_info": "[Max78000/CVE-2026-27641-Flask-Reuploaded](https://github.com/Max78000/CVE-2026-27641-Flask-Reuploaded)",
+      "description": "PoC and test server",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T08:48:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[nullRoot-Red/CVE-2026-23744](https://github.com/nullRoot-Red/CVE-2026-23744)",
+      "description": "Proof-of-concept and offensive security research analyzing CVE-2026-23744 (MCPJam Inspector Unauthenticated RCE, Patched in v1.4.3+).",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T21:31:22Z"
     },
     {
       "cve_id": "CVE-2026-21509",
@@ -31,16 +164,30 @@
       "raw_date": "2026-07-23T03:46:15Z"
     },
     {
+      "cve_id": "CVE-2026-13001",
+      "repo_info": "[ghostpels/CVE-2026-13001](https://github.com/ghostpels/CVE-2026-13001)",
+      "description": "no description",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T09:06:21Z"
+    },
+    {
       "cve_id": "CVE-2026-0770",
       "repo_info": "[razureink/cve-2026-0770-langflow_rce_reproduction](https://github.com/razureink/cve-2026-0770-langflow_rce_reproduction)",
       "description": "CVE Reproduction: cve-2026-0770-langflow_rce_reproduction",
       "date": "2026-07-23",
       "raw_date": "2026-07-23T03:46:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-0560",
+      "repo_info": "[Max78000/CVE-2026-0560-lollms](https://github.com/Max78000/CVE-2026-0560-lollms)",
+      "description": "Test server and PoC",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T09:47:02Z"
     }
   ],
-  "generated_at": "2026-07-24T02:24:37.584391",
+  "generated_at": "2026-07-24T04:20:18.102943",
   "metadata": {
-    "total_cves": 5,
+    "total_cves": 26,
     "date_range": "2026-07-23",
     "source": "README.md",
     "script_version": "2.0"

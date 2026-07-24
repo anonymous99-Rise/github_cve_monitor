@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-60206",
+      "repo_info": "[imbas007/POC-CVE-2026-60206](https://github.com/imbas007/POC-CVE-2026-60206)",
+      "description": "cve cve-2026-60206 weblogic saml exploit poc vulnerability oracle scanner security",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T02:30:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-60206",
+      "repo_info": "[0xBlackash/CVE-2026-60206](https://github.com/0xBlackash/CVE-2026-60206)",
+      "description": "CVE-2026-60206",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T01:22:21Z"
+    }
+  ],
+  "generated_at": "2026-07-24T04:20:18.103140",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-07-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

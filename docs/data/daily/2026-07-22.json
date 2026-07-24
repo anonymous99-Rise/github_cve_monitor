@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "count": 18,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2026-64600",
@@ -8,6 +8,13 @@
       "description": "CVE-2026-64600",
       "date": "2026-07-22",
       "raw_date": "2026-07-22T20:55:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-6330",
+      "repo_info": "[007bsd/ml-kem-key-recovery](https://github.com/007bsd/ml-kem-key-recovery)",
+      "description": "Full ML-KEM-1024 key recovery from a partial Fujisaki-Okamoto comparison in wolfSSL (CVE-2026-6330 NEON, CVE-2026-10097 AVX2)",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T17:03:53Z"
     },
     {
       "cve_id": "CVE-2026-63030",
@@ -80,6 +87,13 @@
       "raw_date": "2026-07-22T04:42:46Z"
     },
     {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[rjt-gupta/page-cache-corruption-lpes](https://github.com/rjt-gupta/page-cache-corruption-lpes)",
+      "description": "CVE-2026-46331 and CVE-2026-43503",
+      "date": "2026-07-22",
+      "raw_date": "2026-07-22T22:45:32Z"
+    },
+    {
       "cve_id": "CVE-2026-45729",
       "repo_info": "[yeahhbean/CVE-2026-45729](https://github.com/yeahhbean/CVE-2026-45729)",
       "description": "ThorVG NULL pointer dereference via malformed SVG — AFL++ fuzzing writeup",
@@ -129,9 +143,9 @@
       "raw_date": "2026-07-22T14:32:34Z"
     }
   ],
-  "generated_at": "2026-07-24T02:24:37.584137",
+  "generated_at": "2026-07-24T04:20:18.102761",
   "metadata": {
-    "total_cves": 18,
+    "total_cves": 20,
     "date_range": "2026-07-22",
     "source": "README.md",
     "script_version": "2.0"

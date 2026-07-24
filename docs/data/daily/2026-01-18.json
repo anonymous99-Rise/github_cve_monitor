@@ -1,0 +1,20 @@
+{
+  "date": "2026-01-18",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-41472",
+      "repo_info": "[whiteov3rflow/CyberPanel-Poc](https://github.com/whiteov3rflow/CyberPanel-Poc)",
+      "description": "CyberPanel v2.4.3 XSS Chain to RCE-CVE-2026-41472",
+      "date": "2026-01-18",
+      "raw_date": "2026-01-18T15:45:35Z"
+    }
+  ],
+  "generated_at": "2026-07-24T04:20:18.090478",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-01-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

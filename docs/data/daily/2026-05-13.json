@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-41729",
@@ -10,6 +10,13 @@
       "raw_date": "2026-05-13T14:15:13Z"
     },
     {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[kuniyal08/Copy-Fail-CVE-2026-31431-Lab](https://github.com/kuniyal08/Copy-Fail-CVE-2026-31431-Lab)",
+      "description": "Reproduced the fileless LPE CVE‑2026‑31431 (“Copy Fail”) on Kali Linux, then built auditd, Sigma &amp; YARA detections to catch this stealthy kernel exploit that leaves no disk footprint.",
+      "date": "2026-05-13",
+      "raw_date": "2026-05-13T11:36:00Z"
+    },
+    {
       "cve_id": "CVE-2026-0073",
       "repo_info": "[tc4dy/CVE-2026-0073-PoC-Exploit](https://github.com/tc4dy/CVE-2026-0073-PoC-Exploit)",
       "description": "🚀 CVE-2026-0073 - Android ADB Wireless Debugging Exploit (CVSS 8.8) 🔓 Zero-click authentication bypass via TLS type confusion. Gain interactive shell, execute commands, scan networks. Educational red-team tool. 🐚⚡",
@@ -17,9 +24,9 @@
       "raw_date": "2026-05-13T14:28:00Z"
     }
   ],
-  "generated_at": "2026-07-24T02:24:37.569876",
+  "generated_at": "2026-07-24T04:20:18.093962",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-05-13",
     "source": "README.md",
     "script_version": "2.0"

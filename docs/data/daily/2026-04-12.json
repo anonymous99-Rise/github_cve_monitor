@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-3805",
@@ -10,6 +10,13 @@
       "raw_date": "2026-04-12T11:12:16Z"
     },
     {
+      "cve_id": "CVE-2026-0009",
+      "repo_info": "[cduram/NotCVE-2026-0009](https://github.com/cduram/NotCVE-2026-0009)",
+      "description": "no description",
+      "date": "2026-04-12",
+      "raw_date": "2026-04-12T06:00:33Z"
+    },
+    {
       "cve_id": "CVE-2022-2650",
       "repo_info": "[HackinKraken/Security-Research-and-CVE](https://github.com/HackinKraken/Security-Research-and-CVE)",
       "description": "Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338",
@@ -17,9 +24,9 @@
       "raw_date": "2026-04-12T07:49:34Z"
     }
   ],
-  "generated_at": "2026-07-24T02:24:37.567599",
+  "generated_at": "2026-07-24T04:20:18.092651",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-04-12",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,0 +1,20 @@
+{
+  "date": "2026-03-25",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-33150",
+      "repo_info": "[abhinavagarwal07/abhinavagarwal07.github.io](https://github.com/abhinavagarwal07/abhinavagarwal07.github.io)",
+      "description": "RingWraith: CVE-2026-33150 and CVE-2026-33179 — Use-After-Free and NULL Dereference in libfuse io_uring",
+      "date": "2026-03-25",
+      "raw_date": "2026-03-25T05:48:59Z"
+    }
+  ],
+  "generated_at": "2026-07-24T04:20:18.091918",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-03-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
