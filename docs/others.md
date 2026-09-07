@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-06 05:42:38
+- **生成时间**: 2026-09-07 05:52:34
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -387,9 +387,13 @@
 | 🚫 未识别 | [ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b65](https://github.com/ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b65) | RegTech Regulatory Compliance &amp; Anti-Money Laundering Auditor enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-06T03:18:01Z|
 | 🚫 未识别 | [ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b65](https://github.com/ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b65) | Employee Engagement Pulse Survey &amp; ENPS Engine enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-06T03:14:10Z|
 | 🚫 未识别 | [BlackRainSentinel/cPanel-patch-radar](https://github.com/BlackRainSentinel/cPanel-patch-radar) | cPanel/WHM CVE auditor &amp; patcher — May 2026 batch, zero dependencies. | 2026-05-24T09:31:00Z|
+| 🚫 未识别 | [ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b67](https://github.com/ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b67) | RegTech Regulatory Compliance &amp; Anti-Money Laundering Auditor enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-07T03:17:07Z|
+| 🚫 未识别 | [ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b67](https://github.com/ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b67) | Employee Engagement Pulse Survey &amp; ENPS Engine enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-07T03:13:08Z|
+| 🚫 未识别 | [ErenSnowh/Argus](https://github.com/ErenSnowh/Argus) | Autonomous Network Attack Forecasting &amp; Multi-Agent SOC Co-Pilot powered by Temporal World Models, MITRE ATT&amp;CK, CAPEC, CVE/NVD, and Dual Statutory Reporting (CERT-In + NCIIPC). Built for SIH 2026 (PS: 26153). | 2026-06-23T15:30:33Z|
+| 🚫 未识别 | [ejajmahmud/supplychain-cve-vulnerability-remediator-bot-fastapi-supplychain-cve-remediator-bot-v2026-b66](https://github.com/ejajmahmud/supplychain-cve-vulnerability-remediator-bot-fastapi-supplychain-cve-remediator-bot-v2026-b66) | Automated Software Supply Chain CVE Vulnerability Remediator Bot enterprise system built with Python 3.12 / FastAPI &amp; LangChain Supply Chain CVE Remediator Bot (Source: Apache Software Foundation (apache.org/cve-remediation-bot/supplychain-security-core)) | 2026-09-06T17:12:35Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-06 05:43:02  
-**总记录数**: 376
+**报告生成时间**: 2026-09-07 05:53:00  
+**总记录数**: 380

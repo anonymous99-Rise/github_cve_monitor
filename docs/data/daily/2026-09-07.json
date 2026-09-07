@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-07",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-85046",
+      "repo_info": "[Eliot-code/CVE-2026-85046](https://github.com/Eliot-code/CVE-2026-85046)",
+      "description": "no description",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T04:59:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-52924",
+      "repo_info": "[Eliot-code/CVE-2026-52924](https://github.com/Eliot-code/CVE-2026-52924)",
+      "description": "no description",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T04:01:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-45131",
+      "repo_info": "[pvharmo2/gha-lab-5511dc3f73](https://github.com/pvharmo2/gha-lab-5511dc3f73)",
+      "description": "Authorized security-research lab reproducing CVE-2026-45131 (pwn request in .github/workflows/pull-request.yaml) — snapshot of CloudPirates-io/helm-charts @ 9f5a7186",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T03:41:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-42031",
+      "repo_info": "[ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner](https://github.com/ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner)",
+      "description": "CVE-2026-42031 SQL Injection Scanner for CKAN DataStore",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T05:08:05Z"
+    }
+  ],
+  "generated_at": "2026-09-07T05:53:01.282687",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-09-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "count": 1,
+  "count": 16,
   "cves": [
     {
       "cve_id": "CVE-2026-82222",
@@ -8,11 +8,116 @@
       "description": "no description",
       "date": "2026-09-06",
       "raw_date": "2026-09-06T04:49:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-67276",
+      "repo_info": "[dinosn/mikrotrick-poc](https://github.com/dinosn/mikrotrick-poc)",
+      "description": "CVE-2026-67276 RouterOS SSH public-key authentication bypass lab PoC",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T12:10:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-64849",
+      "repo_info": "[isaca0315/CVE-2026-64849-poc-lab](https://github.com/isaca0315/CVE-2026-64849-poc-lab)",
+      "description": "este laboratorio puede estar bien o mal preguntale a la IA estoy probando pero debe funcionar hahahah",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T00:25:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-6279",
+      "repo_info": "[katranSefa/CVE-2026-6279](https://github.com/katranSefa/CVE-2026-6279)",
+      "description": "no description",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T10:03:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-49777",
+      "repo_info": "[katranSefa/CVE-2026-49777](https://github.com/katranSefa/CVE-2026-49777)",
+      "description": "no description",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T11:31:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-44578",
+      "repo_info": "[isaca0315/CVE-2026-44578-next-js-ssrf](https://github.com/isaca0315/CVE-2026-44578-next-js-ssrf)",
+      "description": "este laboratorio puede estar bien o mal esta el pruebas pero debe funcionar preguntale a la IA hahah",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T15:54:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-44402",
+      "repo_info": "[0xCyp1337/CVE-2026-44402](https://github.com/0xCyp1337/CVE-2026-44402)",
+      "description": "no description",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T13:56:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-44246",
+      "repo_info": "[pvharmo2/gha-lab-733c168b88](https://github.com/pvharmo2/gha-lab-733c168b88)",
+      "description": "Authorized security-research lab reproducing CVE-2026-44246 (GHSA-63mx-j37w-gh59): prompt injection via verbatim issue title/body inlining into the claude-code-action triage agent in nnU-Net&#x27;s issue-triage workflow. Snapshot of MIC-DKFZ/nnUNet @ 9a1db0dd1c74894fa17e79014be4097f546a51be.",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T23:48:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[dorlow/hazel-cve-2026-43499](https://github.com/dorlow/hazel-cve-2026-43499)",
+      "description": "no description",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T07:04:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-42559",
+      "repo_info": "[joaovicdev/CVE-2026-42559](https://github.com/joaovicdev/CVE-2026-42559)",
+      "description": "Docker lab + Python PoC for CVE-2026-42559 - DNS rebinding via unvalidated Host header in the rmcp (Rust MCP SDK) Streamable HTTP server transport",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T22:33:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-42298",
+      "repo_info": "[pvharmo2/gha-lab-677752506e](https://github.com/pvharmo2/gha-lab-677752506e)",
+      "description": "Authorized security-research lab reproducing CVE-2026-42298 (pull_request_target docker-build RCE in pr-docker-build.yml) — flattened snapshot of gitroomhq/postiz-app",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T23:02:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-41414",
+      "repo_info": "[pvharmo2/gha-lab-456dd8a245](https://github.com/pvharmo2/gha-lab-456dd8a245)",
+      "description": "Security-research lab reproducing CVE-2026-41414 (pull_request_target pwn in .github/workflows/pr.yml) — snapshot of skim-rs/skim @ ca986f4, not a fork.",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T22:01:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-41249",
+      "repo_info": "[pvharmo2/gha-lab-5bce203f66](https://github.com/pvharmo2/gha-lab-5bce203f66)",
+      "description": "Security-research lab: reproduction of CVE-2026-41249 (GHSA-q58j-g3f4-h26h) — pull_request_target pwn request in .github/workflows/static.yml, snapshot of coreshop/CoreShop@cc1e3f54",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T21:14:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-39866",
+      "repo_info": "[pvharmo2/gha-lab-360f77d0d4](https://github.com/pvharmo2/gha-lab-360f77d0d4)",
+      "description": "Authorized security-research lab: reproduction of CVE-2026-39866 (GHSA-9prc-pp2c-3427) — workflow_dispatch input template injection in .github/workflows/release_update.yml of LawnchairLauncher/lawnchair @ b089bae8c007f36a8ce0346725182a107d97cd05. Snapshot pinned to the vulnerable commit; owner-gated sign-info step retargeted for the lab.",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T18:43:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-19949",
+      "repo_info": "[katranSefa/CVE-2026-19949](https://github.com/katranSefa/CVE-2026-19949)",
+      "description": "no description",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T12:57:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[ynsmroztas/KeySniper](https://github.com/ynsmroztas/KeySniper)",
+      "description": "**CVE-2026-18963** — unauthenticated Keycloak account takeover via the reset-credentials flow.",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T19:25:47Z"
     }
   ],
-  "generated_at": "2026-09-07T04:02:20.050828",
+  "generated_at": "2026-09-07T05:53:01.282528",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 16,
     "date_range": "2026-09-06",
     "source": "README.md",
     "script_version": "2.0"
