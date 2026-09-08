@@ -1,13 +1,41 @@
 {
   "date": "2026-09-07",
-  "count": 4,
+  "count": 17,
   "cves": [
+    {
+      "cve_id": "CVE-2026-86218",
+      "repo_info": "[HORKimhab/CVE-2026-86218](https://github.com/HORKimhab/CVE-2026-86218)",
+      "description": "CVE-2026-86218 - Draft or TODO - N-central is vulnerable to a pre-auth remote code execution",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T08:54:02Z"
+    },
     {
       "cve_id": "CVE-2026-85046",
       "repo_info": "[Eliot-code/CVE-2026-85046](https://github.com/Eliot-code/CVE-2026-85046)",
       "description": "no description",
       "date": "2026-09-07",
       "raw_date": "2026-09-07T04:59:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-82329",
+      "repo_info": "[0xTerror/CVE-2026-82329-JFrog-Artifactory-](https://github.com/0xTerror/CVE-2026-82329-JFrog-Artifactory-)",
+      "description": "CVE-2026-82329 — JFrog Artifactory Auth Bypass",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T12:55:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-81780",
+      "repo_info": "[0xTerror/CVE-2026-81780-Hash-Form](https://github.com/0xTerror/CVE-2026-81780-Hash-Form)",
+      "description": "CVE-2026-81780 — Hash Form RCE",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T13:07:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-67276",
+      "repo_info": "[BlackHatExploitation/exploit-mikrotik-2026](https://github.com/BlackHatExploitation/exploit-mikrotik-2026)",
+      "description": "CVE-2026-67276 MikroTik RouterOS SSH Authentication Bypass Exploit",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T06:56:34Z"
     },
     {
       "cve_id": "CVE-2026-52924",
@@ -17,6 +45,20 @@
       "raw_date": "2026-09-07T04:01:09Z"
     },
     {
+      "cve_id": "CVE-2026-47172",
+      "repo_info": "[pvharmo2/gha-lab-00d54c717d](https://github.com/pvharmo2/gha-lab-00d54c717d)",
+      "description": "Security-research lab: CVE-2026-47172 (workflow_run pwn request in deploy.yaml) — flattened snapshot of duck-organization/questbot at 1903b2f",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T12:07:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-45132",
+      "repo_info": "[pvharmo2/gha-lab-8aba6b05dc](https://github.com/pvharmo2/gha-lab-8aba6b05dc)",
+      "description": "Security-research lab reproducing CVE-2026-45132 (pwn request via pull_request_target chart-name injection in generate-schema.yaml) — snapshot of CloudPirates-io/helm-charts @ 9f5a7186",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T06:33:01Z"
+    },
+    {
       "cve_id": "CVE-2026-45131",
       "repo_info": "[pvharmo2/gha-lab-5511dc3f73](https://github.com/pvharmo2/gha-lab-5511dc3f73)",
       "description": "Authorized security-research lab reproducing CVE-2026-45131 (pwn request in .github/workflows/pull-request.yaml) — snapshot of CloudPirates-io/helm-charts @ 9f5a7186",
@@ -24,16 +66,65 @@
       "raw_date": "2026-09-07T03:41:07Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[abdgalaxy36-code/galaxy-a37-root](https://github.com/abdgalaxy36-code/galaxy-a37-root)",
+      "description": "CVE-2026-43499 exploit payload for Samsung Galaxy A37 (A376BXXS4AZG4, kernel 6.1.138-android14-11)",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T07:59:03Z"
+    },
+    {
       "cve_id": "CVE-2026-42031",
       "repo_info": "[ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner](https://github.com/ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner)",
       "description": "CVE-2026-42031 SQL Injection Scanner for CKAN DataStore",
       "date": "2026-09-07",
       "raw_date": "2026-09-07T05:08:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[stapat1245/CVE-2026-39987-PoC](https://github.com/stapat1245/CVE-2026-39987-PoC)",
+      "description": "CVE-2026-39987 Proof of Concept",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T20:09:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-36392",
+      "repo_info": "[moksh-nfsu/CVE-2026-36392](https://github.com/moksh-nfsu/CVE-2026-36392)",
+      "description": "no description",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T15:25:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-33234",
+      "repo_info": "[pavanchow/CVE-2026-33234](https://github.com/pavanchow/CVE-2026-33234)",
+      "description": "SSRF via smtplib raw TCP sockets bypassing HTTP blocklist in AutoGPT SendEmailBlock",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T11:27:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-28576",
+      "repo_info": "[mobilehackinglab/CVE-2026-28576-poc](https://github.com/mobilehackinglab/CVE-2026-28576-poc)",
+      "description": "SQL injection vulnerability in Android 17 (AOSP)",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T09:25:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-13181",
+      "repo_info": "[HORKimhab/CVE-2026-13181-CVE-2026-13182-CVE-2026-13183-CVE-2026-13184](https://github.com/HORKimhab/CVE-2026-13181-CVE-2026-13182-CVE-2026-13183-CVE-2026-13184)",
+      "description": "CVE-2026-13181, CVE-2026-13182, CVE-2026-13183, CVE-2026-13184",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T07:51:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-11991",
+      "repo_info": "[0x00phantom-hat/CVE-2026-11991-Exploit](https://github.com/0x00phantom-hat/CVE-2026-11991-Exploit)",
+      "description": "no description",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T15:48:10Z"
     }
   ],
-  "generated_at": "2026-09-08T04:04:06.469440",
+  "generated_at": "2026-09-08T05:45:54.033837",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 17,
     "date_range": "2026-09-07",
     "source": "README.md",
     "script_version": "2.0"

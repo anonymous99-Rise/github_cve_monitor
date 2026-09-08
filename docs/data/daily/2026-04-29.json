@@ -1,7 +1,56 @@
 {
   "date": "2026-04-29",
-  "count": 1,
+  "count": 8,
   "cves": [
+    {
+      "cve_id": "CVE-2026-77262",
+      "repo_info": "[romain-deperne/CVE-2026-77262](https://github.com/romain-deperne/CVE-2026-77262)",
+      "description": "Arbitrary file read in mcp-atlassian via confluence_upload_attachment — CVE-2026-77262 / GHSA-p6hp-93wp-fh6p",
+      "date": "2026-04-29",
+      "raw_date": "2026-04-29T21:37:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-34975",
+      "repo_info": "[romain-deperne/CVE-2026-34975](https://github.com/romain-deperne/CVE-2026-34975)",
+      "description": "CRLF email header injection in Plunk raw MIME construction — CVE-2026-34975 / CVSS 8.5",
+      "date": "2026-04-29",
+      "raw_date": "2026-04-29T21:16:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-34940",
+      "repo_info": "[romain-deperne/CVE-2026-34940](https://github.com/romain-deperne/CVE-2026-34940)",
+      "description": "OS command injection in KubeAI via an Ollama model URL — CVE-2026-34940 / CVSS 8.7",
+      "date": "2026-04-29",
+      "raw_date": "2026-04-29T21:16:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-34160",
+      "repo_info": "[romain-deperne/CVE-2026-34160](https://github.com/romain-deperne/CVE-2026-34160)",
+      "description": "Unauthenticated SSRF in the Chamilo LMS PENS plugin — CVE-2026-34160 / CVSS 8.6",
+      "date": "2026-04-29",
+      "raw_date": "2026-04-29T21:37:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-33980",
+      "repo_info": "[romain-deperne/CVE-2026-33980](https://github.com/romain-deperne/CVE-2026-33980)",
+      "description": "KQL injection in adx-mcp-server via table_name — CVE-2026-33980 / CVSS 8.3",
+      "date": "2026-04-29",
+      "raw_date": "2026-04-29T21:16:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-33715",
+      "repo_info": "[romain-deperne/CVE-2026-33715](https://github.com/romain-deperne/CVE-2026-33715)",
+      "description": "Unauthenticated SSRF and open email relay in Chamilo LMS — CVE-2026-33715 / CVSS 7.2",
+      "date": "2026-04-29",
+      "raw_date": "2026-04-29T21:37:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-32247",
+      "repo_info": "[romain-deperne/CVE-2026-32247](https://github.com/romain-deperne/CVE-2026-32247)",
+      "description": "Cypher injection in Graphiti via unsanitized node_labels — CVE-2026-32247 / CVSS 8.1",
+      "date": "2026-04-29",
+      "raw_date": "2026-04-29T21:16:35Z"
+    },
     {
       "cve_id": "CVE-2026-31431",
       "repo_info": "[tgies/copy-fail-c](https://github.com/tgies/copy-fail-c)",
@@ -10,9 +59,9 @@
       "raw_date": "2026-04-29T23:29:14Z"
     }
   ],
-  "generated_at": "2026-09-08T04:04:06.450355",
+  "generated_at": "2026-09-08T05:45:54.004750",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 8,
     "date_range": "2026-04-29",
     "source": "README.md",
     "script_version": "2.0"

@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-07 05:52:34
+- **生成时间**: 2026-09-08 05:45:28
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -391,9 +391,14 @@
 | 🚫 未识别 | [ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b67](https://github.com/ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b67) | Employee Engagement Pulse Survey &amp; ENPS Engine enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-07T03:13:08Z|
 | 🚫 未识别 | [ErenSnowh/Argus](https://github.com/ErenSnowh/Argus) | Autonomous Network Attack Forecasting &amp; Multi-Agent SOC Co-Pilot powered by Temporal World Models, MITRE ATT&amp;CK, CAPEC, CVE/NVD, and Dual Statutory Reporting (CERT-In + NCIIPC). Built for SIH 2026 (PS: 26153). | 2026-06-23T15:30:33Z|
 | 🚫 未识别 | [ejajmahmud/supplychain-cve-vulnerability-remediator-bot-fastapi-supplychain-cve-remediator-bot-v2026-b66](https://github.com/ejajmahmud/supplychain-cve-vulnerability-remediator-bot-fastapi-supplychain-cve-remediator-bot-v2026-b66) | Automated Software Supply Chain CVE Vulnerability Remediator Bot enterprise system built with Python 3.12 / FastAPI &amp; LangChain Supply Chain CVE Remediator Bot (Source: Apache Software Foundation (apache.org/cve-remediation-bot/supplychain-security-core)) | 2026-09-06T17:12:35Z|
+| 🚫 未识别 | [ejajmahmud/distributed-pubsub-websocket-bus-fastapi-cve-patch-bot-v2026-b68](https://github.com/ejajmahmud/distributed-pubsub-websocket-bus-fastapi-cve-patch-bot-v2026-b68) | Distributed Pub/Sub WebSocket Message Bus &amp; Presence Server enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-08T03:49:43Z|
+| 🚫 未识别 | [ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b68](https://github.com/ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b68) | RegTech Regulatory Compliance &amp; Anti-Money Laundering Auditor enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-08T03:15:43Z|
+| 🚫 未识别 | [ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b68](https://github.com/ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b68) | Employee Engagement Pulse Survey &amp; ENPS Engine enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-08T03:13:11Z|
+| 🚫 未识别 | [ejajmahmud/distributed-pubsub-websocket-bus-fastapi-cve-patch-bot-v2026-b67](https://github.com/ejajmahmud/distributed-pubsub-websocket-bus-fastapi-cve-patch-bot-v2026-b67) | Distributed Pub/Sub WebSocket Message Bus &amp; Presence Server enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-08T03:09:29Z|
+| 🚫 未识别 | [sentnelops/mcp-security-index](https://github.com/sentnelops/mcp-security-index) | MCP Security Index 2026: security posture of the 50 most widely used public MCP servers — per-call authorization, audit logging, caller auth, destructive capability, documented CVEs. Dataset CC BY 4.0. | 2026-09-07T13:45:04Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-07 05:53:00  
-**总记录数**: 380
+**报告生成时间**: 2026-09-08 05:45:52  
+**总记录数**: 385

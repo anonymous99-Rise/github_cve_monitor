@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "count": 16,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-82222",
@@ -15,6 +15,13 @@
       "description": "CVE-2026-67276 RouterOS SSH public-key authentication bypass lab PoC",
       "date": "2026-09-06",
       "raw_date": "2026-09-06T12:10:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-67276",
+      "repo_info": "[HORKimhab/CVE-2026-67276](https://github.com/HORKimhab/CVE-2026-67276)",
+      "description": "CVE-2026-67276 - Draft or TODO",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T11:52:37Z"
     },
     {
       "cve_id": "CVE-2026-64849",
@@ -115,9 +122,9 @@
       "raw_date": "2026-09-06T19:25:47Z"
     }
   ],
-  "generated_at": "2026-09-08T04:04:06.469271",
+  "generated_at": "2026-09-08T05:45:54.033555",
   "metadata": {
-    "total_cves": 16,
+    "total_cves": 17,
     "date_range": "2026-09-06",
     "source": "README.md",
     "script_version": "2.0"

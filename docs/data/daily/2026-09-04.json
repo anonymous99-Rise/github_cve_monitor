@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "count": 35,
+  "count": 36,
   "cves": [
     {
       "cve_id": "CVE-2026-85769",
@@ -92,6 +92,13 @@
       "description": "CVE-2026-61578, CVE-2026-61582, CVE-2026-61583, CVE-2026-61584, CVE-2026-61585, CVE-2026-61587, CVE-2026-61600, CVE-2026-61601, CVE-2026-61602, CVE-2026-70647, CVE-2026-70648 - Draft or TODO",
       "date": "2026-09-04",
       "raw_date": "2026-09-04T03:14:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ruik-tech/ghostlock-s25fe](https://github.com/ruik-tech/ghostlock-s25fe)",
+      "description": "GhostLock (CVE-2026-43499) for the Galaxy S25 FE (W.I.P)",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T21:40:03Z"
     },
     {
       "cve_id": "CVE-2026-40477",
@@ -248,9 +255,9 @@
       "raw_date": "2026-09-04T03:03:33Z"
     }
   ],
-  "generated_at": "2026-09-08T04:04:06.468590",
+  "generated_at": "2026-09-08T05:45:54.032747",
   "metadata": {
-    "total_cves": 35,
+    "total_cves": 36,
     "date_range": "2026-09-04",
     "source": "README.md",
     "script_version": "2.0"
