@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-09",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-83991",
+      "repo_info": "[karollooool/CVE-2026-83991-writeup-and-poc](https://github.com/karollooool/CVE-2026-83991-writeup-and-poc)",
+      "description": "CVE-2026-83991: Windows Cloud Files access-check bypass",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T01:44:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[TryA9ain/Certighost_CVE-2026-54121](https://github.com/TryA9ain/Certighost_CVE-2026-54121)",
+      "description": "AD CS 证书身份伪造漏洞，属于ESC（Exploit Certification）系列 的新成员",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T03:57:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-49881",
+      "repo_info": "[Supersonic/TLPE](https://github.com/Supersonic/TLPE)",
+      "description": "CVE-2026-49881, a logic issue in the InCallController class in Android 17&#x27;s Telecom service that allows an unprivileged app to gain arbitrary code execution as UID 1000 system_server",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T05:25:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-19089",
+      "repo_info": "[abraxas/CVE-2026-19089-WooCommerce-Tyche](https://github.com/abraxas/CVE-2026-19089-WooCommerce-Tyche)",
+      "description": "CVE-2026-19089 WooCommerce Tych Remote Command Execution",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T01:00:18Z"
+    }
+  ],
+  "generated_at": "2026-09-09T05:50:16.022054",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-09-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

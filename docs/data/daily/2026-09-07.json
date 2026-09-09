@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "count": 17,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2026-86218",
@@ -29,6 +29,27 @@
       "description": "CVE-2026-81780 — Hash Form RCE",
       "date": "2026-09-07",
       "raw_date": "2026-09-07T13:07:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-77276",
+      "repo_info": "[Morzan6/CVE-2026-77276-PoC](https://github.com/Morzan6/CVE-2026-77276-PoC)",
+      "description": "CVE-2026-77276 pre-auth macro RCE via convert-to on Collabora Online",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T16:28:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-75650",
+      "repo_info": "[jithinkrishnanrs/stylesmuggler-ioc-toolkit](https://github.com/jithinkrishnanrs/stylesmuggler-ioc-toolkit)",
+      "description": "StyleSmuggler (CVE-2026-75650) IOC toolkit for Magento Open Source and Adobe Commerce. Detect compromised stores, Rust implants, PHP web shells, persistence artifacts, and known indicators of compromise.",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T11:38:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-69451",
+      "repo_info": "[fj016/CVE-2026-69451-PoC](https://github.com/fj016/CVE-2026-69451-PoC)",
+      "description": "PoC for the CVE-2026-69451 - Fastprox EoP",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T20:18:07Z"
     },
     {
       "cve_id": "CVE-2026-67276",
@@ -122,9 +143,9 @@
       "raw_date": "2026-09-07T15:48:10Z"
     }
   ],
-  "generated_at": "2026-09-09T04:11:02.072884",
+  "generated_at": "2026-09-09T05:50:16.021492",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 20,
     "date_range": "2026-09-07",
     "source": "README.md",
     "script_version": "2.0"

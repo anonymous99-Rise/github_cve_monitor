@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "count": 27,
+  "count": 28,
   "cves": [
     {
       "cve_id": "CVE-2026-66374",
@@ -71,6 +71,13 @@
       "description": "Certighost POC",
       "date": "2026-07-23",
       "raw_date": "2026-07-23T18:54:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-49881",
+      "repo_info": "[LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)",
+      "description": "Android complete exploit chain that enables privilege escalation from a local untrusted app to root/kernel, combination of CVE-2026-49881 and CVE-2026-43284",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T07:01:34Z"
     },
     {
       "cve_id": "CVE-2026-48546",
@@ -192,9 +199,9 @@
       "raw_date": "2026-07-23T09:47:02Z"
     }
   ],
-  "generated_at": "2026-09-09T04:11:02.064792",
+  "generated_at": "2026-09-09T05:50:16.012004",
   "metadata": {
-    "total_cves": 27,
+    "total_cves": 28,
     "date_range": "2026-07-23",
     "source": "README.md",
     "script_version": "2.0"

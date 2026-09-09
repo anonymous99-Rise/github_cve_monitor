@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "count": 3,
+  "count": 4,
   "cves": [
     {
       "cve_id": "CVE-2026-64638",
@@ -17,6 +17,13 @@
       "raw_date": "2026-08-07T15:51:07Z"
     },
     {
+      "cve_id": "CVE-2026-54515",
+      "repo_info": "[xiaoqiMikko/jackson-check](https://github.com/xiaoqiMikko/jackson-check)",
+      "description": "jackson-databind 2026 年 11 条安全公告自查:扫源码注解降噪,告诉你真中几条;逐条求交集给出真正到位的版本(2.18.9/2.21.5/3.1.5,不是 advisory 上最常见的 2.21.4) CVE-2026-54515 / CVE-2026-54512",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T06:05:53Z"
+    },
+    {
       "cve_id": "CVE-2026-49844",
       "repo_info": "[xiaoqiMikko/log4j-check](https://github.com/xiaoqiMikko/log4j-check)",
       "description": "log4j 2025/2026 年 7 条「配置静默失效」CVE 自查:按 CVE×模块 判定 4 个模块,结构化解析 log4j2 配置做 applicability 降噪,并算出该升到哪个版本才一次到位(6 条写 2.25.4,但有一条要 2.25.5,而它 Dependabot 报不出来) CVE-2026-49844 / CVE-2026-34477",
@@ -24,9 +31,9 @@
       "raw_date": "2026-08-07T19:09:13Z"
     }
   ],
-  "generated_at": "2026-09-09T04:11:02.067130",
+  "generated_at": "2026-09-09T05:50:16.014957",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 4,
     "date_range": "2026-08-07",
     "source": "README.md",
     "script_version": "2.0"

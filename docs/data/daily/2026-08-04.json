@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-29000",
+      "repo_info": "[xiaoqiMikko/pac4j-check](https://github.com/xiaoqiMikko/pac4j-check)",
+      "description": "Offline scanner for CVE-2026-29000 (CVSS 10.0) in org.pac4j:pac4j-jwt. Inspects jars/fat-jars directly, so it works where mvn dependency:tree cannot. Single jar, zero dependencies, Java 8+.",
+      "date": "2026-08-04",
+      "raw_date": "2026-08-04T03:40:08Z"
+    }
+  ],
+  "generated_at": "2026-09-09T05:50:16.014610",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-08-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-06",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-49268",
+      "repo_info": "[xiaoqiMikko/shiro-check](https://github.com/xiaoqiMikko/shiro-check)",
+      "description": "扫出你实际装的 Apache Shiro 模块与版本,逐条判定官方 26 条 CVE 里哪些真的落在你身上。按「CVE × 模块」判定,零依赖单 jar。 CVE-2026-49268",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T16:50:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-41293",
+      "repo_info": "[xiaoqiMikko/tomcat-check](https://github.com/xiaoqiMikko/tomcat-check)",
+      "description": "查出 Spring Boot 内嵌 Tomcat 的真实版本(pom 里没有),并对每条 2026 年 CVE 同时给出 ASF 官方评级与 GitHub 评级、触发条件、以及这条会不会进 Dependabot 告警 CVE-2026-41293",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T05:48:01Z"
+    }
+  ],
+  "generated_at": "2026-09-09T05:50:16.014852",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-08-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,13 +1,202 @@
 {
   "date": "2026-09-08",
-  "count": 3,
+  "count": 38,
   "cves": [
+    {
+      "cve_id": "CVE-2026-8732",
+      "repo_info": "[fientix/CVE-2026-8732-PoC](https://github.com/fientix/CVE-2026-8732-PoC)",
+      "description": "CVE-2026-8732 - WP Maps Pro &lt;= 6.1.0 Unauth Admin Creation",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T08:28:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-85625",
+      "repo_info": "[lgranadoi/sift-hardened](https://github.com/lgranadoi/sift-hardened)",
+      "description": "Security-hardened fork of sift 17.1.3 for CVE-2026-85625. Not affiliated with crcn/sift.js.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T19:41:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-85046",
+      "repo_info": "[atiilla/CVE-2026-85046](https://github.com/atiilla/CVE-2026-85046)",
+      "description": "CVE-2026-85046 - Chrome V8 Type Confusion in Inline Array.prototype.sort (Maglev/Turbofan) - CVSS 8.8 - CWE-843 - Chrome &lt; 152.0.7977.82",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T19:18:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-85046",
+      "repo_info": "[SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm](https://github.com/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm)",
+      "description": "no description",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T18:54:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-84118",
+      "repo_info": "[SneakyNachos/CVE-2026-84118-who-labeled-the-crit-as-a-high](https://github.com/SneakyNachos/CVE-2026-84118-who-labeled-the-crit-as-a-high)",
+      "description": "no description",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:04:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-83548",
+      "repo_info": "[HORKimhab/CVE-2026-83548-CVE-2026-83549](https://github.com/HORKimhab/CVE-2026-83548-CVE-2026-83549)",
+      "description": "CVE-2026-83548, CVE-2026-83549, - Draft or TODO - https://github.com/rapid7/metasploit-framework/pull/21883",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T06:44:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-82222",
+      "repo_info": "[GhostlyrootB2H/CVE-2026-82222](https://github.com/GhostlyrootB2H/CVE-2026-82222)",
+      "description": "⚡ GHOSTLYR00T - CVE-2026-82222 GiveWP RCE Exploit Framework Unauthenticated RCE on GiveWP &lt;= 4.16.7.1. Mass scanning, auto-detection (form/gateway/amount), multi-threading, JSON/TXT output, interactive shell. CVSS 9.8 Critical. ⚠️ Authorized testing only.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T19:20:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-8069",
+      "repo_info": "[S1eezer/CVE-2026-8069](https://github.com/S1eezer/CVE-2026-8069)",
+      "description": "Technical write-up and PoC for CVE-2026-8069 in Acer NitroSense and PredatorSense",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T11:24:42Z"
+    },
     {
       "cve_id": "CVE-2026-75650",
       "repo_info": "[dinosn/cve-2026-75650-magento-validation-lab](https://github.com/dinosn/cve-2026-75650-magento-validation-lab)",
       "description": "Docker lab for validating the CVE-2026-75650 Magento component-level PHP execution primitive and Adobe VULN-39341 patch.",
       "date": "2026-09-08",
       "raw_date": "2026-09-08T05:39:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-75650",
+      "repo_info": "[disrex-group/stylesmuggler-adobe-patches](https://github.com/disrex-group/stylesmuggler-adobe-patches)",
+      "description": "composer require delivery of Adobe&#x27;s official APSB26-146 (CVE-2026-75650) fix for Magento, via cweagans/composer-patches. Auto-selects the patch for your Magento version.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T07:59:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-75650",
+      "repo_info": "[disrex-group/stylesmuggler-adobe-patches-mageos](https://github.com/disrex-group/stylesmuggler-adobe-patches-mageos)",
+      "description": "composer require delivery of Adobe&#x27;s official APSB26-146 (CVE-2026-75650) fix for Mage-OS stores, via cweagans/composer-patches. Companion to stylesmuggler-adobe-patches (Magento).",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T08:47:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-74239",
+      "repo_info": "[BomboBombone/CVE-2026-74239](https://github.com/BomboBombone/CVE-2026-74239)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-74239.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:36:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-73321",
+      "repo_info": "[BomboBombone/CVE-2026-73321](https://github.com/BomboBombone/CVE-2026-73321)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73321.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:36:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-73320",
+      "repo_info": "[BomboBombone/CVE-2026-73320](https://github.com/BomboBombone/CVE-2026-73320)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73320.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-73319",
+      "repo_info": "[BomboBombone/CVE-2026-73319](https://github.com/BomboBombone/CVE-2026-73319)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73319.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-73318",
+      "repo_info": "[BomboBombone/CVE-2026-73318](https://github.com/BomboBombone/CVE-2026-73318)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73318.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-73317",
+      "repo_info": "[BomboBombone/CVE-2026-73317](https://github.com/BomboBombone/CVE-2026-73317)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73317.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-73316",
+      "repo_info": "[BomboBombone/CVE-2026-73316](https://github.com/BomboBombone/CVE-2026-73316)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73316.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-73315",
+      "repo_info": "[BomboBombone/CVE-2026-73315](https://github.com/BomboBombone/CVE-2026-73315)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73315.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-73314",
+      "repo_info": "[BomboBombone/CVE-2026-73314](https://github.com/BomboBombone/CVE-2026-73314)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73314.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-73313",
+      "repo_info": "[BomboBombone/CVE-2026-73313](https://github.com/BomboBombone/CVE-2026-73313)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73313.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-73312",
+      "repo_info": "[BomboBombone/CVE-2026-73312](https://github.com/BomboBombone/CVE-2026-73312)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73312.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-73311",
+      "repo_info": "[BomboBombone/CVE-2026-73311](https://github.com/BomboBombone/CVE-2026-73311)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73311.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-73310",
+      "repo_info": "[BomboBombone/CVE-2026-73310](https://github.com/BomboBombone/CVE-2026-73310)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73310.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:35:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-73309",
+      "repo_info": "[BomboBombone/CVE-2026-73309](https://github.com/BomboBombone/CVE-2026-73309)",
+      "description": "Sanitized XenForo write-up and proof of concept for CVE-2026-73309.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:34:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-72744",
+      "repo_info": "[Saku0512/CVE-2026-72744-poc](https://github.com/Saku0512/CVE-2026-72744-poc)",
+      "description": "no description",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T12:06:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-59903",
+      "repo_info": "[xiaoqiMikko/netty-http-check](https://github.com/xiaoqiMikko/netty-http-check)",
+      "description": "CVE-2026-59903 / CVE-2026-33870: offline checker for the 14 io.netty:netty-codec-http CVEs. Netty ships all modules under one version number but each has its own fix version — 4.1.136.Final (the netty-codec-http2 answer) still leaves this module exposed; it needs 4.1.137.Final / 4.2.17.Final.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T14:17:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-57811",
+      "repo_info": "[0xCyp1337/CVE-2026-57811](https://github.com/0xCyp1337/CVE-2026-57811)",
+      "description": "no description",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T13:31:00Z"
     },
     {
       "cve_id": "CVE-2026-52307",
@@ -17,6 +206,62 @@
       "raw_date": "2026-09-08T03:38:53Z"
     },
     {
+      "cve_id": "CVE-2026-45033",
+      "repo_info": "[soemoescode/guardskill](https://github.com/soemoescode/guardskill)",
+      "description": "Read-only scanner for git settings that let a repository run code in coding agents (Claude Code, Codex, Cursor, Copilot). Covers the GitSpawn class and CVE-2026-45033. No dependencies, no network, no telemetry.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T16:30:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4](https://github.com/cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4)",
+      "description": "Validated GhostLock CVE-2026-43499 port for NVIDIA Shield TV Pro mdarcy 9.2.4",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T22:09:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-40369",
+      "repo_info": "[dbgbgtf1/cve-2026-40369-exploit](https://github.com/dbgbgtf1/cve-2026-40369-exploit)",
+      "description": "Exploit inspired by `https://voidsec.com/cve-2026-40369-browser-sandbox-escape/`. Use Feature_RestrictKernelAddressLeak and forge token to Elevate privileges",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T07:51:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[Th3Purge/CVE-2026-39987](https://github.com/Th3Purge/CVE-2026-39987)",
+      "description": "Marimo Pre Authentication RCE",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T19:44:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-30225",
+      "repo_info": "[hackerking24/CVE-2026-30225-OliveTin-RCE](https://github.com/hackerking24/CVE-2026-30225-OliveTin-RCE)",
+      "description": "no description",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T19:49:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-29782",
+      "repo_info": "[hackerking24/CVE-2026-29782-OpenSTAManager-RCE](https://github.com/hackerking24/CVE-2026-29782-OpenSTAManager-RCE)",
+      "description": "no description",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T18:41:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-2931",
+      "repo_info": "[htrxuan/hdwebmobile-booking-appointments](https://github.com/htrxuan/hdwebmobile-booking-appointments)",
+      "description": "Sell bookable services and appointments through WooCommerce -- closes CVE-2026-2931 by construction.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T06:43:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-19949",
+      "repo_info": "[686f6c61/POC-AIOWPM-CVE-2026-19949](https://github.com/686f6c61/POC-AIOWPM-CVE-2026-19949)",
+      "description": "PoC funcional de CVE-2026-19949 (AIOWPM): SQLi de segundo orden no autenticada en All-in-One WP Migration &lt;= 7.109 via regex de replace_table_values. Laboratorio Docker + payload derivado (leak de ai1wm_secret_key por REST anonima) + RCE con importacion anonima.",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T09:25:28Z"
+    },
+    {
       "cve_id": "CVE-2026-10795",
       "repo_info": "[HORKimhab/CVE-2026-10795](https://github.com/HORKimhab/CVE-2026-10795)",
       "description": "CVE-2026-10795 - Draft or TODO",
@@ -24,9 +269,9 @@
       "raw_date": "2026-09-08T03:10:23Z"
     }
   ],
-  "generated_at": "2026-09-09T04:11:02.073068",
+  "generated_at": "2026-09-09T05:50:16.021728",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 38,
     "date_range": "2026-09-08",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "count": 3,
+  "count": 5,
   "cves": [
     {
       "cve_id": "CVE-2026-9198",
@@ -22,11 +22,25 @@
       "description": "CVE-2026-63030 &amp; CVE-2026-60137 RCE chain proof-of-concept",
       "date": "2026-08-05",
       "raw_date": "2026-08-05T12:48:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-58062",
+      "repo_info": "[xiaoqiMikko/bc-check](https://github.com/xiaoqiMikko/bc-check)",
+      "description": "Offline scanner telling you which of the 2026 Bouncy Castle CVEs actually apply to you - across BC, BC-LTS and BC-FJA (FIPS), which do not share a version scheme. CVE-2026-58062 / CVE-2026-8763 / CVE-2026-59650 / CVE-2026-59638",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T14:02:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-40982",
+      "repo_info": "[xiaoqiMikko/scc-check](https://github.com/xiaoqiMikko/scc-check)",
+      "description": "Offline checker for Spring Cloud Config CVE-2026-40982 — tells you whether your version line has an OSS fix at all (3.1.x/4.1.x/4.2.x: it does not)",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T17:39:23Z"
     }
   ],
-  "generated_at": "2026-09-09T04:11:02.067037",
+  "generated_at": "2026-09-09T05:50:16.014723",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 5,
     "date_range": "2026-08-05",
     "source": "README.md",
     "script_version": "2.0"
