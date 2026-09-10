@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "count": 4,
+  "count": 15,
   "cves": [
     {
       "cve_id": "CVE-2026-83991",
@@ -8,6 +8,69 @@
       "description": "CVE-2026-83991: Windows Cloud Files access-check bypass",
       "date": "2026-09-09",
       "raw_date": "2026-09-09T01:44:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-79387",
+      "repo_info": "[jhli07/CVE-2026-79387-PbootCMS-SQL-Injection](https://github.com/jhli07/CVE-2026-79387-PbootCMS-SQL-Injection)",
+      "description": "CVE-2026-79387-PbootCMS-SQL-Injection",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T13:45:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-77578",
+      "repo_info": "[Soskalai/CVE-2026-77578](https://github.com/Soskalai/CVE-2026-77578)",
+      "description": "PoC for CVE-2026-77578 - Authenticated Arbitrary Local File Read in Xibo CMS",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T23:18:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-76578",
+      "repo_info": "[BrainBob/CVE-2026-76578](https://github.com/BrainBob/CVE-2026-76578)",
+      "description": "no description",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T20:08:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-74586",
+      "repo_info": "[TarPeg007/CVE-2026-74586](https://github.com/TarPeg007/CVE-2026-74586)",
+      "description": "no description",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T13:28:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-67401",
+      "repo_info": "[axedos/CVE-2026-67401](https://github.com/axedos/CVE-2026-67401)",
+      "description": "poc in python for CVE-2026-67401",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T10:14:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-67401",
+      "repo_info": "[jithinkrishnanrs/CVE-2026-67401-cPanel-EmailTrack-SQLi](https://github.com/jithinkrishnanrs/CVE-2026-67401-cPanel-EmailTrack-SQLi)",
+      "description": "CVE-2026-67401 cPanel &amp; WHM EmailTrack SQL Injection — IOC scanner, compromise detection, patch verification, incident response and remediation toolkit.",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T10:22:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-67401",
+      "repo_info": "[HORKimhab/CVE-2026-67401](https://github.com/HORKimhab/CVE-2026-67401)",
+      "description": "CVE-2026-67401 - Draft or TODO",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T08:41:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-67276",
+      "repo_info": "[4rt-Net/Mikrotrick_POC](https://github.com/4rt-Net/Mikrotrick_POC)",
+      "description": "Testing tool for the Mikrotrick exploit (CVE-2026-67276)",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T12:22:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-62201",
+      "repo_info": "[diedromeo/CVE-2026-62201-OpenClaw-SSRF](https://github.com/diedromeo/CVE-2026-62201-OpenClaw-SSRF)",
+      "description": "Deep-dive analysis of CVE-2026-62201: OpenClaw sandbox exec-server network policy bypass (SSRF). Root cause, vulnerable vs patched code, exploitation, detection, remediation.",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T07:07:37Z"
     },
     {
       "cve_id": "CVE-2026-54121",
@@ -24,16 +87,30 @@
       "raw_date": "2026-09-09T05:25:54Z"
     },
     {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[Xrzmodz444/cve-2026-41940-PoC-Linux](https://github.com/Xrzmodz444/cve-2026-41940-PoC-Linux)",
+      "description": "CVE-2026-41940 PoC - Linux/Termux Compatible Version",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T17:37:23Z"
+    },
+    {
       "cve_id": "CVE-2026-19089",
       "repo_info": "[abraxas/CVE-2026-19089-WooCommerce-Tyche](https://github.com/abraxas/CVE-2026-19089-WooCommerce-Tyche)",
       "description": "CVE-2026-19089 WooCommerce Tych Remote Command Execution",
       "date": "2026-09-09",
       "raw_date": "2026-09-09T01:00:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-11387",
+      "repo_info": "[abraxas/CVE-2026-11387-WooCommerce-SMS-OTP](https://github.com/abraxas/CVE-2026-11387-WooCommerce-SMS-OTP)",
+      "description": "SMS &amp; OTP for WooCommerce, Order Notifications &amp; Abandoned Cart Recovery plugin for WordPress; SMS Alert &lt;3.9.6; Unauthenticated Privilege Escalation (Forced Password Reset)",
+      "date": "2026-09-09",
+      "raw_date": "2026-09-09T17:06:12Z"
     }
   ],
-  "generated_at": "2026-09-10T04:08:38.855407",
+  "generated_at": "2026-09-10T05:44:45.464303",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 15,
     "date_range": "2026-09-09",
     "source": "README.md",
     "script_version": "2.0"

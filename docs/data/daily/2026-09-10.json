@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-72815",
+      "repo_info": "[Saku0512/CVE-2026-72815-poc](https://github.com/Saku0512/CVE-2026-72815-poc)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T01:46:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[zenyxx-xd/RootMyVivo-Exploit](https://github.com/zenyxx-xd/RootMyVivo-Exploit)",
+      "description": "GhostLock (CVE-2026-43499) exploit fork for RootMyVivo Neo — iQOO Neo 11 (PD2520, SM8750, 6.6.89). For authorized research on own devices only.",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T02:15:06Z"
+    }
+  ],
+  "generated_at": "2026-09-10T05:44:45.464497",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-09-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "count": 30,
+  "count": 31,
   "cves": [
     {
       "cve_id": "CVE-2026-9586",
@@ -157,6 +157,13 @@
       "raw_date": "2026-09-02T06:13:02Z"
     },
     {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[TeamN4C/SG-2026-0024](https://github.com/TeamN4C/SG-2026-0024)",
+      "description": "CVE-2026-43284 and CVE-2026-43500 Dirty Frag PoC and exploit",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T21:38:02Z"
+    },
+    {
       "cve_id": "CVE-2026-38577",
       "repo_info": "[poxsky/CVE-2026-38577-by-deepak-Anmol](https://github.com/poxsky/CVE-2026-38577-by-deepak-Anmol)",
       "description": "CVE-2026-38577",
@@ -213,9 +220,9 @@
       "raw_date": "2026-09-02T20:46:12Z"
     }
   ],
-  "generated_at": "2026-09-10T04:08:38.852908",
+  "generated_at": "2026-09-10T05:44:45.462291",
   "metadata": {
-    "total_cves": 30,
+    "total_cves": 31,
     "date_range": "2026-09-02",
     "source": "README.md",
     "script_version": "2.0"

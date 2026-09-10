@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-09",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-79617",
+      "repo_info": "[alpernae/CVE-2026-79617](https://github.com/alpernae/CVE-2026-79617)",
+      "description": "Proof-of-concept demonstrating cross-user X11 session compromise in Pardus LightDM Greeter caused by the unsafe `xhost +local:` configuration, including unauthorized shell access, display access, screen capture, window enumeration, and XTEST input injection.",
+      "date": "2026-06-09",
+      "raw_date": "2026-06-09T13:39:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-79303",
+      "repo_info": "[4ybrick/CVE-2026-79303](https://github.com/4ybrick/CVE-2026-79303)",
+      "description": "kaiten cve",
+      "date": "2026-06-09",
+      "raw_date": "2026-06-09T13:19:09Z"
+    }
+  ],
+  "generated_at": "2026-09-10T05:44:45.444310",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-06-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

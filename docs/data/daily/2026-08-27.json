@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-8467",
@@ -101,6 +101,13 @@
       "raw_date": "2026-08-27T06:41:17Z"
     },
     {
+      "cve_id": "CVE-2026-34159",
+      "repo_info": "[TeamN4C/SG-2026-0021](https://github.com/TeamN4C/SG-2026-0021)",
+      "description": "CVE-2026-34159 PoC and exploit",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T02:53:08Z"
+    },
+    {
       "cve_id": "CVE-2026-32475",
       "repo_info": "[sahmsec/CVE-2026-32475](https://github.com/sahmsec/CVE-2026-32475)",
       "description": "no description",
@@ -150,9 +157,9 @@
       "raw_date": "2026-08-27T03:27:45Z"
     }
   ],
-  "generated_at": "2026-09-10T04:08:38.851255",
+  "generated_at": "2026-09-10T05:44:45.461018",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-08-27",
     "source": "README.md",
     "script_version": "2.0"

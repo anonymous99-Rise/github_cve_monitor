@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-09 05:49:46
+- **生成时间**: 2026-09-10 05:44:17
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -396,9 +396,10 @@
 | 🚫 未识别 | [ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b68](https://github.com/ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b68) | Employee Engagement Pulse Survey &amp; ENPS Engine enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-08T03:13:11Z|
 | 🚫 未识别 | [ejajmahmud/distributed-pubsub-websocket-bus-fastapi-cve-patch-bot-v2026-b67](https://github.com/ejajmahmud/distributed-pubsub-websocket-bus-fastapi-cve-patch-bot-v2026-b67) | Distributed Pub/Sub WebSocket Message Bus &amp; Presence Server enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-08T03:09:29Z|
 | 🚫 未识别 | [sentnelops/mcp-security-index](https://github.com/sentnelops/mcp-security-index) | MCP Security Index 2026: security posture of the 50 most widely used public MCP servers — per-call authorization, audit logging, caller auth, destructive capability, documented CVEs. Dataset CC BY 4.0. | 2026-09-07T13:45:04Z|
+| 🚫 未识别 | [Aizhouym/PatchHolmes](https://github.com/Aizhouym/PatchHolmes) | CVE→fix-commit tracing via hybrid retrieval and an agentic loop. AACL-IJCNLP 2026 (Main). | 2026-05-24T07:31:10Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-09 05:50:15  
-**总记录数**: 385
+**报告生成时间**: 2026-09-10 05:44:44  
+**总记录数**: 386

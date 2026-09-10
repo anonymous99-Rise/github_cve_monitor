@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "count": 38,
+  "count": 39,
   "cves": [
     {
       "cve_id": "CVE-2026-8732",
@@ -255,6 +255,13 @@
       "raw_date": "2026-09-08T06:43:33Z"
     },
     {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[skyejacobson/CyberhawksLab-telnetCVE](https://github.com/skyejacobson/CyberhawksLab-telnetCVE)",
+      "description": "Writeup/finding of CVE-2026-24061 within the Cyberhawks lab",
+      "date": "2026-09-08",
+      "raw_date": "2026-09-08T20:28:10Z"
+    },
+    {
       "cve_id": "CVE-2026-19949",
       "repo_info": "[686f6c61/POC-AIOWPM-CVE-2026-19949](https://github.com/686f6c61/POC-AIOWPM-CVE-2026-19949)",
       "description": "PoC funcional de CVE-2026-19949 (AIOWPM): SQLi de segundo orden no autenticada en All-in-One WP Migration &lt;= 7.109 via regex de replace_table_values. Laboratorio Docker + payload derivado (leak de ai1wm_secret_key por REST anonima) + RCE con importacion anonima.",
@@ -269,9 +276,9 @@
       "raw_date": "2026-09-08T03:10:23Z"
     }
   ],
-  "generated_at": "2026-09-10T04:08:38.854971",
+  "generated_at": "2026-09-10T05:44:45.463952",
   "metadata": {
-    "total_cves": 38,
+    "total_cves": 39,
     "date_range": "2026-09-08",
     "source": "README.md",
     "script_version": "2.0"
