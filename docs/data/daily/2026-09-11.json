@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-11",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-81861",
+      "repo_info": "[abhinavagarwal07/scadapack-secure-lock-poc](https://github.com/abhinavagarwal07/scadapack-secure-lock-poc)",
+      "description": "Sanitized offline fixture verifier for CVE-2026-81861 in SCADAPack Secure Lock",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T02:22:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-18351",
+      "repo_info": "[JohenLastGen-JLG/CVE-2026-18351](https://github.com/JohenLastGen-JLG/CVE-2026-18351)",
+      "description": "CVE-2026-18351 — Drag and Drop File Upload for Elementor Forms &lt;= 1.6.0 Unauthenticated Arbitrary File Upload -&gt; RCE",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T03:53:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-18351",
+      "repo_info": "[ChiefYoru/Exploit-CVE-2026-18351](https://github.com/ChiefYoru/Exploit-CVE-2026-18351)",
+      "description": "Drag and Drop File Upload for Elementor Forms - Unauthenticated Arbitrary File Upload to RCE.🔥",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T03:28:20Z"
+    }
+  ],
+  "generated_at": "2026-09-11T05:44:33.400938",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-09-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

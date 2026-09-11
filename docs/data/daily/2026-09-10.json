@@ -1,7 +1,56 @@
 {
   "date": "2026-09-10",
-  "count": 2,
+  "count": 24,
   "cves": [
+    {
+      "cve_id": "CVE-2026-87491",
+      "repo_info": "[SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter](https://github.com/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T21:47:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-87009",
+      "repo_info": "[squeeze440/inference-gateway-PoC](https://github.com/squeeze440/inference-gateway-PoC)",
+      "description": "PoC — cross-origin requests reuse the configured provider API key in inference-gateway (GHSA-5293-fcm6-fh8v, CVE-2026-87009, CVSS 5.4).",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:56:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-86060",
+      "repo_info": "[bahirul/cve-2026-86060](https://github.com/bahirul/cve-2026-86060)",
+      "description": "Mikrotik CVE-2026-86060 Score 9.2 Critical",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T03:19:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-83991",
+      "repo_info": "[ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC](https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T16:08:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-78804",
+      "repo_info": "[repo4Chu/CVE-2026-78804_Dolibarr_authenticated_SQL_injection](https://github.com/repo4Chu/CVE-2026-78804_Dolibarr_authenticated_SQL_injection)",
+      "description": "The action responsible for setting the per-warehouse stock alert threshold (`seuil_stock_alerte`) accepts user-controlled input and later incorporates it into an SQL query without proper numeric casting or parameter binding. #dolibarr #exploit",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T13:55:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-73786",
+      "repo_info": "[promasu/CVE-2026-73786](https://github.com/promasu/CVE-2026-73786)",
+      "description": "Might be used to share PoC and findings regarding CVE-2026-73786 in the future",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T10:10:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-73570",
+      "repo_info": "[hainhc/CVE-2026-73570](https://github.com/hainhc/CVE-2026-73570)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:16:02Z"
+    },
     {
       "cve_id": "CVE-2026-72815",
       "repo_info": "[Saku0512/CVE-2026-72815-poc](https://github.com/Saku0512/CVE-2026-72815-poc)",
@@ -10,16 +59,121 @@
       "raw_date": "2026-09-10T01:46:21Z"
     },
     {
+      "cve_id": "CVE-2026-66066",
+      "repo_info": "[ivanesk315/CVE-2026-66066](https://github.com/ivanesk315/CVE-2026-66066)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:17:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-63642",
+      "repo_info": "[hakaioffsec/CVE-2026-63642](https://github.com/hakaioffsec/CVE-2026-63642)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T18:19:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[ivanesk315/CVE-2026-60137-and-CVE-2026-63030](https://github.com/ivanesk315/CVE-2026-60137-and-CVE-2026-63030)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:17:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-53519",
+      "repo_info": "[ivanesk315/CVE-2026-53519](https://github.com/ivanesk315/CVE-2026-53519)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:17:11Z"
+    },
+    {
       "cve_id": "CVE-2026-43499",
       "repo_info": "[zenyxx-xd/RootMyVivo-Exploit](https://github.com/zenyxx-xd/RootMyVivo-Exploit)",
       "description": "GhostLock (CVE-2026-43499) exploit fork for RootMyVivo Neo — iQOO Neo 11 (PD2520, SM8750, 6.6.89). For authorized research on own devices only.",
       "date": "2026-09-10",
       "raw_date": "2026-09-10T02:15:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-42613",
+      "repo_info": "[ivanesk315/CVE-2026-42613](https://github.com/ivanesk315/CVE-2026-42613)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:16:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-42533",
+      "repo_info": "[ivanesk315/CVE-2026-42533](https://github.com/ivanesk315/CVE-2026-42533)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:14:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-41089",
+      "repo_info": "[ZeroDayVPN/CVE-2026-41089-Netlogon](https://github.com/ZeroDayVPN/CVE-2026-41089-Netlogon)",
+      "description": "🛡️ Official AI Security Tool diagnostic module for CVE-2026-41089 (Windows Netlogon Stack Buffer Overflow RCE). Features technical writeup, attack architecture, IoCs, and mitigation strategy.",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T21:39:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-28496",
+      "repo_info": "[ivanesk315/CVE-2026-28496](https://github.com/ivanesk315/CVE-2026-28496)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:18:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-20805",
+      "repo_info": "[ZeroDayEvil/CVE-2026-20805-PoC](https://github.com/ZeroDayEvil/CVE-2026-20805-PoC)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T11:28:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-20253",
+      "repo_info": "[ivanesk315/CVE-2026-20253](https://github.com/ivanesk315/CVE-2026-20253)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:14:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-19490",
+      "repo_info": "[BishopFox/CVE-2026-19490-check](https://github.com/BishopFox/CVE-2026-19490-check)",
+      "description": "Safely detect Citrix NetScaler SAML auth bypass CVE-2026-19490",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T15:13:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[ivanesk315/CVE-2026-18963](https://github.com/ivanesk315/CVE-2026-18963)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:14:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-13181",
+      "repo_info": "[ivanesk315/CVE-2026-13181-Telerik](https://github.com/ivanesk315/CVE-2026-13181-Telerik)",
+      "description": "no description",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T07:18:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-0303",
+      "repo_info": "[YonLiud/CVE-2026-0303](https://github.com/YonLiud/CVE-2026-0303)",
+      "description": "Checkov PoC: arbitrary code execution through auto-loaded configuration and unsigned external Python checks.",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T12:53:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-37890",
+      "repo_info": "[RazdoruNET/OMG_KILLER](https://github.com/RazdoruNET/OMG_KILLER)",
+      "description": "Автоатакующий скрипт на базе эксплойтов CVE-2024-37890 и OOM 2026",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T17:43:25Z"
     }
   ],
-  "generated_at": "2026-09-11T04:06:48.825463",
+  "generated_at": "2026-09-11T05:44:33.400720",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 24,
     "date_range": "2026-09-10",
     "source": "README.md",
     "script_version": "2.0"

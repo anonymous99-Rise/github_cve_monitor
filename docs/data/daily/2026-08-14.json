@@ -1,7 +1,14 @@
 {
   "date": "2026-08-14",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[hmascs/KSuRoot](https://github.com/hmascs/KSuRoot)",
+      "description": "KSuRoot 3.0 — 基于 CVE-2026-43499(GhostLock) 的一键 KernelSU 提权工具。新增「载荷构建」：用本机 boot.img 解析内核偏移并打出适配本机的载荷（通用方案 / vivo 专用）；内核 6.6+ 免 ADB；内置载荷固定上游 v1.0.0。Mod by hmascs",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T10:51:50Z"
+    },
     {
       "cve_id": "CVE-2026-2035703",
       "repo_info": "[danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-08-14T03:03:26Z"
     }
   ],
-  "generated_at": "2026-09-11T04:06:48.816972",
+  "generated_at": "2026-09-11T05:44:33.394044",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-08-14",
     "source": "README.md",
     "script_version": "2.0"

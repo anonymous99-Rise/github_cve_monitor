@@ -1,7 +1,84 @@
 {
   "date": "2026-09-03",
-  "count": 19,
+  "count": 30,
   "cves": [
+    {
+      "cve_id": "CVE-2026-87008",
+      "repo_info": "[squeeze440/code-graph-rag-PoC](https://github.com/squeeze440/code-graph-rag-PoC)",
+      "description": "PoC — symlink following to arbitrary file read/write outside project root in code-graph-rag (GHSA-85gg-2gfq-q95m, CVE-2026-87008, CVSS 7.1).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:47:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-87007",
+      "repo_info": "[squeeze440/crw-PoC](https://github.com/squeeze440/crw-PoC)",
+      "description": "PoC — SSRF via JS-rendering tier bypass of the URL safety filter in crw (GHSA-5jp3-339h-vxqw, CVE-2026-87007, CVSS 7.5).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:46:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-87006",
+      "repo_info": "[squeeze440/terrapod-PoC](https://github.com/squeeze440/terrapod-PoC)",
+      "description": "PoC — missing authorization on the platform-wide GPG trust-anchor store in Terrapod (GHSA-6qrc-597p-mrp9, CVE-2026-87006, CVSS 6.5).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:47:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-87005",
+      "repo_info": "[squeeze440/linux-entra-sso-PoC](https://github.com/squeeze440/linux-entra-sso-PoC)",
+      "description": "PoC — origin validation error enabling Entra ID PRT SSO cookie exfiltration in linux-entra-sso (GHSA-g9vc-5j77-f2cm, CVE-2026-87005, CVSS 5.3).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:46:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-87004",
+      "repo_info": "[squeeze440/tugtainer-PoC](https://github.com/squeeze440/tugtainer-PoC)",
+      "description": "PoC — OIDC id_token accepted without signature/audience/expiry check in Tugtainer (GHSA-crjc-6vc7-xrfh, CVE-2026-87004, CVSS 8.1).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:47:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-87003",
+      "repo_info": "[squeeze440/gortex-PoC](https://github.com/squeeze440/gortex-PoC)",
+      "description": "PoC — symlink following to out-of-repo content disclosure via search_text in Gortex (GHSA-6vhf-4wcm-2r83, CVE-2026-87003, CVSS 5.5).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:46:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-87002",
+      "repo_info": "[squeeze440/obsidian-note-toolbar-PoC](https://github.com/squeeze440/obsidian-note-toolbar-PoC)",
+      "description": "PoC — frontmatter-driven arbitrary JavaScript execution in Note Toolbar for Obsidian (GHSA-q8cw-3m8c-5pf2, CVE-2026-87002, CVSS 7.0).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:47:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-87001",
+      "repo_info": "[squeeze440/openlore-PoC](https://github.com/squeeze440/openlore-PoC)",
+      "description": "PoC — path traversal via unsanitized LLM-derived domain field in OpenLore (GHSA-5j8x-q7q6-58j5, CVE-2026-87001, CVSS 4.7).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:47:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-87000",
+      "repo_info": "[squeeze440/zotlit-PoC](https://github.com/squeeze440/zotlit-PoC)",
+      "description": "PoC — attachment import copies files from unapproved local paths in ZotLit (GHSA-4qh7-66xv-h329, CVE-2026-87000, CVSS 5.5).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:47:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-86999",
+      "repo_info": "[squeeze440/supernote-obsidian-plugin-PoC](https://github.com/squeeze440/supernote-obsidian-plugin-PoC)",
+      "description": "PoC — path traversal via malicious device sync in the Supernote Obsidian plugin (GHSA-3gx3-r874-5pp4, CVE-2026-86999, CVSS 5.6).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:47:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-86998",
+      "repo_info": "[squeeze440/pasteguard-PoC](https://github.com/squeeze440/pasteguard-PoC)",
+      "description": "PoC — cross-origin proxy abuse of configured provider API keys in PasteGuard (GHSA-q94x-p9rc-q89f, CVE-2026-86998, CVSS 7.6).",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T07:46:56Z"
+    },
     {
       "cve_id": "CVE-2026-83548",
       "repo_info": "[xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis](https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis)",
@@ -136,9 +213,9 @@
       "raw_date": "2026-09-03T21:51:08Z"
     }
   ],
-  "generated_at": "2026-09-11T04:06:48.822882",
+  "generated_at": "2026-09-11T05:44:33.398852",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 30,
     "date_range": "2026-09-03",
     "source": "README.md",
     "script_version": "2.0"
