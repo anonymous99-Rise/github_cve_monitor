@@ -1,13 +1,188 @@
 {
   "date": "2026-09-11",
-  "count": 3,
+  "count": 31,
   "cves": [
+    {
+      "cve_id": "CVE-2026-89013",
+      "repo_info": "[Faceless0x7/CVE-2026-89013](https://github.com/Faceless0x7/CVE-2026-89013)",
+      "description": "CVE-2026-89013 Exploit — Authorization bypass in Dolibarr via the hashp parameter, enabling unauthenticated access to protected documents and files.",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T22:06:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-89012",
+      "repo_info": "[Faceless0x7/CVE-2026-89012](https://github.com/Faceless0x7/CVE-2026-89012)",
+      "description": "CVE-2026-89012 Exploit — SQL filter denylist bypass in Dolibarr via case-insensitive SQL column resolution and case-sensitive denylist matching.",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T22:03:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-88861",
+      "repo_info": "[franklincg/secdim-assurance-drift-challenge](https://github.com/franklincg/secdim-assurance-drift-challenge)",
+      "description": "SecDim Challenge Builder repro inspired by CVE-2026-88861: AAL1 MFA bypass at privileged credential boundary",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T10:27:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[ynsmroztas/GitLabSniper](https://github.com/ynsmroztas/GitLabSniper)",
+      "description": "CVE-2026-85706 Unauthenticated File Read",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T21:26:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[solivaquaant/CVE-2026-85706-PoC](https://github.com/solivaquaant/CVE-2026-85706-PoC)",
+      "description": "PoC for CVE-2026-85706: GitLab CE/EE unauthenticated arbitrary local file read",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T15:58:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[mhtsec/CVE-2026-85706](https://github.com/mhtsec/CVE-2026-85706)",
+      "description": "GitLab CE/EE unauthenticated path traversal (CVE-2026-85706) - PoC",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T16:18:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[guneykabel/cve-2026-85706](https://github.com/guneykabel/cve-2026-85706)",
+      "description": "Exploit poc for CVE-2026-85706 an unauthenticated arbitrary file read on Gitlab CE-EE affecting versions: 18.7–19.1.7; 19.2.0–19.2.5; 19.3.0–19.3.1",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T15:24:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[FlowerWitch/CVE-2026-85706_docker_exp](https://github.com/FlowerWitch/CVE-2026-85706_docker_exp)",
+      "description": "CVE-2026-85706_docker_exp",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T11:55:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-85612",
+      "repo_info": "[hotplugin0x01/CVE-2026-85612](https://github.com/hotplugin0x01/CVE-2026-85612)",
+      "description": "OpenPanel Unauthenticated Server-Side Request Forgery (SSRF)",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T16:17:07Z"
+    },
     {
       "cve_id": "CVE-2026-81861",
       "repo_info": "[abhinavagarwal07/scadapack-secure-lock-poc](https://github.com/abhinavagarwal07/scadapack-secure-lock-poc)",
       "description": "Sanitized offline fixture verifier for CVE-2026-81861 in SCADAPack Secure Lock",
       "date": "2026-09-11",
       "raw_date": "2026-09-11T02:22:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-79298",
+      "repo_info": "[TheMalwareGuardian/CVE-2026-79298](https://github.com/TheMalwareGuardian/CVE-2026-79298)",
+      "description": "CVE-2026-79298 - Incomplete remediation of UEFI Secure Boot bypass in Howyar SysReturn. The IA-32 boot path (BOOTia32.efi) was never patched after CVE-2024-7344, shipping the same revoked custom PE loader until July 2026.",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T08:56:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-79294",
+      "repo_info": "[MGTx2/CVE-2026-79294](https://github.com/MGTx2/CVE-2026-79294)",
+      "description": "CVE-2026-79294 — Stored XSS in Moonshot AI Kimi&#x27;s HTML artifact Preview, delivered through the public Share view, leading to session token exfiltration and demonstrated account takeover. Responsible disclosure advisory.",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T17:25:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-78997",
+      "repo_info": "[Hunt-Benito/the-callback-that-outlived-the-page-cve-2026-78997-uc-browser-android-universal-xss](https://github.com/Hunt-Benito/the-callback-that-outlived-the-page-cve-2026-78997-uc-browser-android-universal-xss)",
+      "description": "no description",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T11:32:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-65540",
+      "repo_info": "[testardou/CVE-2026-65540](https://github.com/testardou/CVE-2026-65540)",
+      "description": "Popup for CF7 with Sweet Alert &lt;= 1.6.5 - Cross-Site Request Forgery",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T14:11:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[ZeroDayEvil/CVE-2026-54121-Certighost](https://github.com/ZeroDayEvil/CVE-2026-54121-Certighost)",
+      "description": "🛡️ Official AI Security Tool module for CVE-2026-54121 (Certighost - AD CS Domain Controller Impersonation &amp; PKINIT Elevation).",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T23:08:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-51990",
+      "repo_info": "[HORKimhab/CVE-2026-51990](https://github.com/HORKimhab/CVE-2026-51990)",
+      "description": "CVE-2026-51990 - Draft or TODO",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T07:31:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-45674",
+      "repo_info": "[xiaoqiMikko/netty-resolver-dns-check](https://github.com/xiaoqiMikko/netty-resolver-dns-check)",
+      "description": "CVE-2026-45674 / CVE-2026-47691 / CVE-2026-45673: offline checker for DNS cache poisoning in io.netty:netty-resolver-dns - and whether your app actually uses that resolver. Spring WebClient on Reactor Netty uses it by default, although it is not in your pom.xml.",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T11:37:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[hui191/cve-2026-43499-aak-an00](https://github.com/hui191/cve-2026-43499-aak-an00)",
+      "description": "Honor WIN RT (AAK-AN00) CVE-2026-43499 temporary root - research notes",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T17:00:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-42978",
+      "repo_info": "[SyntaxMethod/CVE-2026-42978-PoC-Research](https://github.com/SyntaxMethod/CVE-2026-42978-PoC-Research)",
+      "description": "CVE-2026-42978 Windows Push Notifications (WpnService) Use-After-Free &amp; Race Condition PoC research, diagnostic scanner, and security audit module for AI Security Tool.",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T19:58:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-41089",
+      "repo_info": "[SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC](https://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC)",
+      "description": "CVE-2026-41089 Netlogon RCE PoC — security research, vulnerability validation &amp; defensive testing.",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T10:34:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[julichaan/CVE-2026-39987_POC](https://github.com/julichaan/CVE-2026-39987_POC)",
+      "description": "Marimo WS Preauth RCE",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T18:29:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[MaximilianoMeyer/CVE-2026-33017](https://github.com/MaximilianoMeyer/CVE-2026-33017)",
+      "description": "Simple Proof Of Concept about CVE 2026-33017",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T13:44:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-22732",
+      "repo_info": "[dylan-chainguard/cve-2026-22732-poc](https://github.com/dylan-chainguard/cve-2026-22732-poc)",
+      "description": "no description",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T13:16:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-22706",
+      "repo_info": "[het-P301204/AfterLife](https://github.com/het-P301204/AfterLife)",
+      "description": "Revocation persistence detection lab: when the password reset succeeds but the attacker never leaves. Reproduces the Strapi CVE-2026-22706 conditional-revocation bug, its fix, a three-rule detection pack, and the naive rule that misses it.",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T07:29:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-20516",
+      "repo_info": "[Dingo97/CVE-2026-20516](https://github.com/Dingo97/CVE-2026-20516)",
+      "description": "Write-up and proof of concept for CVE-2026-20516: MediaTek Android TV MiracastService confused deputy vulnerability.",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T09:13:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-19794",
+      "repo_info": "[testardou/CVE-2026-19794](https://github.com/testardou/CVE-2026-19794)",
+      "description": "WP-Stats &lt;= 2.56 - Unauthenticated Stored Cross-Site Scripting",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T14:23:16Z"
     },
     {
       "cve_id": "CVE-2026-18351",
@@ -22,11 +197,32 @@
       "description": "Drag and Drop File Upload for Elementor Forms - Unauthenticated Arbitrary File Upload to RCE.🔥",
       "date": "2026-09-11",
       "raw_date": "2026-09-11T03:28:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-15667",
+      "repo_info": "[cflowsec/CVE-2026-15667](https://github.com/cflowsec/CVE-2026-15667)",
+      "description": "CVE-2026-15667 WordPress Event Solution LFI POC",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T15:48:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-15253",
+      "repo_info": "[testardou/CVE-2026-15253](https://github.com/testardou/CVE-2026-15253)",
+      "description": "Easy Media Replace &lt;= 0.2.0 - Authenticated (Author+) Stored Cross-Site Scripting",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T14:29:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-14962",
+      "repo_info": "[cflowsec/CVE-2026-14962](https://github.com/cflowsec/CVE-2026-14962)",
+      "description": "Wordpress Plugin ELEX WooCommerce Request a Quote unauthenticated SQL injection",
+      "date": "2026-09-11",
+      "raw_date": "2026-09-11T18:47:35Z"
     }
   ],
-  "generated_at": "2026-09-12T04:07:31.909919",
+  "generated_at": "2026-09-12T05:31:26.527712",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 31,
     "date_range": "2026-09-11",
     "source": "README.md",
     "script_version": "2.0"

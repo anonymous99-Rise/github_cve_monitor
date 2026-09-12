@@ -1,7 +1,14 @@
 {
   "date": "2026-02-05",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-41096",
+      "repo_info": "[ZeroDayEvil/CVE-2026-41096-PoC](https://github.com/ZeroDayEvil/CVE-2026-41096-PoC)",
+      "description": "🛡️ Official AI Security Tool module for CVE-2026-41096 (Windows DNSAPI.dll Heap Overflow / DNS-Mayhem Deep Dive Analysis &amp; Audit Module).",
+      "date": "2026-02-05",
+      "raw_date": "2026-02-05T10:21:22Z"
+    },
     {
       "cve_id": "CVE-2026-25253",
       "repo_info": "[adibirzu/openclaw-security-monitor](https://github.com/adibirzu/openclaw-security-monitor)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-02-05T07:31:07Z"
     }
   ],
-  "generated_at": "2026-09-12T04:07:31.872610",
+  "generated_at": "2026-09-12T05:31:26.494145",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-02-05",
     "source": "README.md",
     "script_version": "2.0"

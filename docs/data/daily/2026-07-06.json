@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "count": 16,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-6421",
@@ -50,6 +50,13 @@
       "description": "HTB_Nexus Penetration Test Report – Comprehensive security assessment documenting credential leakage from Gitea, CVE-2026-38526 exploitation in Krayin CRM, and privilege escalation via Gitea template sync directory traversal. Mapped to MITRE ATT&amp;CK and NSA D3FEND frameworks with actionable remediation roadmap and full evidence appendix.",
       "date": "2026-07-06",
       "raw_date": "2026-07-06T15:13:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-33697",
+      "repo_info": "[muhammad-usama-sardar/intra-handshake-fail](https://github.com/muhammad-usama-sardar/intra-handshake-fail)",
+      "description": "Early Attestation Considered Harmful (CVE-2026-33697)",
+      "date": "2026-07-06",
+      "raw_date": "2026-07-06T22:13:03Z"
     },
     {
       "cve_id": "CVE-2026-33454",
@@ -115,9 +122,9 @@
       "raw_date": "2026-07-06T18:09:11Z"
     }
   ],
-  "generated_at": "2026-09-12T04:07:31.890146",
+  "generated_at": "2026-09-12T05:31:26.510624",
   "metadata": {
-    "total_cves": 16,
+    "total_cves": 17,
     "date_range": "2026-07-06",
     "source": "README.md",
     "script_version": "2.0"

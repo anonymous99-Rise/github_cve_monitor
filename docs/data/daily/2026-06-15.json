@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-9277",
@@ -148,11 +148,18 @@
       "description": "testing",
       "date": "2026-06-15",
       "raw_date": "2026-06-15T06:49:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-7344",
+      "repo_info": "[TheMalwareGuardian/UEFI-Security-Research-Howyar-SysReturn-NetCopy](https://github.com/TheMalwareGuardian/UEFI-Security-Research-Howyar-SysReturn-NetCopy)",
+      "description": "Post CVE-2024-7344 analysis of Howyar SysReturn NetCopy - reverse engineering notes, vulnerable binaries, vendor correspondence, and proof-of-concept tooling for CVE-2026-79298 (IA-32 Secure Boot bypass via the RxPE custom PE loader in BOOTia32.efi).",
+      "date": "2026-06-15",
+      "raw_date": "2026-06-15T14:00:01Z"
     }
   ],
-  "generated_at": "2026-09-12T04:07:31.884265",
+  "generated_at": "2026-09-12T05:31:26.505449",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-06-15",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-12",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-49049",
+      "repo_info": "[MataKucing-OFC/CVE-2026-49049](https://github.com/MataKucing-OFC/CVE-2026-49049)",
+      "description": "no description",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T00:39:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-21858",
+      "repo_info": "[ZeroDayEvil/CVE-2026-21858-n8n-FullChain](https://github.com/ZeroDayEvil/CVE-2026-21858-n8n-FullChain)",
+      "description": "🛡️ Official AI Security Tool module for CVE-2026-21858 + CVE-2025-68613 (n8n &quot;Ni8mare&quot; Unauthenticated Arbitrary File Read &amp; Expression Injection RCE Full Chain).",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T00:03:07Z"
+    }
+  ],
+  "generated_at": "2026-09-12T05:31:26.528153",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-09-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
