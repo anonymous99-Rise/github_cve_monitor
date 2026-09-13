@@ -1,13 +1,104 @@
 {
   "date": "2026-09-12",
-  "count": 2,
+  "count": 15,
   "cves": [
+    {
+      "cve_id": "CVE-2026-87575",
+      "repo_info": "[SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.](https://github.com/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.)",
+      "description": "no description",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T17:17:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-86547",
+      "repo_info": "[HarshRajSinghania/cve-2026-86547-mrubyc-op-enter](https://github.com/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter)",
+      "description": "Standalone proof of concept for CVE-2026-86547, a NULL pointer dereference in mrubyc op_enter() through 4.0.0.",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T06:16:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-86218",
+      "repo_info": "[jithinkrishnanrs/CVE-2026-86218-N-central-IOC-Toolkit](https://github.com/jithinkrishnanrs/CVE-2026-86218-N-central-IOC-Toolkit)",
+      "description": "Defensive IOC and detection toolkit for CVE-2026-86218, a critical pre-auth RCE in N-able N-central. Includes IOCs, log scanner, Sigma, Splunk, Elastic/KQL detections, and incident response guidance.",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T11:01:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[0xlyvio/cve-2026-85706-poc-exploit-gitlab](https://github.com/0xlyvio/cve-2026-85706-poc-exploit-gitlab)",
+      "description": "cve-2026-85706-poc-exploit-gitlab",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T20:40:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[jithinkrishnanrs/gitlab-cve-2026-85706-ioc](https://github.com/jithinkrishnanrs/gitlab-cve-2026-85706-ioc)",
+      "description": "CVE-2026-85706 — GitLab Path Traversal IOC Scanner &amp; Detection Toolkit. Detect and hunt for exploitation of the critical unauthenticated GitLab CE/EE path traversal vulnerability with IOC scanning, Sigma, Suricata/Snort, and SIEM detection rules.",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T10:43:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-80099",
+      "repo_info": "[Wayang1337/CVE-2026-80099](https://github.com/Wayang1337/CVE-2026-80099)",
+      "description": "Newfold plugins (wp-module-data &lt;= 2.9.7) Unauthenticated",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T09:42:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-78006",
+      "repo_info": "[DeadExpl0it/CVE-2026-78006-POC](https://github.com/DeadExpl0it/CVE-2026-78006-POC)",
+      "description": "POC for CVE-2026-78006 The Events Calendar &lt;= 6.17.4 - Unauthenticated PHP Object Injection to Remote Code Execution",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T11:19:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-77771",
+      "repo_info": "[pervinzahidli/CVE-2026-77771](https://github.com/pervinzahidli/CVE-2026-77771)",
+      "description": "no description",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T09:28:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-75650",
+      "repo_info": "[fortbridge/stylesmuggler](https://github.com/fortbridge/stylesmuggler)",
+      "description": "Private HTTP-only reproduction of CVE-2026-75650 StyleSmuggler",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T14:27:02Z"
+    },
     {
       "cve_id": "CVE-2026-49049",
       "repo_info": "[MataKucing-OFC/CVE-2026-49049](https://github.com/MataKucing-OFC/CVE-2026-49049)",
       "description": "no description",
       "date": "2026-09-12",
       "raw_date": "2026-09-12T00:39:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[huaguiqi/asus_i005-CVE-2026-43499](https://github.com/huaguiqi/asus_i005-CVE-2026-43499)",
+      "description": "no description",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T12:08:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[1ndevelopment/ghostlock-s26](https://github.com/1ndevelopment/ghostlock-s26)",
+      "description": "GhostLock (CVE-2026-43499) app for the Galaxy S26 series",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T04:24:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-33439",
+      "repo_info": "[infernosalex/CVE-2026-33439-Python-PoC](https://github.com/infernosalex/CVE-2026-33439-Python-PoC)",
+      "description": "Python PoC for CVE-2026-33439, an OpenAM pre-authentication RCE via jato.clientSession deserialization",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T22:10:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-2332",
+      "repo_info": "[xiaoqiMikko/jetty-line-check](https://github.com/xiaoqiMikko/jetty-line-check)",
+      "description": "CVE-2026-2332 and 4 more 2026 Jetty CVEs: which does your Jetty (or Spring Boot) build hit, and does the fixed version Jetty names even exist on Maven Central? For 9.4/10/11 EOL lines the answer is &#x27;see details for availability&#x27; = 404.",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T08:17:59Z"
     },
     {
       "cve_id": "CVE-2026-21858",
@@ -17,9 +108,9 @@
       "raw_date": "2026-09-12T00:03:07Z"
     }
   ],
-  "generated_at": "2026-09-13T04:24:19.653130",
+  "generated_at": "2026-09-13T05:50:10.378494",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 15,
     "date_range": "2026-09-12",
     "source": "README.md",
     "script_version": "2.0"

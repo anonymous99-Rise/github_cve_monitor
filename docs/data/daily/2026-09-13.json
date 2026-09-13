@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-13",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-77770",
+      "repo_info": "[cflowsec/CVE-2026-77770](https://github.com/cflowsec/CVE-2026-77770)",
+      "description": "miniOrange 2FA CVE POC",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T03:50:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-71294",
+      "repo_info": "[HarshRajSinghania/cotonti-commentswidget-poc](https://github.com/HarshRajSinghania/cotonti-commentswidget-poc)",
+      "description": "Safe local proof of concept for the Cotonti CommentsWidget PHP object injection vulnerability (CAN-2026-2035973 / CVE-2026-71294).",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T05:30:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-50751",
+      "repo_info": "[uLl0a/CVE-2026-50751](https://github.com/uLl0a/CVE-2026-50751)",
+      "description": "Bypass de autenticación por certificado en la VPN Remote-Access de Check Point (IKEv1).",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T03:08:37Z"
+    }
+  ],
+  "generated_at": "2026-09-13T05:50:10.378645",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-09-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
