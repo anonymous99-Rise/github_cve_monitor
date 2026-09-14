@@ -1,6 +1,6 @@
 {
   "date": "2025-04-16",
-  "count": 28,
+  "count": 29,
   "cves": [
     {
       "cve_id": "CVE-2025-46080",
@@ -64,6 +64,13 @@
       "description": "no description",
       "date": "2025-04-16",
       "raw_date": "2025-04-16T20:32:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-4028",
+      "repo_info": "[JunZ-Leo/CVE](https://github.com/JunZ-Leo/CVE)",
+      "description": "Published vulnerability reports by JunZ-Leo; credited reporter for CVE-2025-4028 and CVE-2025-4030.",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T02:24:06Z"
     },
     {
       "cve_id": "CVE-2025-39601",
@@ -199,9 +206,9 @@
       "raw_date": "2025-04-16T03:03:28Z"
     }
   ],
-  "generated_at": "2026-09-14T04:25:42.655000",
+  "generated_at": "2026-09-14T05:58:23.004193",
   "metadata": {
-    "total_cves": 28,
+    "total_cves": 29,
     "date_range": "2025-04-16",
     "source": "README.md",
     "script_version": "2.0"

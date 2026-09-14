@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-14",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-90782",
+      "repo_info": "[HarshRajSinghania/CVE-2026-90782-s2opc-status-clobber](https://github.com/HarshRajSinghania/CVE-2026-90782-s2opc-status-clobber)",
+      "description": "Standalone PoC for CVE-2026-90782: status-clobbering NULL dereference in S2OPC alloc_notification_message_items() (DataChange fails, Event succeeds)",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T05:41:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[gabrielunknown/CVE-2026-85706](https://github.com/gabrielunknown/CVE-2026-85706)",
+      "description": "CVE-2026-85706 — GitLab Unauthenticated Arbitrary File Read exploit PoC.",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T04:05:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup](https://github.com/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup)",
+      "description": "Security research write-up on exploiting CVE-2026-43499 on the Amazon Fire TV Stick 3rd Gen (sheldonp), from temporary root to bootloader unlock.",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T04:55:26Z"
+    }
+  ],
+  "generated_at": "2026-09-14T05:58:23.043052",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-09-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

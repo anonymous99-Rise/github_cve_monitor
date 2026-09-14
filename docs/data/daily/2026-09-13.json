@@ -1,7 +1,56 @@
 {
   "date": "2026-09-13",
-  "count": 3,
+  "count": 18,
   "cves": [
+    {
+      "cve_id": "CVE-2026-90781",
+      "repo_info": "[HarshRajSinghania/CVE-2026-90781-alsa-lib-oob](https://github.com/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob)",
+      "description": "Standalone reproducer for CVE-2026-90781: 1-byte OOB write in alsa-lib __snd_ctl_ascii_elem_id_parse() name= parsing (quoted and unquoted)",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T16:03:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-87492",
+      "repo_info": "[valencenavy/IsolatedAnarchy-Public](https://github.com/valencenavy/IsolatedAnarchy-Public)",
+      "description": "Public release of CVE-2026-87492 🥷",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T21:26:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-86283",
+      "repo_info": "[Freire007-byte/sentric-core](https://github.com/Freire007-byte/sentric-core)",
+      "description": "Autonomous AI agent with its own crypto identity — hunts CVEs, builds exploit labs, validates vulnerabilities (first public PoC of CVE-2026-86283), trades crypto 24/7 to fund itself. Sentric Research.",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T21:15:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[plur1bu5/gitread](https://github.com/plur1bu5/gitread)",
+      "description": "CVE-2026-85706 · GitLab CE/EE unauthenticated file read · research PoC with oracle mode, fd enumeration, and tiered loot targeting",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T19:51:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[brigadeops32/CVE-2026-85706](https://github.com/brigadeops32/CVE-2026-85706)",
+      "description": "no description",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T16:58:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[gagaltotal/CVE-2026-85706-gitlab-poc](https://github.com/gagaltotal/CVE-2026-85706-gitlab-poc)",
+      "description": "CVE-2026-85706",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T14:28:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-78006",
+      "repo_info": "[user445213/CVE-2026-78006](https://github.com/user445213/CVE-2026-78006)",
+      "description": "CVE-2026-78006",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T11:35:17Z"
+    },
     {
       "cve_id": "CVE-2026-77770",
       "repo_info": "[cflowsec/CVE-2026-77770](https://github.com/cflowsec/CVE-2026-77770)",
@@ -17,16 +66,72 @@
       "raw_date": "2026-09-13T05:30:57Z"
     },
     {
+      "cve_id": "CVE-2026-65615",
+      "repo_info": "[BL0odz/JFrog_CVE-2026-65615-ByGLM](https://github.com/BL0odz/JFrog_CVE-2026-65615-ByGLM)",
+      "description": "JFrog Artifactory 预认证全链 RCE 复现项目（CVE-2026-42018 / CVE-2026-65616 / CVE-2026-65615）：完整攻击链报告、7.146.7 Docker 复现交付物（EXP / 部署 / 基线验证 / payload 样本 / 恢复工具）",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T08:25:56Z"
+    },
+    {
       "cve_id": "CVE-2026-50751",
       "repo_info": "[uLl0a/CVE-2026-50751](https://github.com/uLl0a/CVE-2026-50751)",
       "description": "Bypass de autenticación por certificado en la VPN Remote-Access de Check Point (IKEv1).",
       "date": "2026-09-13",
       "raw_date": "2026-09-13T03:08:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ccp-p/ghostlock-cve-2026-43499-4.19-k40](https://github.com/ccp-p/ghostlock-cve-2026-43499-4.19-k40)",
+      "description": "GhostLock CVE-2026-43499 Redmi K40 (alioth 4.19.157) adaptation",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T23:48:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[zhubaohe123/ghostlock-kit](https://github.com/zhubaohe123/ghostlock-kit)",
+      "description": "GhostLock kit for vivo iQOO Neo9S Pro (MT6989): MCAST transport port, one-click root scripts and writeups (CVE-2026-43499)",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T05:52:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-42536",
+      "repo_info": "[erberkan/CVE-2026-42536-PoC](https://github.com/erberkan/CVE-2026-42536-PoC)",
+      "description": "Heap-based Buffer Overflow vulnerability in Apache HTTP Server with mod_xml2enc, xml2StartParse, and untrusted content",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T18:53:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-24332",
+      "repo_info": "[0cqb/CVE-2026-24332](https://github.com/0cqb/CVE-2026-24332)",
+      "description": "Unpatched Discord privacy leak allowing presence inference while Invisible.",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T06:25:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-23980",
+      "repo_info": "[hyphenTBG/CVE-2026-23980](https://github.com/hyphenTBG/CVE-2026-23980)",
+      "description": "Modified exploit of CVE-2026-23980",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T09:17:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-21852",
+      "repo_info": "[abhishek2512mishra/claude-code-security-audit](https://github.com/abhishek2512mishra/claude-code-security-audit)",
+      "description": "Security scanner auditing Claude Code environments for CVE-2026-21852 pre-trust execution, hook hijacking, and eBPF lockdown.",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T12:35:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-20079",
+      "repo_info": "[DiegoArias008/CVE-2026-20079-checker](https://github.com/DiegoArias008/CVE-2026-20079-checker)",
+      "description": "no description",
+      "date": "2026-09-13",
+      "raw_date": "2026-09-13T22:09:39Z"
     }
   ],
-  "generated_at": "2026-09-14T04:25:42.735149",
+  "generated_at": "2026-09-14T05:58:23.042945",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 18,
     "date_range": "2026-09-13",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "count": 5,
+  "count": 6,
   "cves": [
     {
       "cve_id": "CVE-2026-9198",
@@ -36,11 +36,18 @@
       "description": "Offline checker for Spring Cloud Config CVE-2026-40982 — tells you whether your version line has an OSS fix at all (3.1.x/4.1.x/4.2.x: it does not)",
       "date": "2026-08-05",
       "raw_date": "2026-08-05T17:39:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-23489",
+      "repo_info": "[eorll-lgtm/poc-CVE-2026-23489](https://github.com/eorll-lgtm/poc-CVE-2026-23489)",
+      "description": "Proof of concept (POC) for CVE-2026-23489 GLPI &quot;Fields&quot; plugin &lt;= 1.23.2",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T13:09:55Z"
     }
   ],
-  "generated_at": "2026-09-14T04:25:42.725922",
+  "generated_at": "2026-09-14T05:58:23.038638",
   "metadata": {
-    "total_cves": 5,
+    "total_cves": 6,
     "date_range": "2026-08-05",
     "source": "README.md",
     "script_version": "2.0"
