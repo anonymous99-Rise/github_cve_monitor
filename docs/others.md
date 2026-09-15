@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-14 05:57:42
+- **生成时间**: 2026-09-15 05:58:43
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -400,9 +400,10 @@
 | 🚫 未识别 | [Mr-Butterfly-cybersec/SIH_2026_Team_Cogito_Ergo_Sum](https://github.com/Mr-Butterfly-cybersec/SIH_2026_Team_Cogito_Ergo_Sum) | Cyber risk quantification and security-investment optimization — from CVE to ₹ impact to optimal security spend. SIH 2026, problem SIH26105. | 2026-09-10T22:26:13Z|
 | 🚫 未识别 | [xiaoqiMikko/spring-eol-check](https://github.com/xiaoqiMikko/spring-eol-check) | 扫 pom.xml / jar / fat-jar,判出每个 Spring 构件属于哪条版本线、OSS 支持期有没有结束。2026-06-30 有 46 个 Spring 项目同步断供(Boot 3.5.x / Framework 6.2.x / Security 6.5.x …),而 EOL 不产生 CVE 编号 —— Dependabot / OSV 结构性不告警。判定表由 api.spring.io 官方数据生成,单 jar、零运行时依赖、完全离线 | 2026-08-10T15:03:16Z|
 | 🚫 未识别 | [testinhottt-ux/mellin-residue-zip](https://github.com/testinhottt-ux/mellin-residue-zip) | MRZ: Mellin-Residue Zip — lossless compression for software supply chain metadata (PURL, SBOM/SPDX/CycloneDX, OSV/CVE, VEX) + cache-blocked parallel Quadratic Sieve engine. NLnet CodeSupply proposal 2026-11-0bb. | 2026-09-13T12:17:06Z|
+| 🚫 未识别 | [a670493528/msft-cve-series](https://github.com/a670493528/msft-cve-series) | Monthly Microsoft-CNA CVE series (2025-09..2026-08) from cvelistV5 at a pinned commit - 1F916 listing 41 deliverable | 2026-09-14T16:21:37Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-14 05:58:22  
-**总记录数**: 389
+**报告生成时间**: 2026-09-15 05:59:09  
+**总记录数**: 390

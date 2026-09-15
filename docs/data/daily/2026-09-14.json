@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "count": 3,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-90782",
@@ -10,6 +10,20 @@
       "raw_date": "2026-09-14T05:41:43Z"
     },
     {
+      "cve_id": "CVE-2026-88899",
+      "repo_info": "[uziii2208/CVE-2026-88899](https://github.com/uziii2208/CVE-2026-88899)",
+      "description": "Knowns 0.30.0: Unauthenticated Header Injection Grants AI Agent Unrestricted Access to Host Filesystem",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T15:52:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-86259",
+      "repo_info": "[uziii2208/CVE-2026-86259](https://github.com/uziii2208/CVE-2026-86259)",
+      "description": "OpenMAIC 1.0.0: Unauthenticated Outbound SSRF to Cloud Metadata Service via Fail-Open Middleware and Environment-Gated Validation Bypass",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T16:27:36Z"
+    },
+    {
       "cve_id": "CVE-2026-85706",
       "repo_info": "[gabrielunknown/CVE-2026-85706](https://github.com/gabrielunknown/CVE-2026-85706)",
       "description": "CVE-2026-85706 — GitLab Unauthenticated Arbitrary File Read exploit PoC.",
@@ -17,16 +31,100 @@
       "raw_date": "2026-09-14T04:05:39Z"
     },
     {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[0xenesbayram/cve-2026-85706](https://github.com/0xenesbayram/cve-2026-85706)",
+      "description": "CVE-2026-85706 — GitLab unauthenticated arbitrary file read (CVSS 10.0). Root-cause analysis, vulnerable Docker lab, and PoC.",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T09:08:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[34zY/CVE-2026-72898](https://github.com/34zY/CVE-2026-72898)",
+      "description": "CVE-2026-72898 exploit",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T09:54:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-61797",
+      "repo_info": "[itres-labs/CVE-2026-61797](https://github.com/itres-labs/CVE-2026-61797)",
+      "description": "Proof of Concept for CVE-2026-61797, a time-based blind SQL Injection vulnerability affecting the GLPI PDF plugin.",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T19:10:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-60004",
+      "repo_info": "[erberkan/CVE-2026-60004-PoC](https://github.com/erberkan/CVE-2026-60004-PoC)",
+      "description": "Gitea before 1.27.1 allows remote code execution via the diffpatch API through Git hook installation.",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T15:55:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-52910",
+      "repo_info": "[yolkfull/cve-2026-52910-poc](https://github.com/yolkfull/cve-2026-52910-poc)",
+      "description": "POC of cve-2026-52910",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T10:21:31Z"
+    },
+    {
       "cve_id": "CVE-2026-43499",
       "repo_info": "[accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup](https://github.com/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup)",
       "description": "Security research write-up on exploiting CVE-2026-43499 on the Amazon Fire TV Stick 3rd Gen (sheldonp), from temporary root to bootloader unlock.",
       "date": "2026-09-14",
       "raw_date": "2026-09-14T04:55:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[mouseos/aquos-r6-ghostlock](https://github.com/mouseos/aquos-r6-ghostlock)",
+      "description": "Temporary root exploit for Sharp AQUOS R6 A101SH S0029 using GhostLock CVE-2026-43499",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T23:25:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[k-o-n-t-o-r/ghostlock-sabrina](https://github.com/k-o-n-t-o-r/ghostlock-sabrina)",
+      "description": "CVE-2026-43499 GhostLock root exploit for Chromecast with Google TV (sabrina)",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T19:58:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[genksome/ghost-hoock](https://github.com/genksome/ghost-hoock)",
+      "description": "GhostLock stripped to one primitive: SELinux off on Galaxy A17 (BZA5) via futex PI UAF (CVE-2026-43499). No root, no cred patch, no rwforge.",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T08:53:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[newazbenalam/Root-My-Galaxy-Payloads](https://github.com/newazbenalam/Root-My-Galaxy-Payloads)",
+      "description": "CVE-2026-43499 root payloads feed for Root-My-Galaxy",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T10:24:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ymh001/meizu21-ghostlock-root](https://github.com/ymh001/meizu21-ghostlock-root)",
+      "description": "MEIZU 21 locked-bootloader runtime root via CVE-2026-43499 and KernelSU late-load",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T15:57:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-](https://github.com/Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-)",
+      "description": "PoC and write-up for the HackTheBox &quot;Nexus&quot; privilege escalation: root-run Gitea template-sync service vulnerable to path traversal via forged Git objects. Educational use only.",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T11:49:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[Oieua/CVE-2026-33017](https://github.com/Oieua/CVE-2026-33017)",
+      "description": "My implementation of the",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T22:00:37Z"
     }
   ],
-  "generated_at": "2026-09-15T04:26:19.992239",
+  "generated_at": "2026-09-15T05:59:10.494737",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 17,
     "date_range": "2026-09-14",
     "source": "README.md",
     "script_version": "2.0"

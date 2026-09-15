@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-15",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-69328",
+      "repo_info": "[0xf9b6a41ec/CVE-2026-69328](https://github.com/0xf9b6a41ec/CVE-2026-69328)",
+      "description": "no description",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T00:14:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[NONAME-ELV/CVE-2026-48907](https://github.com/NONAME-ELV/CVE-2026-48907)",
+      "description": "no description",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T05:40:54Z"
+    }
+  ],
+  "generated_at": "2026-09-15T05:59:10.494981",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-09-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
