@@ -1,7 +1,42 @@
 {
   "date": "2026-09-15",
-  "count": 2,
+  "count": 21,
   "cves": [
+    {
+      "cve_id": "CVE-2026-82329",
+      "repo_info": "[tc4dy/CVE-2026-82329-PoC-Exploit](https://github.com/tc4dy/CVE-2026-82329-PoC-Exploit)",
+      "description": "🧰 CVE-2026-82329 – JFrog Artifactory Auth Bypass Toolkit (CVSS 9.8) - Red/Blue Team suite for self-hosted Artifactory 7.x (111-161). 2 tools: Full Exploit (JWTforge, admin token, user create, mass scan, stealth, interactive menu, resistence, WAF bypass etc.), SafeChecker (version detect, audit, JSON report). 🦾 Use Ethically, Stay Legal :V",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T20:15:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-79551",
+      "repo_info": "[snyi001/CVE-2026-79551-Tenda](https://github.com/snyi001/CVE-2026-79551-Tenda)",
+      "description": "Tenda Technology Co., Ltd NVR_4H: CH3 v2.1.V27.5.58.6 was discovered to contain a hardcoded cryptographic key.",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T12:15:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-76461",
+      "repo_info": "[fevar54/CVE-2026-76461-Detection-Kit-](https://github.com/fevar54/CVE-2026-76461-Detection-Kit-)",
+      "description": "no description",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T14:33:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-76461",
+      "repo_info": "[0xBlackash/CVE-2026-76461](https://github.com/0xBlackash/CVE-2026-76461)",
+      "description": "CVE-2026-76461",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T09:11:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-76461",
+      "repo_info": "[HORKimhab/CVE-2026-76461](https://github.com/HORKimhab/CVE-2026-76461)",
+      "description": "CVE-2026-76461 - Draft or TODO",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T06:13:37Z"
+    },
     {
       "cve_id": "CVE-2026-69328",
       "repo_info": "[0xf9b6a41ec/CVE-2026-69328](https://github.com/0xf9b6a41ec/CVE-2026-69328)",
@@ -10,16 +45,114 @@
       "raw_date": "2026-09-15T00:14:32Z"
     },
     {
+      "cve_id": "CVE-2026-65343",
+      "repo_info": "[hidayat-tanjung/CVE-2026-65343-e7eb2ed](https://github.com/hidayat-tanjung/CVE-2026-65343-e7eb2ed)",
+      "description": "no description",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T14:52:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-65013",
+      "repo_info": "[isaca0315/CVE-2026-65013-BOLA-IDOR](https://github.com/isaca0315/CVE-2026-65013-BOLA-IDOR)",
+      "description": "no description",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T02:46:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-59550",
+      "repo_info": "[FLX-0x00/CVE-2026-59550](https://github.com/FLX-0x00/CVE-2026-59550)",
+      "description": "no description",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T13:02:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-59346",
+      "repo_info": "[0xCyberstan/CVE-2026-59346-POC](https://github.com/0xCyberstan/CVE-2026-59346-POC)",
+      "description": "PoC for CVE-2026-59346 - 32-bit integer overflow in VMware&#x27;s VMXNET3 TSO segmentation path, guest-to-host crash.",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T11:11:39Z"
+    },
+    {
       "cve_id": "CVE-2026-48907",
       "repo_info": "[NONAME-ELV/CVE-2026-48907](https://github.com/NONAME-ELV/CVE-2026-48907)",
       "description": "no description",
       "date": "2026-09-15",
       "raw_date": "2026-09-15T05:40:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[theendofabbys/pedit-cow](https://github.com/theendofabbys/pedit-cow)",
+      "description": "exploit for CVE-2026-46331",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T13:51:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-44351",
+      "repo_info": "[isaca0315/CVE-2026-44351-poc](https://github.com/isaca0315/CVE-2026-44351-poc)",
+      "description": "no description",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T00:58:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[DeAurity/ghost-hoock](https://github.com/DeAurity/ghost-hoock)",
+      "description": "GhostLock stripped to one primitive: SELinux off on Galaxy A17 (BZA5) via futex PI UAF (CVE-2026-43499). No root, no cred patch, no rwforge.",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T20:40:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[kurtulusakyuz/IonStack_S21](https://github.com/kurtulusakyuz/IonStack_S21)",
+      "description": "Exploit chain research targeting CVE-2026-43499 on Samsung Galaxy S21",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T16:09:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[Ish3ng0m4/CVE-2026-38526-KrayinCRM](https://github.com/Ish3ng0m4/CVE-2026-38526-KrayinCRM)",
+      "description": "Authenticated Arbitrary File Upload leading to Remote Code Execution  Technical analysis and controlled reproduction of CVE-2026-38526 in Webkul Krayin CRM 2.2.x.",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T15:36:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-32996",
+      "repo_info": "[suce0155/CVE-2026-32996](https://github.com/suce0155/CVE-2026-32996)",
+      "description": "A vulnerability in Veeam Agent for Microsoft Windows allows for Local Privilege Escalation.",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T18:28:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-24733",
+      "repo_info": "[Darabium/CVE-2026-24733](https://github.com/Darabium/CVE-2026-24733)",
+      "description": "## What is CVE-2026-24733?  Apache Tomcat incorrectly handled an HTTP/0.9-style `HEAD` request under certain security-constraint configurations.",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T06:05:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-17633",
+      "repo_info": "[Oscar-Collado/langflow-CVE-2026-17633-PoC](https://github.com/Oscar-Collado/langflow-CVE-2026-17633-PoC)",
+      "description": "PoC for CVE-2026-17633 — Authenticated RCE in IBM Langflow OSS 1.0.0–1.10.3 via custom_component endpoint. Includes CVE-2026-17632 AST scanner bypass research.",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T16:06:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-15315",
+      "repo_info": "[HORKimhab/CVE-2026-15315](https://github.com/HORKimhab/CVE-2026-15315)",
+      "description": "CVE-2026-15315, CVE-2026-15316 - Draft or TODO",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T15:12:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-12944",
+      "repo_info": "[cflowsec/CVE-2026-12944](https://github.com/cflowsec/CVE-2026-12944)",
+      "description": "Langflow 1.10.0 urllib SSRF POC",
+      "date": "2026-09-15",
+      "raw_date": "2026-09-15T17:23:04Z"
     }
   ],
-  "generated_at": "2026-09-16T04:21:17.478457",
+  "generated_at": "2026-09-16T05:49:36.471116",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 21,
     "date_range": "2026-09-15",
     "source": "README.md",
     "script_version": "2.0"

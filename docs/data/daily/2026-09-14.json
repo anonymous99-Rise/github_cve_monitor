@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "count": 17,
+  "count": 18,
   "cves": [
     {
       "cve_id": "CVE-2026-90782",
@@ -22,6 +22,13 @@
       "description": "OpenMAIC 1.0.0: Unauthenticated Outbound SSRF to Cloud Metadata Service via Fail-Open Middleware and Environment-Gated Validation Bypass",
       "date": "2026-09-14",
       "raw_date": "2026-09-14T16:27:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-86218",
+      "repo_info": "[Udyz/CVE-2026-86218](https://github.com/Udyz/CVE-2026-86218)",
+      "description": "CVE-2026-86218 - N-able N-central Struts BeanUtils Unauthenticated RCE",
+      "date": "2026-09-14",
+      "raw_date": "2026-09-14T08:34:16Z"
     },
     {
       "cve_id": "CVE-2026-85706",
@@ -122,9 +129,9 @@
       "raw_date": "2026-09-14T22:00:37Z"
     }
   ],
-  "generated_at": "2026-09-16T04:21:17.478338",
+  "generated_at": "2026-09-16T05:49:36.470999",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 18,
     "date_range": "2026-09-14",
     "source": "README.md",
     "script_version": "2.0"

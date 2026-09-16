@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-16",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-65374",
+      "repo_info": "[HORKimhab/CVE-2026-65374](https://github.com/HORKimhab/CVE-2026-65374)",
+      "description": "CVE-2026-65374 - Draft or TODO",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T04:12:05Z"
+    }
+  ],
+  "generated_at": "2026-09-16T05:49:36.471240",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-09-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

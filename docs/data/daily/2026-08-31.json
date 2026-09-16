@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "count": 10,
+  "count": 11,
   "cves": [
     {
       "cve_id": "CVE-2026-82222",
@@ -22,6 +22,13 @@
       "description": "Weak-RNG stream-sweep research (CVE-2026-71851 class): PRNG schemes x seeds -&gt; BIP39 -&gt; victim set membership",
       "date": "2026-08-31",
       "raw_date": "2026-08-31T11:57:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-49268",
+      "repo_info": "[sassoftware/shiro](https://github.com/sassoftware/shiro)",
+      "description": "CVE-2026-49268 — Analysis and Remediation of an LDAP Injection Authentication Bypass Vulnerability",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T21:23:36Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -73,9 +80,9 @@
       "raw_date": "2026-08-31T11:39:29Z"
     }
   ],
-  "generated_at": "2026-09-16T04:21:17.476103",
+  "generated_at": "2026-09-16T05:49:36.468657",
   "metadata": {
-    "total_cves": 10,
+    "total_cves": 11,
     "date_range": "2026-08-31",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,7 +1,14 @@
 {
   "date": "2026-05-26",
-  "count": 3,
+  "count": 4,
   "cves": [
+    {
+      "cve_id": "CVE-2026-82090",
+      "repo_info": "[FUNFACTOR1/CVE-2026-82090-18-Years-All-Versions-CVSS-9.2-CRITICAL-The-Pocket-Forever-Day](https://github.com/FUNFACTOR1/CVE-2026-82090-18-Years-All-Versions-CVSS-9.2-CRITICAL-The-Pocket-Forever-Day)",
+      "description": "CVE-2026-82090 · CVSS 9.2 CRITICAL · 0-click stored XSS in Mozilla Pocket — all versions (v0 → v8.33.0.0) · 18-year forever-day · no patch · MITRE published",
+      "date": "2026-05-26",
+      "raw_date": "2026-05-26T22:48:27Z"
+    },
     {
       "cve_id": "CVE-2026-5426",
       "repo_info": "[HORKimhab/CVE-2026-5426](https://github.com/HORKimhab/CVE-2026-5426)",
@@ -24,9 +31,9 @@
       "raw_date": "2026-05-26T07:35:08Z"
     }
   ],
-  "generated_at": "2026-09-16T04:21:17.465169",
+  "generated_at": "2026-09-16T05:49:36.456629",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 4,
     "date_range": "2026-05-26",
     "source": "README.md",
     "script_version": "2.0"
