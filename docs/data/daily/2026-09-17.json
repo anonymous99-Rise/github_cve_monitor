@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-17",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-55781",
+      "repo_info": "[g17hubH4ck/CVE-2026-55781-poc](https://github.com/g17hubH4ck/CVE-2026-55781-poc)",
+      "description": "Unbounded memory allocation in NanaZip&#x27;s UFS handler via an attacker-controlled `fs_bsize` field.",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T00:54:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-12793",
+      "repo_info": "[abraxas/CVE-2026-12793](https://github.com/abraxas/CVE-2026-12793)",
+      "description": "CVE-2026-12793 - JetFormBuilder Unauthorized RCE (CRITICAL 9.8)",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T02:44:56Z"
+    }
+  ],
+  "generated_at": "2026-09-17T05:55:35.349726",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-09-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "count": 20,
+  "count": 21,
   "cves": [
     {
       "cve_id": "CVE-2026-86218",
@@ -94,6 +94,13 @@
       "raw_date": "2026-09-07T07:59:03Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[imeiplus/galaxy-a37-root](https://github.com/imeiplus/galaxy-a37-root)",
+      "description": "CVE-2026-43499 exploit payload for Samsung Galaxy A37 (A376BXXS4AZG4, kernel 6.1.138-android14-11)",
+      "date": "2026-09-07",
+      "raw_date": "2026-09-07T18:47:00Z"
+    },
+    {
       "cve_id": "CVE-2026-42031",
       "repo_info": "[ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner](https://github.com/ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner)",
       "description": "CVE-2026-42031 SQL Injection Scanner for CKAN DataStore",
@@ -143,9 +150,9 @@
       "raw_date": "2026-09-07T15:48:10Z"
     }
   ],
-  "generated_at": "2026-09-17T04:27:36.462308",
+  "generated_at": "2026-09-17T05:55:35.346736",
   "metadata": {
-    "total_cves": 20,
+    "total_cves": 21,
     "date_range": "2026-09-07",
     "source": "README.md",
     "script_version": "2.0"

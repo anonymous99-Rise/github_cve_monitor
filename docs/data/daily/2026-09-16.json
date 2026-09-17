@@ -1,18 +1,144 @@
 {
   "date": "2026-09-16",
-  "count": 1,
+  "count": 19,
   "cves": [
+    {
+      "cve_id": "CVE-2026-89026",
+      "repo_info": "[cflowsec/CVE-2026-89026](https://github.com/cflowsec/CVE-2026-89026)",
+      "description": "Issabel pbxapi hard coded JWT RCE POC",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T17:34:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-84616",
+      "repo_info": "[Ping-2o/ios.CVE-2026-84616-84607](https://github.com/Ping-2o/ios.CVE-2026-84616-84607)",
+      "description": "research on finding the bug and fix of CVE-2026-84616 and CVE-2026-84607",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T11:00:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-84600",
+      "repo_info": "[OwenPawl/CVE-2026-84600](https://github.com/OwenPawl/CVE-2026-84600)",
+      "description": "Information on the security content of Apple software updates",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T21:42:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-80428",
+      "repo_info": "[shivammittal2403/cve-2026-80428-ctf](https://github.com/shivammittal2403/cve-2026-80428-ctf)",
+      "description": "no description",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T12:41:22Z"
+    },
     {
       "cve_id": "CVE-2026-65374",
       "repo_info": "[HORKimhab/CVE-2026-65374](https://github.com/HORKimhab/CVE-2026-65374)",
       "description": "CVE-2026-65374 - Draft or TODO",
       "date": "2026-09-16",
       "raw_date": "2026-09-16T04:12:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-65330",
+      "repo_info": "[csrXamfi/CVE-2026-65330](https://github.com/csrXamfi/CVE-2026-65330)",
+      "description": "My first CVE",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T11:22:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-56096",
+      "repo_info": "[yairHinkis/CVE-2026-56096](https://github.com/yairHinkis/CVE-2026-56096)",
+      "description": "Proof of Concept and Write-up for CVE-2026-56096 (Blind Parameter Injection in TYPO3 EXT:solr)",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T15:40:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-54512",
+      "repo_info": "[cklinisme/doris-spark-connector-cve](https://github.com/cklinisme/doris-spark-connector-cve)",
+      "description": "Unofficial Apache Doris Spark connector 26.1.0 security fork for Java / Spark 3.5.1 / Scala 2.12; patched shaded Jackson for CVE-2026-54512.",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T17:15:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-54512",
+      "repo_info": "[avergnaud/flight-sql-jdbc-driver-cve-2026-54512](https://github.com/avergnaud/flight-sql-jdbc-driver-cve-2026-54512)",
+      "description": "no description",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T15:34:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-5430",
+      "repo_info": "[HORKimhab/CVE-2026-5430](https://github.com/HORKimhab/CVE-2026-5430)",
+      "description": "CVE-2026-5430 - Draft or TODO",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T05:56:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-49975",
+      "repo_info": "[naheeju/POC-CVE-2026-49975](https://github.com/naheeju/POC-CVE-2026-49975)",
+      "description": "Security research PoC for CVE-2026-49975: HTTP/2 HPACK compression bomb + flow-control hold DoS in Apache mod_http2",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T07:21:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-44246",
+      "repo_info": "[sushant-me/agentic-workflow-injection](https://github.com/sushant-me/agentic-workflow-injection)",
+      "description": "Reproducible vulnerable/fixed fixtures for agentic workflow injection in GitHub Actions (CVE-2026-44246), plus measured detector coverage",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T21:24:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[huaguiqi/asus-i005-cve-2026-43499](https://github.com/huaguiqi/asus-i005-cve-2026-43499)",
+      "description": "CVE-2026-43499 (GhostLock) adaptation for ASUS ROG Phone 5S — UAF trigger + pselect stack reclaim, KASLR leak blocked",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T17:10:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[ctdal/cve-2026-41940-PoC](https://github.com/ctdal/cve-2026-41940-PoC)",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T13:47:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-22686",
+      "repo_info": "[moi404/CVE-2026-22686-RemoteCodeExecution-RCE-PoC](https://github.com/moi404/CVE-2026-22686-RemoteCodeExecution-RCE-PoC)",
+      "description": "CVE-2026-22686-RemoteCodeExecution-RCE-PoC",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T11:37:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-12944",
+      "repo_info": "[ShadowForge-Cyber/CVE-2026-12944](https://github.com/ShadowForge-Cyber/CVE-2026-12944)",
+      "description": "Langflow 1.10.0 urllib SSRF",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T21:38:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-12793",
+      "repo_info": "[rootxn/CVE-2026-12793](https://github.com/rootxn/CVE-2026-12793)",
+      "description": "no description",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T15:18:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-12793",
+      "repo_info": "[murrez/CVE-2026-12793](https://github.com/murrez/CVE-2026-12793)",
+      "description": "CVE-2026-12793 PoC — JetFormBuilder ≤3.6.2 unauth Register User / admin account creation",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T14:43:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-0994",
+      "repo_info": "[Vardhan0257/upb-any-recursion-audit](https://github.com/Vardhan0257/upb-any-recursion-audit)",
+      "description": "Ruby/PHP upb Any-recursion audit: falsified vs CVE-2026-0994 bug class",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T12:55:11Z"
     }
   ],
-  "generated_at": "2026-09-17T04:27:36.465188",
+  "generated_at": "2026-09-17T05:55:35.349505",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 19,
     "date_range": "2026-09-16",
     "source": "README.md",
     "script_version": "2.0"
