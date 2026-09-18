@@ -1,7 +1,14 @@
 {
   "date": "2026-09-03",
-  "count": 30,
+  "count": 31,
   "cves": [
+    {
+      "cve_id": "CVE-2026-92162",
+      "repo_info": "[0xSemizzz/CVE-2026-92162](https://github.com/0xSemizzz/CVE-2026-92162)",
+      "description": "CVE-2026-92162: Path traversal in the Flatpak system helper: an unvalidated arch parameter in DeployAppstream lets an active local user create root-owned directories anywhere. Write-up and test-mode PoC.",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T16:52:37Z"
+    },
     {
       "cve_id": "CVE-2026-87008",
       "repo_info": "[squeeze440/code-graph-rag-PoC](https://github.com/squeeze440/code-graph-rag-PoC)",
@@ -213,9 +220,9 @@
       "raw_date": "2026-09-03T21:51:08Z"
     }
   ],
-  "generated_at": "2026-09-18T04:11:56.858940",
+  "generated_at": "2026-09-18T05:42:45.076059",
   "metadata": {
-    "total_cves": 30,
+    "total_cves": 31,
     "date_range": "2026-09-03",
     "source": "README.md",
     "script_version": "2.0"

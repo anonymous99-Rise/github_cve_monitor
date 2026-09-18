@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "count": 19,
+  "count": 21,
   "cves": [
     {
       "cve_id": "CVE-2026-89026",
@@ -24,11 +24,25 @@
       "raw_date": "2026-09-16T21:42:22Z"
     },
     {
+      "cve_id": "CVE-2026-80521",
+      "repo_info": "[Markakd/Container_escape](https://github.com/Markakd/Container_escape)",
+      "description": "container escape POCs for CVE-2026-80521 and CVE-2026-52910",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T21:04:26Z"
+    },
+    {
       "cve_id": "CVE-2026-80428",
       "repo_info": "[shivammittal2403/cve-2026-80428-ctf](https://github.com/shivammittal2403/cve-2026-80428-ctf)",
       "description": "no description",
       "date": "2026-09-16",
       "raw_date": "2026-09-16T12:41:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-72708",
+      "repo_info": "[ambionics/spip-exploits](https://github.com/ambionics/spip-exploits)",
+      "description": "spip exploits for CVE-2026-72708, CVE-2026-72709, CVE-2026-72710",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T14:33:50Z"
     },
     {
       "cve_id": "CVE-2026-65374",
@@ -136,9 +150,9 @@
       "raw_date": "2026-09-16T12:55:11Z"
     }
   ],
-  "generated_at": "2026-09-18T04:11:56.862059",
+  "generated_at": "2026-09-18T05:42:45.079540",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 21,
     "date_range": "2026-09-16",
     "source": "README.md",
     "script_version": "2.0"

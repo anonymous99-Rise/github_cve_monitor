@@ -1,13 +1,160 @@
 {
   "date": "2026-09-17",
-  "count": 2,
+  "count": 23,
   "cves": [
+    {
+      "cve_id": "CVE-2026-92805",
+      "repo_info": "[cflowsec/CVE-2026-92805](https://github.com/cflowsec/CVE-2026-92805)",
+      "description": "UVdesk unauth wizard super-admin POC",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T16:57:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-88533",
+      "repo_info": "[HEMLOCK-LYK/CVE-2026-88533](https://github.com/HEMLOCK-LYK/CVE-2026-88533)",
+      "description": "PoC and lab reproduction for CVE-2026-88533",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T17:54:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-87930",
+      "repo_info": "[winrarzipsexploit/CVE-2026-87930](https://github.com/winrarzipsexploit/CVE-2026-87930)",
+      "description": "CVE-2026-87930 Joomla Multi-CVE RCE suite — authorized testing only",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T18:44:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-87796",
+      "repo_info": "[abraxas/CVE-2026-87796](https://github.com/abraxas/CVE-2026-87796)",
+      "description": "CVE-2026-87796 - Multi Uploader for Gravity Forms &lt;= 1.1.9; Unauthorized RCE (CRITICAL 9.8)",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T23:28:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[tc4dy/CVE-2026-85706-PoC-Toolkit](https://github.com/tc4dy/CVE-2026-85706-PoC-Toolkit)",
+      "description": "🪬 CVE-2026-85706 – GitLab Unauth File Read Toolkit (CVSS 10.0) - Red/Blue Team suite for self-managed GitLab CE/EE 18.7–19.3.1. 2 tools: Full Exploit (unauth file read, admin token, mass scan, loot, shell, stealth, SQLite/HTML/JSON output) etc., SafeChecker (version detect, audit, security headers, TLS check, MITRE). Only Use Ethically, Educ. &lt;3",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T18:06:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-85048",
+      "repo_info": "[SneakyNachos/CVE-2026-85048-the-gpu-died](https://github.com/SneakyNachos/CVE-2026-85048-the-gpu-died)",
+      "description": "no description",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T15:38:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-85045",
+      "repo_info": "[SneakyNachos/CVE-2026-85045](https://github.com/SneakyNachos/CVE-2026-85045)",
+      "description": "no description",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T15:36:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-80467",
+      "repo_info": "[SangSenimanWartefak/CVE-2026-80467](https://github.com/SangSenimanWartefak/CVE-2026-80467)",
+      "description": "no description",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T16:22:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-76461",
+      "repo_info": "[S3v3n-JG/CVE-2026-76461](https://github.com/S3v3n-JG/CVE-2026-76461)",
+      "description": "CVE-2026-76461",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T12:47:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-76460",
+      "repo_info": "[S3v3n-JG/CVE-2026-76460](https://github.com/S3v3n-JG/CVE-2026-76460)",
+      "description": "CVE-2026-76460",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T12:00:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-67401",
+      "repo_info": "[imbas007/CVE-2026-67401](https://github.com/imbas007/CVE-2026-67401)",
+      "description": "PoC for CVE-2026-67401 — cPanel/WHM EmailTrack SQL injection leading to arbitrary file write and root RCE. Includes a self-contained vulnerable lab, SQLi detection, and full exploit chain.",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T06:53:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-65616",
+      "repo_info": "[alixiacf/rep-openai-artifactory](https://github.com/alixiacf/rep-openai-artifactory)",
+      "description": "Forensic Analysis and Local Replication of the OpenAI-Artifactory Privilege Escalation Incident (CVE-2026-65616)",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T12:59:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-59827",
+      "repo_info": "[shivammittal2403/cve-2026-59827-metabase-cyber-range](https://github.com/shivammittal2403/cve-2026-59827-metabase-cyber-range)",
+      "description": "Educational cyber range for CVE-2026-59827 (Metabase H2 unsafe deserialization / CWE-502). Isolated Docker lab — training only, not for attacking production Metabase.",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T06:16:21Z"
+    },
     {
       "cve_id": "CVE-2026-55781",
       "repo_info": "[g17hubH4ck/CVE-2026-55781-poc](https://github.com/g17hubH4ck/CVE-2026-55781-poc)",
       "description": "Unbounded memory allocation in NanaZip&#x27;s UFS handler via an attacker-controlled `fs_bsize` field.",
       "date": "2026-09-17",
       "raw_date": "2026-09-17T00:54:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-49179",
+      "repo_info": "[overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection](https://github.com/overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection)",
+      "description": "CVE-2026-49179: Active Directory WriteSPNScript Command Injection",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T14:02:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-48908",
+      "repo_info": "[winrarzipsexploit/CVE-2026-48908](https://github.com/winrarzipsexploit/CVE-2026-48908)",
+      "description": "CVE-2026-48908 SP Page Builder (Joomla) unauth RCE suite — authorized testing only",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T17:48:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-44840",
+      "repo_info": "[isaca0315/CVE-2026-44840-poc](https://github.com/isaca0315/CVE-2026-44840-poc)",
+      "description": "no description",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T03:07:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[diyiqiuye/ghostlock-pfem10](https://github.com/diyiqiuye/ghostlock-pfem10)",
+      "description": "GhostLock (CVE-2026-43499) for OPPO Find X5 Pro (PFEM10) — OPlus watchdog &amp; heap-spray detector reverse engineering",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T06:37:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-32604",
+      "repo_info": "[K3ysTr0K3R/CVE-2026-32604](https://github.com/K3ysTr0K3R/CVE-2026-32604)",
+      "description": "A PoC exploit for CVE-2026-32604 - Spinnaker GitRepo Artifact RCE",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T20:48:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-27540",
+      "repo_info": "[winrarzipsexploit/CVE-2026-27540](https://github.com/winrarzipsexploit/CVE-2026-27540)",
+      "description": "CVE-2026-27540 WWLC WordPress unauth upload RCE suite — authorized testing only",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T18:44:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-19975",
+      "repo_info": "[HORKimhab/CVE-2026-19975](https://github.com/HORKimhab/CVE-2026-19975)",
+      "description": "CVE-2026-19975 - Draft or TODO",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T06:57:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-1961",
+      "repo_info": "[kalnux/CVE-2026-1961-foreman-poc](https://github.com/kalnux/CVE-2026-1961-foreman-poc)",
+      "description": "PoC for CVE-2026-1961 — command injection in Foreman&#x27;s WebSocket proxy (lib/ws_proxy.rb) via unsanitized compute resource hostname, leading to RCE as the foreman user. Responsibly disclosed and patched.",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T19:16:49Z"
     },
     {
       "cve_id": "CVE-2026-12793",
@@ -17,9 +164,9 @@
       "raw_date": "2026-09-17T02:44:56Z"
     }
   ],
-  "generated_at": "2026-09-18T04:11:56.862259",
+  "generated_at": "2026-09-18T05:42:45.079763",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 23,
     "date_range": "2026-09-17",
     "source": "README.md",
     "script_version": "2.0"

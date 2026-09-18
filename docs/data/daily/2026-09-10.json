@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "count": 24,
+  "count": 25,
   "cves": [
     {
       "cve_id": "CVE-2026-87491",
@@ -94,6 +94,13 @@
       "raw_date": "2026-09-10T02:15:06Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[cxlfhx/ghostlock-pfem10](https://github.com/cxlfhx/ghostlock-pfem10)",
+      "description": "GhostLock (CVE-2026-43499 / IonStack) research for OPPO Find X5 Pro (PFEM10): exploit chain, progress, blocker log, and OPPO 5-series kernel notes",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T09:06:44Z"
+    },
+    {
       "cve_id": "CVE-2026-42613",
       "repo_info": "[ivanesk315/CVE-2026-42613](https://github.com/ivanesk315/CVE-2026-42613)",
       "description": "no description",
@@ -171,9 +178,9 @@
       "raw_date": "2026-09-10T17:43:25Z"
     }
   ],
-  "generated_at": "2026-09-18T04:11:56.860813",
+  "generated_at": "2026-09-18T05:42:45.078032",
   "metadata": {
-    "total_cves": 24,
+    "total_cves": 25,
     "date_range": "2026-09-10",
     "source": "README.md",
     "script_version": "2.0"
