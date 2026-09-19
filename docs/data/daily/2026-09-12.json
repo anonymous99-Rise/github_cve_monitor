@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "count": 15,
+  "count": 16,
   "cves": [
     {
       "cve_id": "CVE-2026-87575",
@@ -87,6 +87,13 @@
       "raw_date": "2026-09-12T04:24:35Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[MuhamadRifkii/CVE-2026-43499-POCO-X3-GT](https://github.com/MuhamadRifkii/CVE-2026-43499-POCO-X3-GT)",
+      "description": "no description",
+      "date": "2026-09-12",
+      "raw_date": "2026-09-12T08:11:52Z"
+    },
+    {
       "cve_id": "CVE-2026-33439",
       "repo_info": "[infernosalex/CVE-2026-33439-Python-PoC](https://github.com/infernosalex/CVE-2026-33439-Python-PoC)",
       "description": "Python PoC for CVE-2026-33439, an OpenAM pre-authentication RCE via jato.clientSession deserialization",
@@ -108,9 +115,9 @@
       "raw_date": "2026-09-12T00:03:07Z"
     }
   ],
-  "generated_at": "2026-09-19T04:08:35.989882",
+  "generated_at": "2026-09-19T05:37:23.741119",
   "metadata": {
-    "total_cves": 15,
+    "total_cves": 16,
     "date_range": "2026-09-12",
     "source": "README.md",
     "script_version": "2.0"

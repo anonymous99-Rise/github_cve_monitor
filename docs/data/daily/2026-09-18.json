@@ -1,13 +1,41 @@
 {
   "date": "2026-09-18",
-  "count": 4,
+  "count": 16,
   "cves": [
+    {
+      "cve_id": "CVE-2026-93453",
+      "repo_info": "[Faceless0x7/CVE-2026-93453](https://github.com/Faceless0x7/CVE-2026-93453)",
+      "description": "CVE-2026-93453 Exploit — SOGo password reset link poisoning via attacker-controlled Origin header, enabling password reset token interception and account takeover.",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T06:40:15Z"
+    },
     {
       "cve_id": "CVE-2026-91843",
       "repo_info": "[HORKimhab/CVE-2026-91843](https://github.com/HORKimhab/CVE-2026-91843)",
       "description": "CVE-2026-91843 - Draft or TODO",
       "date": "2026-09-18",
       "raw_date": "2026-09-18T01:56:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-8726",
+      "repo_info": "[Shentao83/news-8.6.0-cve-2026-8726-backport](https://github.com/Shentao83/news-8.6.0-cve-2026-8726-backport)",
+      "description": "Minimal security backport for CVE-2026-8726 in georgringer/news 8.6.0",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T22:22:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-84753",
+      "repo_info": "[abraxas/CVE-2026-84753](https://github.com/abraxas/CVE-2026-84753)",
+      "description": "CVE-2026-84753 - WPFunnels - Critical 9.8 - Unauthenticated POST /?rest_route=/mint-mail/v1/mint-form-... - PHP Object Injection",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T16:51:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-82226",
+      "repo_info": "[abraxas/CVE-2026-82226](https://github.com/abraxas/CVE-2026-82226)",
+      "description": "CVE-2026-82226 - Tickera - Critical 9.8 - Unauthenticated POST /cart/ - PHP Object Injection",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T17:37:42Z"
     },
     {
       "cve_id": "CVE-2026-81642",
@@ -17,6 +45,13 @@
       "raw_date": "2026-09-18T04:22:42Z"
     },
     {
+      "cve_id": "CVE-2026-77991",
+      "repo_info": "[abraxas/CVE-2026-77991](https://github.com/abraxas/CVE-2026-77991)",
+      "description": "CVE-2026-77991 - joomlaeventmanager.net - Critical - Privileged POST /administrator/index.php - Remote Code Execution",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T16:25:53Z"
+    },
+    {
       "cve_id": "CVE-2026-77179",
       "repo_info": "[HORKimhab/CVE-2026-77179](https://github.com/HORKimhab/CVE-2026-77179)",
       "description": "CVE-2026-77179 - Draft or TODO",
@@ -24,16 +59,65 @@
       "raw_date": "2026-09-18T01:55:38Z"
     },
     {
+      "cve_id": "CVE-2026-75827",
+      "repo_info": "[abraxas/CVE-2026-75827](https://github.com/abraxas/CVE-2026-75827)",
+      "description": "CVE-2026-75827 - getgrav - High 8.8 - Unauthenticated GET /poc-form - Arbitrary File Write",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T17:57:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[RMDycz/K80Pro-miro-CVE-2026-64560](https://github.com/RMDycz/K80Pro-miro-CVE-2026-64560)",
+      "description": "Device-bound CVE-2026-64560 adaptation for RedMi K80pro miro OS 3.0.304.0",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T06:54:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[arvindear/wp2shell-PoC](https://github.com/arvindear/wp2shell-PoC)",
+      "description": "CVE-2026-63030 &amp; CVE-2026-60137 RCE chain proof-of-concept",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T16:35:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-45140",
+      "repo_info": "[abraxas/CVE-2026-45140](https://github.com/abraxas/CVE-2026-45140)",
+      "description": "CVE-2026-45140 - chamilo - Critical 9.8 - Unauthenticated POST /plugin/CStudio/editor/import-project... - Remote Code Execution",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T18:24:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[Minime794/copyfail](https://github.com/Minime794/copyfail)",
+      "description": "Copy-Fail-Exploit-CVE-2026-31431",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T10:37:39Z"
+    },
+    {
       "cve_id": "CVE-2026-18574",
       "repo_info": "[HORKimhab/CVE-2026-18574](https://github.com/HORKimhab/CVE-2026-18574)",
       "description": "CVE-2026-18574 - Draft or TODO",
       "date": "2026-09-18",
       "raw_date": "2026-09-18T01:58:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-18464",
+      "repo_info": "[ghoxtbyte/CVE-2026-18464](https://github.com/ghoxtbyte/CVE-2026-18464)",
+      "description": "Security advisory and research notes for CVE-2026-18464 affecting the WP Maps Pro WordPress plugin.",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T16:50:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-16265",
+      "repo_info": "[ghoxtbyte/CVE-2026-16265](https://github.com/ghoxtbyte/CVE-2026-16265)",
+      "description": "Security advisory and research notes for CVE-2026-16265 affecting the WP Maps WordPress plugin.",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T16:44:59Z"
     }
   ],
-  "generated_at": "2026-09-19T04:08:35.990741",
+  "generated_at": "2026-09-19T05:37:23.742673",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 16,
     "date_range": "2026-09-18",
     "source": "README.md",
     "script_version": "2.0"
