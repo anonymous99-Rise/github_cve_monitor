@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-20",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-23111",
+      "repo_info": "[vvsy46/CVE-2026-23111-PoC](https://github.com/vvsy46/CVE-2026-23111-PoC)",
+      "description": "no description",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T02:53:22Z"
+    }
+  ],
+  "generated_at": "2026-09-20T05:55:46.255515",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-09-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

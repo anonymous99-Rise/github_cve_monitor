@@ -1,6 +1,6 @@
 {
   "date": "2026-05-22",
-  "count": 1,
+  "count": 2,
   "cves": [
     {
       "cve_id": "CVE-2026-5281",
@@ -8,11 +8,18 @@
       "description": "no description",
       "date": "2026-05-22",
       "raw_date": "2026-05-22T08:50:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[arensballiu/CVE-2026-33017-langflow-rce](https://github.com/arensballiu/CVE-2026-33017-langflow-rce)",
+      "description": "Proof-of-concept for CVE-2026-33017, demonstrating unauthenticated remote code execution in vulnerable Langflow versions through malicious CustomComponent code injection.",
+      "date": "2026-05-22",
+      "raw_date": "2026-05-22T22:01:05Z"
     }
   ],
-  "generated_at": "2026-09-20T04:27:54.429830",
+  "generated_at": "2026-09-20T05:55:46.227237",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-05-22",
     "source": "README.md",
     "script_version": "2.0"
