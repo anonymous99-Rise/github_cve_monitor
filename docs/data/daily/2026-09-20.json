@@ -1,7 +1,119 @@
 {
   "date": "2026-09-20",
-  "count": 1,
+  "count": 17,
   "cves": [
+    {
+      "cve_id": "CVE-2026-93958",
+      "repo_info": "[HackSpeak/CVE-2026-93958](https://github.com/HackSpeak/CVE-2026-93958)",
+      "description": "D-Link R95 (BE9500) DHMAPI SetTimeSettings command injection -&gt; root RCE PoC (CVE-2026-93958); for authorized testing",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T13:10:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-89274",
+      "repo_info": "[Polosss/By-Poloss..-.CVE-2026-89274](https://github.com/Polosss/By-Poloss..-.CVE-2026-89274)",
+      "description": "Unauthenticated Arbitrary Shortcode Execution",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T16:50:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-88854",
+      "repo_info": "[murrez/CVE-2026-88854](https://github.com/murrez/CVE-2026-88854)",
+      "description": "CVE-2026-88854 — OrdaSoft Joomla Gallery unauth SQLi PoC (check / mass scan / EXTRACTVALUE read)",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T18:59:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-86552",
+      "repo_info": "[minanagehsalalma/zte-smartlife-app-pwned](https://github.com/minanagehsalalma/zte-smartlife-app-pwned)",
+      "description": "ZTE SmartLife security findings leading to account takeover: 100K+ Google Play downloads and CVE-2026-86552 through CVE-2026-86555.",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T19:12:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-78844",
+      "repo_info": "[0Linear/CVE-2026-78844](https://github.com/0Linear/CVE-2026-78844)",
+      "description": "no description",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T10:24:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-78306",
+      "repo_info": "[Wh02m1/CVE-2026-78306](https://github.com/Wh02m1/CVE-2026-78306)",
+      "description": "no description",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T14:50:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-77812",
+      "repo_info": "[Wh02m1/CVE-2026-77812](https://github.com/Wh02m1/CVE-2026-77812)",
+      "description": "no description",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T20:33:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-71217",
+      "repo_info": "[Reelix/CVE-2026-71217-PoC](https://github.com/Reelix/CVE-2026-71217-PoC)",
+      "description": "A PoC for CVE-2026-71217",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T13:37:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-53266",
+      "repo_info": "[suominen/CVE-2026-53266](https://github.com/suominen/CVE-2026-53266)",
+      "description": "no description",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T06:03:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[TheAndersMadsen/humane-aipin-ghostlock](https://github.com/TheAndersMadsen/humane-aipin-ghostlock)",
+      "description": "Guarded, source-only Humane AI Pin root PoC for CVE-2026-43499",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T19:18:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[coey0814/Fold8-Ultra-Root-F976N](https://github.com/coey0814/Fold8-Ultra-Root-F976N)",
+      "description": "One-tap KernelSU installer for the Galaxy Z Fold 8 Ultra (SM-F976N / q8q) using the CVE-2026-43499 late-load exploit via Shizuku. Supports F976NKSU1AZGI, F976NKSS2AZH7, F976NKSU3AZI5",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T14:08:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-41452",
+      "repo_info": "[o-sec/CVE-2026-41452-poc](https://github.com/o-sec/CVE-2026-41452-poc)",
+      "description": "no description",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T23:31:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[mfahdk/CVE-2026-39987_RCE_PoC](https://github.com/mfahdk/CVE-2026-39987_RCE_PoC)",
+      "description": "no description",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T12:40:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-36213",
+      "repo_info": "[yzy0okrkv1hngo0r/CVE-2026-36213-poc](https://github.com/yzy0okrkv1hngo0r/CVE-2026-36213-poc)",
+      "description": "CVE-2026-36213: MEmu Android Emulator 9.2.7.0 Local Privilege Escalation",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T09:50:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-33439",
+      "repo_info": "[rh33t/CVE-2026-33439-Poc](https://github.com/rh33t/CVE-2026-33439-Poc)",
+      "description": "PoC for CVE-2026-33439, a pre-auth RCE in OpenAM via unsafe Java deserialization.",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T22:40:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-28609",
+      "repo_info": "[devrodT2/CVE-2026-28609-matroska-pcm-oob](https://github.com/devrodT2/CVE-2026-28609-matroska-pcm-oob)",
+      "description": "Proof-of-concept and instrumented reproduction harness for CVE-2026-28609, an out-of-bounds write in Android&#x27;s MatroskaExtractor reachable via a crafted WebM file with a big-endian PCM audio track.",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T17:31:00Z"
+    },
     {
       "cve_id": "CVE-2026-23111",
       "repo_info": "[vvsy46/CVE-2026-23111-PoC](https://github.com/vvsy46/CVE-2026-23111-PoC)",
@@ -10,9 +122,9 @@
       "raw_date": "2026-09-20T02:53:22Z"
     }
   ],
-  "generated_at": "2026-09-21T04:25:52.943268",
+  "generated_at": "2026-09-21T06:02:04.966855",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 17,
     "date_range": "2026-09-20",
     "source": "README.md",
     "script_version": "2.0"

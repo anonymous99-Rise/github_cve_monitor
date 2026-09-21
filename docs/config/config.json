@@ -1,7 +1,7 @@
 {
-  "github_token": "ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJRUXRGS1d0c1hUTHc5a3hYN1huRUVZdFd3WklDaW1mQjNTRDVJUlRzMEFxNUhRYmF4ZUp1eGhRIiwiZXhwIjoxNzg5ODg3Mjk4LCJpYXQiOjE3ODk4ODM2OTgsImlzcyI6ImdpdGh1YiIsImp0aSI6Ijc2Mjk4MmRlLTdmM2EtNDYyMi1hODVlLWVjZGY5NGJkZTFjMCIsInZlciI6M30.QZ6ERdWGpMtSzPoYRmQhc1gmb5XIqU33_O4TVq8nVu8WfNRX2TLX9QPww7Uc8hJnDIXLtRNStDw5PjXB_df4xg",
+  "github_token": "ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJpRHRMZjNZb3YzV3ZWWlhMSmRSbTNFVFRnbkpfZDR2Y25sd0dtUkIxZ0tCMVdRRkF2Sl9VaW5NIiwiZXhwIjoxNzg5OTc0MDc2LCJpYXQiOjE3ODk5NzA0NzYsImlzcyI6ImdpdGh1YiIsImp0aSI6IjVjNjhiOGUzLTE5MGYtNDFlMC05YjYyLTdjODEzN2FiMWE1YiIsInZlciI6M30.9-a1JUQcZ6DRqmIO1ybhJzrnoQONrxferTBttVZc-IY5vT8-zKDqe98mI-Pao_N8Cmb6am30ykq8HQnRUvKADA",
   "api_base_url": "https://api.github.com",
   "repository": "anonymous99-Rise/github_cve_monitor",
-  "generated_at": "2026-09-20T05:55:02Z",
+  "generated_at": "2026-09-21T06:01:20Z",
   "token_note": "GitHub Actions内置Token"
 }
