@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "count": 7,
+  "count": 30,
   "cves": [
     {
       "cve_id": "CVE-2026-94129",
@@ -10,6 +10,41 @@
       "raw_date": "2026-09-21T05:38:55Z"
     },
     {
+      "cve_id": "CVE-2026-94128",
+      "repo_info": "[lzty/CVE-2026-94128](https://github.com/lzty/CVE-2026-94128)",
+      "description": "POC for CVE-2026-94128",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T08:26:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-94095",
+      "repo_info": "[HackSpeak/CVE-2026-94095](https://github.com/HackSpeak/CVE-2026-94095)",
+      "description": "Netcore NBR200V2 traceroute command injection PoC (CVE-2026-94095); ubus JSON-RPC -&gt; system() root RCE; for authorized testing",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T10:48:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-93680",
+      "repo_info": "[rmhowe425/POC-CVE-2026-93680](https://github.com/rmhowe425/POC-CVE-2026-93680)",
+      "description": "Proof of concept exploit code for CVE-2026-93680",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T23:03:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-93528",
+      "repo_info": "[muradislamzada/CVE-2026-93528](https://github.com/muradislamzada/CVE-2026-93528)",
+      "description": "Technical details, proof of concept, and responsible disclosure timeline for CVE-2026-93528 (Unauthenticated Order Data Disclosure in NP Quote Request for WooCommerce).",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T15:34:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-91097",
+      "repo_info": "[murrez/HP-HPLIP-Mass-CVE-checker-2026-09-](https://github.com/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-)",
+      "description": "Mass check/research exploit for HP HPLIP CVE-2026-91097–91106 (&lt;3.26.6), PAPPL :8000 IPP probes + hpssd templates",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T19:43:39Z"
+    },
+    {
       "cve_id": "CVE-2026-90817",
       "repo_info": "[murrez/CVE-2026-90817](https://github.com/murrez/CVE-2026-90817)",
       "description": "Unauth REDCap RCE (CVE-2026-90817) mass check PoC — requires public survey hash for full validation.",
@@ -17,11 +52,39 @@
       "raw_date": "2026-09-21T04:05:26Z"
     },
     {
+      "cve_id": "CVE-2026-90817",
+      "repo_info": "[ExDev994/CVE-2026-90817](https://github.com/ExDev994/CVE-2026-90817)",
+      "description": "no description",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T06:07:55Z"
+    },
+    {
       "cve_id": "CVE-2026-8932",
       "repo_info": "[nimaarek/CVE-2026-8932-PoC](https://github.com/nimaarek/CVE-2026-8932-PoC)",
       "description": "CVE-2026-8932 PoC - incomplete mTLS config matching in conn reuse",
       "date": "2026-09-21",
       "raw_date": "2026-09-21T01:35:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-89026",
+      "repo_info": "[AranFarzami/CVE-2026-89026](https://github.com/AranFarzami/CVE-2026-89026)",
+      "description": "PoC exploit and scanner for CVE-2026-89026, targeting the Issabel PBXAPI authentication vulnerability",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T10:59:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-88997",
+      "repo_info": "[pervinzahidli/CVE-2026-88997](https://github.com/pervinzahidli/CVE-2026-88997)",
+      "description": "JSM Show Post Metadata &lt; 4.9.1 - Contributor+ Stored XSS via Custom Field Meta Key",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T17:09:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-84568",
+      "repo_info": "[jvidhan/autofs-cve-2026-84568](https://github.com/jvidhan/autofs-cve-2026-84568)",
+      "description": "no description",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T07:53:09Z"
     },
     {
       "cve_id": "CVE-2026-81000",
@@ -38,6 +101,13 @@
       "raw_date": "2026-09-21T02:04:54Z"
     },
     {
+      "cve_id": "CVE-2026-77078",
+      "repo_info": "[wtfkimi/CVE-2026-77078](https://github.com/wtfkimi/CVE-2026-77078)",
+      "description": "Example how to use this CVE",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T12:12:57Z"
+    },
+    {
       "cve_id": "CVE-2026-74469",
       "repo_info": "[HORKimhab/CVE-2026-74469](https://github.com/HORKimhab/CVE-2026-74469)",
       "description": "CVE-2026-74469 DiagSpill",
@@ -45,16 +115,107 @@
       "raw_date": "2026-09-21T02:40:22Z"
     },
     {
+      "cve_id": "CVE-2026-68771",
+      "repo_info": "[Oscar-Collado/comfyui-CVE-2026-68771-PoC](https://github.com/Oscar-Collado/comfyui-CVE-2026-68771-PoC)",
+      "description": "Security research lab — Unauthenticated RCE via insecure deserialization in ComfyUI v0.23.0 (CVSS 9.8). Isolated Docker environment, technical analysis and documentation.",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T08:17:05Z"
+    },
+    {
       "cve_id": "CVE-2026-68121",
       "repo_info": "[HORKimhab/CVE-2026-68121](https://github.com/HORKimhab/CVE-2026-68121)",
       "description": "CVE-2026-68121 PPPoEject",
       "date": "2026-09-21",
       "raw_date": "2026-09-21T02:34:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[madfxr/xss2shell-poc](https://github.com/madfxr/xss2shell-poc)",
+      "description": "XSS2Shell: WordPress Preauth XSS to RCE Chain (CVE-2026-64638)",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T22:35:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-43786",
+      "repo_info": "[Malwation/CVE-2026-43786](https://github.com/Malwation/CVE-2026-43786)",
+      "description": "Proof of concept for CVE-2026-43786, a local privilege escalation vulnerability in macOS CoreServices that allows an application to gain root privileges.",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T15:02:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[MKE84/neo8-ghostlock-adaptation](https://github.com/MKE84/neo8-ghostlock-adaptation)",
+      "description": "iQOO Neo8 (PD2301, 5.10.246 GKI) CVE-2026-43499 GhostLock 适配 · 48 宏 target.h + offsets.json + 15 轮实测 log · 只缺 write layer",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T19:30:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[deancyl/s9180-rootmygalaxy](https://github.com/deancyl/s9180-rootmygalaxy)",
+      "description": "RootMyGalaxy for Galaxy S23 Ultra SM-S9180 (FZG1) - temp root via CVE-2026-43499, KernelSU late-load, no partition flashing, no Knox",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T08:44:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[Minime794/DirtyFrag](https://github.com/Minime794/DirtyFrag)",
+      "description": "Linux CVE-2026-43284 &amp; CVE-2026-43500",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T11:49:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-42978",
+      "repo_info": "[coactionbrittlemaidenhair51/coactionbrittlemaidenhair51.github.io](https://github.com/coactionbrittlemaidenhair51/coactionbrittlemaidenhair51.github.io)",
+      "description": "Explore and validate CVE-2026-42978 PoC with an integrated AI security tool, multi-protocol terminal, and autonomous agent suite for Windows Push Notifications.",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T23:16:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-42978",
+      "repo_info": "[coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research](https://github.com/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research)",
+      "description": "Exploit and analyze CVE-2026-42978 with a Windows Push Notifications module for AI security, multi-protocol terminal, and autonomous agent suite.",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T23:14:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[yasouxken/cve-2026-41940-PoC](https://github.com/yasouxken/cve-2026-41940-PoC)",
+      "description": "A tool for exploiting CVE-2026-41940, a critical authentication bypass in cPanel &amp; WHM (CVSS 10.0), allowing unauthenticated attackers to gain root-level WHM access by injecting CRLF sequences into server-side session files via the Authorization header — no credentials required.",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T18:23:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-41089",
+      "repo_info": "[Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC](https://github.com/Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC)",
+      "description": "Automate Netlogon CVE-2026-41089 validation and defensive testing through integrated AI security workflows, enabling rapid risk assessment and mitigation verification.",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T23:18:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-29057",
+      "repo_info": "[learnerxuan/CVE-2026-29057-POC](https://github.com/learnerxuan/CVE-2026-29057-POC)",
+      "description": "no description",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T14:48:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-28618",
+      "repo_info": "[raafatabualazm/streambox-cve-2026-28618](https://github.com/raafatabualazm/streambox-cve-2026-28618)",
+      "description": "Redacted notes on CVE-2026-28618 / StreamBox APV lab — heap write into a session object via FRAME height mismatch",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T13:19:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-14894",
+      "repo_info": "[Nxploited/CVE-2026-14894](https://github.com/Nxploited/CVE-2026-14894)",
+      "description": "Arbitrary File Upload Under",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T12:53:33Z"
     }
   ],
-  "generated_at": "2026-09-22T04:21:23.431571",
+  "generated_at": "2026-09-22T05:58:22.417118",
   "metadata": {
-    "total_cves": 7,
+    "total_cves": 30,
     "date_range": "2026-09-21",
     "source": "README.md",
     "script_version": "2.0"

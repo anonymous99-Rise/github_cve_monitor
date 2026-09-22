@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "count": 39,
+  "count": 40,
   "cves": [
     {
       "cve_id": "CVE-2026-59827",
@@ -71,6 +71,13 @@
       "description": "no description",
       "date": "2026-07-15",
       "raw_date": "2026-07-15T04:14:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-49049",
+      "repo_info": "[6ickzone/Helix3-Mass-Exploiter](https://github.com/6ickzone/Helix3-Mass-Exploiter)",
+      "description": "Mass Exploiter for CVE-2026-49049",
+      "date": "2026-07-15",
+      "raw_date": "2026-07-15T02:59:18Z"
     },
     {
       "cve_id": "CVE-2026-48909",
@@ -276,9 +283,9 @@
       "raw_date": "2026-07-15T16:16:28Z"
     }
   ],
-  "generated_at": "2026-09-22T04:21:23.412668",
+  "generated_at": "2026-09-22T05:58:22.400029",
   "metadata": {
-    "total_cves": 39,
+    "total_cves": 40,
     "date_range": "2026-07-15",
     "source": "README.md",
     "script_version": "2.0"

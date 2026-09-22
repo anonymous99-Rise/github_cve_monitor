@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-22",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-93674",
+      "repo_info": "[rmhowe425/POC-CVE-2026-93674](https://github.com/rmhowe425/POC-CVE-2026-93674)",
+      "description": "POC-CVE-2026-93674 Authenticated Blind command injection proof of concept exploit code",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T01:54:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-91097",
+      "repo_info": "[Nxploited/CVE-2026-91097-CVE-2026-91106](https://github.com/Nxploited/CVE-2026-91097-CVE-2026-91106)",
+      "description": "HPLIP &lt; 3.26.6 — Full admin takeover via PAPPL web interface (no auth). Related to CVE-2026-91097 through CVE-2026-91106 (CVSS 9.3)",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T04:49:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-61628",
+      "repo_info": "[abraxas/CVE-2026-61628](https://github.com/abraxas/CVE-2026-61628)",
+      "description": "CVE-2026-61628 - nginx-ignition - High 8.1 - Unauthenticated Privilege Escalation (Administrator Account Creation)",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T03:05:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-28576",
+      "repo_info": "[Aayushbankar/cve-2026-28576](https://github.com/Aayushbankar/cve-2026-28576)",
+      "description": "CVE-2026-28576 (GHSA-ph86-9mcx-3p6r) — Android Contacts Provider SQL Injection via targetSdk-gated ENFORCE_STRICT_SQL_CHECKS. Zero-permission boolean-oracle PoC + Red Team app with consent-gated dashboard exfiltration.",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T04:23:04Z"
+    }
+  ],
+  "generated_at": "2026-09-22T05:58:22.417448",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-09-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
