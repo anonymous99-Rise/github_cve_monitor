@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "count": 4,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-93674",
@@ -10,11 +10,81 @@
       "raw_date": "2026-09-22T01:54:32Z"
     },
     {
+      "cve_id": "CVE-2026-93616",
+      "repo_info": "[WadesWeaponShed/CVE-2026-93616_Checks](https://github.com/WadesWeaponShed/CVE-2026-93616_Checks)",
+      "description": "Simple Checks to look for indicators of compromise",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T16:28:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-93485",
+      "repo_info": "[0xBlackash/CVE-2026-93485](https://github.com/0xBlackash/CVE-2026-93485)",
+      "description": "CVE-2026-93485",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T13:47:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-93485",
+      "repo_info": "[HORKimhab/CVE-2026-93485](https://github.com/HORKimhab/CVE-2026-93485)",
+      "description": "CVE-2026-93485 - Draft or TODO",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T09:34:07Z"
+    },
+    {
       "cve_id": "CVE-2026-91097",
       "repo_info": "[Nxploited/CVE-2026-91097-CVE-2026-91106](https://github.com/Nxploited/CVE-2026-91097-CVE-2026-91106)",
       "description": "HPLIP &lt; 3.26.6 — Full admin takeover via PAPPL web interface (no auth). Related to CVE-2026-91097 through CVE-2026-91106 (CVSS 9.3)",
       "date": "2026-09-22",
       "raw_date": "2026-09-22T04:49:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[vulpecuna/CVE-2026-87902](https://github.com/vulpecuna/CVE-2026-87902)",
+      "description": "Unauthenticated RCE on Wordpress",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T18:32:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[abraxas/CVE-2026-87902](https://github.com/abraxas/CVE-2026-87902)",
+      "description": "CVE-2026-87902 - WordPress - WordPress Core - Critical 9.2 - Unauthenticated Local File Inclusion (conditional RCE)",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T18:13:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[griisemine/cve-2026-87902-detection](https://github.com/griisemine/cve-2026-87902-detection)",
+      "description": "no description",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T19:57:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[ressl/cve-2026-87902-poc](https://github.com/ressl/cve-2026-87902-poc)",
+      "description": "PoC for CVE-2026-87902 — unauthenticated path traversal in WordPress page-template resolution (local PHP inclusion, conditional RCE) with a pinned vulnerable lab",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T18:40:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-84388",
+      "repo_info": "[ShadowForge-Cyber/CVE-2026-84388-POC](https://github.com/ShadowForge-Cyber/CVE-2026-84388-POC)",
+      "description": "Improper Restriction of Rendered UI Layers or Frames (CWE-1021)",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T16:22:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-68376",
+      "repo_info": "[gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc](https://github.com/gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc)",
+      "description": "CVE-2026-68376 - Ubuntu Kernel 7.0.0-30",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T11:06:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-62878",
+      "repo_info": "[nmlz/CVE-2026-62878](https://github.com/nmlz/CVE-2026-62878)",
+      "description": "no description",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T20:54:12Z"
     },
     {
       "cve_id": "CVE-2026-61628",
@@ -24,16 +94,72 @@
       "raw_date": "2026-09-22T03:05:55Z"
     },
     {
+      "cve_id": "CVE-2026-51772",
+      "repo_info": "[sadandbset/CVE-2026-51772-CVE-2026-51772](https://github.com/sadandbset/CVE-2026-51772-CVE-2026-51772)",
+      "description": "This project describes detailed information about the CVE-2026-51772 and CVE-2026-51773 vulnerabilities.",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T12:34:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-51772",
+      "repo_info": "[sadandbset/CVE-2026-51772-CVE-2026-51773](https://github.com/sadandbset/CVE-2026-51772-CVE-2026-51773)",
+      "description": "This project describes detailed information about the CVE-2026-51772 vulnerability.",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T11:57:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-5118",
+      "repo_info": "[SangSenimanWartefak/CVE-2026-5118](https://github.com/SangSenimanWartefak/CVE-2026-5118)",
+      "description": "no description",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T23:45:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-48519",
+      "repo_info": "[lukehebe/IBM-Langflow-CVE-2026-48519-poc](https://github.com/lukehebe/IBM-Langflow-CVE-2026-48519-poc)",
+      "description": "CVE-2026-48519 pre-auth rce poc in IBM langflow &lt;= 1.9.1",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T16:35:55Z"
+    },
+    {
       "cve_id": "CVE-2026-28576",
       "repo_info": "[Aayushbankar/cve-2026-28576](https://github.com/Aayushbankar/cve-2026-28576)",
       "description": "CVE-2026-28576 (GHSA-ph86-9mcx-3p6r) — Android Contacts Provider SQL Injection via targetSdk-gated ENFORCE_STRICT_SQL_CHECKS. Zero-permission boolean-oracle PoC + Red Team app with consent-gated dashboard exfiltration.",
       "date": "2026-09-22",
       "raw_date": "2026-09-22T04:23:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-23921",
+      "repo_info": "[qucklecrabik/CVE-2026-23921](https://github.com/qucklecrabik/CVE-2026-23921)",
+      "description": "This repository contains a proof-of-concept (PoC) exploit for CVE-2026-23921",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T20:10:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-19658",
+      "repo_info": "[murrez/CVE-2026-19658](https://github.com/murrez/CVE-2026-19658)",
+      "description": "WordPress Give Tributes CVE-2026-19658: Python 3 checker, FOFA helper, legacy Give form exploit path (CWE-502, CVSS 9.8).",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T06:37:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-13355",
+      "repo_info": "[murrez/CVE-2026-13355](https://github.com/murrez/CVE-2026-13355)",
+      "description": "CVE-2026-13355 PoC — Meta Box AIO ≤3.11.0 unauthenticated admin privesc via MB Frontend Submission + User Profile shortcode chain. Python check/exploit, FOFA helper, mass scan with live flow.",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T06:08:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-39964",
+      "repo_info": "[mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-](https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-)",
+      "description": "Neutralizing CISA active Linux kernel CVEs (CVE-2025-39964, CVE-2026-53266, CVE-2025-39682) via modern eBPF, module disarmament, and containerd user namespaces.",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T10:06:44Z"
     }
   ],
-  "generated_at": "2026-09-23T04:18:41.941298",
+  "generated_at": "2026-09-23T05:42:54.574743",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 22,
     "date_range": "2026-09-22",
     "source": "README.md",
     "script_version": "2.0"

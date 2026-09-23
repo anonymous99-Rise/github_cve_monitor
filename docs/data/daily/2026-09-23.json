@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-23",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-93616",
+      "repo_info": "[nebula031/CVE-2026-93616-PoC](https://github.com/nebula031/CVE-2026-93616-PoC)",
+      "description": "no description",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T02:39:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-90898",
+      "repo_info": "[HORKimhab/CVE-2026-90898](https://github.com/HORKimhab/CVE-2026-90898)",
+      "description": "CVE-2026-90898 - Draft or TODO",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T01:41:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-90847",
+      "repo_info": "[shlln/CVE-2026-90847](https://github.com/shlln/CVE-2026-90847)",
+      "description": "no description",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T03:56:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[dinosn/cve-2026-87902-wordpress-lfi-lab](https://github.com/dinosn/cve-2026-87902-wordpress-lfi-lab)",
+      "description": "Reproduction lab + URL-list scanner + PoC for CVE-2026-87902 / GHSA-7hp8-65ch-5whp — WordPress get_page_template() unauthenticated LFI to conditional RCE (WP 4.7.0-7.1.1, fixed 7.1.2). Authorized/defensive testing.",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T05:20:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[rabakuku/CVE-2026-87902-A-working-PoC-for-WordPress-s-critical-path-traversal](https://github.com/rabakuku/CVE-2026-87902-A-working-PoC-for-WordPress-s-critical-path-traversal)",
+      "description": "Critical Zero-Authentication Vulnerability Alert! CVE-2026-87902 carries a massive CVSS 9.2 rating affecting nearly every version of WordPress Core from 4.7.0 up through 7.1.1. how attackers chain it with PHP environments to achieve full Remote Code Execution (RCE), and exactly how to mitigate and patch it immediately.",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T02:44:20Z"
+    }
+  ],
+  "generated_at": "2026-09-23T05:42:54.575037",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2026-09-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
