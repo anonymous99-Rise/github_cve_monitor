@@ -1,7 +1,14 @@
 {
   "date": "2026-09-16",
-  "count": 21,
+  "count": 22,
   "cves": [
+    {
+      "cve_id": "CVE-2026-92680",
+      "repo_info": "[grepstrength/CVE-2026-92680](https://github.com/grepstrength/CVE-2026-92680)",
+      "description": "Proof-of-Concept for CVE-2026-92680, the insecurely protected credentials vulnerability affecting Araxis Merge",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T23:50:38Z"
+    },
     {
       "cve_id": "CVE-2026-89026",
       "repo_info": "[cflowsec/CVE-2026-89026](https://github.com/cflowsec/CVE-2026-89026)",
@@ -150,9 +157,9 @@
       "raw_date": "2026-09-16T12:55:11Z"
     }
   ],
-  "generated_at": "2026-09-24T04:14:29.986332",
+  "generated_at": "2026-09-24T05:58:30.563146",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-09-16",
     "source": "README.md",
     "script_version": "2.0"

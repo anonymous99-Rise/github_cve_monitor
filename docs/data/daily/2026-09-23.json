@@ -1,13 +1,41 @@
 {
   "date": "2026-09-23",
-  "count": 5,
+  "count": 23,
   "cves": [
+    {
+      "cve_id": "CVE-2026-94545",
+      "repo_info": "[Hassham1/CVE-2026-94545-nextjs-og-poc](https://github.com/Hassham1/CVE-2026-94545-nextjs-og-poc)",
+      "description": "CVE-2026-94545 / GHSA-vcvr-r3jv-pc5j — Next.js next/og ImageResponse SVG injection (Satori, GHSA-wx4j-mvgx-mqwp): isolated Docker validation lab with vulnerable (16.3.5) vs patched (16.3.6) controls, non-destructive Python scanner with pixel-level PNG evidence, and root-cause analysis of the upstream Satori fix. Authorized security research only.",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T14:51:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-94545",
+      "repo_info": "[HORKimhab/CVE-2026-94545](https://github.com/HORKimhab/CVE-2026-94545)",
+      "description": "CVE-2026-94545 - Draft or TODO",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T07:13:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-94127",
+      "repo_info": "[FurkanKAYAPINAR/CVE-2026-94127](https://github.com/FurkanKAYAPINAR/CVE-2026-94127)",
+      "description": "CVE-2026-94127",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T10:38:29Z"
+    },
     {
       "cve_id": "CVE-2026-93616",
       "repo_info": "[nebula031/CVE-2026-93616-PoC](https://github.com/nebula031/CVE-2026-93616-PoC)",
       "description": "no description",
       "date": "2026-09-23",
       "raw_date": "2026-09-23T02:39:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-93349",
+      "repo_info": "[SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection](https://github.com/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection)",
+      "description": "Frictionless &lt;= 5.20.0rc1 OS command injection via CLI explore.",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T16:07:06Z"
     },
     {
       "cve_id": "CVE-2026-90898",
@@ -24,6 +52,13 @@
       "raw_date": "2026-09-23T03:56:47Z"
     },
     {
+      "cve_id": "CVE-2026-89274",
+      "repo_info": "[Hassham1/CVE-2026-89274-wp-recipe-maker-poc](https://github.com/Hassham1/CVE-2026-89274-wp-recipe-maker-poc)",
+      "description": "CVE-2026-89274 — WP Recipe Maker &lt;= 10.8.1 arbitrary shortcode execution via rating-comment reviewBody (CVSS 9.1): Docker validation lab with vulnerable (10.8.1) vs patched (10.8.2) controls, Python PoC proving server-side shortcode execution in recipe JSON-LD, nuclei version screen. Authorized security research only.",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T16:18:56Z"
+    },
+    {
       "cve_id": "CVE-2026-87902",
       "repo_info": "[dinosn/cve-2026-87902-wordpress-lfi-lab](https://github.com/dinosn/cve-2026-87902-wordpress-lfi-lab)",
       "description": "Reproduction lab + URL-list scanner + PoC for CVE-2026-87902 / GHSA-7hp8-65ch-5whp — WordPress get_page_template() unauthenticated LFI to conditional RCE (WP 4.7.0-7.1.1, fixed 7.1.2). Authorized/defensive testing.",
@@ -36,11 +71,102 @@
       "description": "Critical Zero-Authentication Vulnerability Alert! CVE-2026-87902 carries a massive CVSS 9.2 rating affecting nearly every version of WordPress Core from 4.7.0 up through 7.1.1. how attackers chain it with PHP environments to achieve full Remote Code Execution (RCE), and exactly how to mitigate and patch it immediately.",
       "date": "2026-09-23",
       "raw_date": "2026-09-23T02:44:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[tc4dy/CVE-2026-87902-Toolkit](https://github.com/tc4dy/CVE-2026-87902-Toolkit)",
+      "description": "CVE-2026-87902 – WordPress Core LFI→RCE Toolkit (CVSS 9.2) - Red/Blue Team suite for WordPress 4.7–7.1.1. 🛠️ 2 tools: Full Exploit (LFI, PEAR RCE, admin create, webshell, reverse shell, loot, mass scan, stealth) &amp; SafeChecker (version detect, risk audit, JSON report). 🔨 Use Ethically &amp; Authorized Enviorement, Stay Legal  &lt;3",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T19:21:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[Lutfifakee-Project/CVE-2026-87902](https://github.com/Lutfifakee-Project/CVE-2026-87902)",
+      "description": "CVE-2026-87902 PoC — WordPress Core Pre-Auth Path Traversal → LFI → RCE",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T21:06:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[oliveiralimajr/CVE_2026_87902](https://github.com/oliveiralimajr/CVE_2026_87902)",
+      "description": "Exploit pycve_2026_87902_scanner.py /tmp/local.txt --console",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T18:19:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[bhideki/CVE-2026-87902](https://github.com/bhideki/CVE-2026-87902)",
+      "description": "CVE-2026-87902:  PoC for WordPress&#x27;s critical path traversal",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T17:59:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[ynsmroztas/WPSniper](https://github.com/ynsmroztas/WPSniper)",
+      "description": "CVE-2026-87902 detector. WordPress get_page_template LFI class. Detect-only. Authorized lab.",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T12:20:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[Hassham1/CVE-2026-87902](https://github.com/Hassham1/CVE-2026-87902)",
+      "description": "WordPress Core &lt;= 7.1.1 unauthenticated LFI to RCE - validation lab, PoC, nuclei template (GHSA-7hp8-65ch-5whp)",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T11:54:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[zer0dayf/CVE-2026-87902](https://github.com/zer0dayf/CVE-2026-87902)",
+      "description": "no description",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T11:03:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-86218",
+      "repo_info": "[super-meuw/CVE-2026-86218](https://github.com/super-meuw/CVE-2026-86218)",
+      "description": "CVE-2026-86218",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T12:32:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499](https://github.com/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499)",
+      "description": "GhostLock (CVE-2026-43499) root + KernelSU LKM for the Lenovo TB365FC (ZUXOS / Android 16, kernel 5.15.170)",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T04:09:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[AriyanPegu/ghostlock-app](https://github.com/AriyanPegu/ghostlock-app)",
+      "description": "GhostLock One-Tap Execution App (CVE-2026-43499)",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T14:28:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-27626",
+      "repo_info": "[abdelhakimgaferNetworkSec/Enigm-Writeup](https://github.com/abdelhakimgaferNetworkSec/Enigm-Writeup)",
+      "description": "Comprehensive penetration testing write-up and exploit details for Hack The Box - Enigma machine, covering local enumeration, OliveTin CVE-2026-27626 command injection, and root privilege escalation",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T18:48:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-19125",
+      "repo_info": "[Polosss/By-Poloss..-..CVE-2026-19125](https://github.com/Polosss/By-Poloss..-..CVE-2026-19125)",
+      "description": "Unauthenticated Authentication Bypass",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T14:25:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-1769",
+      "repo_info": "[Leox48/CVE-2026-1769-WriteUp](https://github.com/Leox48/CVE-2026-1769-WriteUp)",
+      "description": "Public write-up and disclosure timeline for CVE-2026-1769 (Stored XSS in Xerox CentreWare Web)",
+      "date": "2026-09-23",
+      "raw_date": "2026-09-23T08:09:37Z"
     }
   ],
-  "generated_at": "2026-09-24T04:14:29.988494",
+  "generated_at": "2026-09-24T05:58:30.565164",
   "metadata": {
-    "total_cves": 5,
+    "total_cves": 23,
     "date_range": "2026-09-23",
     "source": "README.md",
     "script_version": "2.0"

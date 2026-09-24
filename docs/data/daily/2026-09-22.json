@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "count": 22,
+  "count": 23,
   "cves": [
     {
       "cve_id": "CVE-2026-93674",
@@ -64,6 +64,13 @@
       "description": "PoC for CVE-2026-87902 — unauthenticated path traversal in WordPress page-template resolution (local PHP inclusion, conditional RCE) with a pinned vulnerable lab",
       "date": "2026-09-22",
       "raw_date": "2026-09-22T18:40:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-86060",
+      "repo_info": "[digiprosec/MicroTrick](https://github.com/digiprosec/MicroTrick)",
+      "description": "cve-2026-86060 PoC",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T13:23:54Z"
     },
     {
       "cve_id": "CVE-2026-84388",
@@ -157,9 +164,9 @@
       "raw_date": "2026-09-22T10:06:44Z"
     }
   ],
-  "generated_at": "2026-09-24T04:14:29.988193",
+  "generated_at": "2026-09-24T05:58:30.564876",
   "metadata": {
-    "total_cves": 22,
+    "total_cves": 23,
     "date_range": "2026-09-22",
     "source": "README.md",
     "script_version": "2.0"
