@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-24 05:58:03
+- **生成时间**: 2026-09-25 05:59:40
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -405,9 +405,11 @@
 | 🚫 未识别 | [Ishanoshada/Ollama-Hunter](https://github.com/Ishanoshada/Ollama-Hunter) | 🦙 Mass vulnerability scanner &amp; multi-CVE test harness for Ollama instances. 3 tools: cve_sweep.py (single-target), mass_scan.py (threaded mass scan), ollama-toolkit.py (read-only audit + chat). 30 checks, 26 CVEs (2024-2026). Python. | 2026-09-16T13:45:59Z|
 | 🚫 未识别 | [JinzoU-MwM/CVE-Lib](https://github.com/JinzoU-MwM/CVE-Lib) | CVE-Lib 2026 — 70,261 CVE records with offline-searchable PoC corpus, pinned versions, and local PoC source linkage (library/, exploitdb, metasploit, nuclei) | 2026-09-19T23:27:32Z|
 | 🚫 未识别 | [JdExploit/aapanel-cve-2026](https://github.com/JdExploit/aapanel-cve-2026) | no description | 2026-09-23T19:54:04Z|
+| 🚫 未识别 | [chuyenvanhu7235-pixel/TGSEC-Qtzuu123](https://github.com/chuyenvanhu7235-pixel/TGSEC-Qtzuu123) | TGSEC社区渗透套件 · 2026-09-23：cvebird最优9 harness + CVE独立仓差分 + 锁面。按攻击面组织，可喂给AI | 2026-09-24T09:12:03Z|
+| 🚫 未识别 | [lanyz1/TGSEC-Qtzuu](https://github.com/lanyz1/TGSEC-Qtzuu) | TGSEC社区渗透套件 · 2026-09-23：cvebird最优9 harness + CVE独立仓差分 + 锁面。按攻击面组织，可喂给AI | 2026-09-01T10:16:25Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-24 05:58:29  
-**总记录数**: 394
+**报告生成时间**: 2026-09-25 06:00:08  
+**总记录数**: 396

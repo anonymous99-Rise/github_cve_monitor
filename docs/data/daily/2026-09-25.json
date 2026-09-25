@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-25",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-93485",
+      "repo_info": "[DeathShotXD/Comment2Shell](https://github.com/DeathShotXD/Comment2Shell)",
+      "description": "Comment2Shell is a zero click pre auth RCE exploit for WordPress CVE-2026-93485. An anonymous comment plants stored XSS that fires when an admin views the post and drops a self deleting webshell. Full chain PoC with scanner interactive shell Nuclei template and Docker",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T00:13:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[joaovicdev/EXPLOIT-CVE-2026-87902](https://github.com/joaovicdev/EXPLOIT-CVE-2026-87902)",
+      "description": "Lab vulnerável (Docker) + PoC Python para a CVE-2026-87902 — path traversal não autenticado no WordPress Core (page-template -&gt; LFI -&gt; RCE condicional). Uso educacional/autorizado.",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T01:06:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[khellwan/CVE-2026-87902_PoC](https://github.com/khellwan/CVE-2026-87902_PoC)",
+      "description": "Proof of concept for vulnerability CVE-2026-87902 in Wordpress",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T00:56:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-79417",
+      "repo_info": "[connorjaydunn/CVE-2026-79417](https://github.com/connorjaydunn/CVE-2026-79417)",
+      "description": "CVE-2026-79417 PoC",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T00:57:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-65660",
+      "repo_info": "[HORKimhab/CVE-2026-65660](https://github.com/HORKimhab/CVE-2026-65660)",
+      "description": "CVE-2026-65660 - Draft or TODO",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T03:22:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-48842",
+      "repo_info": "[pocbit/CVE-2026-48842](https://github.com/pocbit/CVE-2026-48842)",
+      "description": "Roundcube virtuser_query pre-auth SQLi (CVE-2026-48842). Python PoC — version detect, virtuser plugin, login probe. https://pocbit.org",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T05:59:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[AthBe1337/CVE-2026-43499-poc](https://github.com/AthBe1337/CVE-2026-43499-poc)",
+      "description": "no description",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T02:45:58Z"
+    }
+  ],
+  "generated_at": "2026-09-25T06:00:09.805868",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2026-09-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

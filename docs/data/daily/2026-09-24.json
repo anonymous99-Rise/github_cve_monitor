@@ -1,13 +1,41 @@
 {
   "date": "2026-09-24",
-  "count": 6,
+  "count": 19,
   "cves": [
+    {
+      "cve_id": "CVE-2026-96515",
+      "repo_info": "[whoami-012/CVE-2026-96515](https://github.com/whoami-012/CVE-2026-96515)",
+      "description": "no description",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T12:54:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-94609",
+      "repo_info": "[anthonyk2923/CVE-2026-94609](https://github.com/anthonyk2923/CVE-2026-94609)",
+      "description": "CVE-2026-94609: Writeup and POC",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T17:32:31Z"
+    },
     {
       "cve_id": "CVE-2026-94504",
       "repo_info": "[cflowsec/cve-2026-94504](https://github.com/cflowsec/cve-2026-94504)",
       "description": "Ninja Forms unauth stored XSS POC",
       "date": "2026-09-24",
       "raw_date": "2026-09-24T01:07:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-94127",
+      "repo_info": "[watchtowrlabs/watchTowr-vs-f5-bigip-PreAuth-RCE-CVE-2026-94127](https://github.com/watchtowrlabs/watchTowr-vs-f5-bigip-PreAuth-RCE-CVE-2026-94127)",
+      "description": "no description",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T19:22:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-90817",
+      "repo_info": "[yulisec/CVE-2026-90817](https://github.com/yulisec/CVE-2026-90817)",
+      "description": "no description",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T07:39:38Z"
     },
     {
       "cve_id": "CVE-2026-87902",
@@ -17,11 +45,39 @@
       "raw_date": "2026-09-24T04:45:21Z"
     },
     {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[zyphorixofficialmain-lab/cve-2026-87902](https://github.com/zyphorixofficialmain-lab/cve-2026-87902)",
+      "description": "no description",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T14:02:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-8461",
+      "repo_info": "[se1ims/PixelSmash](https://github.com/se1ims/PixelSmash)",
+      "description": "A lab setup to test cve-2026-8461",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T23:14:47Z"
+    },
+    {
       "cve_id": "CVE-2026-84543",
       "repo_info": "[petermalone/CVE-2026-84543](https://github.com/petermalone/CVE-2026-84543)",
       "description": "Technical disclosure and PoC for CVE-2026-84543, a macOS SMB kernel vulnerability",
       "date": "2026-09-24",
       "raw_date": "2026-09-24T00:22:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-78306",
+      "repo_info": "[FEEDBEEF/Dji_ble_vuln](https://github.com/FEEDBEEF/Dji_ble_vuln)",
+      "description": "DJI Drone DUML Command Injection over Bluetooth — Proof of Concept for CVE-2026-78306",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T10:36:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-72001",
+      "repo_info": "[BiiTts/CVE-2026-72001-Pangolin-Cross-Org-Auth-Bypass](https://github.com/BiiTts/CVE-2026-72001-Pangolin-Cross-Org-Auth-Bypass)",
+      "description": "PoC for CVE-2026-72001 — Pangolin &lt; 1.22.0 cross-organization resource authentication bypass via the share-link access-token endpoint (CWE-639, CVSS 8.1).",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T19:54:24Z"
     },
     {
       "cve_id": "CVE-2026-63030",
@@ -43,11 +99,46 @@
       "description": "CVE-2026-43499 Honor YLP-W00 (6.12.38 PGO) root research",
       "date": "2026-09-24",
       "raw_date": "2026-09-24T03:07:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[nihan-silent-reign/CVE-2026-43284-DIRTY-FRAG-](https://github.com/nihan-silent-reign/CVE-2026-43284-DIRTY-FRAG-)",
+      "description": "Detailed technical analysis of CVE-2026-43284 (Dirty Frag) local privilege escalation flaw in the Linux kernel.",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T14:51:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-36539",
+      "repo_info": "[khaleedbt/netis-cve-2026-36539](https://github.com/khaleedbt/netis-cve-2026-36539)",
+      "description": "Скрипт проверки роутеров Netis",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T14:25:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-15015",
+      "repo_info": "[les-k/wp-secure-mcp](https://github.com/les-k/wp-secure-mcp)",
+      "description": "A WordPress plugin exposing an MCP server over the REST API, with the security model as the point -- closes the CVE-2026-15015 OAuth-bypass shape by never having that surface at all.",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T10:45:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-12227",
+      "repo_info": "[Hassham1/CVE-2026-12227-visualcomposer-lfi-poc](https://github.com/Hassham1/CVE-2026-12227-visualcomposer-lfi-poc)",
+      "description": "CVE-2026-12227 - Visual Composer &lt;= 45.16.0 unauthenticated LFI via vcv-template (CVSS 9.8): Docker validation lab, safe-oracle PoC, nuclei template. Root cause: validate-then-mutate on the theme: prefix. Verified: vendor fix never landed - fires through 45.16.3 on WP &lt;= 7.1.1; masked by WP 7.1.2 core gate.",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T17:44:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-12227",
+      "repo_info": "[murrez/CVE-2026-12227](https://github.com/murrez/CVE-2026-12227)",
+      "description": "CVE-2026-12227 (CVSS 9.8): WordPress Visual Composer Website Builder ≤45.16.0 — unauthenticated local file inclusion via vcv-template. Educational PoC only.",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T17:11:35Z"
     }
   ],
-  "generated_at": "2026-09-25T04:26:55.758798",
+  "generated_at": "2026-09-25T06:00:09.805584",
   "metadata": {
-    "total_cves": 6,
+    "total_cves": 19,
     "date_range": "2026-09-24",
     "source": "README.md",
     "script_version": "2.0"

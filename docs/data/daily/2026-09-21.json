@@ -1,7 +1,14 @@
 {
   "date": "2026-09-21",
-  "count": 30,
+  "count": 32,
   "cves": [
+    {
+      "cve_id": "CVE-2026-96889",
+      "repo_info": "[rafabd1/VectorFreed](https://github.com/rafabd1/VectorFreed)",
+      "description": "This repository documents the VectorFreed RCE chain and includes a PoC for CVE-2026-96889.",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T18:54:00Z"
+    },
     {
       "cve_id": "CVE-2026-94129",
       "repo_info": "[lzty/CVE-2026-94129](https://github.com/lzty/CVE-2026-94129)",
@@ -192,6 +199,13 @@
       "raw_date": "2026-09-21T23:18:09Z"
     },
     {
+      "cve_id": "CVE-2026-33634",
+      "repo_info": "[joaovicdev/EXPLOIT-CVE-2026-33634](https://github.com/joaovicdev/EXPLOIT-CVE-2026-33634)",
+      "description": "no description",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T22:21:09Z"
+    },
+    {
       "cve_id": "CVE-2026-29057",
       "repo_info": "[learnerxuan/CVE-2026-29057-POC](https://github.com/learnerxuan/CVE-2026-29057-POC)",
       "description": "no description",
@@ -213,9 +227,9 @@
       "raw_date": "2026-09-21T12:53:33Z"
     }
   ],
-  "generated_at": "2026-09-25T04:26:55.757788",
+  "generated_at": "2026-09-25T06:00:09.804543",
   "metadata": {
-    "total_cves": 30,
+    "total_cves": 32,
     "date_range": "2026-09-21",
     "source": "README.md",
     "script_version": "2.0"

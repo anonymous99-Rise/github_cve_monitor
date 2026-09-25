@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "count": 24,
+  "count": 25,
   "cves": [
     {
       "cve_id": "CVE-2026-67185",
@@ -169,11 +169,18 @@
       "description": "WPForms Pro &lt;= 1.10.1.1 - Unauthenticated Arbitrary File Write via Chunked Upload Init/Finalize Ordering",
       "date": "2026-07-26",
       "raw_date": "2026-07-26T09:29:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-0014",
+      "repo_info": "[cduram/NotCVE-2026-0014](https://github.com/cduram/NotCVE-2026-0014)",
+      "description": "Path traversal vulnerability in Input-Leap",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T01:24:06Z"
     }
   ],
-  "generated_at": "2026-09-25T04:26:55.741395",
+  "generated_at": "2026-09-25T06:00:09.788231",
   "metadata": {
-    "total_cves": 24,
+    "total_cves": 25,
     "date_range": "2026-07-26",
     "source": "README.md",
     "script_version": "2.0"

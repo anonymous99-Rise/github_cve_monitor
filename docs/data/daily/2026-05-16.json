@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "count": 5,
+  "count": 6,
   "cves": [
     {
       "cve_id": "CVE-2026-6433",
@@ -24,6 +24,13 @@
       "raw_date": "2026-05-16T12:13:01Z"
     },
     {
+      "cve_id": "CVE-2026-42945",
+      "repo_info": "[MateusVerass/nGixshell](https://github.com/MateusVerass/nGixshell)",
+      "description": "nginx CVE scanner + RCE exploit framework (CVE-2026-42945 + 16 others)",
+      "date": "2026-05-16",
+      "raw_date": "2026-05-16T14:25:39Z"
+    },
+    {
       "cve_id": "CVE-2026-41940",
       "repo_info": "[limo57640-crypto/cpanel-cve-41940-detector](https://github.com/limo57640-crypto/cpanel-cve-41940-detector)",
       "description": "Read-only cPanel CVE-2026-41940 IOC detector for .sorry ransomware, Mr_Rot13 Filemanager backdoors, C2 callbacks, cron, SSH, and logs.",
@@ -38,9 +45,9 @@
       "raw_date": "2026-05-16T12:12:50Z"
     }
   ],
-  "generated_at": "2026-09-25T04:26:55.719129",
+  "generated_at": "2026-09-25T06:00:09.766914",
   "metadata": {
-    "total_cves": 5,
+    "total_cves": 6,
     "date_range": "2026-05-16",
     "source": "README.md",
     "script_version": "2.0"
