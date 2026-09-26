@@ -1,13 +1,41 @@
 {
   "date": "2026-09-25",
-  "count": 7,
+  "count": 28,
   "cves": [
+    {
+      "cve_id": "CVE-2026-96512",
+      "repo_info": "[abraxas/CVE-2026-96512](https://github.com/abraxas/CVE-2026-96512)",
+      "description": "CVE-2026-96512 - sudo - High 7.8 - Authenticated LOCAL TZ=UTC+14 sudo -n /usr/bin/id - Local Privilege Escalation via Time-Window Bypass",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T22:12:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-96512",
+      "repo_info": "[Ermensonx/sudotimewarp-cve-2026-96512-](https://github.com/Ermensonx/sudotimewarp-cve-2026-96512-)",
+      "description": "no description",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T18:17:19Z"
+    },
     {
       "cve_id": "CVE-2026-93485",
       "repo_info": "[DeathShotXD/Comment2Shell](https://github.com/DeathShotXD/Comment2Shell)",
       "description": "Comment2Shell is a zero click pre auth RCE exploit for WordPress CVE-2026-93485. An anonymous comment plants stored XSS that fires when an admin views the post and drops a self deleting webshell. Full chain PoC with scanner interactive shell Nuclei template and Docker",
       "date": "2026-09-25",
       "raw_date": "2026-09-25T00:13:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-93399",
+      "repo_info": "[murrez/CVE-2026-93399](https://github.com/murrez/CVE-2026-93399)",
+      "description": "Unauthenticated IDOR in Bookly ≤ 28.2: bookly_get_form_id + bookly_render_complete leak any order’s bookly_order token; bookly_add_to_calendar exposes appointments; bookly_rollback_order cancels/deletes non-completed bookings. CVSS 9.1. Python check/exploit PoC — pocbit.org/pocs/cve-2026-93399",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T07:53:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-89055",
+      "repo_info": "[murrez/CVE-2026-89055](https://github.com/murrez/CVE-2026-89055)",
+      "description": "Unauthenticated authorization bypass in Customer Reviews for WooCommerce ≤ 5.120.0: holders of a public /cusrev/{formId}/ review link can POST cr_local_forms_submit with arbitrary Media Library attachment IDs in items[].media. Linked files are permanently deleted when the review comment is purged. Python check/exploit PoC (PoCbit catalog).",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T07:49:00Z"
     },
     {
       "cve_id": "CVE-2026-87902",
@@ -24,6 +52,27 @@
       "raw_date": "2026-09-25T00:56:30Z"
     },
     {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[SVTagan/WP-CVE-2026-87902](https://github.com/SVTagan/WP-CVE-2026-87902)",
+      "description": "WordPress CVE-2026-87902 diagnostic check",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T19:22:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-86350",
+      "repo_info": "[abraxas/CVE-2026-86350](https://github.com/abraxas/CVE-2026-86350)",
+      "description": "CVE-2026-86350 - Apache Tomcat - Critical 9.1 - Unauthenticated GET /header.jsp - HTTP/2 Request Header Mix-up (Request Smuggling)",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T21:58:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-86060",
+      "repo_info": "[gagaltotal/CVE-2026-mikrotik-poc](https://github.com/gagaltotal/CVE-2026-mikrotik-poc)",
+      "description": "CVE-2026-86060 - CVE-2026-67279 - CVE-2026-67276 RouterOS SSH",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T15:59:34Z"
+    },
+    {
       "cve_id": "CVE-2026-79417",
       "repo_info": "[connorjaydunn/CVE-2026-79417](https://github.com/connorjaydunn/CVE-2026-79417)",
       "description": "CVE-2026-79417 PoC",
@@ -38,6 +87,62 @@
       "raw_date": "2026-09-25T03:22:53Z"
     },
     {
+      "cve_id": "CVE-2026-65660",
+      "repo_info": "[ShadowForge-Cyber/CVE-2026-65660-Poc](https://github.com/ShadowForge-Cyber/CVE-2026-65660-Poc)",
+      "description": "Malicious Register Directive Code Injection Exploit",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T20:27:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[Become-ILLUSORY/cve-2026-64560-a16](https://github.com/Become-ILLUSORY/cve-2026-64560-a16)",
+      "description": "CVE-2026-64560 toolkit: Go single-binary toolchain + realme RMX5010 (A16, SM8750) target port",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T13:23:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[Wangs-official/opace6-cve-2026-64560](https://github.com/Wangs-official/opace6-cve-2026-64560)",
+      "description": "针对 OnePlus Ace6 设备的 cve-2026-64560 复现",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T13:42:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-62062",
+      "repo_info": "[abraxas/CVE-2026-62062](https://github.com/abraxas/CVE-2026-62062)",
+      "description": "CVE-2026-62062 - WordPress - Elementor Website Builder - High 8.8 - Unauthenticated POST /?rest_route=/wp/v2/users&amp;x=elementor... - Cross-Site Request Forgery to Administrator Account Creation",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T21:35:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-61732",
+      "repo_info": "[InertFluid/cve-2026-61732-lab](https://github.com/InertFluid/cve-2026-61732-lab)",
+      "description": "Benign, self-contained reproduction of CVE-2026-61732 (Decepticon ChatML role-boundary forgery)",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T06:47:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-59310",
+      "repo_info": "[ChinaRan0/CVE-2026-59310-POC](https://github.com/ChinaRan0/CVE-2026-59310-POC)",
+      "description": "CVE-2026-59310-POC 仅用于自测，请勿用于攻击",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T16:05:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-5430",
+      "repo_info": "[abraxas/CVE-2026-5430](https://github.com/abraxas/CVE-2026-5430)",
+      "description": "CVE-2026-5430 - WSO2 API Manager - Critical 10.0 - Unauthenticated Account Takeover - WSO2 API Control Plane, WSO2 API Manager, WSO2 Traffic Manager, WSO2 Universal Gateway",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T20:53:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-53576",
+      "repo_info": "[AtlasVector/Kestra-cve-2026-53576](https://github.com/AtlasVector/Kestra-cve-2026-53576)",
+      "description": "End-to-end reproduction and cross-layer detection of CVE-2026-53576, the unauthenticated RCE in Kestra — taken past the base PoC to show how a common Docker-socket misconfiguration turns container-root into full host compromise.",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T10:21:00Z"
+    },
+    {
       "cve_id": "CVE-2026-48842",
       "repo_info": "[pocbit/CVE-2026-48842](https://github.com/pocbit/CVE-2026-48842)",
       "description": "Roundcube virtuser_query pre-auth SQLi (CVE-2026-48842). Python PoC — version detect, virtuser plugin, login probe. https://pocbit.org",
@@ -45,16 +150,58 @@
       "raw_date": "2026-09-25T05:59:18Z"
     },
     {
+      "cve_id": "CVE-2026-48842",
+      "repo_info": "[murrez/CVE-2026-48842](https://github.com/murrez/CVE-2026-48842)",
+      "description": "Roundcube virtuser_query pre-auth SQLi (CVE-2026-48842). Python PoC — version detect, virtuser plugin, login probe. https://pocbit.org",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T05:59:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-46595",
+      "repo_info": "[sdodson/CVE-2026-46595-proof](https://github.com/sdodson/CVE-2026-46595-proof)",
+      "description": "no description",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T21:28:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-43687",
+      "repo_info": "[jvidhan/cve-2026-43687](https://github.com/jvidhan/cve-2026-43687)",
+      "description": "no description",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T06:06:52Z"
+    },
+    {
       "cve_id": "CVE-2026-43499",
       "repo_info": "[AthBe1337/CVE-2026-43499-poc](https://github.com/AthBe1337/CVE-2026-43499-poc)",
       "description": "no description",
       "date": "2026-09-25",
       "raw_date": "2026-09-25T02:45:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[0ch4/ghostlock-mrx-w09](https://github.com/0ch4/ghostlock-mrx-w09)",
+      "description": "CVE-2026-43499 (GhostLock) on Huawei MRX-W09 (MatePad Pro, Kirin 990, EMUI 11, Linux 4.14.116): root + complete root (SELinux shell permissive, CAP_SYS_ADMIN, global non-nosuid mount, 4755 root shell) and native privileged GMS/Play Store. Disassembly-proven primitives + a source-derived HKIP bypass.",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T09:44:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[RELIHR/CVE-2026-43499](https://github.com/RELIHR/CVE-2026-43499)",
+      "description": "a-16 kernel in",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T15:37:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-14281",
+      "repo_info": "[murrez/CVE-2026-14281](https://github.com/murrez/CVE-2026-14281)",
+      "description": "Unauthenticated privilege escalation in WordPress WAWP (Automation Web Platform) ≤ 4.8.6 via public REST signup and unsanitized wawp_custom_fields → admin. Python check/exploit PoC (PoCbit).",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T07:43:43Z"
     }
   ],
-  "generated_at": "2026-09-26T04:31:21.123566",
+  "generated_at": "2026-09-26T05:59:53.455793",
   "metadata": {
-    "total_cves": 7,
+    "total_cves": 28,
     "date_range": "2026-09-25",
     "source": "README.md",
     "script_version": "2.0"

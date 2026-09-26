@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-25 05:59:40
+- **生成时间**: 2026-09-26 05:59:25
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -407,9 +407,11 @@
 | 🚫 未识别 | [JdExploit/aapanel-cve-2026](https://github.com/JdExploit/aapanel-cve-2026) | no description | 2026-09-23T19:54:04Z|
 | 🚫 未识别 | [chuyenvanhu7235-pixel/TGSEC-Qtzuu123](https://github.com/chuyenvanhu7235-pixel/TGSEC-Qtzuu123) | TGSEC社区渗透套件 · 2026-09-23：cvebird最优9 harness + CVE独立仓差分 + 锁面。按攻击面组织，可喂给AI | 2026-09-24T09:12:03Z|
 | 🚫 未识别 | [lanyz1/TGSEC-Qtzuu](https://github.com/lanyz1/TGSEC-Qtzuu) | TGSEC社区渗透套件 · 2026-09-23：cvebird最优9 harness + CVE独立仓差分 + 锁面。按攻击面组织，可喂给AI | 2026-09-01T10:16:25Z|
+| 🚫 未识别 | [NGSecure/cve_tasks20260925B](https://github.com/NGSecure/cve_tasks20260925B) | no description | 2026-09-25T21:52:51Z|
+| 🚫 未识别 | [NGSecure/cve_tasks20260925A](https://github.com/NGSecure/cve_tasks20260925A) | no description | 2026-09-25T21:52:26Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-25 06:00:08  
-**总记录数**: 396
+**报告生成时间**: 2026-09-26 05:59:52  
+**总记录数**: 398

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "count": 23,
+  "count": 27,
   "cves": [
     {
       "cve_id": "CVE-2026-93674",
@@ -38,6 +38,20 @@
       "raw_date": "2026-09-22T04:49:01Z"
     },
     {
+      "cve_id": "CVE-2026-88877",
+      "repo_info": "[pwnVader/CVE-2026-88877-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-88877-PoC-pwnVader)",
+      "description": "no description",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T23:14:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-87915",
+      "repo_info": "[pwnVader/CVE-2026-87915-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-87915-PoC-pwnVader)",
+      "description": "no description",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T23:00:37Z"
+    },
+    {
       "cve_id": "CVE-2026-87902",
       "repo_info": "[vulpecuna/CVE-2026-87902](https://github.com/vulpecuna/CVE-2026-87902)",
       "description": "Unauthenticated RCE on Wordpress",
@@ -64,6 +78,13 @@
       "description": "PoC for CVE-2026-87902 — unauthenticated path traversal in WordPress page-template resolution (local PHP inclusion, conditional RCE) with a pinned vulnerable lab",
       "date": "2026-09-22",
       "raw_date": "2026-09-22T18:40:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[pwnVader/CVE-2026-87902-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader)",
+      "description": "no description",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T22:58:47Z"
     },
     {
       "cve_id": "CVE-2026-86060",
@@ -150,6 +171,13 @@
       "raw_date": "2026-09-22T06:37:07Z"
     },
     {
+      "cve_id": "CVE-2026-17089",
+      "repo_info": "[pwnVader/CVE-2026-17089-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-17089-PoC-pwnVader)",
+      "description": "no description",
+      "date": "2026-09-22",
+      "raw_date": "2026-09-22T22:59:49Z"
+    },
+    {
       "cve_id": "CVE-2026-13355",
       "repo_info": "[murrez/CVE-2026-13355](https://github.com/murrez/CVE-2026-13355)",
       "description": "CVE-2026-13355 PoC — Meta Box AIO ≤3.11.0 unauthenticated admin privesc via MB Frontend Submission + User Profile shortcode chain. Python check/exploit, FOFA helper, mass scan with live flow.",
@@ -164,9 +192,9 @@
       "raw_date": "2026-09-22T10:06:44Z"
     }
   ],
-  "generated_at": "2026-09-26T04:31:21.122282",
+  "generated_at": "2026-09-26T05:59:53.454768",
   "metadata": {
-    "total_cves": 23,
+    "total_cves": 27,
     "date_range": "2026-09-22",
     "source": "README.md",
     "script_version": "2.0"

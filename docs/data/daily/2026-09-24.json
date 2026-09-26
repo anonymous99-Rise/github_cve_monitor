@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "count": 19,
+  "count": 21,
   "cves": [
     {
       "cve_id": "CVE-2026-96515",
@@ -80,6 +80,13 @@
       "raw_date": "2026-09-24T19:54:24Z"
     },
     {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[a23bc/op13-cve-2026-64560](https://github.com/a23bc/op13-cve-2026-64560)",
+      "description": "no description",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T17:36:00Z"
+    },
+    {
       "cve_id": "CVE-2026-63030",
       "repo_info": "[fl0ydsec/CVE-2026-63030](https://github.com/fl0ydsec/CVE-2026-63030)",
       "description": "WP2Shell - CVE-2026-63030 + CVE-2026-60137 WordPress Core pre-auth RCE mass exploit",
@@ -115,6 +122,13 @@
       "raw_date": "2026-09-24T14:25:58Z"
     },
     {
+      "cve_id": "CVE-2026-16764",
+      "repo_info": "[hakaioffsec/CVE-2026-16764](https://github.com/hakaioffsec/CVE-2026-16764)",
+      "description": "This repository contains the exploit for CVE-2026-16764.",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T18:58:18Z"
+    },
+    {
       "cve_id": "CVE-2026-15015",
       "repo_info": "[les-k/wp-secure-mcp](https://github.com/les-k/wp-secure-mcp)",
       "description": "A WordPress plugin exposing an MCP server over the REST API, with the security model as the point -- closes the CVE-2026-15015 OAuth-bypass shape by never having that surface at all.",
@@ -136,9 +150,9 @@
       "raw_date": "2026-09-24T17:11:35Z"
     }
   ],
-  "generated_at": "2026-09-26T04:31:21.123159",
+  "generated_at": "2026-09-26T05:59:53.455464",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 21,
     "date_range": "2026-09-24",
     "source": "README.md",
     "script_version": "2.0"
