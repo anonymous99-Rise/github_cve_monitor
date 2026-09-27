@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "count": 23,
+  "count": 24,
   "cves": [
     {
       "cve_id": "CVE-2026-92805",
@@ -143,6 +143,13 @@
       "raw_date": "2026-09-17T18:44:20Z"
     },
     {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[wvverez/CVE-2026-23744](https://github.com/wvverez/CVE-2026-23744)",
+      "description": "exploit para reverse shell en MCPJamInspector v1.4.2&lt; por endpoint mal configurado",
+      "date": "2026-09-17",
+      "raw_date": "2026-09-17T15:57:13Z"
+    },
+    {
       "cve_id": "CVE-2026-19975",
       "repo_info": "[HORKimhab/CVE-2026-19975](https://github.com/HORKimhab/CVE-2026-19975)",
       "description": "CVE-2026-19975 - Draft or TODO",
@@ -164,9 +171,9 @@
       "raw_date": "2026-09-17T02:44:56Z"
     }
   ],
-  "generated_at": "2026-09-27T04:49:37.033278",
+  "generated_at": "2026-09-27T06:26:38.237765",
   "metadata": {
-    "total_cves": 23,
+    "total_cves": 24,
     "date_range": "2026-09-17",
     "source": "README.md",
     "script_version": "2.0"
