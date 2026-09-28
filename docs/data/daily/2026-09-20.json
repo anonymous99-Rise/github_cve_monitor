@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "count": 17,
+  "count": 18,
   "cves": [
     {
       "cve_id": "CVE-2026-93958",
@@ -120,11 +120,18 @@
       "description": "no description",
       "date": "2026-09-20",
       "raw_date": "2026-09-20T02:53:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-23111",
+      "repo_info": "[imeiplus/CVE-2026-23111-PoC](https://github.com/imeiplus/CVE-2026-23111-PoC)",
+      "description": "no description",
+      "date": "2026-09-20",
+      "raw_date": "2026-09-20T11:58:36Z"
     }
   ],
-  "generated_at": "2026-09-28T04:51:39.200645",
+  "generated_at": "2026-09-28T06:32:44.150670",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 18,
     "date_range": "2026-09-20",
     "source": "README.md",
     "script_version": "2.0"

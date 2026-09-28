@@ -1,7 +1,98 @@
 {
   "date": "2026-09-27",
-  "count": 2,
+  "count": 32,
   "cves": [
+    {
+      "cve_id": "CVE-2026-88772",
+      "repo_info": "[murrez/CVE-2026-88772](https://github.com/murrez/CVE-2026-88772)",
+      "description": "CVE-2026-88772 PoC: Citrix NetScaler ADC/Gateway DTLS memory overflow (RCE/DoS, CVSS 9.5). Fingerprints Gateway, build vs 14.1-73.37 / 13.1-64.23, UDP/443 DTLS probe. CTX697096; active exploitation reported. https://pocbit.org/pocs/cve-2026-88772",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T20:24:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-88008",
+      "repo_info": "[Boreas37/CVE-2026-88008-PoC](https://github.com/Boreas37/CVE-2026-88008-PoC)",
+      "description": "CVE-2026-88008 - Traefik (&lt;=2.11.56 / &lt;=3.7.12): a client-controlled h2c upgrade tunnels past routers and middleware (BasicAuth/ForwardAuth/IPAllowList), unauthorised access + no access logging. Stdlib-only Python PoC + real Jetty h2c lab, verified on v3.7.12 vs v3.7.13.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T22:58:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[Maalfer/CVE-2026-87902-exploit](https://github.com/Maalfer/CVE-2026-87902-exploit)",
+      "description": "Exploit para explotar la vulnerabilidad CVE-2026-87902 que se acontece en el core de WordPress",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T20:18:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[abatsakidis/wp-cve-2026-87902-checker](https://github.com/abatsakidis/wp-cve-2026-87902-checker)",
+      "description": "Defensive WordPress security scanner for CVE-2026-87902 — local filesystem inspection and safe remote HTTP/HTTPS assessment.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T18:20:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[langz337/CVE-2026-87902](https://github.com/langz337/CVE-2026-87902)",
+      "description": "Unauthenticated LFI and conditional RCE scanner for CVE-2026-87902 in WordPress Core (4.7.0 – 7.1.1).",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T12:03:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-8712",
+      "repo_info": "[rahulreddykarne/CVE-2026-8712-Wyoming](https://github.com/rahulreddykarne/CVE-2026-8712-Wyoming)",
+      "description": "CVE-2026-8712: Unauthenticated SSRF / Backend URI Override in Wyoming HTTP API via uri Query Parameter",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T06:55:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-8452",
+      "repo_info": "[techupdate24/citrix-netscaler-cve-2026-8452-rce](https://github.com/techupdate24/citrix-netscaler-cve-2026-8452-rce)",
+      "description": "A complete guide and workflow for integrating Agile sprints with DevOps CI/CD pipelines.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T07:29:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-76547",
+      "repo_info": "[H4zaz/CVE-2026-76547](https://github.com/H4zaz/CVE-2026-76547)",
+      "description": "PHP Object Injection in Profile Builder &lt; 4.0.1",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T16:16:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-71963",
+      "repo_info": "[Boreas37/CVE-2026-71963-PoC](https://github.com/Boreas37/CVE-2026-71963-PoC)",
+      "description": "CVE-2026-71963 - Hermes Agent 0.18.2-0.21.0 RCE via a repository-delivered .git/config (core.fsmonitor). Stdlib-only Python, verified on real 0.21.0 with a clean negative control on the fixed build.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T22:31:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-67279",
+      "repo_info": "[tc4dy/CVE-2026-67279-86060-Toolkit](https://github.com/tc4dy/CVE-2026-67279-86060-Toolkit)",
+      "description": "CVE-2026-67279 + CVE-2026-86060 – MikroTrick MikroTik RouterOS SSH Pre-Auth Takeover (CVSS 9.2) - Red/Blue Team suite. 2 tools: Full Exploit (rekey bypass, fd-2 policy swap, full-admin shell, plant, mass scan, SOCKS5/Tor, stealth) &amp; SafeDetect (banner/version audit, IoC guidance, JSON/CSV/HTML). Use Ethically &amp; Safety only.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T12:03:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[jed-parsec/CVE-2026-63030-60137-wp2shell-lab](https://github.com/jed-parsec/CVE-2026-63030-60137-wp2shell-lab)",
+      "description": "Unauthenticated SQL injection PoC and vulnerable lab environment for WP2Shell (CVE-2026-63030 + CVE-2026-60137) — a WordPress REST API batch route confusion chained into a WP_Query SQL injection. Includes Docker Compose lab setup and a Python exploitation script. For authorized security research only.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T13:25:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-48842",
+      "repo_info": "[4minx/CVE-2026-48842](https://github.com/4minx/CVE-2026-48842)",
+      "description": "CVE-2026-48842 PoC — Roundcube virtuser_query pre-auth SQLi",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T11:26:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[YellowKeyBitLocker-CVE/YellowKey-BitLocker-CVE-2026-45585](https://github.com/YellowKeyBitLocker-CVE/YellowKey-BitLocker-CVE-2026-45585)",
+      "description": "YellowKey BitLocker recovery audits CVE-2026-45585: yellowkey github, TPM, recovery key backup. Windows 10/11 CLI GUI, portable audit tool for volumes you own. Extract and run. Official free download. Download:➧",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T07:58:27Z"
+    },
     {
       "cve_id": "CVE-2026-44431",
       "repo_info": "[SSH-PuR66/cve-replay](https://github.com/SSH-PuR66/cve-replay)",
@@ -10,16 +101,135 @@
       "raw_date": "2026-09-27T05:18:59Z"
     },
     {
+      "cve_id": "CVE-2026-44011",
+      "repo_info": "[khush-613/CVE-2026-44011-poc](https://github.com/khush-613/CVE-2026-44011-poc)",
+      "description": "no description",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T22:01:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-44011",
+      "repo_info": "[Cyberuser-hash/CVE-2026-44011-craft-rce-poc](https://github.com/Cyberuser-hash/CVE-2026-44011-craft-rce-poc)",
+      "description": "CVE-2026-44011-craft-rce-poc",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T20:37:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-44011",
+      "repo_info": "[DENNISDGR/CVE-2026-44011-poc](https://github.com/DENNISDGR/CVE-2026-44011-poc)",
+      "description": "Authenticated Craft CMS RCE PoC for CVE-2026-44011",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T19:02:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-44011",
+      "repo_info": "[4xura/CVE-2026-44011-craftcms-auth-rce](https://github.com/4xura/CVE-2026-44011-craftcms-auth-rce)",
+      "description": "The PoC of CVE-2026-44011: Craft CMS RCE with an authenticated user.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T06:57:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-43805",
+      "repo_info": "[tls456/CVE-2026-43805-PoC](https://github.com/tls456/CVE-2026-43805-PoC)",
+      "description": "CVE-2026-43805 IOKit IODMACommand race analysis and proof of concept",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T14:47:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[a2333c/DFRoot](https://github.com/a2333c/DFRoot)",
+      "description": "三星 Galaxy S25 Ultra（SM-S938B）适配版 DFRoot：开机自动获取 root（DirtyFrag CVE-2026-43284 + CVE-2026-43499 双链路），全中文界面，fork 自 diabl0w/DFRoot",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T15:02:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-34990",
+      "repo_info": "[khush-613/CVE-2026-34990-poc](https://github.com/khush-613/CVE-2026-34990-poc)",
+      "description": "no description",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T21:38:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-34990",
+      "repo_info": "[predyy/CVE-2026-34990](https://github.com/predyy/CVE-2026-34990)",
+      "description": "CVE-2026-34990 minimal PoC. CUPS &lt;= 2.4.16 local privesc.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T19:41:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-34990",
+      "repo_info": "[DENNISDGR/CVE-2026-34990-poc](https://github.com/DENNISDGR/CVE-2026-34990-poc)",
+      "description": "LPE PoC for CVE-2026-34990 using a CUPS root file write vulnerability.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T18:24:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-34990",
+      "repo_info": "[gbuyssens/CVE-2026-34990](https://github.com/gbuyssens/CVE-2026-34990)",
+      "description": "Local privilege escalation against a root `cupsd`.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T10:27:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-34990",
+      "repo_info": "[0xc4rc3l/CVE-2026-34990-poc](https://github.com/0xc4rc3l/CVE-2026-34990-poc)",
+      "description": "no description",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T09:58:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-28695",
+      "repo_info": "[predyy/CVE-2026-28695](https://github.com/predyy/CVE-2026-28695)",
+      "description": "CVE-2026-28695 PoC - Authenticated blind remote code execution in Craft CMS.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T18:15:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-28695",
+      "repo_info": "[gbuyssens/CVE-2026-28695-craft-rce-bypass](https://github.com/gbuyssens/CVE-2026-28695-craft-rce-bypass)",
+      "description": "Authenticated, **blind** remote code execution in Craft CMS. Fix for CVE-2026-28695",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T10:16:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-14281",
+      "repo_info": "[abatsakidis/CVE-2026-14281-check](https://github.com/abatsakidis/CVE-2026-14281-check)",
+      "description": "A Windows-friendly, non-destructive Python checker for detecting WordPress installations potentially affected by CVE-2026-14281.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T18:30:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-12227",
+      "repo_info": "[be-keb/CVE-2026-12227](https://github.com/be-keb/CVE-2026-12227)",
+      "description": "CVE-2026-12227 is a critical (CVSS 9.8) unauthenticated Local File Inclusion (LFI) vulnerability in the Visual Composer Website Builder plugin for WordPress, affecting all versions up to and including 45.16.0, This can lead to sensitive data exposure, access control bypass, or even full Remote Code Execution (RCE).",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T09:03:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-100835",
+      "repo_info": "[murrez/CVE-2026-100835](https://github.com/murrez/CVE-2026-100835)",
+      "description": "CVE-2026-100835 PoC: Edgeless Contrast &lt;1.16.0 remote attestation relay (aTLS / CWE-295). Manifest audit (AllowedChipIDs/AllowedPIIDs), version &amp; coordinator probe. https://pocbit.org/pocs/cve-2026-100835",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T10:53:39Z"
+    },
+    {
       "cve_id": "CVE-2026-100740",
       "repo_info": "[murrez/CVE-2026-100740](https://github.com/murrez/CVE-2026-100740)",
       "description": "CVE-2026-100740 PoC: D-Link DIR-895L A1_102b07 L2TP Host Name AVP out-of-bounds write in tunnel_set_params (UDP 1701). Device fingerprint + optional OOB trigger packet for authorized lab testing. https://pocbit.org/pocs/cve-2026-100740",
       "date": "2026-09-27",
       "raw_date": "2026-09-27T05:40:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-100382",
+      "repo_info": "[nth347/mediawiki-CVE-2026-100382](https://github.com/nth347/mediawiki-CVE-2026-100382)",
+      "description": "no description",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T15:31:44Z"
     }
   ],
-  "generated_at": "2026-09-28T04:51:39.203079",
+  "generated_at": "2026-09-28T06:32:44.154211",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 32,
     "date_range": "2026-09-27",
     "source": "README.md",
     "script_version": "2.0"

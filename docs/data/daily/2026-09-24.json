@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-96515",
@@ -122,6 +122,13 @@
       "raw_date": "2026-09-24T14:25:58Z"
     },
     {
+      "cve_id": "CVE-2026-32740",
+      "repo_info": "[FORTBRIDGE-UK/libheif-grid-nextjs-rce](https://github.com/FORTBRIDGE-UK/libheif-grid-nextjs-rce)",
+      "description": "Private Fortbridge PoC for the CVE-2026-32740 Next.js/sharp leak-to-memcpy-GOT RCE chain",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T19:43:12Z"
+    },
+    {
       "cve_id": "CVE-2026-16764",
       "repo_info": "[hakaioffsec/CVE-2026-16764](https://github.com/hakaioffsec/CVE-2026-16764)",
       "description": "This repository contains the exploit for CVE-2026-16764.",
@@ -150,9 +157,9 @@
       "raw_date": "2026-09-24T17:11:35Z"
     }
   ],
-  "generated_at": "2026-09-28T04:51:39.201986",
+  "generated_at": "2026-09-28T06:32:44.152640",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-09-24",
     "source": "README.md",
     "script_version": "2.0"

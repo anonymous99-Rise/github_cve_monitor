@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-8023",
@@ -15,11 +15,18 @@
       "description": "CVE-2026-40987 PoC",
       "date": "2026-05-11",
       "raw_date": "2026-05-11T18:17:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[Lutfifakee-Project/CVE-2026-31431](https://github.com/Lutfifakee-Project/CVE-2026-31431)",
+      "description": "CVE-2026-31431 - Linux Kernel Page Cache Vulnerability",
+      "date": "2026-05-11",
+      "raw_date": "2026-05-11T01:14:12Z"
     }
   ],
-  "generated_at": "2026-09-28T04:51:39.167945",
+  "generated_at": "2026-09-28T06:32:44.097157",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-05-11",
     "source": "README.md",
     "script_version": "2.0"

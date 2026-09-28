@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "count": 35,
+  "count": 36,
   "cves": [
     {
       "cve_id": "CVE-2026-97163",
@@ -57,6 +57,13 @@
       "description": "Laboratorio pedagógico de CVE-2026-93485 (Comment2Shell): stored XSS no autenticado en WordPress core vía wpautop -&gt; RCE, con demo del root cause auto-verificada, control 7.1.1 y la vía Post2Shell",
       "date": "2026-09-26",
       "raw_date": "2026-09-26T12:34:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-93399",
+      "repo_info": "[josemour8/CVE-2026-93399](https://github.com/josemour8/CVE-2026-93399)",
+      "description": "Bookly &lt;= 28.2 Unauth IDOR + PII Leak + RCE  Mass exploitation scanner for CVE-2026-93399 (CVSS 9.1 Critical) affecting the Bookly — Online Scheduling and Appointment Booking System WordPress plugin (versions &lt;= 28.2).",
+      "date": "2026-09-26",
+      "raw_date": "2026-09-26T04:58:47Z"
     },
     {
       "cve_id": "CVE-2026-90817",
@@ -248,9 +255,9 @@
       "raw_date": "2026-09-26T11:59:53Z"
     }
   ],
-  "generated_at": "2026-09-28T04:51:39.202660",
+  "generated_at": "2026-09-28T06:32:44.153681",
   "metadata": {
-    "total_cves": 35,
+    "total_cves": 36,
     "date_range": "2026-09-26",
     "source": "README.md",
     "script_version": "2.0"
