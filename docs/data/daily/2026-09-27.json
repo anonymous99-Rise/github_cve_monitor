@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "count": 32,
+  "count": 34,
   "cves": [
     {
       "cve_id": "CVE-2026-88772",
@@ -8,6 +8,13 @@
       "description": "CVE-2026-88772 PoC: Citrix NetScaler ADC/Gateway DTLS memory overflow (RCE/DoS, CVSS 9.5). Fingerprints Gateway, build vs 14.1-73.37 / 13.1-64.23, UDP/443 DTLS probe. CTX697096; active exploitation reported. https://pocbit.org/pocs/cve-2026-88772",
       "date": "2026-09-27",
       "raw_date": "2026-09-27T20:24:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-88771",
+      "repo_info": "[watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771)",
+      "description": "no description",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T18:15:38Z"
     },
     {
       "cve_id": "CVE-2026-88008",
@@ -143,6 +150,13 @@
       "raw_date": "2026-09-27T15:02:55Z"
     },
     {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[LaArana12/CVE-2026-39987-Marimo-Preauth-RCE](https://github.com/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE)",
+      "description": "Reproduction and root cause analysis of CVE-2026-39987 Marimo pre-auth WebSocket RCE in a local Docker lab.",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T11:07:39Z"
+    },
+    {
       "cve_id": "CVE-2026-34990",
       "repo_info": "[khush-613/CVE-2026-34990-poc](https://github.com/khush-613/CVE-2026-34990-poc)",
       "description": "no description",
@@ -227,9 +241,9 @@
       "raw_date": "2026-09-27T15:31:44Z"
     }
   ],
-  "generated_at": "2026-09-29T05:17:00.810822",
+  "generated_at": "2026-09-29T06:42:48.315449",
   "metadata": {
-    "total_cves": 32,
+    "total_cves": 34,
     "date_range": "2026-09-27",
     "source": "README.md",
     "script_version": "2.0"

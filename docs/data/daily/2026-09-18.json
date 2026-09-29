@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "count": 16,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2026-93453",
@@ -45,6 +45,20 @@
       "raw_date": "2026-09-18T04:22:42Z"
     },
     {
+      "cve_id": "CVE-2026-81000",
+      "repo_info": "[suominen/tunderflow](https://github.com/suominen/tunderflow)",
+      "description": "Tracking TUNderflow (CVE-2026-81000), the Linux kernel TUN/TAP receive-headroom underflow",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T10:08:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-80844",
+      "repo_info": "[suominen/dirtyah6](https://github.com/suominen/dirtyah6)",
+      "description": "Tracking DirtyAH6 (CVE-2026-80844), the Linux kernel IPv6 AH routing-header out-of-bounds write",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T10:07:57Z"
+    },
+    {
       "cve_id": "CVE-2026-77991",
       "repo_info": "[abraxas/CVE-2026-77991](https://github.com/abraxas/CVE-2026-77991)",
       "description": "CVE-2026-77991 - joomlaeventmanager.net - Critical - Privileged POST /administrator/index.php - Remote Code Execution",
@@ -64,6 +78,20 @@
       "description": "CVE-2026-75827 - getgrav - High 8.8 - Unauthenticated GET /poc-form - Arbitrary File Write",
       "date": "2026-09-18",
       "raw_date": "2026-09-18T17:57:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-74469",
+      "repo_info": "[suominen/diagspill](https://github.com/suominen/diagspill)",
+      "description": "Tracking DiagSpill (CVE-2026-74469), the Linux kernel SCTP sock_diag heap overflow",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T10:09:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-68121",
+      "repo_info": "[suominen/pppoeject](https://github.com/suominen/pppoeject)",
+      "description": "Tracking PPPoEject (CVE-2026-68121), the Linux kernel PPPoE sendmsg use-after-free",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T10:09:10Z"
     },
     {
       "cve_id": "CVE-2026-64560",
@@ -115,9 +143,9 @@
       "raw_date": "2026-09-18T16:44:59Z"
     }
   ],
-  "generated_at": "2026-09-29T05:17:00.807464",
+  "generated_at": "2026-09-29T06:42:48.313159",
   "metadata": {
-    "total_cves": 16,
+    "total_cves": 20,
     "date_range": "2026-09-18",
     "source": "README.md",
     "script_version": "2.0"

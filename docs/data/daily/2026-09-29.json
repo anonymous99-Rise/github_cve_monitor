@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-29",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-59310",
+      "repo_info": "[vpxuser/CVE-2026-59310](https://github.com/vpxuser/CVE-2026-59310)",
+      "description": "ChinaRan0/CVE-2026-59310-POC 的优化版本。子命令、一次性 cron、带远端 PTY 的交互 shell。仅限授权测试。",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T01:54:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-49869",
+      "repo_info": "[EQSTLab/CVE-2026-49869](https://github.com/EQSTLab/CVE-2026-49869)",
+      "description": "Kestra Unauthenticated RCE",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T05:24:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-10817",
+      "repo_info": "[HORKimhab/CVE-2026-10817](https://github.com/HORKimhab/CVE-2026-10817)",
+      "description": "CVE-2026-10817",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T04:19:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-101894",
+      "repo_info": "[murrez/CVE-2026-101894](https://github.com/murrez/CVE-2026-101894)",
+      "description": "CVE-2026-101894 PoC: @xhmikosr/decompress symlink-chain archive path traversal (bypass CVE-2026-53486). Node lab + lockfile scan + mass evil.tar upload exploit. CVSS 9.1. https://pocbit.org/pocs/cve-2026-101894",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T00:49:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-101110",
+      "repo_info": "[murrez/CVE-2026-101110](https://github.com/murrez/CVE-2026-101110)",
+      "description": "CVE-2026-101110 PoC: OrdaSoft Joomla Book Library (Free) &lt;=6.4.6 unauth SQLi — field/direction ORDER BY, session prime + `-- xselect` blacklist bypass (com_booklibrary). Colored check + mass exploit, CVSS 9.3. https://pocbit.org/pocs/cve-2026-101110",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T00:34:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-101108",
+      "repo_info": "[murrez/CVE-2026-101108](https://github.com/murrez/CVE-2026-101108)",
+      "description": "CVE-2026-101108 PoC: OrdaSoft Joomla Vehicle Manager (Free) &lt;=6.5.7 unauth SQLi — order_field/order_direction unquoted ORDER BY (com_vehiclemanager). Colored check + mass exploit, CVSS 9.3. https://pocbit.org/pocs/cve-2026-101108",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T00:23:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-100752",
+      "repo_info": "[murrez/CVE-2026-100752](https://github.com/murrez/CVE-2026-100752)",
+      "description": "CVE-2026-100752 PoC: OrdaSoft Joomla Real Estate Manager (Free) &lt;=6.7.8 unauth SQLi via order_field ORDER BY (com_realestatemanager). Colored check + mass exploit, version fingerprint, PoCbit https://pocbit.org/pocs/cve-2026-100752",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T00:08:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-100633",
+      "repo_info": "[dpfkdlemtp/CVE-2026-100633](https://github.com/dpfkdlemtp/CVE-2026-100633)",
+      "description": "Published SiYuan CVE · Reporter: dpfkdlemtp · Official record and advisory links",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T00:51:55Z"
+    }
+  ],
+  "generated_at": "2026-09-29T06:42:48.316063",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2026-09-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

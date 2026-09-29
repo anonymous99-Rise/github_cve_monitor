@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-28 06:32:16
+- **生成时间**: 2026-09-29 06:42:20
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -411,9 +411,12 @@
 | 🚫 未识别 | [NGSecure/cve_tasks20260925A](https://github.com/NGSecure/cve_tasks20260925A) | no description | 2026-09-25T21:52:26Z|
 | 🚫 未识别 | [huasheng505/TGSEC-Qtzuu](https://github.com/huasheng505/TGSEC-Qtzuu) | TGSEC社区渗透套件 · 2026-09-23：cvebird最优9 harness + CVE独立仓差分 + 锁面。按攻击面组织，可喂给AI | 2026-09-26T08:12:18Z|
 | 🚫 未识别 | [zZD4rkN1gh7Xx/M-Y1-S1-TPAS-26-27](https://github.com/zZD4rkN1gh7Xx/M-Y1-S1-TPAS-26-27) | Apresentaçao da CVE, Labs e projeto da cadeira de Teoria e Pratica de Staques de Segurança nos anos 2026/27 | 2026-09-27T14:45:48Z|
+| 🚫 未识别 | [farinamanzoor/nvd-vulnerability-dashboard](https://github.com/farinamanzoor/nvd-vulnerability-dashboard) | Interactive dashboard analyzing 270k+ CVEs from the NIST NVD: Python ETL pipeline, exploratory analysis, and a Streamlit app (MS Cybersecurity capstone, Montclair State 2026) | 2026-09-29T02:14:27Z|
+| 🚫 未识别 | [K52-ai/wp2shell](https://github.com/K52-ai/wp2shell) | wp batch route exploitation toolkit CVE 2026-63030+CVE 2026-60137 | 2026-09-28T22:20:24Z|
+| 🚫 未识别 | [suominen/php-20260924](https://github.com/suominen/php-20260924) | Tracking the PHP 2026-09-24 security releases (11 CVEs across 8.2–8.5) | 2026-09-25T07:22:43Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-28 06:32:42  
-**总记录数**: 400
+**报告生成时间**: 2026-09-29 06:42:46  
+**总记录数**: 403

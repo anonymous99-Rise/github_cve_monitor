@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "count": 4,
+  "count": 5,
   "cves": [
     {
       "cve_id": "CVE-2026-64638",
@@ -17,6 +17,13 @@
       "raw_date": "2026-08-07T15:51:07Z"
     },
     {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[suominen/zapscape](https://github.com/suominen/zapscape)",
+      "description": "Tracking Zapscape (CVE-2026-64561), the KVM/x86 shadow-MMU guest-to-host escape",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T09:36:44Z"
+    },
+    {
       "cve_id": "CVE-2026-54515",
       "repo_info": "[xiaoqiMikko/jackson-check](https://github.com/xiaoqiMikko/jackson-check)",
       "description": "jackson-databind 2026 年 11 条安全公告自查:扫源码注解降噪,告诉你真中几条;逐条求交集给出真正到位的版本(2.18.9/2.21.5/3.1.5,不是 advisory 上最常见的 2.21.4) CVE-2026-54515 / CVE-2026-54512",
@@ -31,9 +38,9 @@
       "raw_date": "2026-08-07T19:09:13Z"
     }
   ],
-  "generated_at": "2026-09-29T05:17:00.792970",
+  "generated_at": "2026-09-29T06:42:48.303309",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 5,
     "date_range": "2026-08-07",
     "source": "README.md",
     "script_version": "2.0"

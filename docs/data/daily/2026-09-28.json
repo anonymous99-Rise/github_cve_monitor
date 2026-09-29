@@ -1,13 +1,69 @@
 {
   "date": "2026-09-28",
-  "count": 6,
+  "count": 44,
   "cves": [
+    {
+      "cve_id": "CVE-2026-93958",
+      "repo_info": "[murrez/CVE-2026-93958](https://github.com/murrez/CVE-2026-93958)",
+      "description": "CVE-2026-93958 PoC: D-Link R95 BE9500 DHMAPI SetTimeSettings NTPServer authenticated root command injection. DHMAPI login, RCE verify, mass bulk exploit mode, colored CLI. https://pocbit.org/pocs/cve-2026-93958",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T08:13:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-88772",
+      "repo_info": "[FollowerSeize/CVE-2026-88772-POC](https://github.com/FollowerSeize/CVE-2026-88772-POC)",
+      "description": "CVE-2026-88772 - Citrix NetScaler ADC/Gateway DTLS memory overflow (RCE/DoS)",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T09:58:16Z"
+    },
     {
       "cve_id": "CVE-2026-88771",
       "repo_info": "[technion/netscaler_scanner](https://github.com/technion/netscaler_scanner)",
       "description": "Tooling related to CVE-2026-88771 and CVE-2026-88772",
       "date": "2026-09-28",
       "raw_date": "2026-09-28T04:56:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-88771",
+      "repo_info": "[ThomasPoppelgaard/netscaler-ctx697096-checker](https://github.com/ThomasPoppelgaard/netscaler-ctx697096-checker)",
+      "description": "Read-only checker for Citrix NetScaler ADC/Gateway bulletin CTX697096 (CVE-2026-88771 – 88778): build, all 8 CVE preconditions, admin partitions, Enhanced ISN, upgrade risks, and optional community IoC checks. Not a replacement for Citrix&#x27;s official IoC scan.",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T11:20:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-88771",
+      "repo_info": "[techupdate24/citrix-netscaler-cve-2026-88771-rce](https://github.com/techupdate24/citrix-netscaler-cve-2026-88771-rce)",
+      "description": "A complete guide and workflow for integrating Agile sprints with DevOps CI/CD pipelines.",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T11:36:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-88771",
+      "repo_info": "[EXEcution-py/CVE-2026-88771-POC](https://github.com/EXEcution-py/CVE-2026-88771-POC)",
+      "description": "Improper Input Validation (CWE-20)  SSVC Scores Exploitation: Active Technical Impact: Total",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T09:16:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[MRdark-ops/CVE-2026-87902](https://github.com/MRdark-ops/CVE-2026-87902)",
+      "description": "CVE-2026-87902 — WordPress Core LFI → RCE",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T21:18:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[HackfutSecRoot/CVE-2026-87902](https://github.com/HackfutSecRoot/CVE-2026-87902)",
+      "description": "CVE-2026-87902 — WordPress Core LFI → RCE by Hackfut",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T17:11:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-86950",
+      "repo_info": "[DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)",
+      "description": "Out-of-bounds Write (CWE-787)",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T21:25:00Z"
     },
     {
       "cve_id": "CVE-2026-85984",
@@ -24,11 +80,144 @@
       "raw_date": "2026-09-28T04:47:10Z"
     },
     {
+      "cve_id": "CVE-2026-82384",
+      "repo_info": "[murrez/CVE-2026-82384](https://github.com/murrez/CVE-2026-82384)",
+      "description": "CVE-2026-82384 PoC: Apache Roller 6.1.5 unauthenticated XML-RPC ex:serializable Java deserialization (pre-auth RCE). Check, ysoserial exploit, mass bulk scanning, colored CLI. PoCbit — https://pocbit.org/pocs/cve-2026-82384",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T08:24:47Z"
+    },
+    {
       "cve_id": "CVE-2026-78006",
       "repo_info": "[antid00t/CVE-2026-78006-CVE-2026-78159](https://github.com/antid00t/CVE-2026-78006-CVE-2026-78159)",
       "description": "The Events Calendar Wordpress Plugin Mass Exploit CVE-2026-78006 &amp; CVE-2026-78159",
       "date": "2026-09-28",
       "raw_date": "2026-09-28T00:45:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-75604",
+      "repo_info": "[ZeroDayEvil/CVE-2026-75604-PoC](https://github.com/ZeroDayEvil/CVE-2026-75604-PoC)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T19:01:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-6951",
+      "repo_info": "[EQSTLab/CVE-2026-6951](https://github.com/EQSTLab/CVE-2026-6951)",
+      "description": "simple-git RCE",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T08:35:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-69137",
+      "repo_info": "[EntroVyx/CVE-2026-69137](https://github.com/EntroVyx/CVE-2026-69137)",
+      "description": "SuiteCRM &lt;= 7.15.1, &lt;= 8.10.1 - Authenticated SSRF",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T16:33:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-62911",
+      "repo_info": "[ZeroDayEvil/CVE-2026-62911](https://github.com/ZeroDayEvil/CVE-2026-62911)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T18:51:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-58225",
+      "repo_info": "[sifatnotes/Learn-SecByte-CMS-CVE-Shell-to-Root-Privilege-Escalation-CTF-Labs](https://github.com/sifatnotes/Learn-SecByte-CMS-CVE-Shell-to-Root-Privilege-Escalation-CTF-Labs)",
+      "description": "Hands-on cybersecurity and CTF labs covering port reconnaissance, CMS stack discovery, VulnCMS, CVE-2026-58225, shell-to-root paths, Python, sudo, user switching, passwords, and post-exploitation.",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T16:18:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[ZeroDayEvil/CVE-2026-54121](https://github.com/ZeroDayEvil/CVE-2026-54121)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T18:50:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-5054",
+      "repo_info": "[do4choo/CVE-2026-5054](https://github.com/do4choo/CVE-2026-5054)",
+      "description": "CVE-2026-5054",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T19:25:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-5053",
+      "repo_info": "[do4choo/CVE-2026-5053](https://github.com/do4choo/CVE-2026-5053)",
+      "description": "CVE-2026-5053",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T19:38:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ZeroDayEvil/CVE-2026-43499](https://github.com/ZeroDayEvil/CVE-2026-43499)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T18:54:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[L-1124/RootMyVivo-rs](https://github.com/L-1124/RootMyVivo-rs)",
+      "description": "Cross-platform pure-Rust toolchain for unlock-free temporary root and KernelSU late-loading on vivo/iQOO devices (CVE-2026-43499)",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T14:57:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[L-1124/RootMyVivo-Exploit](https://github.com/L-1124/RootMyVivo-Exploit)",
+      "description": "Hardened CVE-2026-43499 (GhostLock futex PI UAF) injection payload source tree for vivo and iQOO devices",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T15:21:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[coey0814/DirtyFrag-Galaxy](https://github.com/coey0814/DirtyFrag-Galaxy)",
+      "description": "One-click temporary KernelSU root (late-load) for Samsung Galaxy via DirtyFrag (CVE-2026-43284). No Shizuku/PC/ADB.",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T08:01:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-42980",
+      "repo_info": "[ZeroDayEvil/CVE-2026-42980-PoC](https://github.com/ZeroDayEvil/CVE-2026-42980-PoC)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T12:11:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[ZeroDayEvil/CVE-2026-41940-PoC](https://github.com/ZeroDayEvil/CVE-2026-41940-PoC)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T18:52:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-41651",
+      "repo_info": "[ZeroDayEvil/CVE-2026-41651](https://github.com/ZeroDayEvil/CVE-2026-41651)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T19:03:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-40369",
+      "repo_info": "[ZeroDayEvil/CVE-2026-40369-EXPLOIT](https://github.com/ZeroDayEvil/CVE-2026-40369-EXPLOIT)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T18:55:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[MRdark-ops/CVE-2026-38526](https://github.com/MRdark-ops/CVE-2026-38526)",
+      "description": "CVE-2026-38526 - Authenticated RCE exploit for Krayin CRM &lt;= 2.2.x. Upload arbitrary PHP via /admin/tinymce/upload and gain remote code execution. Python PoC for security researchers, CTF players and bug bounty hunters. Tested on HTB Nexus.",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T20:49:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[Harry178945/CVE-2026-38526](https://github.com/Harry178945/CVE-2026-38526)",
+      "description": "CVE-2026-38526 - Authenticated RCE exploit for Krayin CRM &lt;= 2.2.x. Upload arbitrary PHP via /admin/tinymce/upload and gain remote code execution. Python PoC for security researchers, CTF players and bug bounty hunters. Tested on HTB Nexus.",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T14:58:35Z"
     },
     {
       "cve_id": "CVE-2026-34990",
@@ -43,11 +232,88 @@
       "description": "CVE-2026-34990 — CUPS &lt;= 2.4.16 Local Privilege Escalation",
       "date": "2026-09-28",
       "raw_date": "2026-09-28T02:40:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-34990",
+      "repo_info": "[ungabunga-ctf/CVE-2026-34990](https://github.com/ungabunga-ctf/CVE-2026-34990)",
+      "description": "CVE-2026-34990 - OpenPrinting CUPS versions 2.4.16 and prior, a local unprivileged user can coerce cupsd into authenticating to an attacker-controlled localhost IPP service with a reusable Authorization: Local ... token.",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T19:12:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-34990",
+      "repo_info": "[OffensiveBias20/CVE-2026-34990-POC](https://github.com/OffensiveBias20/CVE-2026-34990-POC)",
+      "description": "Technical analysis and proof-of-concept research for CVE-2026-34990, a local privilege-escalation vulnerability affecting CUPS. This repository documents the vulnerability mechanics, CUPS/IPP request flow, authentication-token disclosure, the localhost callback technique, and the subsequent privilege-escalation primitive.",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T12:24:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[ZeroDayEvil/CVE-2026-31431](https://github.com/ZeroDayEvil/CVE-2026-31431)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T19:02:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-28912",
+      "repo_info": "[jvidhan/cve-2026-28912](https://github.com/jvidhan/cve-2026-28912)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T11:58:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[ZeroDayEvil/CVE-2026-24061](https://github.com/ZeroDayEvil/CVE-2026-24061)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T18:52:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-22777",
+      "repo_info": "[e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777)",
+      "description": "CVE-2026-22777 ComfyUI-Manager CRLF Injection leading to RCE chained with CVE-2025-67303",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T10:09:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-20817",
+      "repo_info": "[ZeroDayEvil/CVE-2026-20817](https://github.com/ZeroDayEvil/CVE-2026-20817)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T19:01:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-18143",
+      "repo_info": "[Wayang1337/CVE-2026-18143](https://github.com/Wayang1337/CVE-2026-18143)",
+      "description": "Request a Quote for WooCommerce (Addify) &lt;= 2.9.2 Unauthenticated arbitrary file upload via afrfq_submit_quote_via_popup",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T22:27:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-18110",
+      "repo_info": "[flenz00/CVE-2026-18110-PoC](https://github.com/flenz00/CVE-2026-18110-PoC)",
+      "description": "Proof-of-Concept for CVE-2026-18110",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T13:29:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-100903",
+      "repo_info": "[4ybrick/CVE-2026-100903](https://github.com/4ybrick/CVE-2026-100903)",
+      "description": "GEOritm CVE",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T08:20:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-100721",
+      "repo_info": "[murrez/CVE-2026-100721](https://github.com/murrez/CVE-2026-100721)",
+      "description": "CVE-2026-100721 PoC: vm2 &lt;3.12.2 NodeVM external allowlist bypass → sandbox escape / host RCE. Local Node lab (evil-left-pad), remote sandbox API mass exploit, colorful CLI. PoCbit — https://pocbit.org/pocs/cve-2026-100721",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T09:45:48Z"
     }
   ],
-  "generated_at": "2026-09-29T05:17:00.811245",
+  "generated_at": "2026-09-29T06:42:48.315738",
   "metadata": {
-    "total_cves": 6,
+    "total_cves": 44,
     "date_range": "2026-09-28",
     "source": "README.md",
     "script_version": "2.0"

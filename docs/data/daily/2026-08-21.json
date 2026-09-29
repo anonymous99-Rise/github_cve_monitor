@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-76565",
@@ -143,6 +143,13 @@
       "raw_date": "2026-08-21T13:06:49Z"
     },
     {
+      "cve_id": "CVE-2026-100886",
+      "repo_info": "[heapframe/seetong-ts81xxd3x-rce](https://github.com/heapframe/seetong-ts81xxd3x-rce)",
+      "description": "CVE-2026-100886 - Unauthenticated Remote Code Execution toolkit.",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T10:45:01Z"
+    },
+    {
       "cve_id": "CVE-2026-0073",
       "repo_info": "[aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass](https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass)",
       "description": "Research on CVE-2026-0073. An auth bypass allowing any attacker with local network access to connect to an Android device with dev tools and wireless debugging or ADB-over-TCP enabled. Device needs to have been paired before.  This has been tested working on Android 14 in Android Studio. Should work on others as well but exploitability may vary.",
@@ -150,9 +157,9 @@
       "raw_date": "2026-08-21T16:53:02Z"
     }
   ],
-  "generated_at": "2026-09-29T05:17:00.796575",
+  "generated_at": "2026-09-29T06:42:48.305988",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-08-21",
     "source": "README.md",
     "script_version": "2.0"

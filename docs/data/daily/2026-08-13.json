@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "count": 3,
+  "count": 4,
   "cves": [
     {
       "cve_id": "CVE-2026-43783",
@@ -22,11 +22,18 @@
       "description": "CVE-2026-33017: Langflow Unauthenticated RCE PoC",
       "date": "2026-08-13",
       "raw_date": "2026-08-13T14:06:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-101053",
+      "repo_info": "[turretsec/u3000py](https://github.com/turretsec/u3000py)",
+      "description": "Python client for the Thinkware U3000 dashcam&#x27;s local WiFi control protocol, reverse-engineered from the official Android app. PoC tooling behind CVE-2026-101053, CVE-2026-101054, and CVE-2026-101055.",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T15:26:23Z"
     }
   ],
-  "generated_at": "2026-09-29T05:17:00.794146",
+  "generated_at": "2026-09-29T06:42:48.304279",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 4,
     "date_range": "2026-08-13",
     "source": "README.md",
     "script_version": "2.0"
