@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-29 06:42:20
+- **生成时间**: 2026-09-30 06:28:58
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -414,9 +414,11 @@
 | 🚫 未识别 | [farinamanzoor/nvd-vulnerability-dashboard](https://github.com/farinamanzoor/nvd-vulnerability-dashboard) | Interactive dashboard analyzing 270k+ CVEs from the NIST NVD: Python ETL pipeline, exploratory analysis, and a Streamlit app (MS Cybersecurity capstone, Montclair State 2026) | 2026-09-29T02:14:27Z|
 | 🚫 未识别 | [K52-ai/wp2shell](https://github.com/K52-ai/wp2shell) | wp batch route exploitation toolkit CVE 2026-63030+CVE 2026-60137 | 2026-09-28T22:20:24Z|
 | 🚫 未识别 | [suominen/php-20260924](https://github.com/suominen/php-20260924) | Tracking the PHP 2026-09-24 security releases (11 CVEs across 8.2–8.5) | 2026-09-25T07:22:43Z|
+| 🚫 未识别 | [shylock-hg-bot/1f916-listing41-microsoft-cve](https://github.com/shylock-hg-bot/1f916-listing41-microsoft-cve) | Microsoft-CNA monthly CVE series (2025-09..2026-08) for 1F916 listing-41 | 2026-09-29T11:13:19Z|
+| 🚫 未识别 | [benchaabenameny-sys/icrami2026-cve-cwe-pilot](https://github.com/benchaabenameny-sys/icrami2026-cve-cwe-pilot) | Replication package for the ICRAMI 2026 paper on zero-shot and few-shot LLM CVE-to-CWE classification | 2026-09-29T08:46:02Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-29 06:42:46  
-**总记录数**: 403
+**报告生成时间**: 2026-09-30 06:29:26  
+**总记录数**: 405

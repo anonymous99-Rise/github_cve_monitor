@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "count": 31,
+  "count": 32,
   "cves": [
     {
       "cve_id": "CVE-2026-92162",
@@ -8,6 +8,13 @@
       "description": "CVE-2026-92162: Path traversal in the Flatpak system helper: an unvalidated arch parameter in DeployAppstream lets an active local user create root-owned directories anywhere. Write-up and test-mode PoC.",
       "date": "2026-09-03",
       "raw_date": "2026-09-03T16:52:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-88629",
+      "repo_info": "[ExploreIO/CVE-2026-88629-fastgpt-mcp-client-ssrf](https://github.com/ExploreIO/CVE-2026-88629-fastgpt-mcp-client-ssrf)",
+      "description": "FastGPT getTools and runTool SSRF Vulnerability Reproduction",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T17:25:53Z"
     },
     {
       "cve_id": "CVE-2026-87008",
@@ -220,9 +227,9 @@
       "raw_date": "2026-09-03T21:51:08Z"
     }
   ],
-  "generated_at": "2026-09-30T05:05:03.744797",
+  "generated_at": "2026-09-30T06:29:27.608003",
   "metadata": {
-    "total_cves": 31,
+    "total_cves": 32,
     "date_range": "2026-09-03",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-30",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-96760",
+      "repo_info": "[uziii2208/CVE-2026-96760](https://github.com/uziii2208/CVE-2026-96760)",
+      "description": "Authlib 1.7.2: Signature Verification Bypass - General JSON JWS Accepts Unsigned Payload when `signatures` is Empty",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T03:01:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-94545",
+      "repo_info": "[mhtsec/CVE-2026-94545](https://github.com/mhtsec/CVE-2026-94545)",
+      "description": "Next.js next/og unauthenticated RCE (CVE-2026-94545) - PoC",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T05:52:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-48121",
+      "repo_info": "[decker757/cs440-langgraph-nosql-demo](https://github.com/decker757/cs440-langgraph-nosql-demo)",
+      "description": "Local classroom demo of NoSQL operator injection in LangGraph&#x27;s MongoDBSaver (GHSA-98xf-r82g-9mhx / CVE-2026-48121). Fictional data only.",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T01:15:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-31857",
+      "repo_info": "[0Asylum/CVE-2026-31857](https://github.com/0Asylum/CVE-2026-31857)",
+      "description": "CraftCMS has an RCE vulnerability via relational conditionals in the control panel",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T03:17:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-18143",
+      "repo_info": "[ghannyxploit404/CVE-2026-18143](https://github.com/ghannyxploit404/CVE-2026-18143)",
+      "description": "single PoC for CVE-2026-18143 Unauth AFU (Arbitrary File Upload)",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T04:35:37Z"
+    }
+  ],
+  "generated_at": "2026-09-30T06:29:27.615862",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2026-09-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

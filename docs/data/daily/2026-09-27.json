@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "count": 34,
+  "count": 35,
   "cves": [
     {
       "cve_id": "CVE-2026-88772",
@@ -8,6 +8,13 @@
       "description": "CVE-2026-88772 PoC: Citrix NetScaler ADC/Gateway DTLS memory overflow (RCE/DoS, CVSS 9.5). Fingerprints Gateway, build vs 14.1-73.37 / 13.1-64.23, UDP/443 DTLS probe. CTX697096; active exploitation reported. https://pocbit.org/pocs/cve-2026-88772",
       "date": "2026-09-27",
       "raw_date": "2026-09-27T20:24:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-88772",
+      "repo_info": "[watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772)",
+      "description": "no description",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T18:15:55Z"
     },
     {
       "cve_id": "CVE-2026-88771",
@@ -241,9 +248,9 @@
       "raw_date": "2026-09-27T15:31:44Z"
     }
   ],
-  "generated_at": "2026-09-30T05:05:03.751231",
+  "generated_at": "2026-09-30T06:29:27.614806",
   "metadata": {
-    "total_cves": 34,
+    "total_cves": 35,
     "date_range": "2026-09-27",
     "source": "README.md",
     "script_version": "2.0"

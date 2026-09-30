@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "count": 22,
+  "count": 23,
   "cves": [
     {
       "cve_id": "CVE-2026-96515",
@@ -29,6 +29,13 @@
       "description": "no description",
       "date": "2026-09-24",
       "raw_date": "2026-09-24T19:22:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-93687",
+      "repo_info": "[scastillo-jp/braces-fork](https://github.com/scastillo-jp/braces-fork)",
+      "description": "Temporary fork of braces with a minimal security patch for CVE-2026-93687, created only to validate dependency override behavior and Fortify/FoD detection before moving the fix to an official Bentobox-owned source.",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T18:59:25Z"
     },
     {
       "cve_id": "CVE-2026-90817",
@@ -157,9 +164,9 @@
       "raw_date": "2026-09-24T17:11:35Z"
     }
   ],
-  "generated_at": "2026-09-30T05:05:03.750350",
+  "generated_at": "2026-09-30T06:29:27.613835",
   "metadata": {
-    "total_cves": 22,
+    "total_cves": 23,
     "date_range": "2026-09-24",
     "source": "README.md",
     "script_version": "2.0"

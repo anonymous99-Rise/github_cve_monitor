@@ -1,7 +1,133 @@
 {
   "date": "2026-09-29",
-  "count": 8,
+  "count": 33,
   "cves": [
+    {
+      "cve_id": "CVE-2026-96878",
+      "repo_info": "[BomboBombone/CVE-2026-96878](https://github.com/BomboBombone/CVE-2026-96878)",
+      "description": "Sanitized Cargo report and patch verification notes for CVE-2026-96878.",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T14:28:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-96877",
+      "repo_info": "[BomboBombone/CVE-2026-96877](https://github.com/BomboBombone/CVE-2026-96877)",
+      "description": "Sanitized Cargo report and patch verification notes for CVE-2026-96877.",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T14:28:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-96876",
+      "repo_info": "[BomboBombone/CVE-2026-96876](https://github.com/BomboBombone/CVE-2026-96876)",
+      "description": "Sanitized Cargo report and patch verification notes for CVE-2026-96876.",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T14:28:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-96875",
+      "repo_info": "[BomboBombone/CVE-2026-96875](https://github.com/BomboBombone/CVE-2026-96875)",
+      "description": "Sanitized Cargo report and patch verification notes for CVE-2026-96875.",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T14:28:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-96874",
+      "repo_info": "[BomboBombone/CVE-2026-96874](https://github.com/BomboBombone/CVE-2026-96874)",
+      "description": "Sanitized Cargo report and patch verification notes for CVE-2026-96874.",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T14:27:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-96873",
+      "repo_info": "[BomboBombone/CVE-2026-96873](https://github.com/BomboBombone/CVE-2026-96873)",
+      "description": "Sanitized CirrusSearch report and patch verification notes for CVE-2026-96873.",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T14:27:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-96872",
+      "repo_info": "[BomboBombone/CVE-2026-96872](https://github.com/BomboBombone/CVE-2026-96872)",
+      "description": "Sanitized WikiLambda report and patch verification notes for CVE-2026-96872.",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T14:27:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-94545",
+      "repo_info": "[EQSTLab/CVE-2026-94545](https://github.com/EQSTLab/CVE-2026-94545)",
+      "description": "Next.js RCE",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T07:57:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-88771",
+      "repo_info": "[SwiftSecur/CVE-2026-88771-HuntScript](https://github.com/SwiftSecur/CVE-2026-88771-HuntScript)",
+      "description": "A detection/hunting script for compromise related to CVE-2026-88771",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T14:28:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[tonydelouvre/CVE-2026-87902](https://github.com/tonydelouvre/CVE-2026-87902)",
+      "description": "XWP_RCE — CVE-2026-87902 Hacker Console",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T20:17:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-86950",
+      "repo_info": "[DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)",
+      "description": "Out-of-bounds Write (CWE-787)",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T08:46:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-85520",
+      "repo_info": "[murrez/CVE-2026-85520](https://github.com/murrez/CVE-2026-85520)",
+      "description": "CVE-2026-85520 PoC (PoCbit) — PrestaShop MyPresta gmfeed ≤2.3.9 unauthenticated arbitrary file write via feed.php (Save to file URL) → RCE. check + exploit + mass bulk (--list -j). https://pocbit.org/pocs/cve-2026-85520",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T13:51:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-84383",
+      "repo_info": "[dinosn/libheif-cve-2026-84383-lab](https://github.com/dinosn/libheif-cve-2026-84383-lab)",
+      "description": "Docker lab for validating CVE-2026-84383 in libheif through Discourse",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T17:40:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-82901",
+      "repo_info": "[tonydelouvre/CVE-2026-82901](https://github.com/tonydelouvre/CVE-2026-82901)",
+      "description": "CVE-2026-82901 — Ultra Addons for Contact Form 7 Mass Exploiter (GUI + CLI)",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T09:05:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-8065",
+      "repo_info": "[MRdark-ops/CVE-2026-8065](https://github.com/MRdark-ops/CVE-2026-8065)",
+      "description": "CVE-2026-8065 PoC: Hitachi Energy RTU500 unauth firmware update bypass (CWE-306, CVSS 9.1). IoT/OT colored check + mass exploit — RTU500 fingerprint, firmware endpoint probe, lab-safe upload test. https://pocbit.org/pocs/cve-2026-8065",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T13:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-8065",
+      "repo_info": "[murrez/CVE-2026-8065](https://github.com/murrez/CVE-2026-8065)",
+      "description": "CVE-2026-8065 PoC: Hitachi Energy RTU500 unauth firmware update bypass (CWE-306, CVSS 9.1). IoT/OT colored check + mass exploit — RTU500 fingerprint, firmware endpoint probe, lab-safe upload test. https://pocbit.org/pocs/cve-2026-8065",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T13:01:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-80521",
+      "repo_info": "[rifkyards/Container_escape-CVE-2026-80521-CVE-2026-52910](https://github.com/rifkyards/Container_escape-CVE-2026-80521-CVE-2026-52910)",
+      "description": "container escape POCs for CVE-2026-80521 and CVE-2026-52910",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T10:15:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-](https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-)",
+      "description": "Unauthenticated SQL injection PoC and vulnerable lab environment for WP2Shell (CVE-2026-63030 + CVE-2026-60137) — a WordPress REST API batch route confusion chained into a WP_Query SQL injection. Includes Docker Compose lab setup and a Python exploitation script. For authorized security research only.",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T16:26:47Z"
+    },
     {
       "cve_id": "CVE-2026-59310",
       "repo_info": "[vpxuser/CVE-2026-59310](https://github.com/vpxuser/CVE-2026-59310)",
@@ -17,11 +143,46 @@
       "raw_date": "2026-09-29T05:24:33Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[shubhampathak65/CVE-2026-43499](https://github.com/shubhampathak65/CVE-2026-43499)",
+      "description": "GhostLock futex-PI UAF LPE exploit for POCO M7 5G - kernel 5.10.226",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T09:53:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-34990",
+      "repo_info": "[mrdebora/cups-2.4.16-lpe](https://github.com/mrdebora/cups-2.4.16-lpe)",
+      "description": "CUPS 2.4.16 Local Privilege Escalation via Local Admin Token Leak and file:// Arbitrary File Write (CVE-2026-34990)",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T15:42:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-31857",
+      "repo_info": "[0xTatsuki/CVE-2026-31857](https://github.com/0xTatsuki/CVE-2026-31857)",
+      "description": "Craft CMS RCE via relational conditionals in the control panel",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T17:03:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-24088",
+      "repo_info": "[aniketlab/POCO-M7-Plus-Jailbreak](https://github.com/aniketlab/POCO-M7-Plus-Jailbreak)",
+      "description": "Temporary Root Research on Poco M7 Plus (SM6375) via Qualcomm GBL Exploit (CVE-2026-24088) + GhostLock Kernel Analysis (CVE-2026-43499)",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T11:41:09Z"
+    },
+    {
       "cve_id": "CVE-2026-10817",
       "repo_info": "[HORKimhab/CVE-2026-10817](https://github.com/HORKimhab/CVE-2026-10817)",
       "description": "CVE-2026-10817",
       "date": "2026-09-29",
       "raw_date": "2026-09-29T04:19:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-102261",
+      "repo_info": "[7acini/CVE-2026-102261](https://github.com/7acini/CVE-2026-102261)",
+      "description": "https://vuldb.com/cve/CVE-2026-102261",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T16:30:28Z"
     },
     {
       "cve_id": "CVE-2026-101894",
@@ -57,11 +218,25 @@
       "description": "Published SiYuan CVE · Reporter: dpfkdlemtp · Official record and advisory links",
       "date": "2026-09-29",
       "raw_date": "2026-09-29T00:51:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-100381",
+      "repo_info": "[BomboBombone/CVE-2026-100381](https://github.com/BomboBombone/CVE-2026-100381)",
+      "description": "Sanitized UploadWizard report and patch verification notes for CVE-2026-100381.",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T14:28:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-100380",
+      "repo_info": "[BomboBombone/CVE-2026-100380](https://github.com/BomboBombone/CVE-2026-100380)",
+      "description": "Sanitized Wikibase report and patch verification notes for CVE-2026-100380.",
+      "date": "2026-09-29",
+      "raw_date": "2026-09-29T14:28:32Z"
     }
   ],
-  "generated_at": "2026-09-30T05:05:03.751965",
+  "generated_at": "2026-09-30T06:29:27.615495",
   "metadata": {
-    "total_cves": 8,
+    "total_cves": 33,
     "date_range": "2026-09-29",
     "source": "README.md",
     "script_version": "2.0"
