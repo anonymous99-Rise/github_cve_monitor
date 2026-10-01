@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "count": 3,
+  "count": 4,
   "cves": [
     {
       "cve_id": "CVE-2026-41940",
@@ -22,11 +22,18 @@
       "description": "CVE-2026-31431 (copy.fail) — adapted for constrained Java execution environments via FFM syscall layer + javac   annotation processor delivery",
       "date": "2026-05-01",
       "raw_date": "2026-05-01T00:01:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[Quaerendir/copyfail-audit](https://github.com/Quaerendir/copyfail-audit)",
+      "description": "Audit script for CVE-2026-31431 &quot;Copy Fail&quot;",
+      "date": "2026-05-01",
+      "raw_date": "2026-05-01T13:56:20Z"
     }
   ],
-  "generated_at": "2026-10-01T05:19:07.664641",
+  "generated_at": "2026-10-01T07:02:46.922868",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 4,
     "date_range": "2026-05-01",
     "source": "README.md",
     "script_version": "2.0"

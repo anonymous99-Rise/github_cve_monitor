@@ -1,7 +1,14 @@
 {
   "date": "2026-09-30",
-  "count": 5,
+  "count": 31,
   "cves": [
+    {
+      "cve_id": "CVE-2026-97347",
+      "repo_info": "[JailBr3ak/CVE-2026-97347](https://github.com/JailBr3ak/CVE-2026-97347)",
+      "description": "no description",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T10:24:29Z"
+    },
     {
       "cve_id": "CVE-2026-96760",
       "repo_info": "[uziii2208/CVE-2026-96760](https://github.com/uziii2208/CVE-2026-96760)",
@@ -17,11 +24,88 @@
       "raw_date": "2026-09-30T05:52:57Z"
     },
     {
+      "cve_id": "CVE-2026-94545",
+      "repo_info": "[MRdark-ops/CVE-2026-94545-](https://github.com/MRdark-ops/CVE-2026-94545-)",
+      "description": "Next.js next/og unauthenticated RCE (CVE-2026-94545) - PoC",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T15:12:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-91159",
+      "repo_info": "[sl4x0/autheo-cve-2026-91159-poc](https://github.com/sl4x0/autheo-cve-2026-91159-poc)",
+      "description": "Security PoC payload host for CVE-2026-91159 oEmbed test (authorized bug bounty)",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T20:12:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-85706",
+      "repo_info": "[wuyou6956-glitch/cve-2026-85706](https://github.com/wuyou6956-glitch/cve-2026-85706)",
+      "description": "no description",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T10:57:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-76570",
+      "repo_info": "[murrez/CVE-2026-76570](https://github.com/murrez/CVE-2026-76570)",
+      "description": "CVE-2026-76570 PoC (PoCbit) — Joomla JCTables (com_jctables) &lt;1.21.1: unauth SQL read/write via front-end JSON API getdatarow/getrow (CVSS 4.0 10.0 AT:N). check + exploit + mass. https://www.cve.org/CVERecord?id=CVE-2026-76570",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T17:20:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-76504",
+      "repo_info": "[ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept](https://github.com/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept)",
+      "description": "EUVD-2026-89950  Improper Handling of URL Encoding (Hex Encoding) (CWE-177)",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T19:40:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-73570",
+      "repo_info": "[0xBlackash/CVE-2026-73570](https://github.com/0xBlackash/CVE-2026-73570)",
+      "description": "CVE-2026-73570",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T21:13:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-72018",
+      "repo_info": "[0xBlackash/CVE-2026-72018](https://github.com/0xBlackash/CVE-2026-72018)",
+      "description": "CVE-2026-72018",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T11:00:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-52993",
+      "repo_info": "[CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993](https://github.com/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993)",
+      "description": "no description",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T10:12:29Z"
+    },
+    {
       "cve_id": "CVE-2026-48121",
       "repo_info": "[decker757/cs440-langgraph-nosql-demo](https://github.com/decker757/cs440-langgraph-nosql-demo)",
       "description": "Local classroom demo of NoSQL operator injection in LangGraph&#x27;s MongoDBSaver (GHSA-98xf-r82g-9mhx / CVE-2026-48121). Fictional data only.",
       "date": "2026-09-30",
       "raw_date": "2026-09-30T01:15:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[HaSiyo/Root-My-Galaxy-Payloads-KernelSU](https://github.com/HaSiyo/Root-My-Galaxy-Payloads-KernelSU)",
+      "description": "Firmware-specific CVE-2026-43499 and KernelSU payload for Samsung Galaxy S25 Ultra SM-S938N (KOO), S938NKSUCDZIF, Android 17 / kernel 6.6.127.",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T21:54:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[HaSiyo/Root-My-Galaxy-Payloads-KernelSU-Next](https://github.com/HaSiyo/Root-My-Galaxy-Payloads-KernelSU-Next)",
+      "description": "Firmware-specific CVE-2026-43499 and KernelSU-Next payload for Samsung Galaxy S25 Ultra SM-S938N (KOO), S938NKSUCDZIF, Android 17 / kernel 6.6.127.",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T17:44:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-41096",
+      "repo_info": "[wuyou6956-glitch/CVE-2026-41096-POC](https://github.com/wuyou6956-glitch/CVE-2026-41096-POC)",
+      "description": "no description",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T10:57:19Z"
     },
     {
       "cve_id": "CVE-2026-31857",
@@ -31,16 +115,114 @@
       "raw_date": "2026-09-30T03:17:31Z"
     },
     {
+      "cve_id": "CVE-2026-26026",
+      "repo_info": "[wuyou6956-glitch/CVE-2026-26026-PoC](https://github.com/wuyou6956-glitch/CVE-2026-26026-PoC)",
+      "description": "no description",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T10:57:26Z"
+    },
+    {
       "cve_id": "CVE-2026-18143",
       "repo_info": "[ghannyxploit404/CVE-2026-18143](https://github.com/ghannyxploit404/CVE-2026-18143)",
       "description": "single PoC for CVE-2026-18143 Unauth AFU (Arbitrary File Upload)",
       "date": "2026-09-30",
       "raw_date": "2026-09-30T04:35:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-1668",
+      "repo_info": "[wuyou6956-glitch/cve-2026-1668-poc](https://github.com/wuyou6956-glitch/cve-2026-1668-poc)",
+      "description": "no description",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T10:57:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-12227",
+      "repo_info": "[MRdark-ops/CVE-2026-12227](https://github.com/MRdark-ops/CVE-2026-12227)",
+      "description": "CVE-2026-12227 is a critical (CVSS 9.8) unauthenticated Local File Inclusion (LFI) vulnerability in the Visual Composer Website Builder plugin for WordPress, affecting all versions up to and including 45.16.0, This can lead to sensitive data exposure, access control bypass, or even full Remote Code Execution (RCE).",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T18:20:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-103446",
+      "repo_info": "[BomboBombone/CVE-2026-103446](https://github.com/BomboBombone/CVE-2026-103446)",
+      "description": "Sanitized report summary and local PoC for CVE-2026-103446",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T18:34:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-103445",
+      "repo_info": "[BomboBombone/CVE-2026-103445](https://github.com/BomboBombone/CVE-2026-103445)",
+      "description": "Sanitized report summary and local PoC for CVE-2026-103445",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T18:34:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-103442",
+      "repo_info": "[BomboBombone/CVE-2026-103442](https://github.com/BomboBombone/CVE-2026-103442)",
+      "description": "Sanitized report summary and local PoC for CVE-2026-103442",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T18:34:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-103441",
+      "repo_info": "[BomboBombone/CVE-2026-103441](https://github.com/BomboBombone/CVE-2026-103441)",
+      "description": "Sanitized report summary and local PoC for CVE-2026-103441",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T18:34:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-103440",
+      "repo_info": "[BomboBombone/CVE-2026-103440](https://github.com/BomboBombone/CVE-2026-103440)",
+      "description": "Sanitized report summary and local PoC for CVE-2026-103440",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T18:34:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-103437",
+      "repo_info": "[BomboBombone/CVE-2026-103437](https://github.com/BomboBombone/CVE-2026-103437)",
+      "description": "Sanitized report summary and local PoC for CVE-2026-103437",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T18:33:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-102975",
+      "repo_info": "[BomboBombone/CVE-2026-102975](https://github.com/BomboBombone/CVE-2026-102975)",
+      "description": "Sanitized report and local PoC for CVE-2026-102975",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T14:25:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-102973",
+      "repo_info": "[BomboBombone/CVE-2026-102973](https://github.com/BomboBombone/CVE-2026-102973)",
+      "description": "Sanitized report and local PoC for CVE-2026-102973",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T14:25:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-102971",
+      "repo_info": "[BomboBombone/CVE-2026-102971](https://github.com/BomboBombone/CVE-2026-102971)",
+      "description": "Sanitized report and local PoC for CVE-2026-102971",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T14:25:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-102427",
+      "repo_info": "[murrez/CVE-2026-102427](https://github.com/murrez/CVE-2026-102427)",
+      "description": "CVE-2026-102427 is an unauthenticated remote code execution flaw in OrdaSoft Joomla Content Construction Kit (OS CCK) — Joomla component com_os_cck.",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T18:12:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-102425",
+      "repo_info": "[murrez/CVE-2026-102425](https://github.com/murrez/CVE-2026-102425)",
+      "description": "CVE-2026-102425 PoC (PoCbit) — Joomla Balbooa Forms (com_baforms) &lt;2.4.3.4 unauth RCE via field shortcode injection in post-submission PHP eval(). check + exploit + mass bulk. https://pocbit.org/pocs/cve-2026-102425",
+      "date": "2026-09-30",
+      "raw_date": "2026-09-30T08:00:21Z"
     }
   ],
-  "generated_at": "2026-10-01T05:19:07.700532",
+  "generated_at": "2026-10-01T07:02:46.962328",
   "metadata": {
-    "total_cves": 5,
+    "total_cves": 31,
     "date_range": "2026-09-30",
     "source": "README.md",
     "script_version": "2.0"

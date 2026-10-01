@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "count": 6,
+  "count": 7,
   "cves": [
     {
       "cve_id": "CVE-2026-6433",
@@ -15,6 +15,13 @@
       "description": "Shell script to detect TanStack npm supply chain attack indicators (CVE-2026-45321 / GHSA-g7cv-rxg3-hmpx)",
       "date": "2026-05-16",
       "raw_date": "2026-05-16T08:01:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[Quaerendir/dirtyfrag-audit](https://github.com/Quaerendir/dirtyfrag-audit)",
+      "description": "Audit script for CVE-2026-43284 + CVE-2026-43500 &quot;Dirty Frag&quot;",
+      "date": "2026-05-16",
+      "raw_date": "2026-05-16T17:20:11Z"
     },
     {
       "cve_id": "CVE-2026-42945",
@@ -45,9 +52,9 @@
       "raw_date": "2026-05-16T12:12:50Z"
     }
   ],
-  "generated_at": "2026-10-01T05:19:07.666385",
+  "generated_at": "2026-10-01T07:02:46.925257",
   "metadata": {
-    "total_cves": 6,
+    "total_cves": 7,
     "date_range": "2026-05-16",
     "source": "README.md",
     "script_version": "2.0"

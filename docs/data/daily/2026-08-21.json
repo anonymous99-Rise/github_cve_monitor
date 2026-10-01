@@ -1,7 +1,14 @@
 {
   "date": "2026-08-21",
-  "count": 22,
+  "count": 23,
   "cves": [
+    {
+      "cve_id": "CVE-2026-80444",
+      "repo_info": "[Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti)",
+      "description": "no description",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T05:40:06Z"
+    },
     {
       "cve_id": "CVE-2026-76565",
       "repo_info": "[toanln-cov/CVE-2026-76565](https://github.com/toanln-cov/CVE-2026-76565)",
@@ -157,9 +164,9 @@
       "raw_date": "2026-08-21T16:53:02Z"
     }
   ],
-  "generated_at": "2026-10-01T05:19:07.687441",
+  "generated_at": "2026-10-01T07:02:46.948942",
   "metadata": {
-    "total_cves": 22,
+    "total_cves": 23,
     "date_range": "2026-08-21",
     "source": "README.md",
     "script_version": "2.0"

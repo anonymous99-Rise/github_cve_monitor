@@ -1,7 +1,14 @@
 {
   "date": "2026-09-04",
-  "count": 36,
+  "count": 37,
   "cves": [
+    {
+      "cve_id": "CVE-2026-86595",
+      "repo_info": "[Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti)",
+      "description": "no description",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T14:08:17Z"
+    },
     {
       "cve_id": "CVE-2026-85769",
       "repo_info": "[isukasanuj/CVE-2026-85769](https://github.com/isukasanuj/CVE-2026-85769)",
@@ -255,9 +262,9 @@
       "raw_date": "2026-09-04T03:03:33Z"
     }
   ],
-  "generated_at": "2026-10-01T05:19:07.691717",
+  "generated_at": "2026-10-01T07:02:46.953335",
   "metadata": {
-    "total_cves": 36,
+    "total_cves": 37,
     "date_range": "2026-09-04",
     "source": "README.md",
     "script_version": "2.0"

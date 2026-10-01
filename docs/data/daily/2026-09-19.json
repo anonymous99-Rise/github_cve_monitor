@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "count": 24,
+  "count": 25,
   "cves": [
     {
       "cve_id": "CVE-2026-94036",
@@ -150,6 +150,13 @@
       "raw_date": "2026-09-19T17:33:44Z"
     },
     {
+      "cve_id": "CVE-2026-32475",
+      "repo_info": "[cyeezy08/WordPress_Exploit_Directory](https://github.com/cyeezy08/WordPress_Exploit_Directory)",
+      "description": "CVE-2026-32475 — unauthenticated arbitrary file upload in Elementor Pro &lt;= 4.2.1 (CVSS 9.0, CWE-434). PoC for authorised testing.",
+      "date": "2026-09-19",
+      "raw_date": "2026-09-19T20:55:47Z"
+    },
+    {
       "cve_id": "CVE-2026-19952",
       "repo_info": "[abraxas/CVE-2026-19952](https://github.com/abraxas/CVE-2026-19952)",
       "description": "CVE-2026-19952 - DynamiApps - High 7.5 - Unauthenticated POST /wp-admin/admin-ajax.php - Arbitrary File Deletion",
@@ -171,9 +178,9 @@
       "raw_date": "2026-09-19T19:33:32Z"
     }
   ],
-  "generated_at": "2026-10-01T05:19:07.696506",
+  "generated_at": "2026-10-01T07:02:46.958312",
   "metadata": {
-    "total_cves": 24,
+    "total_cves": 25,
     "date_range": "2026-09-19",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "count": 44,
+  "count": 45,
   "cves": [
     {
       "cve_id": "CVE-2026-93958",
@@ -43,6 +43,13 @@
       "description": "Improper Input Validation (CWE-20)  SSVC Scores Exploitation: Active Technical Impact: Total",
       "date": "2026-09-28",
       "raw_date": "2026-09-28T09:16:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-88771",
+      "repo_info": "[craigsblackie/cve-2026-88771-netscaler](https://github.com/craigsblackie/cve-2026-88771-netscaler)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T10:06:54Z"
     },
     {
       "cve_id": "CVE-2026-87902",
@@ -311,9 +318,9 @@
       "raw_date": "2026-09-28T09:45:48Z"
     }
   ],
-  "generated_at": "2026-10-01T05:19:07.699657",
+  "generated_at": "2026-10-01T07:02:46.961466",
   "metadata": {
-    "total_cves": 44,
+    "total_cves": 45,
     "date_range": "2026-09-28",
     "source": "README.md",
     "script_version": "2.0"

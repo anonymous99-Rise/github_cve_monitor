@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "count": 8,
+  "count": 10,
   "cves": [
     {
       "cve_id": "CVE-2026-60004",
@@ -45,6 +45,20 @@
       "raw_date": "2026-07-30T04:01:11Z"
     },
     {
+      "cve_id": "CVE-2026-18783",
+      "repo_info": "[Hasanuyarrr/CVE-2026-18783-TREX-MES-Uygulamalarinda-Yetkisiz-Nesne-Erisimi](https://github.com/Hasanuyarrr/CVE-2026-18783-TREX-MES-Uygulamalarinda-Yetkisiz-Nesne-Erisimi)",
+      "description": "no description",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T17:22:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-18782",
+      "repo_info": "[Hasanuyarrr/CVE-2026-18782-TREX-MES-Uygulamalarinda-SQL-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-18782-TREX-MES-Uygulamalarinda-SQL-Zafiyeti)",
+      "description": "no description",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T11:51:49Z"
+    },
+    {
       "cve_id": "CVE-2026-16723",
       "repo_info": "[1xPwn/CVE-2026-16723](https://github.com/1xPwn/CVE-2026-16723)",
       "description": "A critical vulnerability affecting Fastjson versions 1.2.68 – 1.2.83.",
@@ -59,9 +73,9 @@
       "raw_date": "2026-07-30T01:38:15Z"
     }
   ],
-  "generated_at": "2026-10-01T05:19:07.683604",
+  "generated_at": "2026-10-01T07:02:46.944346",
   "metadata": {
-    "total_cves": 8,
+    "total_cves": 10,
     "date_range": "2026-07-30",
     "source": "README.md",
     "script_version": "2.0"

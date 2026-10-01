@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-01",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-96349",
+      "repo_info": "[murrez/CVE-2026-96349](https://github.com/murrez/CVE-2026-96349)",
+      "description": "CVE-2026-96349 — WordPress SiteSkite plugin ≤2.1.8 unauthenticated RCE (CVSS 10.0, CWE-94). PoCbit mass-exploit PoC: legacy API-key autologin (?token=) + REST MCP siteskite_execute_php eval chain; fixed in 2.2.0. Check/exploit/mass bulk, hits.txt &amp; exploited.txt, --lab self-test. Catalog: https://pocbit.org/pocs/cve-2026-96349",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T04:23:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-88771",
+      "repo_info": "[bkchaudhari/NetScaler-CTX697096-Assessment-Script](https://github.com/bkchaudhari/NetScaler-CTX697096-Assessment-Script)",
+      "description": "a practical NetScaler CTX697096 security-assessment workflow covering exposure validation, upgrade readiness and compromise-indicator hunting for CVE-2026-88771 through CVE-2026-88778.",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T02:15:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-59310",
+      "repo_info": "[chu0119/vc-strike](https://github.com/chu0119/vc-strike)",
+      "description": "VC-Strike — VMware vCenter CVE-2026-59310 (unauth root RCE) &amp; CVE-2026-59309 (SRP auth bypass) authorized pentest suite. GUI+CLI, multi-session C2, stdlib-only. 授权测试专用",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T01:29:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-58138",
+      "repo_info": "[Ez4rd1x1/CVE-2026-58138-Research](https://github.com/Ez4rd1x1/CVE-2026-58138-Research)",
+      "description": "critical-severity unauthenticated Remote Code Execution (RCE) vulnerability impacting Orkes Conductor",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T06:32:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-48500",
+      "repo_info": "[rimbadirgantara/CVE-2026-48500](https://github.com/rimbadirgantara/CVE-2026-48500)",
+      "description": "no description",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T03:06:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[YUE546/IQOO-neo7-ghostlock-43499](https://github.com/YUE546/IQOO-neo7-ghostlock-43499)",
+      "description": "基于CVE-2026-43499（ghostlock）的 iQOO Neo7 提权移植，希望能为5.10系内核的机型提供一些参考。",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T06:52:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-11318",
+      "repo_info": "[Cr0wld3r/CVE-2026-11318](https://github.com/Cr0wld3r/CVE-2026-11318)",
+      "description": "Local Privilege Escalation (LPE) Vulnerabilities in DeskIn macOS Client",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T01:05:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-103585",
+      "repo_info": "[BomboBombone/CVE-2026-103585](https://github.com/BomboBombone/CVE-2026-103585)",
+      "description": "Sanitized report and local PoC for CVE-2026-103585",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T01:06:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-103584",
+      "repo_info": "[BomboBombone/CVE-2026-103584](https://github.com/BomboBombone/CVE-2026-103584)",
+      "description": "Sanitized report and local PoC for CVE-2026-103584",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T01:06:46Z"
+    }
+  ],
+  "generated_at": "2026-10-01T07:02:46.962782",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2026-10-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
