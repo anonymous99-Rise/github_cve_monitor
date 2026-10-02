@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "count": 9,
+  "count": 27,
   "cves": [
     {
       "cve_id": "CVE-2026-96349",
@@ -10,11 +10,74 @@
       "raw_date": "2026-10-01T04:23:00Z"
     },
     {
+      "cve_id": "CVE-2026-93616",
+      "repo_info": "[BishopFox/CVE-2026-93616-check](https://github.com/BishopFox/CVE-2026-93616-check)",
+      "description": "Safely detect Check Point CPM RCE CVE-2026-93616",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T14:32:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-92966",
+      "repo_info": "[murrez/CVE-2026-92966](https://github.com/murrez/CVE-2026-92966)",
+      "description": "CVE-2026-92966 — WordPress LatePoint ≤5.7.0 unauthenticated stored shortcode execution (CVSS 9.1, CWE-94). PoCbit mass-exploit PoC: plant [caption]/custom shortcode in booking first name → Customer Cabinet block double do_shortcode; fixed in 5.7.1. No API key. check/exploit/mass, hits.txt &amp; exploited.txt, https://pocbit.org/pocs/cve-2026-92966",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T07:38:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-90907",
+      "repo_info": "[aorozco-sys/CVE-2026-90907](https://github.com/aorozco-sys/CVE-2026-90907)",
+      "description": "CVE-2026-90907 (CVSS 6.9) — Joomla! CMS unauthorized user account creation via com_users profile.save (authorization bypass). Non-destructive checker + authorized-use exploit PoC. Fixed in 5.4.9 / 6.1.4.",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T15:14:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-90817",
+      "repo_info": "[securifera/CVE-2026-90817](https://github.com/securifera/CVE-2026-90817)",
+      "description": "REDCap DataImport RCE",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T15:34:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-88789",
+      "repo_info": "[oscerd/CVE-2026-88789](https://github.com/oscerd/CVE-2026-88789)",
+      "description": "Reproducer for CVE-2026-88789 (Apache Camel Quarkus camel-quarkus-support-xalan drops the JAXP external access restrictions, XXE / SSRF) — Camel Quarkus",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T10:22:10Z"
+    },
+    {
       "cve_id": "CVE-2026-88771",
       "repo_info": "[bkchaudhari/NetScaler-CTX697096-Assessment-Script](https://github.com/bkchaudhari/NetScaler-CTX697096-Assessment-Script)",
       "description": "a practical NetScaler CTX697096 security-assessment workflow covering exposure validation, upgrade readiness and compromise-indicator hunting for CVE-2026-88771 through CVE-2026-88778.",
       "date": "2026-10-01",
       "raw_date": "2026-10-01T02:15:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-88771",
+      "repo_info": "[emilstahl/pitscaler](https://github.com/emilstahl/pitscaler)",
+      "description": "PitScaler: independent, source-linked briefing on Citrix NetScaler CVE-2026-88771 and CVE-2026-88772 (CTX697096). https://pitscaler.com",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T10:40:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-86950",
+      "repo_info": "[msuiche/hotcell](https://github.com/msuiche/hotcell)",
+      "description": "Runtime exploit monitor for Apple document/image pipelines (iOS/macOS) — EXPMON concept: Frida agent + behavioral rules. First target: the CVE-2026-86950 glyph chain.",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T18:13:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-62146",
+      "repo_info": "[TeamN4C/SG-2026-0026](https://github.com/TeamN4C/SG-2026-0026)",
+      "description": "CVE-2026-62146 CRI-O ShmPath poisoning PoC and exploit",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T12:08:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-62059",
+      "repo_info": "[Hassham1/CVE-2026-62059-ultimate-member-sqli-poc](https://github.com/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc)",
+      "description": "no description",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T16:09:44Z"
     },
     {
       "cve_id": "CVE-2026-59310",
@@ -45,11 +108,60 @@
       "raw_date": "2026-10-01T06:52:27Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[yexiaoqq/rmg-s9110-research](https://github.com/yexiaoqq/rmg-s9110-research)",
+      "description": "Root My Galaxy (CVE-2026-43499) exploit-grooming research log for Samsung Galaxy S23 SM-S9110 (dm1q / android13-5.15). Reverse-engineering notes, experiment journals, and step-by-step beginner-friendly docs.",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T23:30:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-40281",
+      "repo_info": "[0xgh057r3c0n/CVE-2026-40281](https://github.com/0xgh057r3c0n/CVE-2026-40281)",
+      "description": "Gotenberg &lt;= 8.30.1 unauthenticated RCE",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T22:22:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-33825",
+      "repo_info": "[anasabugaddara-ux/defender-bluehammer-audit](https://github.com/anasabugaddara-ux/defender-bluehammer-audit)",
+      "description": "Defensive Metasploit post module for CVE-2026-33825 (BlueHammer): Defender version/posture detection + compromise-hunt. Detection only.",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T08:37:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-26026",
+      "repo_info": "[petriQore/CVE-2026-26026_PoC](https://github.com/petriQore/CVE-2026-26026_PoC)",
+      "description": "PoC script for CVE-2026-26026 GLPI versions 11.0.0 through 11.0.5",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T13:38:39Z"
+    },
+    {
       "cve_id": "CVE-2026-11318",
       "repo_info": "[Cr0wld3r/CVE-2026-11318](https://github.com/Cr0wld3r/CVE-2026-11318)",
       "description": "Local Privilege Escalation (LPE) Vulnerabilities in DeskIn macOS Client",
       "date": "2026-10-01",
       "raw_date": "2026-10-01T01:05:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-104286",
+      "repo_info": "[ShadowForge-Cyber/CVE-2026-104286-POC](https://github.com/ShadowForge-Cyber/CVE-2026-104286-POC)",
+      "description": "no description",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T22:15:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-104110",
+      "repo_info": "[pervinzahidli/CVE-2026-104110](https://github.com/pervinzahidli/CVE-2026-104110)",
+      "description": "Unauthenticated disclosure of internal folder path, client email, and upload policy for FileRise Pro client portals via /api/pro/portals/get.php",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T18:55:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-103977",
+      "repo_info": "[pervinzahidli/CVE-2026-103977](https://github.com/pervinzahidli/CVE-2026-103977)",
+      "description": "Session-scoped TOTP rate limiting permits repeated verification attempts",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T18:48:25Z"
     },
     {
       "cve_id": "CVE-2026-103585",
@@ -64,11 +176,25 @@
       "description": "Sanitized report and local PoC for CVE-2026-103584",
       "date": "2026-10-01",
       "raw_date": "2026-10-01T01:06:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-102425",
+      "repo_info": "[tonydelouvre/CVE-2026-102425](https://github.com/tonydelouvre/CVE-2026-102425)",
+      "description": "CVE-2026-102425 - GUI CONSOLE",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T12:40:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-100671",
+      "repo_info": "[canhieu/cve-2026-100671-poc](https://github.com/canhieu/cve-2026-100671-poc)",
+      "description": "no description",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T15:25:50Z"
     }
   ],
-  "generated_at": "2026-10-02T05:07:17.027690",
+  "generated_at": "2026-10-02T06:51:19.218023",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 27,
     "date_range": "2026-10-01",
     "source": "README.md",
     "script_version": "2.0"

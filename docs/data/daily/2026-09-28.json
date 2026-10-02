@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "count": 45,
+  "count": 46,
   "cves": [
     {
       "cve_id": "CVE-2026-93958",
@@ -8,6 +8,13 @@
       "description": "CVE-2026-93958 PoC: D-Link R95 BE9500 DHMAPI SetTimeSettings NTPServer authenticated root command injection. DHMAPI login, RCE verify, mass bulk exploit mode, colored CLI. https://pocbit.org/pocs/cve-2026-93958",
       "date": "2026-09-28",
       "raw_date": "2026-09-28T08:13:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-88996",
+      "repo_info": "[dorkerdevil/wpforms-xss-fix-bypass](https://github.com/dorkerdevil/wpforms-xss-fix-bypass)",
+      "description": "Unauthenticated reflected XSS in WPForms &lt;= 2.0.2.1 — bypass of the CVE-2026-88996 Smart Tag escaping at attribute-name position",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T15:32:12Z"
     },
     {
       "cve_id": "CVE-2026-88772",
@@ -318,9 +325,9 @@
       "raw_date": "2026-09-28T09:45:48Z"
     }
   ],
-  "generated_at": "2026-10-02T05:07:17.026413",
+  "generated_at": "2026-10-02T06:51:19.216604",
   "metadata": {
-    "total_cves": 45,
+    "total_cves": 46,
     "date_range": "2026-09-28",
     "source": "README.md",
     "script_version": "2.0"

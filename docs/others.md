@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-01 07:02:17
+- **生成时间**: 2026-10-02 06:50:51
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -417,9 +417,11 @@
 | 🚫 未识别 | [shylock-hg-bot/1f916-listing41-microsoft-cve](https://github.com/shylock-hg-bot/1f916-listing41-microsoft-cve) | Microsoft-CNA monthly CVE series (2025-09..2026-08) for 1F916 listing-41 | 2026-09-29T11:13:19Z|
 | 🚫 未识别 | [benchaabenameny-sys/icrami2026-cve-cwe-pilot](https://github.com/benchaabenameny-sys/icrami2026-cve-cwe-pilot) | Replication package for the ICRAMI 2026 paper on zero-shot and few-shot LLM CVE-to-CWE classification | 2026-09-29T08:46:02Z|
 | 🚫 未识别 | [danielw98/linux-kernel-cve-triage-2026](https://github.com/danielw98/linux-kernel-cve-triage-2026) | Supplementary data: the 82-identifier 2026 CVE triage behind the ISETC 2026 paper on human and AI roles in Linux kernel vulnerability discovery | 2026-09-30T19:14:51Z|
+| 🚫 未识别 | [grep999/mcp-audit](https://github.com/grep999/mcp-audit) | Offline-first MCP server security scanner. Detects tool poisoning, hardcoded secrets, known-CVE servers, and rug-pulls. NSA May-2026 aligned. One command, no cloud dependency, GitHub Action gate. | 2026-10-01T19:19:30Z|
+| 🚫 未识别 | [arteiro-tiago/PRI-project-g74](https://github.com/arteiro-tiago/PRI-project-g74) | Pesquisa de CVE nr primos de 2017-2026 | 2026-10-01T16:41:18Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-01 07:02:45  
-**总记录数**: 406
+**报告生成时间**: 2026-10-02 06:51:17  
+**总记录数**: 408
