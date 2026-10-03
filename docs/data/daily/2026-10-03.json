@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-03",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9558",
+      "repo_info": "[Cimihan123/CVE-2026-9558-lab-poc-bundle](https://github.com/Cimihan123/CVE-2026-9558-lab-poc-bundle)",
+      "description": "no description",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T03:19:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-15989",
+      "repo_info": "[antid00t/CVE-2026-15989](https://github.com/antid00t/CVE-2026-15989)",
+      "description": "Unauthenticated Privilege Escalation Mass Exploit Super Forms &lt;= 6.3.316 CVE-2026-15989",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T00:55:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-105030",
+      "repo_info": "[asvorg/CVE-2026-105030-poc](https://github.com/asvorg/CVE-2026-105030-poc)",
+      "description": "A python3 PoC for CVE-2026-105030 Kener 4.0.0 before 4.1.6 Hidden Monitor Data Disclosure via Dashboard API",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T01:02:50Z"
+    }
+  ],
+  "generated_at": "2026-10-03T06:16:07.212145",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-10-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "count": 31,
+  "count": 32,
   "cves": [
     {
       "cve_id": "CVE-2026-9586",
@@ -29,6 +29,13 @@
       "description": "no description",
       "date": "2026-09-02",
       "raw_date": "2026-09-02T05:07:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-83603",
+      "repo_info": "[OhWelp/CVE-2026-83603-LPE-PoC](https://github.com/OhWelp/CVE-2026-83603-LPE-PoC)",
+      "description": "A PoC for ZDI-CAN-28834/CVE-2026-83603, which allows local privilege escalation using netdata and fail2ban-client",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T18:27:02Z"
     },
     {
       "cve_id": "CVE-2026-82329",
@@ -220,9 +227,9 @@
       "raw_date": "2026-09-02T20:46:12Z"
     }
   ],
-  "generated_at": "2026-10-03T04:50:20.418318",
+  "generated_at": "2026-10-03T06:16:07.174846",
   "metadata": {
-    "total_cves": 31,
+    "total_cves": 32,
     "date_range": "2026-09-02",
     "source": "README.md",
     "script_version": "2.0"

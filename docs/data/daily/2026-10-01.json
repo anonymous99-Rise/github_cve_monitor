@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "count": 27,
+  "count": 28,
   "cves": [
     {
       "cve_id": "CVE-2026-96349",
@@ -57,6 +57,13 @@
       "description": "PitScaler: independent, source-linked briefing on Citrix NetScaler CVE-2026-88771 and CVE-2026-88772 (CTX697096). https://pitscaler.com",
       "date": "2026-10-01",
       "raw_date": "2026-10-01T10:40:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-88771",
+      "repo_info": "[orjanj/netscaler_threat_hunt_helper](https://github.com/orjanj/netscaler_threat_hunt_helper)",
+      "description": "NetScaler CTX697096 Threat Hunt Helper (IoC scanner) - CVE-2026-88771, CVE-2026-88772",
+      "date": "2026-10-01",
+      "raw_date": "2026-10-01T19:02:29Z"
     },
     {
       "cve_id": "CVE-2026-86950",
@@ -192,9 +199,9 @@
       "raw_date": "2026-10-01T15:25:50Z"
     }
   ],
-  "generated_at": "2026-10-03T04:50:20.430172",
+  "generated_at": "2026-10-03T06:16:07.211009",
   "metadata": {
-    "total_cves": 27,
+    "total_cves": 28,
     "date_range": "2026-10-01",
     "source": "README.md",
     "script_version": "2.0"

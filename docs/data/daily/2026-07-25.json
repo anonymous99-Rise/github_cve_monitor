@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2026-66804",
@@ -94,6 +94,13 @@
       "raw_date": "2026-07-25T12:55:20Z"
     },
     {
+      "cve_id": "CVE-2026-45805",
+      "repo_info": "[overgrowncarrot1/PenPot-RCE](https://github.com/overgrowncarrot1/PenPot-RCE)",
+      "description": "Penpot &lt;2.15.0 allows for unathenticated RCE CVE-2026-45805",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T17:27:14Z"
+    },
+    {
       "cve_id": "CVE-2026-45585",
       "repo_info": "[tchuin2609/tchuin2609.github.io](https://github.com/tchuin2609/tchuin2609.github.io)",
       "description": "Manage BitLocker encrypted drives on Windows 10 and 11. Extract recovery keys, check encryption status, and apply security mitigations for CVE-2026-45585.",
@@ -178,9 +185,9 @@
       "raw_date": "2026-07-25T07:07:51Z"
     }
   ],
-  "generated_at": "2026-10-03T04:50:20.406543",
+  "generated_at": "2026-10-03T06:16:07.156781",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2026-07-25",
     "source": "README.md",
     "script_version": "2.0"
