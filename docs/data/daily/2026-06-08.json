@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-50751",
@@ -10,6 +10,13 @@
       "raw_date": "2026-06-08T13:26:38Z"
     },
     {
+      "cve_id": "CVE-2026-4480",
+      "repo_info": "[saitoken241/CVE-2026-4480-POC](https://github.com/saitoken241/CVE-2026-4480-POC)",
+      "description": "smb spooler to RCE",
+      "date": "2026-06-08",
+      "raw_date": "2026-06-08T16:56:28Z"
+    },
+    {
       "cve_id": "CVE-2026-43512",
       "repo_info": "[covepseng/cve-2026-43512-poc](https://github.com/covepseng/cve-2026-43512-poc)",
       "description": "Exploitability PoC for CVE-2026-43512 (Apache Tomcat Digest Authentication Bypass)",
@@ -17,9 +24,9 @@
       "raw_date": "2026-06-08T20:43:08Z"
     }
   ],
-  "generated_at": "2026-10-04T05:22:41.608725",
+  "generated_at": "2026-10-04T06:42:02.357223",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-06-08",
     "source": "README.md",
     "script_version": "2.0"

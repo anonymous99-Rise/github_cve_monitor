@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[AdminHcat/CVE-2026-43499-5.15](https://github.com/AdminHcat/CVE-2026-43499-5.15)",
+      "description": "CVE-2026-43499在天玑5.15内核上的首发实现方法",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T06:10:17Z"
+    }
+  ],
+  "generated_at": "2026-10-04T06:42:02.392008",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-10-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

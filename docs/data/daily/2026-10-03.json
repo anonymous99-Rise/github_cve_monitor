@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "count": 3,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-9558",
@@ -10,6 +10,83 @@
       "raw_date": "2026-10-03T03:19:16Z"
     },
     {
+      "cve_id": "CVE-2026-92592",
+      "repo_info": "[godylockz/CVE-2026-92592](https://github.com/godylockz/CVE-2026-92592)",
+      "description": "Proof of concept for CVE-2026-92592: Craft CMS authenticated RCE",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T06:29:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-90970",
+      "repo_info": "[techupdate24/gitlab-ai-gateway-cve-2026-90970](https://github.com/techupdate24/gitlab-ai-gateway-cve-2026-90970)",
+      "description": "A complete guide and workflow for integrating Agile sprints with DevOps CI/CD pipelines.",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T11:02:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[hitechcloud-vietnam/Zapscape](https://github.com/hitechcloud-vietnam/Zapscape)",
+      "description": "Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T18:40:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[hitechcloud-vietnam/wp2shell-PoC](https://github.com/hitechcloud-vietnam/wp2shell-PoC)",
+      "description": "CVE-2026-63030 &amp; CVE-2026-60137 RCE chain proof-of-concept",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T18:47:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-48842",
+      "repo_info": "[XsanFlip/POC-CVE-2026-48842](https://github.com/XsanFlip/POC-CVE-2026-48842)",
+      "description": "CVE-2026-48842 Roundcube SQLi Verifier",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T10:00:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-4480",
+      "repo_info": "[AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce](https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce)",
+      "description": "no description",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T15:23:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[litianyuan-91/Ghostlock-Honor70Pro](https://github.com/litianyuan-91/Ghostlock-Honor70Pro)",
+      "description": "Honor 70 Pro privilege escalation PoC: GhostLock (CVE-2026-43499)  but could not custom KernelSU module loading",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T12:36:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-42589",
+      "repo_info": "[HackfutSecRoot/-GOTENBERG-RCE-CHAIN](https://github.com/HackfutSecRoot/-GOTENBERG-RCE-CHAIN)",
+      "description": "Gotenberg RCE Chain — CVE-2026-42589 + CVE-2026-40281",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T21:40:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-39808",
+      "repo_info": "[gotr00t0day/CVE-2026-39808](https://github.com/gotr00t0day/CVE-2026-39808)",
+      "description": "An unauthenticated OS command injection vulnerability",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T15:50:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-27944",
+      "repo_info": "[diamorphine666/CVE-2026-27944](https://github.com/diamorphine666/CVE-2026-27944)",
+      "description": "Nginx UI - Backups Decryption (CVE-2026-27944)",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T22:31:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-19660",
+      "repo_info": "[MRdark-ops/CVE-2026-19660-exploit](https://github.com/MRdark-ops/CVE-2026-19660-exploit)",
+      "description": "Proof-of-concept scanner and exploit helper for CVE-2026-14378: unauthenticated administrator session takeover in the WordPress plugin DevKit Pro (dplugins) through a flawed user-switch “revert” flow.",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T13:28:21Z"
+    },
+    {
       "cve_id": "CVE-2026-15989",
       "repo_info": "[antid00t/CVE-2026-15989](https://github.com/antid00t/CVE-2026-15989)",
       "description": "Unauthenticated Privilege Escalation Mass Exploit Super Forms &lt;= 6.3.316 CVE-2026-15989",
@@ -17,16 +94,37 @@
       "raw_date": "2026-10-03T00:55:33Z"
     },
     {
+      "cve_id": "CVE-2026-14461",
+      "repo_info": "[sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root](https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root)",
+      "description": "Hands-on Learn SecByte CTF labs covering Beelzebub preparation, VM and network clues, Base64, CVE-2026-14461, admin panels, authentication, credential leaks, kernel security, reused keys, SQLMap, and web-to-root concepts.",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T12:25:24Z"
+    },
+    {
       "cve_id": "CVE-2026-105030",
       "repo_info": "[asvorg/CVE-2026-105030-poc](https://github.com/asvorg/CVE-2026-105030-poc)",
       "description": "A python3 PoC for CVE-2026-105030 Kener 4.0.0 before 4.1.6 Hidden Monitor Data Disclosure via Dashboard API",
       "date": "2026-10-03",
       "raw_date": "2026-10-03T01:02:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-103956",
+      "repo_info": "[abraxas/cve-2026-103956-loom-unauth](https://github.com/abraxas/cve-2026-103956-loom-unauth)",
+      "description": "CVE-2026-103956 - Loom for AWS - Critical - Auth bypass - unauthenticated super-admin when no IdP is configured",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T21:54:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-103648",
+      "repo_info": "[EterNullSec/CVE-2026-103648](https://github.com/EterNullSec/CVE-2026-103648)",
+      "description": "CVE-2026-103648 - Path Traversal in image-downloader 4.3.0 - CVSS 9.1 Critical - CWE-22 - By EterNullSec",
+      "date": "2026-10-03",
+      "raw_date": "2026-10-03T12:03:52Z"
     }
   ],
-  "generated_at": "2026-10-04T05:22:41.634330",
+  "generated_at": "2026-10-04T06:42:02.391707",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 17,
     "date_range": "2026-10-03",
     "source": "README.md",
     "script_version": "2.0"

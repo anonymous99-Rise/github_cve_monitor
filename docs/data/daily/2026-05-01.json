@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "count": 4,
+  "count": 5,
   "cves": [
     {
       "cve_id": "CVE-2026-41940",
@@ -29,11 +29,18 @@
       "description": "Audit script for CVE-2026-31431 &quot;Copy Fail&quot;",
       "date": "2026-05-01",
       "raw_date": "2026-05-01T13:56:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[ledlight33/copyfail-dfir](https://github.com/ledlight33/copyfail-dfir)",
+      "description": "Interactive DFIR walkthrough of CVE-2026-31431 (Copy Fail) - from SIEM alert to confirmed verdict. Real Volatility 3 commands, verified methodology.",
+      "date": "2026-05-01",
+      "raw_date": "2026-05-01T19:42:36Z"
     }
   ],
-  "generated_at": "2026-10-04T05:22:41.604955",
+  "generated_at": "2026-10-04T06:42:02.350638",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 5,
     "date_range": "2026-05-01",
     "source": "README.md",
     "script_version": "2.0"

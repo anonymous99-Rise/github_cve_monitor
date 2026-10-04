@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-03 06:15:37
+- **生成时间**: 2026-10-04 06:41:36
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -419,9 +419,11 @@
 | 🚫 未识别 | [danielw98/linux-kernel-cve-triage-2026](https://github.com/danielw98/linux-kernel-cve-triage-2026) | Supplementary data: the 82-identifier 2026 CVE triage behind the ISETC 2026 paper on human and AI roles in Linux kernel vulnerability discovery | 2026-09-30T19:14:51Z|
 | 🚫 未识别 | [grep999/mcp-audit](https://github.com/grep999/mcp-audit) | Offline-first MCP server security scanner. Detects tool poisoning, hardcoded secrets, known-CVE servers, and rug-pulls. NSA May-2026 aligned. One command, no cloud dependency, GitHub Action gate. | 2026-10-01T19:19:30Z|
 | 🚫 未识别 | [arteiro-tiago/PRI-project-g74](https://github.com/arteiro-tiago/PRI-project-g74) | Pesquisa de CVE nr primos de 2017-2026 | 2026-10-01T16:41:18Z|
+| 🚫 未识别 | [famefashion/disband-gift-exposure](https://github.com/famefashion/disband-gift-exposure) | DSB-2026-001 — Critical gift-code exposure and unvalidated claim path in disband.dev. CVE-format advisory + read-only PoC. | 2026-10-03T19:22:06Z|
+| 🚫 未识别 | [nsozturk/cve-threat-intelligence-hub](https://github.com/nsozturk/cve-threat-intelligence-hub) | Offline global CVE &amp; threat intelligence hub (1999-2026) with EPSS, CISA KEV, Metasploit, Nuclei, PoCs, and 384-dim semantic embeddings. | 2026-10-03T19:05:00Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-03 06:16:05  
-**总记录数**: 408
+**报告生成时间**: 2026-10-04 06:42:01  
+**总记录数**: 410

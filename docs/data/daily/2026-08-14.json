@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-43499",
@@ -15,11 +15,18 @@
       "description": "Tozed ZLT X300 5G CPE — Remote Root Code Execution via SDR Rogue Base Station (CVE-2026-2035703, CWE-78, CVSS 9.8) — Coordinated Disclosure",
       "date": "2026-08-14",
       "raw_date": "2026-08-14T03:03:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-12345",
+      "repo_info": "[zahidec0de/CVE-2026-12345-poc](https://github.com/zahidec0de/CVE-2026-12345-poc)",
+      "description": "Proof of Concept (PoC) for CVE-2026-64638, a reflected XSS in WordPress Core &lt; 7.0.3.",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T17:51:15Z"
     }
   ],
-  "generated_at": "2026-10-04T05:22:41.621691",
+  "generated_at": "2026-10-04T06:42:02.375561",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-08-14",
     "source": "README.md",
     "script_version": "2.0"

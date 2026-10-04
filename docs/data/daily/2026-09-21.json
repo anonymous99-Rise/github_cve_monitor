@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "count": 32,
+  "count": 35,
   "cves": [
     {
       "cve_id": "CVE-2026-96889",
@@ -122,6 +122,13 @@
       "raw_date": "2026-09-21T02:40:22Z"
     },
     {
+      "cve_id": "CVE-2026-72778",
+      "repo_info": "[TRX-0/CVE-2026-72778-craftcms-rce](https://github.com/TRX-0/CVE-2026-72778-craftcms-rce)",
+      "description": "Craft CMS CVE-2026-72778 condition.config RCE PoC",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T19:16:56Z"
+    },
+    {
       "cve_id": "CVE-2026-68771",
       "repo_info": "[Oscar-Collado/comfyui-CVE-2026-68771-PoC](https://github.com/Oscar-Collado/comfyui-CVE-2026-68771-PoC)",
       "description": "Security research lab — Unauthenticated RCE via insecure deserialization in ComfyUI v0.23.0 (CVSS 9.8). Isolated Docker environment, technical analysis and documentation.",
@@ -141,6 +148,20 @@
       "description": "XSS2Shell: WordPress Preauth XSS to RCE Chain (CVE-2026-64638)",
       "date": "2026-09-21",
       "raw_date": "2026-09-21T22:35:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-55794",
+      "repo_info": "[TRX-0/CVE-2026-55794-craftcms-ssti](https://github.com/TRX-0/CVE-2026-55794-craftcms-ssti)",
+      "description": "Craft CMS CVE-2026-55794 signed-referrer SSTI PoC",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T19:22:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-44011",
+      "repo_info": "[TRX-0/CVE-2026-44011-craftcms-rce](https://github.com/TRX-0/CVE-2026-44011-craftcms-rce)",
+      "description": "Craft CMS CVE-2026-44011 condition FieldLayout RCE PoC",
+      "date": "2026-09-21",
+      "raw_date": "2026-09-21T19:16:32Z"
     },
     {
       "cve_id": "CVE-2026-43786",
@@ -227,9 +248,9 @@
       "raw_date": "2026-09-21T12:53:33Z"
     }
   ],
-  "generated_at": "2026-10-04T05:22:41.630607",
+  "generated_at": "2026-10-04T06:42:02.387318",
   "metadata": {
-    "total_cves": 32,
+    "total_cves": 35,
     "date_range": "2026-09-21",
     "source": "README.md",
     "script_version": "2.0"
