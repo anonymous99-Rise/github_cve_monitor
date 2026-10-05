@@ -1,18 +1,81 @@
 {
   "date": "2026-10-04",
-  "count": 1,
+  "count": 10,
   "cves": [
+    {
+      "cve_id": "CVE-2026-96451",
+      "repo_info": "[Nxploited/CVE-2026-96451](https://github.com/Nxploited/CVE-2026-96451)",
+      "description": "WordPress Ultimate Member plugin &lt;= 2.13.1 - Privilege Escalation vulnerability",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T12:50:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-92084",
+      "repo_info": "[Hassham1/CVE-2026-92084-beaver-builder-shortcode-poc](https://github.com/Hassham1/CVE-2026-92084-beaver-builder-shortcode-poc)",
+      "description": "CVE-2026-92084 — Beaver Builder Lite &lt;= 2.11.0.5 unauthenticated arbitrary shortcode execution via Sidebar module widget output (CVSS 9.1): Docker validation lab with vulnerable/patched controls, safe-oracle Python PoC, nuclei version screen. Authorized security research only.",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T10:07:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-83627",
+      "repo_info": "[K52-ai/CVE-2026-83627](https://github.com/K52-ai/CVE-2026-83627)",
+      "description": "CVE-2026-83627 — Hummingbird Performance &lt;= 3.21.0 Unauthenticated RCE. Pure Python exploit. by K52-ai.",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T17:25:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-65640",
+      "repo_info": "[aufanfauzi/CVE-2026-65640](https://github.com/aufanfauzi/CVE-2026-65640)",
+      "description": "no description",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T10:11:19Z"
+    },
     {
       "cve_id": "CVE-2026-43499",
       "repo_info": "[AdminHcat/CVE-2026-43499-5.15](https://github.com/AdminHcat/CVE-2026-43499-5.15)",
       "description": "CVE-2026-43499在天玑5.15内核上的首发实现方法",
       "date": "2026-10-04",
       "raw_date": "2026-10-04T06:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[ledlight33/copyfail-check-skill](https://github.com/ledlight33/copyfail-check-skill)",
+      "description": "Read-only Copy Fail (CVE-2026-31431) check, packaged as an agent skill",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T16:26:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-19632",
+      "repo_info": "[TheJesterrrr/CVE-2026-19632](https://github.com/TheJesterrrr/CVE-2026-19632)",
+      "description": "no description",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T09:07:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-13247",
+      "repo_info": "[sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat](https://github.com/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat)",
+      "description": "Hands-on cybersecurity and CTF labs covering service fingerprinting, MySQL enumeration, HTTP clues, SSH discovery, port probing, host discovery, ICA access paths, CVE-2026-13247 WordPress Stored XSS, Thales, and Tomcat security.",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T17:20:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-104991",
+      "repo_info": "[wvllxe/CVE-2026-104991](https://github.com/wvllxe/CVE-2026-104991)",
+      "description": "CVE-2026-104991 — Missing Authorization (BOLA/IDOR) in Phproject REST API read/comment endpoints",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T13:23:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-103355",
+      "repo_info": "[Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc](https://github.com/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc)",
+      "description": "CVE-2026-103355 - Unlimited Elements For Elementor &lt;= 2.0.20 unauthenticated blind SQL injection via terms-listing identifiers (CVSS 9.3): Docker validation lab with vulnerable (2.0.20) vs patched (2.0.21) controls, read-only boolean-oracle PoC, nuclei version screen. Authorized security research only.",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T14:29:23Z"
     }
   ],
-  "generated_at": "2026-10-05T05:05:51.206642",
+  "generated_at": "2026-10-05T06:43:46.959850",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 10,
     "date_range": "2026-10-04",
     "source": "README.md",
     "script_version": "2.0"

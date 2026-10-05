@@ -1,6 +1,6 @@
 {
   "date": "2025-07-02",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2025-6934",
@@ -15,6 +15,13 @@
       "description": "no description",
       "date": "2025-07-02",
       "raw_date": "2025-07-02T04:03:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-49144",
+      "repo_info": "[GiZcesi/HJregsvr32](https://github.com/GiZcesi/HJregsvr32)",
+      "description": "Educational PoC for CVE-2025-49144 (regsvr32 LOLBIN) — authorized lab use only",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T17:44:04Z"
     },
     {
       "cve_id": "CVE-2025-47812",
@@ -150,9 +157,9 @@
       "raw_date": "2025-07-02T01:36:03Z"
     }
   ],
-  "generated_at": "2026-10-05T05:05:51.118589",
+  "generated_at": "2026-10-05T06:43:46.867312",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2025-07-02",
     "source": "README.md",
     "script_version": "2.0"

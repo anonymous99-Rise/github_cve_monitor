@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-04 06:41:36
+- **生成时间**: 2026-10-05 06:43:03
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -421,9 +421,11 @@
 | 🚫 未识别 | [arteiro-tiago/PRI-project-g74](https://github.com/arteiro-tiago/PRI-project-g74) | Pesquisa de CVE nr primos de 2017-2026 | 2026-10-01T16:41:18Z|
 | 🚫 未识别 | [famefashion/disband-gift-exposure](https://github.com/famefashion/disband-gift-exposure) | DSB-2026-001 — Critical gift-code exposure and unvalidated claim path in disband.dev. CVE-format advisory + read-only PoC. | 2026-10-03T19:22:06Z|
 | 🚫 未识别 | [nsozturk/cve-threat-intelligence-hub](https://github.com/nsozturk/cve-threat-intelligence-hub) | Offline global CVE &amp; threat intelligence hub (1999-2026) with EPSS, CISA KEV, Metasploit, Nuclei, PoCs, and 384-dim semantic embeddings. | 2026-10-03T19:05:00Z|
+| 🚫 未识别 | [xerj-org/corpus-cisa-kev](https://github.com/xerj-org/corpus-cisa-kev) | Plain-text mirror of the CISA Known Exploited Vulnerabilities (KEV) catalog, one labelled file per CVE. Snapshot of catalogVersion 2026.10.04 (1734 entries). CC0 1.0. | 2026-10-04T21:49:01Z|
+| 🚫 未识别 | [xerj-org/corpus-first-epss](https://github.com/xerj-org/corpus-first-epss) | Plain-text mirror of FIRST EPSS current bulk scores, one labelled file per CVE. Snapshot 2026-10-04, model v2026.06.15, 382621 CVEs. Licence not verified - see README. | 2026-10-04T22:18:00Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-04 06:42:01  
-**总记录数**: 410
+**报告生成时间**: 2026-10-05 06:43:45  
+**总记录数**: 412

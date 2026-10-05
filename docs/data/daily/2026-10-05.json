@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-05",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-86881",
+      "repo_info": "[0xcrypto/CVE-2026-86881](https://github.com/0xcrypto/CVE-2026-86881)",
+      "description": "Analysis of CVE-2026-86881: An attacker with a compromised intermediate certificate authority may be able to issue certificates with arbitrary extended key usages",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T02:31:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-40281",
+      "repo_info": "[rabakuku/CVE-2026-40281](https://github.com/rabakuku/CVE-2026-40281)",
+      "description": "A Working PoC For CVE-2026-40281",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T00:34:41Z"
+    }
+  ],
+  "generated_at": "2026-10-05T06:43:46.960057",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-10-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
