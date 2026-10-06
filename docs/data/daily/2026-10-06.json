@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-06",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-96940",
+      "repo_info": "[HORKimhab/CVE-2026-96940](https://github.com/HORKimhab/CVE-2026-96940)",
+      "description": "CVE-2026-96940",
+      "date": "2026-10-06",
+      "raw_date": "2026-10-06T01:37:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-8206",
+      "repo_info": "[Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis](https://github.com/Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis)",
+      "description": "A deep-dive technical reconstruction and impact analysis of CVE-2026-8206—a critical CVSS 9.8 unauthenticated account takeover vulnerability in the WordPress Kirki plugin, featuring proof-of-concept validation, detection strategies, and mitigation frameworks. 🛡️",
+      "date": "2026-10-06",
+      "raw_date": "2026-10-06T05:49:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-74727",
+      "repo_info": "[Kosifuchs/ovpn-kernel-backport](https://github.com/Kosifuchs/ovpn-kernel-backport)",
+      "description": "Upstream OpenVPN kernel fix for CVE-2026-74727, tested on Ubuntu kernel 7.0.0-38.38. Includes build instructions and functional test results.",
+      "date": "2026-10-06",
+      "raw_date": "2026-10-06T04:36:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Nixbones/ghostlock-rmx5085](https://github.com/Nixbones/ghostlock-rmx5085)",
+      "description": "Porting CVE-2026-43499 (GhostLock) to the Realme GT 7T (RMX5085): device profile from the phone&#x27;s own boot.img, KernelSU late-load, one-tap root via Anchor, and the four calibrations that made it work",
+      "date": "2026-10-06",
+      "raw_date": "2026-10-06T00:57:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-105221",
+      "repo_info": "[abraxas/cve-2026-105221-gist-tls](https://github.com/abraxas/cve-2026-105221-gist-tls)",
+      "description": "CVE-2026-105221 - gist RubyGem - High - MITM - GitHub OAuth token theft",
+      "date": "2026-10-06",
+      "raw_date": "2026-10-06T01:44:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-104905",
+      "repo_info": "[wvllxe/CVE-2026-104905-facturascripts-object-injection](https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection)",
+      "description": "PHP Object Injection -&gt; Arbitrary File Deletion in FacturaScripts &lt;= 2026.66 (CWE-502). PoC + advisory.",
+      "date": "2026-10-06",
+      "raw_date": "2026-10-06T06:18:26Z"
+    }
+  ],
+  "generated_at": "2026-10-06T07:23:37.946060",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2026-10-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

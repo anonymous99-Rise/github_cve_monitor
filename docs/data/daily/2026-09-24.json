@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "count": 23,
+  "count": 24,
   "cves": [
     {
       "cve_id": "CVE-2026-96515",
@@ -136,6 +136,13 @@
       "raw_date": "2026-09-24T19:43:12Z"
     },
     {
+      "cve_id": "CVE-2026-28364",
+      "repo_info": "[Akshay-M-Singh/ocaml-marshal-vulnerability](https://github.com/Akshay-M-Singh/ocaml-marshal-vulnerability)",
+      "description": "I found an integer overflow that defeats OCaml&#x27;s fix for CVE-2026-28364: heap memory disclosure and SIGBUS crashes via Marshal deserialization. PoCs, advisory, and proposed patch — fixed in OCaml 5.5.1 (OSEC-2026-18).",
+      "date": "2026-09-24",
+      "raw_date": "2026-09-24T12:02:23Z"
+    },
+    {
       "cve_id": "CVE-2026-16764",
       "repo_info": "[hakaioffsec/CVE-2026-16764](https://github.com/hakaioffsec/CVE-2026-16764)",
       "description": "This repository contains the exploit for CVE-2026-16764.",
@@ -164,9 +171,9 @@
       "raw_date": "2026-09-24T17:11:35Z"
     }
   ],
-  "generated_at": "2026-10-06T05:52:44.909976",
+  "generated_at": "2026-10-06T07:23:37.941327",
   "metadata": {
-    "total_cves": 23,
+    "total_cves": 24,
     "date_range": "2026-09-24",
     "source": "README.md",
     "script_version": "2.0"

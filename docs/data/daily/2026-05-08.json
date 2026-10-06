@@ -1,6 +1,6 @@
 {
   "date": "2026-05-08",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-54424",
@@ -10,6 +10,13 @@
       "raw_date": "2026-05-08T18:21:33Z"
     },
     {
+      "cve_id": "CVE-2026-33534",
+      "repo_info": "[EntroVyx/CVE-2026-33534](https://github.com/EntroVyx/CVE-2026-33534)",
+      "description": "EspoCRM 9.3.3 - Authenticated SSRF via Alternative IPv4 Notation",
+      "date": "2026-05-08",
+      "raw_date": "2026-05-08T17:22:43Z"
+    },
+    {
       "cve_id": "CVE-2026-31431",
       "repo_info": "[krisiasty/vcheck](https://github.com/krisiasty/vcheck)",
       "description": "Vulnerability detection and mitigation tool for Copy Fail and Dirty Frag bugs (CVE-2026-31431, CVE-2026-43284, CVE-2026-43500)",
@@ -17,9 +24,9 @@
       "raw_date": "2026-05-08T17:54:04Z"
     }
   ],
-  "generated_at": "2026-10-06T05:52:44.890135",
+  "generated_at": "2026-10-06T07:23:37.824120",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-05-08",
     "source": "README.md",
     "script_version": "2.0"

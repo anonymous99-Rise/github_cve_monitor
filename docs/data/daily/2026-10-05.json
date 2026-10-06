@@ -1,7 +1,28 @@
 {
   "date": "2026-10-05",
-  "count": 2,
+  "count": 16,
   "cves": [
+    {
+      "cve_id": "CVE-2026-95622",
+      "repo_info": "[0xSemizzz/CVE-2026-95622](https://github.com/0xSemizzz/CVE-2026-95622)",
+      "description": "ModemManager denial-of-service vulnerability caused by an assertion failure when processing a specially crafted Cell Broadcast Message (CBM).",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T08:11:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-93687",
+      "repo_info": "[pillarsdotnet/node-braces](https://github.com/pillarsdotnet/node-braces)",
+      "description": "Ubuntu&#x27;s node-braces plus the CVE-2026-93687 nesting-depth fix, for ppa:pillarsdotnet/ppa",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T17:38:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-86950",
+      "repo_info": "[0xBlackash/CVE-2026-86950](https://github.com/0xBlackash/CVE-2026-86950)",
+      "description": "CVE-2026-86950",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T12:32:14Z"
+    },
     {
       "cve_id": "CVE-2026-86881",
       "repo_info": "[0xcrypto/CVE-2026-86881](https://github.com/0xcrypto/CVE-2026-86881)",
@@ -10,16 +31,93 @@
       "raw_date": "2026-10-05T02:31:05Z"
     },
     {
+      "cve_id": "CVE-2026-71486",
+      "repo_info": "[tmvictorpeters/jbo4rgl](https://github.com/tmvictorpeters/jbo4rgl)",
+      "description": "r30xlqo6从一个辅助 API 看资源边界：CVE-2026-71486（vLLM）w680rjb2afux",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T12:44:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-46333",
+      "repo_info": "[dr4mohamed/CVE-2026-46333](https://github.com/dr4mohamed/CVE-2026-46333)",
+      "description": "no description",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T09:42:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[maulanasdqn/ghostlock-honor-brpnx1](https://github.com/maulanasdqn/ghostlock-honor-brpnx1)",
+      "description": "GhostLock (CVE-2026-43499) port for HONOR Magic 7 Lite / X9C 5G (BRP-NX1) — kernel 5.10.252, SM6450 Snapdragon 6 Gen 1. Includes 7 patches for 5.10 compact waiter support.",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T18:21:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[a23bc/ALI-AN00-cve-2026-43499](https://github.com/a23bc/ALI-AN00-cve-2026-43499)",
+      "description": "Honor X50 (ALI-AN00/ALI-TN00) local privilege escalation for CVE-2026-43499 (GhostLock, kernel rtmutex remove_waiter UAF). Target offsets measured from the device&#x27;s own boot images.",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T15:21:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-41875",
+      "repo_info": "[hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover](https://github.com/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover)",
+      "description": "no description",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T13:57:12Z"
+    },
+    {
       "cve_id": "CVE-2026-40281",
       "repo_info": "[rabakuku/CVE-2026-40281](https://github.com/rabakuku/CVE-2026-40281)",
       "description": "A Working PoC For CVE-2026-40281",
       "date": "2026-10-05",
       "raw_date": "2026-10-05T00:34:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE)",
+      "description": "CVE-2026-39987 Exploit - by infrar3d",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T15:48:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-31857",
+      "repo_info": "[WhiteMachin3/CVE-2026-31857](https://github.com/WhiteMachin3/CVE-2026-31857)",
+      "description": "CVE-2026-31857 - Craft CMS authenticated RCE timing verifier.",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T17:57:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-21096",
+      "repo_info": "[Xen0nize/CVE-2026-21096](https://github.com/Xen0nize/CVE-2026-21096)",
+      "description": "no description",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T22:41:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-16444",
+      "repo_info": "[jamir0quai/CVE-2026-16444](https://github.com/jamir0quai/CVE-2026-16444)",
+      "description": "CVE-2026-16444 — Arbitrary file write on the controller via TeamViewer Classical File Transfer (TV-2026-1008)",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T18:46:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-105314",
+      "repo_info": "[kashishtopi/CVE-2026-105314](https://github.com/kashishtopi/CVE-2026-105314)",
+      "description": "no description",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T13:20:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-105134",
+      "repo_info": "[RayanAlmulhim/CVE-2026-105134-lab](https://github.com/RayanAlmulhim/CVE-2026-105134-lab)",
+      "description": "Educational lab and clean-room reproduction demonstrating the OS command injection pattern in CVE-2026-105134. For defensive research only.",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T13:00:51Z"
     }
   ],
-  "generated_at": "2026-10-06T05:52:44.912555",
+  "generated_at": "2026-10-06T07:23:37.945764",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 16,
     "date_range": "2026-10-05",
     "source": "README.md",
     "script_version": "2.0"
