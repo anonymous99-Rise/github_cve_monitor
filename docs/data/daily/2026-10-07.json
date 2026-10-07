@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-07",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-82531",
+      "repo_info": "[murrez/CVE-2026-82531](https://github.com/murrez/CVE-2026-82531)",
+      "description": "Smarty is vulnerable to code injection through template inheritance. Crafted assigned data can inject a forged SmartyNocache marker into regenerated PHP cache files, potentially allowing attackers to execute arbitrary PHP code. The issue affects Smarty 4.5.7 and earlier, and 5.8.4 and earlier.",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T05:37:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-59358",
+      "repo_info": "[abraxas/CVE-2026-59358](https://github.com/abraxas/CVE-2026-59358)",
+      "description": "CVE-2026-59358 - Cloud Foundry UAA - High - Remote - Privilege leftover - user PKCE token as client_credentials Bearer",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T02:11:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-33439",
+      "repo_info": "[amis13/openam-clean](https://github.com/amis13/openam-clean)",
+      "description": "CVE-2026-33439",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T02:29:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-102422",
+      "repo_info": "[DevVaibhav07/CVE-2026-102422](https://github.com/DevVaibhav07/CVE-2026-102422)",
+      "description": "CVE-2026-102422 POC",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T05:53:12Z"
+    }
+  ],
+  "generated_at": "2026-10-07T07:02:45.130061",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-10-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

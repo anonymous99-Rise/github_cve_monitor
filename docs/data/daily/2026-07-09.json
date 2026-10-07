@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "count": 24,
+  "count": 25,
   "cves": [
     {
       "cve_id": "CVE-2026-8037",
@@ -136,6 +136,13 @@
       "raw_date": "2026-07-09T22:46:15Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[suominen/ghostlock](https://github.com/suominen/ghostlock)",
+      "description": "Tracking GhostLock (CVE-2026-43499), the rtmutex/futex stack use-after-free",
+      "date": "2026-07-09",
+      "raw_date": "2026-07-09T07:05:35Z"
+    },
+    {
       "cve_id": "CVE-2026-4257",
       "repo_info": "[dann3xplo1t/CVE-2026-4257](https://github.com/dann3xplo1t/CVE-2026-4257)",
       "description": "CVE-2026-4257 - Contact Form by Supsystic &lt;= 1.7.36 # SSTI to RCE",
@@ -171,9 +178,9 @@
       "raw_date": "2026-07-09T21:10:54Z"
     }
   ],
-  "generated_at": "2026-10-07T05:25:24.812306",
+  "generated_at": "2026-10-07T07:02:45.098643",
   "metadata": {
-    "total_cves": 24,
+    "total_cves": 25,
     "date_range": "2026-07-09",
     "source": "README.md",
     "script_version": "2.0"

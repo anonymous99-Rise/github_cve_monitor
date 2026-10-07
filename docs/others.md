@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-06 07:23:07
+- **生成时间**: 2026-10-07 07:02:13
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -424,9 +424,10 @@
 | 🚫 未识别 | [xerj-org/corpus-cisa-kev](https://github.com/xerj-org/corpus-cisa-kev) | Plain-text mirror of the CISA Known Exploited Vulnerabilities (KEV) catalog, one labelled file per CVE. Snapshot of catalogVersion 2026.10.04 (1734 entries). CC0 1.0. | 2026-10-04T21:49:01Z|
 | 🚫 未识别 | [xerj-org/corpus-first-epss](https://github.com/xerj-org/corpus-first-epss) | Plain-text mirror of FIRST EPSS current bulk scores, one labelled file per CVE. Snapshot 2026-10-04, model v2026.06.15, 382621 CVEs. Licence not verified - see README. | 2026-10-04T22:18:00Z|
 | 🚫 未识别 | [itatipaul/Safaricom-CTF-2026-Writeups](https://github.com/itatipaul/Safaricom-CTF-2026-Writeups) | Writeups for all 37 challenges we solved at **Safaricom&#x27;s PwnZone CTF 2026** (pre-qualifiers, 2–4 October 2026), covering web, cloud, crypto, forensics, mobile forensics, OSINT, reverse engineering, CVE and AI. | 2026-10-05T21:31:57Z|
+| 🚫 未识别 | [SammySnake-d/TGSEC-Qtzuu](https://github.com/SammySnake-d/TGSEC-Qtzuu) | TGSEC社区渗透套件 · 2026-09-23：cvebird最优9 harness + CVE独立仓差分 + 锁面。按攻击面组织，可喂给AI | 2026-10-02T15:38:30Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-06 07:23:36  
-**总记录数**: 413
+**报告生成时间**: 2026-10-07 07:02:43  
+**总记录数**: 414

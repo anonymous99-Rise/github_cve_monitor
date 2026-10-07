@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "count": 22,
+  "count": 24,
   "cves": [
     {
       "cve_id": "CVE-2026-8206",
@@ -24,6 +24,13 @@
       "raw_date": "2026-07-08T04:30:25Z"
     },
     {
+      "cve_id": "CVE-2026-53359",
+      "repo_info": "[suominen/januscape](https://github.com/suominen/januscape)",
+      "description": "Tracking Januscape (CVE-2026-53359), the KVM/x86 guest-to-host escape",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T08:45:06Z"
+    },
+    {
       "cve_id": "CVE-2026-51788",
       "repo_info": "[aykhan32/CVE-2026-51788](https://github.com/aykhan32/CVE-2026-51788)",
       "description": "no description",
@@ -43,6 +50,13 @@
       "description": "CVE-2026-49777 - WooCommerce Product Slider Pro Malicious Software Implantation RCE - PoC &amp; Analysis - CVSS 10.0 CRITICAL - AMN SECURITY",
       "date": "2026-07-08",
       "raw_date": "2026-07-08T00:15:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-46316",
+      "repo_info": "[suominen/itscape](https://github.com/suominen/itscape)",
+      "description": "Tracking ITScape (CVE-2026-46316), the KVM/arm64 guest-to-host escape",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T08:45:38Z"
     },
     {
       "cve_id": "CVE-2026-46242",
@@ -157,9 +171,9 @@
       "raw_date": "2026-07-08T00:18:11Z"
     }
   ],
-  "generated_at": "2026-10-07T05:25:24.811961",
+  "generated_at": "2026-10-07T07:02:45.098267",
   "metadata": {
-    "total_cves": 22,
+    "total_cves": 24,
     "date_range": "2026-07-08",
     "source": "README.md",
     "script_version": "2.0"

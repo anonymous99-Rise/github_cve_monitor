@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "count": 16,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-95622",
@@ -101,6 +101,13 @@
       "raw_date": "2026-10-05T18:46:05Z"
     },
     {
+      "cve_id": "CVE-2026-105319",
+      "repo_info": "[kashishtopi/CVE-2026-105319](https://github.com/kashishtopi/CVE-2026-105319)",
+      "description": "no description",
+      "date": "2026-10-05",
+      "raw_date": "2026-10-05T13:21:14Z"
+    },
+    {
       "cve_id": "CVE-2026-105314",
       "repo_info": "[kashishtopi/CVE-2026-105314](https://github.com/kashishtopi/CVE-2026-105314)",
       "description": "no description",
@@ -115,9 +122,9 @@
       "raw_date": "2026-10-05T13:00:51Z"
     }
   ],
-  "generated_at": "2026-10-07T05:25:24.843325",
+  "generated_at": "2026-10-07T07:02:45.129416",
   "metadata": {
-    "total_cves": 16,
+    "total_cves": 17,
     "date_range": "2026-10-05",
     "source": "README.md",
     "script_version": "2.0"
