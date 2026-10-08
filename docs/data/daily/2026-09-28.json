@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "count": 46,
+  "count": 49,
   "cves": [
     {
       "cve_id": "CVE-2026-93958",
@@ -311,6 +311,27 @@
       "raw_date": "2026-09-28T13:29:53Z"
     },
     {
+      "cve_id": "CVE-2026-101162",
+      "repo_info": "[Hasyros/CVE-2026-101162-xss-wp-ultimate-review](https://github.com/Hasyros/CVE-2026-101162-xss-wp-ultimate-review)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T08:53:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-101161",
+      "repo_info": "[Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode](https://github.com/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T08:53:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-101160",
+      "repo_info": "[Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating](https://github.com/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating)",
+      "description": "no description",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T08:53:17Z"
+    },
+    {
       "cve_id": "CVE-2026-100903",
       "repo_info": "[4ybrick/CVE-2026-100903](https://github.com/4ybrick/CVE-2026-100903)",
       "description": "GEOritm CVE",
@@ -325,9 +346,9 @@
       "raw_date": "2026-09-28T09:45:48Z"
     }
   ],
-  "generated_at": "2026-10-08T05:34:06.094075",
+  "generated_at": "2026-10-08T07:11:00.528129",
   "metadata": {
-    "total_cves": 46,
+    "total_cves": 49,
     "date_range": "2026-09-28",
     "source": "README.md",
     "script_version": "2.0"

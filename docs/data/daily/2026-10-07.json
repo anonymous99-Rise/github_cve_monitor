@@ -1,13 +1,76 @@
 {
   "date": "2026-10-07",
-  "count": 4,
+  "count": 27,
   "cves": [
+    {
+      "cve_id": "CVE-2026-97332",
+      "repo_info": "[Kolya080808/CVE-2026-97332-PoC](https://github.com/Kolya080808/CVE-2026-97332-PoC)",
+      "description": "Independent PoC and reproducible lab for CVE-2026-97332 — User Private Files &lt; 2.2.0 unauthenticated private file disclosure on WordPress Multisite.",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T20:29:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-96451",
+      "repo_info": "[MRdark-ops/wpexploit-CVE-2026-96451](https://github.com/MRdark-ops/wpexploit-CVE-2026-96451)",
+      "description": "Privilege Escalation vulnerability",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T16:47:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-93355",
+      "repo_info": "[InertFluid/cve-2026-93355-lab](https://github.com/InertFluid/cve-2026-93355-lab)",
+      "description": "Benign, offline reproduction of CVE-2026-93355 — LiteLLM unverified-email JWT account takeover (runs LiteLLM&#x27;s real code)",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T08:03:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-90977",
+      "repo_info": "[aminquliyev057/CVE-2026-90977](https://github.com/aminquliyev057/CVE-2026-90977)",
+      "description": "Clean Login &lt; 1.19 - Unauthenticated CAPTCHA Bypass via Empty Session Comparison",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T17:00:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-87902",
+      "repo_info": "[xiaxiu555/cve-2026-87902](https://github.com/xiaxiu555/cve-2026-87902)",
+      "description": "cve-2026-87902 lab",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T07:42:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-85102",
+      "repo_info": "[aduli198/CVE-2026-85102](https://github.com/aduli198/CVE-2026-85102)",
+      "description": "Authentication Bypass and Remote Code Execution in Remote Access and Site-to-Site VPN",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T07:51:04Z"
+    },
     {
       "cve_id": "CVE-2026-82531",
       "repo_info": "[murrez/CVE-2026-82531](https://github.com/murrez/CVE-2026-82531)",
       "description": "Smarty is vulnerable to code injection through template inheritance. Crafted assigned data can inject a forged SmartyNocache marker into regenerated PHP cache files, potentially allowing attackers to execute arbitrary PHP code. The issue affects Smarty 4.5.7 and earlier, and 5.8.4 and earlier.",
       "date": "2026-10-07",
       "raw_date": "2026-10-07T05:37:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-81780",
+      "repo_info": "[0xCyp1337/CVE-2026-81780](https://github.com/0xCyp1337/CVE-2026-81780)",
+      "description": "no description",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T12:35:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[manpisetsu/wp2shell](https://github.com/manpisetsu/wp2shell)",
+      "description": "CVE-2026-63030 + CVE-2026-60137 exploit RCE chain",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T16:45:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-62911",
+      "repo_info": "[bhavik08-gone/CVE-2026-62911-info](https://github.com/bhavik08-gone/CVE-2026-62911-info)",
+      "description": "no description",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T09:52:01Z"
     },
     {
       "cve_id": "CVE-2026-59358",
@@ -17,6 +80,20 @@
       "raw_date": "2026-10-07T02:11:18Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[GrandFuzard/redmi-13-5g-ghostlock-findings](https://github.com/GrandFuzard/redmi-13-5g-ghostlock-findings)",
+      "description": "Static (offline) feasibility notes for GhostLock / CVE-2026-43499 on Redmi 13 5G, kernel 5.10.236-android12-9. NOT TESTED ON A DEVICE. Partially derived offsets + stack-geometry analysis.",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T16:27:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[HirokiAkihiko/dirtyfrag-research](https://github.com/HirokiAkihiko/dirtyfrag-research)",
+      "description": "DirtyFrag CVE-2026-43284 research for 5.4-qgki devices",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T11:16:49Z"
+    },
+    {
       "cve_id": "CVE-2026-33439",
       "repo_info": "[amis13/openam-clean](https://github.com/amis13/openam-clean)",
       "description": "CVE-2026-33439",
@@ -24,16 +101,100 @@
       "raw_date": "2026-10-07T02:29:14Z"
     },
     {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass](https://github.com/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass)",
+      "description": "Telnet 2.7 Authentication Bypass and Privilege Escalation - Telnet 2.7 Kimlik doğrulama Zafiyeti Ve Yetki Yükseltme Saldırısı",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T18:11:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[01xJB/CVE-2026-23744-POC](https://github.com/01xJB/CVE-2026-23744-POC)",
+      "description": "MCPJam Inspector Remote Code Execution",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T14:58:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-21589",
+      "repo_info": "[ynsmroztas/AtlasSniper](https://github.com/ynsmroztas/AtlasSniper)",
+      "description": "CVE-2026-21589 detector for Atlassian Data Center webresource traversal. Pre-auth webroot file read confirm for Jira, Confluence and Bitbucket.",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T18:14:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-21589",
+      "repo_info": "[0xBlackash/CVE-2026-21589](https://github.com/0xBlackash/CVE-2026-21589)",
+      "description": "CVE-2026-21589",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T15:41:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-21589",
+      "repo_info": "[BimBoxH4/CVE-2026-21589](https://github.com/BimBoxH4/CVE-2026-21589)",
+      "description": "no description",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T13:44:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-21589",
+      "repo_info": "[aduli198/CVE-2026-21589](https://github.com/aduli198/CVE-2026-21589)",
+      "description": "Atlassian Arbitrary File Read",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T09:03:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-13043",
+      "repo_info": "[TheMalwareGuardian/CVE-2026-13043](https://github.com/TheMalwareGuardian/CVE-2026-13043)",
+      "description": "CVE-2026-13043 - Exploiting Panda / WatchGuard pskmad.sys authentication bypass for privileged IOCTL access, MSR disclosure and arbitrary process memory reads.",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T10:31:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-105844",
+      "repo_info": "[murrez/CVE-2026-105844](https://github.com/murrez/CVE-2026-105844)",
+      "description": "CVE-2026-105844 — Payload CMS @payloadcms/plugin-import-export &lt;3.88.0 unauth prototype pollution (CWE-1321, CVSS 4.0 9.3). PoCbit PoC: POST /api/exports/export-preview fields __proto__.overrideAccess → ACL bypass / data leak. check/exploit/mass. Fix 3.88.0+. https://pocbit.org/pocs/cve-2026-105844",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T19:55:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-10520",
+      "repo_info": "[01xJB/CVE-2026-10520-POC](https://github.com/01xJB/CVE-2026-10520-POC)",
+      "description": "Exploit for CVE-2026-10520  - Ivanti Sentry - OS Command Injection",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T14:21:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-102782",
+      "repo_info": "[murrez/CVE-2026-102782](https://github.com/murrez/CVE-2026-102782)",
+      "description": "CVE-2026-102782 — OrdaSoft Joomla Simple Membership &lt;7.4.0 unauth SQLi (CWE-89, CVSS 4.0 9.3). PoCbit PoC: checkLoginPass + login param extractvalue error leak. check/exploit/mass, hits.txt &amp; exploited.txt. Fix 7.4.0+. https://pocbit.org/pocs/cve-2026-102782",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T19:42:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-102489",
+      "repo_info": "[Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce](https://github.com/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce)",
+      "description": "no description",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T09:54:23Z"
+    },
+    {
       "cve_id": "CVE-2026-102422",
       "repo_info": "[DevVaibhav07/CVE-2026-102422](https://github.com/DevVaibhav07/CVE-2026-102422)",
       "description": "CVE-2026-102422 POC",
       "date": "2026-10-07",
       "raw_date": "2026-10-07T05:53:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-102253",
+      "repo_info": "[Ravi-lk/CVE-2026-102253-POC](https://github.com/Ravi-lk/CVE-2026-102253-POC)",
+      "description": "DOS infinite-loop Vulnerability POC",
+      "date": "2026-10-07",
+      "raw_date": "2026-10-07T18:08:16Z"
     }
   ],
-  "generated_at": "2026-10-08T05:34:06.097823",
+  "generated_at": "2026-10-08T07:11:00.531203",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 27,
     "date_range": "2026-10-07",
     "source": "README.md",
     "script_version": "2.0"

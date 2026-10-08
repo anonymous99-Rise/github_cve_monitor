@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-07 07:02:13
+- **生成时间**: 2026-10-08 07:10:28
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -425,9 +425,11 @@
 | 🚫 未识别 | [xerj-org/corpus-first-epss](https://github.com/xerj-org/corpus-first-epss) | Plain-text mirror of FIRST EPSS current bulk scores, one labelled file per CVE. Snapshot 2026-10-04, model v2026.06.15, 382621 CVEs. Licence not verified - see README. | 2026-10-04T22:18:00Z|
 | 🚫 未识别 | [itatipaul/Safaricom-CTF-2026-Writeups](https://github.com/itatipaul/Safaricom-CTF-2026-Writeups) | Writeups for all 37 challenges we solved at **Safaricom&#x27;s PwnZone CTF 2026** (pre-qualifiers, 2–4 October 2026), covering web, cloud, crypto, forensics, mobile forensics, OSINT, reverse engineering, CVE and AI. | 2026-10-05T21:31:57Z|
 | 🚫 未识别 | [SammySnake-d/TGSEC-Qtzuu](https://github.com/SammySnake-d/TGSEC-Qtzuu) | TGSEC社区渗透套件 · 2026-09-23：cvebird最优9 harness + CVE独立仓差分 + 锁面。按攻击面组织，可喂给AI | 2026-10-02T15:38:30Z|
+| 🚫 未识别 | [HORKimhab/CVE-2026-Wordpress](https://github.com/HORKimhab/CVE-2026-Wordpress) | CVE-2026-Wordpress | 2026-10-08T02:00:12Z|
+| 🚫 未识别 | [Jazblue/cve-2026](https://github.com/Jazblue/cve-2026) | Blog about 2026 CVEs affecting Microsoft Office and Model Context Protocol | 2026-10-07T17:26:49Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-07 07:02:43  
-**总记录数**: 414
+**报告生成时间**: 2026-10-08 07:10:59  
+**总记录数**: 416

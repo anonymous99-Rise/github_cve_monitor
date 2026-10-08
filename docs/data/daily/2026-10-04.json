@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "count": 10,
+  "count": 11,
   "cves": [
     {
       "cve_id": "CVE-2026-96451",
@@ -22,6 +22,13 @@
       "description": "CVE-2026-83627 — Hummingbird Performance &lt;= 3.21.0 Unauthenticated RCE. Pure Python exploit. by K52-ai.",
       "date": "2026-10-04",
       "raw_date": "2026-10-04T17:25:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[amier-ge/CVE-2026-72898](https://github.com/amier-ge/CVE-2026-72898)",
+      "description": "CVE-2026-72898 Metabase SQL injection lab with vulnerable and patched versions, admin session creation, CSV export, order deletion, and recovery.",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T18:04:10Z"
     },
     {
       "cve_id": "CVE-2026-65640",
@@ -73,9 +80,9 @@
       "raw_date": "2026-10-04T14:29:23Z"
     }
   ],
-  "generated_at": "2026-10-08T05:34:06.096836",
+  "generated_at": "2026-10-08T07:11:00.530368",
   "metadata": {
-    "total_cves": 10,
+    "total_cves": 11,
     "date_range": "2026-10-04",
     "source": "README.md",
     "script_version": "2.0"

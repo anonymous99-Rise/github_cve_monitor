@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "count": 20,
+  "count": 21,
   "cves": [
     {
       "cve_id": "CVE-2026-93453",
@@ -73,6 +73,13 @@
       "raw_date": "2026-09-18T01:55:38Z"
     },
     {
+      "cve_id": "CVE-2026-76555",
+      "repo_info": "[Hasyros/CVE-2026-76555-path-traversal-wp-import-export-lite](https://github.com/Hasyros/CVE-2026-76555-path-traversal-wp-import-export-lite)",
+      "description": "WP Import Export Lite &lt; 3.9.33 - Authenticated Path Traversal to Sensitive File Disclosure",
+      "date": "2026-09-18",
+      "raw_date": "2026-09-18T14:23:26Z"
+    },
+    {
       "cve_id": "CVE-2026-75827",
       "repo_info": "[abraxas/CVE-2026-75827](https://github.com/abraxas/CVE-2026-75827)",
       "description": "CVE-2026-75827 - getgrav - High 8.8 - Unauthenticated GET /poc-form - Arbitrary File Write",
@@ -143,9 +150,9 @@
       "raw_date": "2026-09-18T16:44:59Z"
     }
   ],
-  "generated_at": "2026-10-08T05:34:06.089763",
+  "generated_at": "2026-10-08T07:11:00.524695",
   "metadata": {
-    "total_cves": 20,
+    "total_cves": 21,
     "date_range": "2026-09-18",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2026-94036",
@@ -8,6 +8,13 @@
       "description": "no description",
       "date": "2026-09-19",
       "raw_date": "2026-09-19T23:17:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-93661",
+      "repo_info": "[Hasyros/CVE-2026-93661-idor-events-manager](https://github.com/Hasyros/CVE-2026-93661-idor-events-manager)",
+      "description": "IDOR/BOLA in Events Manager &lt;= 7.4.3 REST ticket update endpoint — CVE-2026-93661",
+      "date": "2026-09-19",
+      "raw_date": "2026-09-19T21:16:57Z"
     },
     {
       "cve_id": "CVE-2026-93659",
@@ -178,9 +185,9 @@
       "raw_date": "2026-09-19T19:33:32Z"
     }
   ],
-  "generated_at": "2026-10-08T05:34:06.090124",
+  "generated_at": "2026-10-08T07:11:00.524986",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2026-09-19",
     "source": "README.md",
     "script_version": "2.0"

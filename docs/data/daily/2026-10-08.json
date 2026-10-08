@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-08",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-88771",
+      "repo_info": "[grupooruss/netscaler-defensive-checker](https://github.com/grupooruss/netscaler-defensive-checker)",
+      "description": "Defensive security checker for Citrix NetScaler ADC &amp; Gateway — CVE-2026-88771 through CVE-2026-88778",
+      "date": "2026-10-08",
+      "raw_date": "2026-10-08T00:43:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-61424",
+      "repo_info": "[theendofabbys/CVE-2026-61424](https://github.com/theendofabbys/CVE-2026-61424)",
+      "description": "no description",
+      "date": "2026-10-08",
+      "raw_date": "2026-10-08T03:49:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-56291",
+      "repo_info": "[theendofabbys/CVE-2026-56291](https://github.com/theendofabbys/CVE-2026-56291)",
+      "description": "no description",
+      "date": "2026-10-08",
+      "raw_date": "2026-10-08T03:31:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-5430",
+      "repo_info": "[davidvrns/CVE-2026-5430-WSO2](https://github.com/davidvrns/CVE-2026-5430-WSO2)",
+      "description": "Detection PoC for CVE-2026-5430 — unauthenticated JWT algorithm bypass (CVSS 10.0) affecting WSO2 API Manager 4.1.0–4.6.0. Read-only assessment tool with patch confirmation and WAF detection. Authorized use only.",
+      "date": "2026-10-08",
+      "raw_date": "2026-10-08T00:42:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-49049",
+      "repo_info": "[theendofabbys/CVE-2026-49049](https://github.com/theendofabbys/CVE-2026-49049)",
+      "description": "no description",
+      "date": "2026-10-08",
+      "raw_date": "2026-10-08T03:35:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[theendofabbys/CVE-2026-48907](https://github.com/theendofabbys/CVE-2026-48907)",
+      "description": "no description",
+      "date": "2026-10-08",
+      "raw_date": "2026-10-08T03:23:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-21589",
+      "repo_info": "[rxsklife/CVE-2026-21589](https://github.com/rxsklife/CVE-2026-21589)",
+      "description": "CVE-2026-21589 is a critical (CVSS 9.3) arbitrary file access vulnerability affecting all versions of eight Atlassian Data Center products, including Jira, Confluence, Bitbucket, Bamboo, Crowd, Crucible, Fisheye, and Jira Service Management.",
+      "date": "2026-10-08",
+      "raw_date": "2026-10-08T05:41:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-107268",
+      "repo_info": "[yuwkaaa/CVE-2026-107268](https://github.com/yuwkaaa/CVE-2026-107268)",
+      "description": "Drupal-miniorange_2fa",
+      "date": "2026-10-08",
+      "raw_date": "2026-10-08T01:03:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-105192",
+      "repo_info": "[rxsklife/CVE-2026-105192](https://github.com/rxsklife/CVE-2026-105192)",
+      "description": "CVE-2026-105192 is a critical (CVSS 9.8) vulnerability in LMCache, an open-source distributed key-value cache for LLM inference engines like vLLM.",
+      "date": "2026-10-08",
+      "raw_date": "2026-10-08T05:33:03Z"
+    }
+  ],
+  "generated_at": "2026-10-08T07:11:00.531554",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2026-10-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
