@@ -1,7 +1,14 @@
 {
   "date": "2026-08-06",
-  "count": 2,
+  "count": 3,
   "cves": [
+    {
+      "cve_id": "CVE-2026-58048",
+      "repo_info": "[tc4dy/CVE-2026-58048-PoC-Exploit](https://github.com/tc4dy/CVE-2026-58048-PoC-Exploit)",
+      "description": "CVE-2026-58048 – cPanel Root SQL Execution Toolkit (CVSS 9.4) - Full Red/Blue Team Toolkit suite for unpatched cPanel &amp; WHM 11.x. 2 tools: Safe Checker (audit/reporting), Weaponized (reverse shell, persistence, UDF RCE, deployment, file read/write, database operations, mass scan). w/Python. Use Ethically, Stay Legal &lt;3",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T09:33:49Z"
+    },
     {
       "cve_id": "CVE-2026-49268",
       "repo_info": "[xiaoqiMikko/shiro-check](https://github.com/xiaoqiMikko/shiro-check)",
@@ -17,9 +24,9 @@
       "raw_date": "2026-08-06T05:48:01Z"
     }
   ],
-  "generated_at": "2026-10-09T05:38:02.179204",
+  "generated_at": "2026-10-09T07:15:45.113720",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-08-06",
     "source": "README.md",
     "script_version": "2.0"

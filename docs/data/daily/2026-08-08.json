@@ -1,7 +1,14 @@
 {
   "date": "2026-08-08",
-  "count": 2,
+  "count": 3,
   "cves": [
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[tc4dy/CVE-2026-64638-PoC-Exploit](https://github.com/tc4dy/CVE-2026-64638-PoC-Exploit)",
+      "description": "CVE-2026-64638 - WordPress Security Assessment Suite (CVSS 8.9) - WordPress 4.7.0-7.0.2 pentest toolkit. Includes vulnerability assessment &amp; advanced analysis modules. Safe Check &amp; Exploit, 2 mode. Advanced Blue &amp; Red Team Best 2026-64638 Toolkit, Authorized use only. Stay Legal &lt;3zd",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T11:53:39Z"
+    },
     {
       "cve_id": "CVE-2026-43499",
       "repo_info": "[sarabpal-dev/IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U)",
@@ -17,9 +24,9 @@
       "raw_date": "2026-08-08T11:41:33Z"
     }
   ],
-  "generated_at": "2026-10-09T05:38:02.179331",
+  "generated_at": "2026-10-09T07:15:45.114174",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-08-08",
     "source": "README.md",
     "script_version": "2.0"

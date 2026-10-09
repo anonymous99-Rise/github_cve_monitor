@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-09",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-95149",
+      "repo_info": "[reputati0n/CVE-2026-95149](https://github.com/reputati0n/CVE-2026-95149)",
+      "description": "no description",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T06:35:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-94597",
+      "repo_info": "[canhieu/CVE-2026-94597-poc](https://github.com/canhieu/CVE-2026-94597-poc)",
+      "description": "CVE-2026-94597",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T04:23:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-80428",
+      "repo_info": "[HackfutSecRoot/CVE-2026-80428](https://github.com/HackfutSecRoot/CVE-2026-80428)",
+      "description": "ILIAS ≤ 9.21 / 10.9 / 11.2 — Unauthenticated PHP Object Injection (RCE)",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T06:02:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[d16ug-a1l/REDMI_Root](https://github.com/d16ug-a1l/REDMI_Root)",
+      "description": "Redmi Pad Pro (dizi) 内核 Root 方案 — CVE-2026-43499 select_stack 适配，KernelSU 越狱模式",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T03:44:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-107406",
+      "repo_info": "[techupdate24/citrix-netscaler-rce-cve-2026-107406](https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406)",
+      "description": "A complete guide and workflow for integrating Agile sprints with DevOps CI/CD pipelines.",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T04:38:49Z"
+    }
+  ],
+  "generated_at": "2026-10-09T07:15:45.134365",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2026-10-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
