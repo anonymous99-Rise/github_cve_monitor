@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-10",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-94503",
+      "repo_info": "[Wayang1337/CVE-2026-94503](https://github.com/Wayang1337/CVE-2026-94503)",
+      "description": "Zombify &lt;= 1.7.7 Unauthenticated Arbitrary File Upload",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T04:54:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-93687",
+      "repo_info": "[BernydotJar/braces-security-backport](https://github.com/BernydotJar/braces-security-backport)",
+      "description": "MIT-licensed braces 3.0.3 with reviewed CVE-2026-93687 depth backport; pinned consumption only",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T03:48:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-85097",
+      "repo_info": "[Wayang1337/CVE-2026-85097](https://github.com/Wayang1337/CVE-2026-85097)",
+      "description": "Bricksforge &lt;= 3.1.8.9 Unauthenticated Arbitrary File Upload",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T04:51:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-84520",
+      "repo_info": "[csrXamfi/CVE-2026-84520](https://github.com/csrXamfi/CVE-2026-84520)",
+      "description": "AppleFDEKeyStore poc",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T00:40:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-37107",
+      "repo_info": "[KyrieKlay/CVE-2026-37107](https://github.com/KyrieKlay/CVE-2026-37107)",
+      "description": "no description",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T02:30:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-107181",
+      "repo_info": "[SeanDishman/telegram-cve-2026-107181](https://github.com/SeanDishman/telegram-cve-2026-107181)",
+      "description": "Telegram CVE-2026-107181",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T01:12:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-104286",
+      "repo_info": "[kh20134/fortimail-cve-2026-104286-response](https://github.com/kh20134/fortimail-cve-2026-104286-response)",
+      "description": "FortiMail CVE-2026-104286 (CVSS 9.8) 점검·대응 도구 (버전 확인, IoC 점검, 완화·패치 체크리스트)",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T03:36:29Z"
+    }
+  ],
+  "generated_at": "2026-10-10T06:52:16.797385",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2026-10-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

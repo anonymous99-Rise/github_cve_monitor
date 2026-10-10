@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "count": 5,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-95149",
@@ -17,11 +17,25 @@
       "raw_date": "2026-10-09T04:23:32Z"
     },
     {
+      "cve_id": "CVE-2026-88776",
+      "repo_info": "[Scyrix-LLC/CVE-2026-88776](https://github.com/Scyrix-LLC/CVE-2026-88776)",
+      "description": "Write-up for CVE-2026-88776",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T14:44:09Z"
+    },
+    {
       "cve_id": "CVE-2026-80428",
       "repo_info": "[HackfutSecRoot/CVE-2026-80428](https://github.com/HackfutSecRoot/CVE-2026-80428)",
       "description": "ILIAS ≤ 9.21 / 10.9 / 11.2 — Unauthenticated PHP Object Injection (RCE)",
       "date": "2026-10-09",
       "raw_date": "2026-10-09T06:02:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[sangsheng2026/honor-90gt-mag-an00-root-research](https://github.com/sangsheng2026/honor-90gt-mag-an00-root-research)",
+      "description": "荣耀 90 GT (MAG-AN00) 提权尝试全记录：CVE-2026-64560 移植、堆喷射原语穷举与漏洞判定方法论",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T13:03:18Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -31,16 +45,86 @@
       "raw_date": "2026-10-09T03:44:21Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[tingao/debian-on-s23-ultra](https://github.com/tingao/debian-on-s23-ultra)",
+      "description": "A Samsung Galaxy S23 Ultra running Debian 13 as a server. The bootloader is locked, so an app re-establishes root after every reboot: Shizuku, CVE-2026-43499, KernelSU Next late-load, then a Debian chroot with sshd. One APK, quickstart, chroot bootstrap, and notes on everything that did not work.",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T18:16:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[cyrrp/honor90-ghostlock](https://github.com/cyrrp/honor90-ghostlock)",
+      "description": "GhostLock (CVE-2026-43499) + KernelSU late-load port for Honor 90 REA-NX9, MagicOS 9.0.0.211 / Android 15 (pure-GKI 5.10.236). Fork of GhostLock-H80GT.",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T18:06:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-28775",
+      "repo_info": "[Udyz/CVE-2026-28775](https://github.com/Udyz/CVE-2026-28775)",
+      "description": "CVE-2026-28775 SNMP RCE",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T11:26:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-24046",
+      "repo_info": "[Rem1L/cve-2026-24046-poc](https://github.com/Rem1L/cve-2026-24046-poc)",
+      "description": "no description",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T12:44:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-21589",
+      "repo_info": "[gotr00t0day/CVE-2026-21589](https://github.com/gotr00t0day/CVE-2026-21589)",
+      "description": "Atlassian Arbitrary File Read",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T19:15:01Z"
+    },
+    {
       "cve_id": "CVE-2026-107406",
       "repo_info": "[techupdate24/citrix-netscaler-rce-cve-2026-107406](https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406)",
       "description": "A complete guide and workflow for integrating Agile sprints with DevOps CI/CD pipelines.",
       "date": "2026-10-09",
       "raw_date": "2026-10-09T04:38:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-107406",
+      "repo_info": "[ApexBreach/CVE-2026-107406-Poc](https://github.com/ApexBreach/CVE-2026-107406-Poc)",
+      "description": "no description",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T08:34:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-104587",
+      "repo_info": "[AmalJafarzade/CVE-2026-104587](https://github.com/AmalJafarzade/CVE-2026-104587)",
+      "description": "no description",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T15:46:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-104586",
+      "repo_info": "[AmalJafarzade/CVE-2026-104586](https://github.com/AmalJafarzade/CVE-2026-104586)",
+      "description": "no description",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T15:45:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-104585",
+      "repo_info": "[AmalJafarzade/CVE-2026-104585](https://github.com/AmalJafarzade/CVE-2026-104585)",
+      "description": "no description",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T15:13:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-104584",
+      "repo_info": "[AmalJafarzade/CVE-2026-104584](https://github.com/AmalJafarzade/CVE-2026-104584)",
+      "description": "no description",
+      "date": "2026-10-09",
+      "raw_date": "2026-10-09T15:44:39Z"
     }
   ],
-  "generated_at": "2026-10-10T05:22:24.577831",
+  "generated_at": "2026-10-10T06:52:16.797103",
   "metadata": {
-    "total_cves": 5,
+    "total_cves": 17,
     "date_range": "2026-10-09",
     "source": "README.md",
     "script_version": "2.0"

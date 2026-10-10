@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "count": 1,
+  "count": 2,
   "cves": [
     {
       "cve_id": "CVE-2026-63563",
@@ -8,11 +8,18 @@
       "description": "Unauthenticated Address Book Modification on Sharp MX/BP Multifunction Printers",
       "date": "2026-07-31",
       "raw_date": "2026-07-31T14:41:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-51994",
+      "repo_info": "[playb0t/mcp-remote-oauth-security](https://github.com/playb0t/mcp-remote-oauth-security)",
+      "description": "Forensic audit of mcp-remote: seven OAuth trust-boundary advisories, five CVE records (CVE-2026-51994/51995/51996/51997/52001). Server-selected request path (CWE-918) run against loopback canaries in 58 stable releases, 0.1.32 to the current 0.14.3; selected code and namespace signatures under 12 other npm names; search blind spots above 350 KiB.",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T10:36:20Z"
     }
   ],
-  "generated_at": "2026-10-10T05:22:24.552147",
+  "generated_at": "2026-10-10T06:52:16.774435",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-07-31",
     "source": "README.md",
     "script_version": "2.0"
