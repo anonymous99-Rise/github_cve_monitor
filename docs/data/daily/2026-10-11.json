@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-11",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-43805",
+      "repo_info": "[whysocscs/CVE-2026-43805](https://github.com/whysocscs/CVE-2026-43805)",
+      "description": "Binary diff analysis and non-destructive PoC for CVE-2026-43805",
+      "date": "2026-10-11",
+      "raw_date": "2026-10-11T04:03:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[villager1314/CVE-2026-43499-Analysis](https://github.com/villager1314/CVE-2026-43499-Analysis)",
+      "description": "no description",
+      "date": "2026-10-11",
+      "raw_date": "2026-10-11T03:15:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-38812",
+      "repo_info": "[YYF1337/RuoYi-CVE-2026-38812-UNFIX](https://github.com/YYF1337/RuoYi-CVE-2026-38812-UNFIX)",
+      "description": "no description",
+      "date": "2026-10-11",
+      "raw_date": "2026-10-11T01:48:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-104335",
+      "repo_info": "[Farih123/CVE-2026-104335](https://github.com/Farih123/CVE-2026-104335)",
+      "description": "no description",
+      "date": "2026-10-11",
+      "raw_date": "2026-10-11T06:10:30Z"
+    }
+  ],
+  "generated_at": "2026-10-11T06:57:02.207240",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-10-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

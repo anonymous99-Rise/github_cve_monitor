@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "count": 7,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-94503",
@@ -24,11 +24,32 @@
       "raw_date": "2026-10-10T04:51:32Z"
     },
     {
+      "cve_id": "CVE-2026-84568",
+      "repo_info": "[redinpulse/CVE-2026-84568](https://github.com/redinpulse/CVE-2026-84568)",
+      "description": "Reproducible macOS automountd research and lab PoCs for CVE-2026-84568 and CVE-2026-84570: fstype path traversal, NFS payload delivery, Gatekeeper behavior, and root code execution.",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T17:37:53Z"
+    },
+    {
       "cve_id": "CVE-2026-84520",
       "repo_info": "[csrXamfi/CVE-2026-84520](https://github.com/csrXamfi/CVE-2026-84520)",
       "description": "AppleFDEKeyStore poc",
       "date": "2026-10-10",
       "raw_date": "2026-10-10T00:40:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-84411",
+      "repo_info": "[maxprog-svg/CVE-2026-84411](https://github.com/maxprog-svg/CVE-2026-84411)",
+      "description": "CVE-2026-84411 — MikroTik RouterOS WebFig Integer Underflow Exploit",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T15:59:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-69414",
+      "repo_info": "[maxprog-svg/CVE-2026-69414](https://github.com/maxprog-svg/CVE-2026-69414)",
+      "description": "**CVE-2026-69414** is an elevation of privilege vulnerability in the **Microsoft Malware Protection Engine** (part of Windows Defender / Microsoft Defender Antivirus), publicly referred to as **&quot;RoguePlanet&quot;**. It represents a **patch bypass** of the original vulnerability **CVE-2026-50656**.",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T15:53:26Z"
     },
     {
       "cve_id": "CVE-2026-37107",
@@ -38,6 +59,27 @@
       "raw_date": "2026-10-10T02:30:15Z"
     },
     {
+      "cve_id": "CVE-2026-21589",
+      "repo_info": "[webserverdude/f5_CVE-2026-21589_mitigation](https://github.com/webserverdude/f5_CVE-2026-21589_mitigation)",
+      "description": "no description",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T09:03:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-108592",
+      "repo_info": "[asvorg/CVE-2026-108592-poc](https://github.com/asvorg/CVE-2026-108592-poc)",
+      "description": "CVE-2026-108592 — Environment Variable Exposure PoC in mini-swe-agent",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T23:37:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-107806",
+      "repo_info": "[murrez/CVE-2026-107806](https://github.com/murrez/CVE-2026-107806)",
+      "description": "CVE-2026-107806 — nginx-ui 2.3.8–2.4.x auth RCE via forged backup restore (TestConfigCmd). PoCbit PoC: GET /api/backup, tamper app.ini, POST /api/restore, POST /api/nginx/test. check/exploit, batch url-JWT. Fixed 2.5.0. https://pocbit.org/pocs/cve-2026-107806",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T08:17:07Z"
+    },
+    {
       "cve_id": "CVE-2026-107181",
       "repo_info": "[SeanDishman/telegram-cve-2026-107181](https://github.com/SeanDishman/telegram-cve-2026-107181)",
       "description": "Telegram CVE-2026-107181",
@@ -45,16 +87,44 @@
       "raw_date": "2026-10-10T01:12:57Z"
     },
     {
+      "cve_id": "CVE-2026-106445",
+      "repo_info": "[murrez/CVE-2026-106445](https://github.com/murrez/CVE-2026-106445)",
+      "description": "CVE-2026-106445 — Handlebars 4.0.0–4.7.9 RCE via Function.prototype.constructor bypass (GHSA-p8wg-vrv2-v86f). PoCbit PoC + Docker lab (4.7.9), check/exploit HTTP client, GHSA template chain. Fixed 4.7.10. https://pocbit.org/pocs/cve-2026-106445",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T08:24:22Z"
+    },
+    {
       "cve_id": "CVE-2026-104286",
       "repo_info": "[kh20134/fortimail-cve-2026-104286-response](https://github.com/kh20134/fortimail-cve-2026-104286-response)",
       "description": "FortiMail CVE-2026-104286 (CVSS 9.8) 점검·대응 도구 (버전 확인, IoC 점검, 완화·패치 체크리스트)",
       "date": "2026-10-10",
       "raw_date": "2026-10-10T03:36:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-103690",
+      "repo_info": "[Masuer-mengxing/CVE-2026-103690](https://github.com/Masuer-mengxing/CVE-2026-103690)",
+      "description": "SQL injection (CWE-89) in itsourcecode Leave Management System 1.0 - CVE-2026-103690 / VulDB VDB-412559",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T11:18:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-102428",
+      "repo_info": "[MRdark-ops/sqli-cve-2026-102428](https://github.com/MRdark-ops/sqli-cve-2026-102428)",
+      "description": "PoC: OrdaSoft Joomla OS CCK (com_os_cck) 8.3.15 unauth SQLi —mass+exploit+dork",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T23:49:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-102428",
+      "repo_info": "[murrez/CVE-2026-102428](https://github.com/murrez/CVE-2026-102428)",
+      "description": "CVE-2026-102428 PoC: OrdaSoft Joomla OS CCK (com_os_cck) &lt;=8.3.15 unauth SQLi — order_field/order_direction ORDER BY injection on public listings. Check + mass exploit, POCBIT-102428-OK marker, CVSS 9.3. https://pocbit.org/pocs/cve-2026-102428",
+      "date": "2026-10-10",
+      "raw_date": "2026-10-10T08:37:51Z"
     }
   ],
-  "generated_at": "2026-10-11T05:13:48.800999",
+  "generated_at": "2026-10-11T06:57:02.206968",
   "metadata": {
-    "total_cves": 7,
+    "total_cves": 17,
     "date_range": "2026-10-10",
     "source": "README.md",
     "script_version": "2.0"
