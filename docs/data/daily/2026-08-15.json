@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "count": 7,
+  "count": 8,
   "cves": [
     {
       "cve_id": "CVE-2026-9830",
@@ -31,6 +31,13 @@
       "raw_date": "2026-08-15T11:39:03Z"
     },
     {
+      "cve_id": "CVE-2026-47117",
+      "repo_info": "[SaiTeja-Erukude/CVE-2026-47117-openmed-rce](https://github.com/SaiTeja-Erukude/CVE-2026-47117-openmed-rce)",
+      "description": "OpenMed &lt; 1.5.2 unauthenticated RCE via PII privacy-filter model loading and trust_remote_code=True",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T20:23:48Z"
+    },
+    {
       "cve_id": "CVE-2026-47103",
       "repo_info": "[SaiTeja-Erukude/CVE-2026-47103-python-statemachine-rce](https://github.com/SaiTeja-Erukude/CVE-2026-47103-python-statemachine-rce)",
       "description": "Python StateMachine 3.0.0 &lt; 3.2.0 RCE via unsafe SCXML &lt;data expr&gt; evaluation and Python eval() injection.",
@@ -52,9 +59,9 @@
       "raw_date": "2026-08-15T04:49:27Z"
     }
   ],
-  "generated_at": "2026-10-12T05:27:15.661853",
+  "generated_at": "2026-10-12T07:09:02.826414",
   "metadata": {
-    "total_cves": 7,
+    "total_cves": 8,
     "date_range": "2026-08-15",
     "source": "README.md",
     "script_version": "2.0"
