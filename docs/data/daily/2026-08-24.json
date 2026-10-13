@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "count": 43,
+  "count": 45,
   "cves": [
     {
       "cve_id": "CVE-2026-78329",
@@ -106,6 +106,20 @@
       "description": "Reproducer for CVE-2026-59230 (Apache Camel camel-mail MimeMultipart headersInline header injection) — Camel Spring Boot + Camel Quarkus",
       "date": "2026-08-24",
       "raw_date": "2026-08-24T14:36:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[sinhalese-congocopal6379/sinhalese-congocopal6379.github.io](https://github.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io)",
+      "description": "Back up BitLocker recovery keys and audit CVE-2026-45585 on Windows 10/11 with a portable CLI and GUI.",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T01:27:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585](https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585)",
+      "description": "Back up BitLocker recovery keys and audit CVE-2026-45585 on Windows 10/11 with this portable CLI + GUI tool.",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T01:20:09Z"
     },
     {
       "cve_id": "CVE-2026-43914",
@@ -304,9 +318,9 @@
       "raw_date": "2026-08-24T03:03:31Z"
     }
   ],
-  "generated_at": "2026-10-13T06:25:00.061030",
+  "generated_at": "2026-10-13T07:33:26.967844",
   "metadata": {
-    "total_cves": 43,
+    "total_cves": 45,
     "date_range": "2026-08-24",
     "source": "README.md",
     "script_version": "2.0"

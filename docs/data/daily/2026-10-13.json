@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-13",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-85097",
+      "repo_info": "[Masriyan/CVE-2026-85097](https://github.com/Masriyan/CVE-2026-85097)",
+      "description": "POC CVE-2026-85097",
+      "date": "2026-10-13",
+      "raw_date": "2026-10-13T05:39:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-44825",
+      "repo_info": "[q0524/CVE-2026-44825_test](https://github.com/q0524/CVE-2026-44825_test)",
+      "description": "no description",
+      "date": "2026-10-13",
+      "raw_date": "2026-10-13T04:31:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-41992",
+      "repo_info": "[uday952/CVE-2026-41992-poc](https://github.com/uday952/CVE-2026-41992-poc)",
+      "description": "POC for the CVE-2026-41992",
+      "date": "2026-10-13",
+      "raw_date": "2026-10-13T05:32:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-1357",
+      "repo_info": "[stj8703-web/CVE-2026-1357](https://github.com/stj8703-web/CVE-2026-1357)",
+      "description": "no description",
+      "date": "2026-10-13",
+      "raw_date": "2026-10-13T06:13:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-104711",
+      "repo_info": "[uday952/CVE-2026-104711-exploit-payload-4](https://github.com/uday952/CVE-2026-104711-exploit-payload-4)",
+      "description": "POC for the CVE-2026-104711 new variants",
+      "date": "2026-10-13",
+      "raw_date": "2026-10-13T06:50:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-104711",
+      "repo_info": "[uday952/CVE-2026-104711-POC-Variant3](https://github.com/uday952/CVE-2026-104711-POC-Variant3)",
+      "description": "POC for the CVE-2026-104711 which is a new variant",
+      "date": "2026-10-13",
+      "raw_date": "2026-10-13T06:18:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-104711",
+      "repo_info": "[uday952/CVE-2026-104711](https://github.com/uday952/CVE-2026-104711)",
+      "description": "POC for the CVE-2026-104711",
+      "date": "2026-10-13",
+      "raw_date": "2026-10-13T05:47:54Z"
+    }
+  ],
+  "generated_at": "2026-10-13T07:33:26.986462",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2026-10-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

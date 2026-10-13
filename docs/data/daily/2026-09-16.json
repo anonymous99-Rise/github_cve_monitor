@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "count": 22,
+  "count": 23,
   "cves": [
     {
       "cve_id": "CVE-2026-92680",
@@ -150,6 +150,13 @@
       "raw_date": "2026-09-16T14:43:36Z"
     },
     {
+      "cve_id": "CVE-2026-109519",
+      "repo_info": "[0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519)",
+      "description": "no description",
+      "date": "2026-09-16",
+      "raw_date": "2026-09-16T08:12:49Z"
+    },
+    {
       "cve_id": "CVE-2026-0994",
       "repo_info": "[Vardhan0257/upb-any-recursion-audit](https://github.com/Vardhan0257/upb-any-recursion-audit)",
       "description": "Ruby/PHP upb Any-recursion audit: falsified vs CVE-2026-0994 bug class",
@@ -157,9 +164,9 @@
       "raw_date": "2026-09-16T12:55:11Z"
     }
   ],
-  "generated_at": "2026-10-13T06:25:00.068465",
+  "generated_at": "2026-10-13T07:33:26.976688",
   "metadata": {
-    "total_cves": 22,
+    "total_cves": 23,
     "date_range": "2026-09-16",
     "source": "README.md",
     "script_version": "2.0"
