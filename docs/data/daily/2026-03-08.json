@@ -1,7 +1,14 @@
 {
   "date": "2026-03-08",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc](https://github.com/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc)",
+      "description": "A demo and explanation of CVE-2026-31431",
+      "date": "2026-03-08",
+      "raw_date": "2026-03-08T17:40:11Z"
+    },
     {
       "cve_id": "CVE-2026-24061",
       "repo_info": "[jacubes/CVE-2026-24061](https://github.com/jacubes/CVE-2026-24061)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-03-08T11:25:39Z"
     }
   ],
-  "generated_at": "2026-10-14T04:26:09.783817",
+  "generated_at": "2026-10-14T05:57:53.754140",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-03-08",
     "source": "README.md",
     "script_version": "2.0"

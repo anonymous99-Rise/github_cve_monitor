@@ -1,7 +1,14 @@
 {
   "date": "2026-04-19",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-35616",
+      "repo_info": "[Alaatk/CVE-2026-35616](https://github.com/Alaatk/CVE-2026-35616)",
+      "description": "Fortinet FortiClientEMS improper access control",
+      "date": "2026-04-19",
+      "raw_date": "2026-04-19T09:46:50Z"
+    },
     {
       "cve_id": "CVE-2026-33017",
       "repo_info": "[0xBlackash/CVE-2026-33017](https://github.com/0xBlackash/CVE-2026-33017)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-04-19T14:40:26Z"
     }
   ],
-  "generated_at": "2026-10-14T04:26:09.786564",
+  "generated_at": "2026-10-14T05:57:53.758421",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-04-19",
     "source": "README.md",
     "script_version": "2.0"

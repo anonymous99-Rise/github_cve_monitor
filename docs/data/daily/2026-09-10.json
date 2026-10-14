@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2026-87491",
@@ -164,6 +164,13 @@
       "raw_date": "2026-09-10T07:18:28Z"
     },
     {
+      "cve_id": "CVE-2026-107821",
+      "repo_info": "[pinebudweiser/CVE-2026-107821-PoC](https://github.com/pinebudweiser/CVE-2026-107821-PoC)",
+      "description": "The MariaDB 13.1.0 RCE LAB is a testing environment designed to validate an exploit chain that combines an OOB Read vulnerability in the share-&gt;field pointer array with multiple additional vulnerabilities, ultimately achieving arbitrary code execution with mysql privileges.",
+      "date": "2026-09-10",
+      "raw_date": "2026-09-10T04:03:43Z"
+    },
+    {
       "cve_id": "CVE-2026-0303",
       "repo_info": "[YonLiud/CVE-2026-0303](https://github.com/YonLiud/CVE-2026-0303)",
       "description": "Checkov PoC: arbitrary code execution through auto-loaded configuration and unsigned external Python checks.",
@@ -178,9 +185,9 @@
       "raw_date": "2026-09-10T17:43:25Z"
     }
   ],
-  "generated_at": "2026-10-14T04:26:09.818445",
+  "generated_at": "2026-10-14T05:57:53.792960",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2026-09-10",
     "source": "README.md",
     "script_version": "2.0"
