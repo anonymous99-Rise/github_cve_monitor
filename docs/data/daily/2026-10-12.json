@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "count": 19,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2026-9586",
@@ -108,6 +108,13 @@
       "raw_date": "2026-10-12T09:42:44Z"
     },
     {
+      "cve_id": "CVE-2026-107692",
+      "repo_info": "[thewhatdohe/CVE-2026-107692](https://github.com/thewhatdohe/CVE-2026-107692)",
+      "description": "Unencrypted JWT Transmission in War Thunder&#x27;s Initial Client-Server Handshake",
+      "date": "2026-10-12",
+      "raw_date": "2026-10-12T08:28:00Z"
+    },
+    {
       "cve_id": "CVE-2026-104082",
       "repo_info": "[eev4n/smartermail](https://github.com/eev4n/smartermail)",
       "description": "CVE-2026-104082, CVE-2026-104083, CVE-2026-104084",
@@ -136,9 +143,9 @@
       "raw_date": "2026-10-12T13:43:16Z"
     }
   ],
-  "generated_at": "2026-10-15T04:08:29.125767",
+  "generated_at": "2026-10-15T05:43:58.475185",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 20,
     "date_range": "2026-10-12",
     "source": "README.md",
     "script_version": "2.0"

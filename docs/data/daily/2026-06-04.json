@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-6815",
@@ -10,6 +10,13 @@
       "raw_date": "2026-06-04T15:06:44Z"
     },
     {
+      "cve_id": "CVE-2026-23479",
+      "repo_info": "[pduggusa/redis-cve-2026-23479-check](https://github.com/pduggusa/redis-cve-2026-23479-check)",
+      "description": "Safe read-only version checker + Sigma rule for Redis CVE-2026-23479 (authenticated use-after-free -&gt; RCE). By DugganUSA.",
+      "date": "2026-06-04",
+      "raw_date": "2026-06-04T20:09:02Z"
+    },
+    {
       "cve_id": "CVE-2026-2256",
       "repo_info": "[mruniversity/CVE-2026-2256-](https://github.com/mruniversity/CVE-2026-2256-)",
       "description": "CVE-2026-2256  diagram",
@@ -17,9 +24,9 @@
       "raw_date": "2026-06-04T01:27:37Z"
     }
   ],
-  "generated_at": "2026-10-15T04:08:29.078845",
+  "generated_at": "2026-10-15T05:43:58.436451",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-06-04",
     "source": "README.md",
     "script_version": "2.0"

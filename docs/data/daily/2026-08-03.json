@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "count": 3,
+  "count": 4,
   "cves": [
     {
       "cve_id": "CVE-2026-47301",
@@ -17,6 +17,13 @@
       "raw_date": "2026-08-03T02:31:36Z"
     },
     {
+      "cve_id": "CVE-2026-17001",
+      "repo_info": "[llaytynher/CVE-2026-17001](https://github.com/llaytynher/CVE-2026-17001)",
+      "description": "no description",
+      "date": "2026-08-03",
+      "raw_date": "2026-08-03T02:58:50Z"
+    },
+    {
       "cve_id": "CVE-2026-16723",
       "repo_info": "[xiaoqiMikko/fastjson-check](https://github.com/xiaoqiMikko/fastjson-check)",
       "description": "fastjson vulnerability scanner - detect fastjson in JARs and Spring Boot fat-JARs, check exposure to CVE-2026-16723, and verify whether you already run the official patch 1.2.84. Zero-dependency offline CLI. fastjson 漏洞检测与排查工具：一条命令扫描依赖，支持 fat-JAR 与 shaded 依赖，并判定是否已升到官方补丁版本 1.2.84。",
@@ -24,9 +31,9 @@
       "raw_date": "2026-08-03T12:32:03Z"
     }
   ],
-  "generated_at": "2026-10-15T04:08:29.100899",
+  "generated_at": "2026-10-15T05:43:58.453746",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 4,
     "date_range": "2026-08-03",
     "source": "README.md",
     "script_version": "2.0"

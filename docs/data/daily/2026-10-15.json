@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-15",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-47644",
+      "repo_info": "[songjianyang/CVE-2026-47644](https://github.com/songjianyang/CVE-2026-47644)",
+      "description": "CVE-2026-47644 ($12,000): Edge Copilot Prompt Injection Leads to Cross-Tab Data Exfiltration - PoC &amp; full writeup",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T05:22:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-44825",
+      "repo_info": "[q0524/CVE-2026-44825_CTF](https://github.com/q0524/CVE-2026-44825_CTF)",
+      "description": "no description",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T01:01:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-104935",
+      "repo_info": "[0x45dd/ivanti-cve-2026-104935-check](https://github.com/0x45dd/ivanti-cve-2026-104935-check)",
+      "description": "Detection-only check for the Ivanti Connect Secure authentication bypass (CVE-2026-104935)",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T00:10:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-0322",
+      "repo_info": "[Ife-ella/CVE-vulnerability](https://github.com/Ife-ella/CVE-vulnerability)",
+      "description": "CVE-2026-0322",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T03:16:30Z"
+    }
+  ],
+  "generated_at": "2026-10-15T05:43:58.476167",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-10-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

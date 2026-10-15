@@ -1,13 +1,90 @@
 {
   "date": "2026-10-14",
-  "count": 5,
+  "count": 27,
   "cves": [
+    {
+      "cve_id": "CVE-2026-97657",
+      "repo_info": "[murrez/CVE-2026-97657](https://github.com/murrez/CVE-2026-97657)",
+      "description": "CVE-2026-97657 – Authentication Bypass &amp; Account Takeover - Pocbit",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T11:07:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-96230",
+      "repo_info": "[codevalai/microsoft-security-advisory-cv](https://github.com/codevalai/microsoft-security-advisory-cv)",
+      "description": "Autonomous submission for &quot;Microsoft Security Advisory CVE-2026-96230 - ASP.NET Core Remote Code Execution Vulnerability&quot; (MSRC / GitHub Security Advisory)",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T22:26:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-92392",
+      "repo_info": "[ashu7ank/CVE-2026-92392](https://github.com/ashu7ank/CVE-2026-92392)",
+      "description": "Defensive exposure checker and poc for cURL CVE-2026-92392",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T14:23:12Z"
+    },
     {
       "cve_id": "CVE-2026-85097",
       "repo_info": "[RootMantap/CVE-2026-85097](https://github.com/RootMantap/CVE-2026-85097)",
       "description": "For WordPress",
       "date": "2026-10-14",
       "raw_date": "2026-10-14T01:08:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-85097",
+      "repo_info": "[Tarangj07/Wordpress-Lab-CVE-2026-85097](https://github.com/Tarangj07/Wordpress-Lab-CVE-2026-85097)",
+      "description": "no description",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T17:30:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-85046",
+      "repo_info": "[jamezx32/CVE-2026-85046](https://github.com/jamezx32/CVE-2026-85046)",
+      "description": "V8 inlined Array.prototype.sort elements-kind confusion - PoC + addrof (N-day research)",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T10:51:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-83834",
+      "repo_info": "[wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834)",
+      "description": "no description",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T16:23:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-76519",
+      "repo_info": "[Mickysalivan/CVE-2026-76519-POC](https://github.com/Mickysalivan/CVE-2026-76519-POC)",
+      "description": "Unauthenticated remote code execution on Cisco Secure Email Gateway via crafted email attachment. Path traversal in AMP File Reputation handling allows arbitrary file write as root when the service is enabled on a mail policy.",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T20:06:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-74580",
+      "repo_info": "[ABC00012345/CVE-2026-74580](https://github.com/ABC00012345/CVE-2026-74580)",
+      "description": "no description",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T14:26:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-74580",
+      "repo_info": "[techupdate24/linux-kernel-cve-2026-74580-vghost](https://github.com/techupdate24/linux-kernel-cve-2026-74580-vghost)",
+      "description": "A complete guide and workflow for integrating Agile sprints with DevOps CI/CD pipelines.",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T13:27:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-74034",
+      "repo_info": "[roninreilly/wazuh-unauth-chain](https://github.com/roninreilly/wazuh-unauth-chain)",
+      "description": "Wazuh PoC chaining CVE-2026-74034 file read and CVE-2026-74041 command execution; fixed in 4.14.8. Python standard library only.",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T14:07:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-67281",
+      "repo_info": "[sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-](https://github.com/sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-)",
+      "description": "no description",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T14:07:30Z"
     },
     {
       "cve_id": "CVE-2026-63223",
@@ -17,11 +94,25 @@
       "raw_date": "2026-10-14T04:19:02Z"
     },
     {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[ushst/CVE-2026-54121-adcs-chase-nxc](https://github.com/ushst/CVE-2026-54121-adcs-chase-nxc)",
+      "description": "no description",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T12:15:31Z"
+    },
+    {
       "cve_id": "CVE-2026-49878",
       "repo_info": "[rdip40026-web/cve_2026_49878_verify.txt](https://github.com/rdip40026-web/cve_2026_49878_verify.txt)",
       "description": "Full chain available contract me telegram @read547",
       "date": "2026-10-14",
       "raw_date": "2026-10-14T05:35:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[SudoXDdX/DirtyFrag](https://github.com/SudoXDdX/DirtyFrag)",
+      "description": "DirtyFrag (CVE-2026-43284) pro Galaxy A57 5G (SM-A576B, A576BXXS6AZI2): gatilho libbase pro One UI 8.5 + dfroot.ko compilado exato pro 6.12.38-android16-5 do aparelho",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T16:05:54Z"
     },
     {
       "cve_id": "CVE-2026-18116",
@@ -31,16 +122,79 @@
       "raw_date": "2026-10-14T04:17:05Z"
     },
     {
+      "cve_id": "CVE-2026-110447",
+      "repo_info": "[adriyansyah-mf/cve-2026-110447](https://github.com/adriyansyah-mf/cve-2026-110447)",
+      "description": "no description",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T19:22:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-109506",
+      "repo_info": "[lukaspalm/CVE-2026-109506](https://github.com/lukaspalm/CVE-2026-109506)",
+      "description": "Technical writeup of CVE-2026-109506, a vulnerability I found in multiple TP-Link Wi-Fi Range Extenders",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T19:55:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-107181",
+      "repo_info": "[abdugafforov-bobur/cve-2026-107181-poc](https://github.com/abdugafforov-bobur/cve-2026-107181-poc)",
+      "description": "no description",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T15:40:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-107081",
+      "repo_info": "[Primandito/CVE-2026-107081](https://github.com/Primandito/CVE-2026-107081)",
+      "description": "SQL Injection via identifier injection in SLiMS 9.8.0 admin AJAX endpoints (tableName/tableFields). Any authenticated staff can dump password hashes.",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T22:25:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-105445",
+      "repo_info": "[Mothchui/CVE-2026-105445](https://github.com/Mothchui/CVE-2026-105445)",
+      "description": "no description",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T16:39:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-105133",
+      "repo_info": "[horizon3ai/AhsayCBS-Auth-Bypass-RCE](https://github.com/horizon3ai/AhsayCBS-Auth-Bypass-RCE)",
+      "description": "A proof of concept exploit for CVE-2026-105133 and CVE-2026-105134 affecting AhsayCBS",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T13:44:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-104748",
+      "repo_info": "[MrjHaxcore/CVE-2026-104748](https://github.com/MrjHaxcore/CVE-2026-104748)",
+      "description": "CVE-2026-104748 POC",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T16:33:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-104748",
+      "repo_info": "[joshuavanderpoll/CVE-2026-104748](https://github.com/joshuavanderpoll/CVE-2026-104748)",
+      "description": "Unauthenticated privilege escalation in SimpleForm WordPress plugin &lt;= 3.10.0. Registers an administrator account without authentication",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T09:59:22Z"
+    },
+    {
       "cve_id": "CVE-2026-104711",
       "repo_info": "[uday952/CVE-2026-104711-POC---Brand-New](https://github.com/uday952/CVE-2026-104711-POC---Brand-New)",
       "description": "CVE-2026-104711 POC - Brand New",
       "date": "2026-10-14",
       "raw_date": "2026-10-14T05:33:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-0768",
+      "repo_info": "[opthandsome/langflow_diff_cve-2026-0768](https://github.com/opthandsome/langflow_diff_cve-2026-0768)",
+      "description": "no description",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T07:34:46Z"
     }
   ],
-  "generated_at": "2026-10-15T04:08:29.126539",
+  "generated_at": "2026-10-15T05:43:58.475852",
   "metadata": {
-    "total_cves": 5,
+    "total_cves": 27,
     "date_range": "2026-10-14",
     "source": "README.md",
     "script_version": "2.0"
