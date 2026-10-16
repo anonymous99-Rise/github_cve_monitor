@@ -1,6 +1,6 @@
 {
   "date": "2026-03-26",
-  "count": 1,
+  "count": 2,
   "cves": [
     {
       "cve_id": "CVE-2026-24291",
@@ -8,11 +8,18 @@
       "description": "Exploit Windows local privilege escalation on clients and servers using tested code for CVE-2026-24291 across multiple Windows versions",
       "date": "2026-03-26",
       "raw_date": "2026-03-26T04:38:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-24126",
+      "repo_info": "[alexb616/Weblate-CVE-2026-24126](https://github.com/alexb616/Weblate-CVE-2026-24126)",
+      "description": "PoC CVE-2026-24126",
+      "date": "2026-03-26",
+      "raw_date": "2026-03-26T10:22:08Z"
     }
   ],
-  "generated_at": "2026-10-16T04:04:50.225197",
+  "generated_at": "2026-10-16T05:40:01.228986",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-03-26",
     "source": "README.md",
     "script_version": "2.0"

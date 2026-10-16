@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-16",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-53365",
+      "repo_info": "[hoodoer/VsockDrop-Adapted-CVE-2026-53365](https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365)",
+      "description": "A slightly more robust version of MaherAzzouzi&#x27;s POC, created by my agent on the fly during testing.",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T00:40:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-111444",
+      "repo_info": "[Syscallh00k/CVE-2026-111444](https://github.com/Syscallh00k/CVE-2026-111444)",
+      "description": "Wheels SQL injection on MySQL/MariaDB with backslash escaping enabled",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T04:33:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-111389",
+      "repo_info": "[Syscallh00k/CVE-2026-111389](https://github.com/Syscallh00k/CVE-2026-111389)",
+      "description": "Frappe HRMS missing input validation SQL injection vulnerability",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T04:28:08Z"
+    }
+  ],
+  "generated_at": "2026-10-16T05:40:01.283223",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-10-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

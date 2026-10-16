@@ -1,7 +1,49 @@
 {
   "date": "2026-10-15",
-  "count": 4,
+  "count": 24,
   "cves": [
+    {
+      "cve_id": "CVE-2026-97205",
+      "repo_info": "[suominen/CVE-2026-97205](https://github.com/suominen/CVE-2026-97205)",
+      "description": "no description",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T10:48:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-85097",
+      "repo_info": "[BlackHatExploitation/CVE-2026-85097](https://github.com/BlackHatExploitation/CVE-2026-85097)",
+      "description": "CVE-2026-85097 — Bricksforge &lt;= 3.1.8.9 unauth file upload to RCE. GIF/PHP polyglot + temporaryFileUploads.url mismatch. python3 exploit.py --url http://TARGET",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T12:41:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-77521",
+      "repo_info": "[InertFluid/cve-2026-77521-lab](https://github.com/InertFluid/cve-2026-77521-lab)",
+      "description": "Benign, self-contained reproduction of CVE-2026-77521 (MaxKB prompt-injectable command execution)",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T11:14:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu](https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu)",
+      "description": "一加 15T（PLZ110）临时 root + KernelSU per-boot 接管：CVE-2026-64560 移植，不写分区、重启即失效。内核 6.12.69-android16-6-g242e1a07f878。",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T14:19:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-64507",
+      "repo_info": "[manalejandro/CVE-2026-64507](https://github.com/manalejandro/CVE-2026-64507)",
+      "description": "CVE-2026-64507 — PoC: IBPB flush on BPF JIT allocation",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T22:48:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[gichirimaku/wp2shell-PoC](https://github.com/gichirimaku/wp2shell-PoC)",
+      "description": "CVE-2026-63030 + CVE-2026-60137 exploit RCE chain.",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T17:29:04Z"
+    },
     {
       "cve_id": "CVE-2026-47644",
       "repo_info": "[songjianyang/CVE-2026-47644](https://github.com/songjianyang/CVE-2026-47644)",
@@ -17,11 +59,109 @@
       "raw_date": "2026-10-15T01:01:16Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[y896406256-lang/ghostlock-brt-w09](https://github.com/y896406256-lang/ghostlock-brt-w09)",
+      "description": "⚠️ NOT SUCCESSFUL - GhostLock (CVE-2026-43499) adaptation attempt for Honor Pad V8 (BRT-W09 / MediaTek MT8797 / kernel 4.14.186+). Verified offsets + why KernelSnitch fails on 4.14.",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T10:30:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-20896",
+      "repo_info": "[Raincombat/CVE-2026-20896-Gitea-CTF](https://github.com/Raincombat/CVE-2026-20896-Gitea-CTF)",
+      "description": "CVE-2026-20896 Gitea Docker CTF Challenge",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T09:49:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-20329",
+      "repo_info": "[ekacs/predicted-CVE-2026-20329](https://github.com/ekacs/predicted-CVE-2026-20329)",
+      "description": "no description",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T07:08:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[orevim/CVE-2026-18963-PoC](https://github.com/orevim/CVE-2026-18963-PoC)",
+      "description": "Proof of concept and vulnerability checker for CVE-2026-18963, an unauthenticated account takeover in the Keycloak reset-credentials flow. Single-file Python, optional Playwright browser component.",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T20:32:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-12118",
+      "repo_info": "[uday952/CVE-2026-12118-POC-](https://github.com/uday952/CVE-2026-12118-POC-)",
+      "description": "CVE-2026-12118 POC",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T08:06:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-110958",
+      "repo_info": "[shlln/CVE-2026-110958](https://github.com/shlln/CVE-2026-110958)",
+      "description": "no description",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T13:12:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-110912",
+      "repo_info": "[0xBlackash/CVE-2026-110912](https://github.com/0xBlackash/CVE-2026-110912)",
+      "description": "CVE-2026-110912",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T15:21:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-110912",
+      "repo_info": "[dreamfast/CVE-2026-110912](https://github.com/dreamfast/CVE-2026-110912)",
+      "description": "A PoC for CVE-2026-110912 &#x27;arpbleed&#x27;",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T07:43:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-110447",
+      "repo_info": "[Iceman2050/cve-2026-110447-checker](https://github.com/Iceman2050/cve-2026-110447-checker)",
+      "description": "Free CLI: check a Nextcloud instance for CVE-2026-110447 exposure. Stdlib only, honest verdicts. By Ingenious AI.",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T12:58:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-108598",
+      "repo_info": "[Sidesploitx/CVE-2026-108598](https://github.com/Sidesploitx/CVE-2026-108598)",
+      "description": "Unauthenticated RCE via Velocity Template Language (VTL) injection in Floci API Gateway mapping templates (versions 1.1.0–2.2.0). CVSS 9.8 Critical.",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T05:12:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-108578",
+      "repo_info": "[KernelDotDLL/CVE-2026-108578](https://github.com/KernelDotDLL/CVE-2026-108578)",
+      "description": "Neterbit NW-431F unauthenticated SMS disclosure",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T16:33:17Z"
+    },
+    {
       "cve_id": "CVE-2026-104935",
       "repo_info": "[0x45dd/ivanti-cve-2026-104935-check](https://github.com/0x45dd/ivanti-cve-2026-104935-check)",
       "description": "Detection-only check for the Ivanti Connect Secure authentication bypass (CVE-2026-104935)",
       "date": "2026-10-15",
       "raw_date": "2026-10-15T00:10:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-104715",
+      "repo_info": "[M3aCulpa/CVE-2026-104715](https://github.com/M3aCulpa/CVE-2026-104715)",
+      "description": "CVE-2026-104715: cifs-utils credentials-file option injection (local root)",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T22:03:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-104711",
+      "repo_info": "[uday952/CVE-2026-104711-POC-NEW-VARIANT](https://github.com/uday952/CVE-2026-104711-POC-NEW-VARIANT)",
+      "description": "POC for the CVE-2026-104711 - New Variant",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T07:13:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-102697",
+      "repo_info": "[akinerkisa/blindllama-cve-2026-102697](https://github.com/akinerkisa/blindllama-cve-2026-102697)",
+      "description": "no description",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T20:02:09Z"
     },
     {
       "cve_id": "CVE-2026-0322",
@@ -31,9 +171,9 @@
       "raw_date": "2026-10-15T03:16:30Z"
     }
   ],
-  "generated_at": "2026-10-16T04:04:50.286213",
+  "generated_at": "2026-10-16T05:40:01.282917",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 24,
     "date_range": "2026-10-15",
     "source": "README.md",
     "script_version": "2.0"

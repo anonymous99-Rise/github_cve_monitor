@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-15 05:43:27
+- **生成时间**: 2026-10-16 05:39:29
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -430,9 +430,11 @@
 | 🚫 未识别 | [xivvixen/TGSEC-Qtzuu](https://github.com/xivvixen/TGSEC-Qtzuu) | TGSEC社区渗透套件 · 2026-09-23：cvebird最优9 harness + CVE独立仓差分 + 锁面。按攻击面组织，可喂给AI | 2026-10-03T12:30:38Z|
 | 🚫 未识别 | [sathpal/chainguard-dashboards-end-to-end](https://github.com/sathpal/chainguard-dashboards-end-to-end) | Chainguard&#x27;s Compliance Dashboard (GA 7 Oct 2026) and Insights, reproduced end to end: STIG scans by digest, drift from your own changes, an expiring-acceptance gate, signed receipts, CVE inventory. | 2026-10-11T15:24:48Z|
 | 🚫 未识别 | [HORKimhab/CVE-2026](https://github.com/HORKimhab/CVE-2026) | Collection CVE-2026 | 2026-10-11T08:46:21Z|
+| 🚫 未识别 | [tonyc973/agentic-cve-rag](https://github.com/tonyc973/agentic-cve-rag) | CVEs mapped to the OWASP Top 10 for Agentic Applications (2026), a minimal RAG and a tool-calling agent | 2026-10-15T20:28:48Z|
+| 🚫 未识别 | [Rakesh9742/blast-radius](https://github.com/Rakesh9742/blast-radius) | Security-triage agent on a FalkorDB code graph: which endpoints does a CVE reach, who owns the code, apply the fix. Graph Hacks 2026, Track 1. | 2026-10-15T16:50:00Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-15 05:43:57  
-**总记录数**: 419
+**报告生成时间**: 2026-10-16 05:40:00  
+**总记录数**: 421
