@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "count": 3,
+  "count": 4,
   "cves": [
     {
       "cve_id": "CVE-2026-64638",
@@ -22,11 +22,18 @@
       "description": "Root your Galaxy using CVE-2026-43499",
       "date": "2026-08-08",
       "raw_date": "2026-08-08T11:41:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-19607",
+      "repo_info": "[7Ragnarok7/CVE-2026-19607](https://github.com/7Ragnarok7/CVE-2026-19607)",
+      "description": "Vulnerability Details and Exploit for CVE-2026-19607",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T15:56:05Z"
     }
   ],
-  "generated_at": "2026-10-17T03:55:32.450711",
+  "generated_at": "2026-10-17T05:26:13.588856",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 4,
     "date_range": "2026-08-08",
     "source": "README.md",
     "script_version": "2.0"

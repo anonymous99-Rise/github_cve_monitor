@@ -1,0 +1,20 @@
+{
+  "date": "2025-11-10",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-63419",
+      "repo_info": "[MMAKINGDOM/CVE-2025-63419](https://github.com/MMAKINGDOM/CVE-2025-63419)",
+      "description": "CrushFTP before 11.3.7_60 is vulnerable to HTML Injection. The Web-Based Server has a feature where users can share files, the feature reflects the filename to an emailbody field with no sanitzations leading to HTML Injection.",
+      "date": "2025-11-10",
+      "raw_date": "2025-11-10T19:57:37Z"
+    }
+  ],
+  "generated_at": "2026-10-17T05:26:13.553340",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2025-11-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

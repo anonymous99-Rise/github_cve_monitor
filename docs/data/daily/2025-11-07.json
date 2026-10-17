@@ -1,0 +1,20 @@
+{
+  "date": "2025-11-07",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-63420",
+      "repo_info": "[MMAKINGDOM/CVE-2025-63420](https://github.com/MMAKINGDOM/CVE-2025-63420)",
+      "description": "CrushFTP11 before 11.3.7_57 is vulnerable to stored HTML injection in the CrushFTP Admin Panel (Reports / &quot;Who Created Folder&quot;), enabling persistent HTML execution in admin sessions.",
+      "date": "2025-11-07",
+      "raw_date": "2025-11-07T15:26:10Z"
+    }
+  ],
+  "generated_at": "2026-10-17T05:26:13.552944",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2025-11-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

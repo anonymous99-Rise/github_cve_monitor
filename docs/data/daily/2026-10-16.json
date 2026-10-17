@@ -1,13 +1,216 @@
 {
   "date": "2026-10-16",
-  "count": 3,
+  "count": 37,
   "cves": [
+    {
+      "cve_id": "CVE-2026-99999",
+      "repo_info": "[MChorfa/csumguard](https://github.com/MChorfa/csumguard)",
+      "description": "Restricted eBPF TC ingress guard, CO-RE detector, verified loader, and C11 VMM launch supervisor for CVE-2026-99999",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T17:52:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-97229",
+      "repo_info": "[OppositDeer/Gitlab-RCE-CVE-2026-97229](https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-97229)",
+      "description": "CVE-2026-97229: GitLab RCE Unauthenticated via CI Lint",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T11:10:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-96889",
+      "repo_info": "[lion9453/CVE-2026-96889-nextjs-rce](https://github.com/lion9453/CVE-2026-96889-nextjs-rce)",
+      "description": "Lab PoC for CVE-2026-96889: Next.js Image Optimization SVG typed as AVIF reaches librsvg UAF (RUSTSEC-2026-0305). Unauthenticated RCE on glibc Linux.",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T06:31:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-96652",
+      "repo_info": "[code-zm/plex2shell](https://github.com/code-zm/plex2shell)",
+      "description": "CVE-2026-96652 CVE-2026-96654 CVE-2026-96655 CVE-2026-96656",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T16:36:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-94134",
+      "repo_info": "[MosesOX/POC-CVE-2026-94134](https://github.com/MosesOX/POC-CVE-2026-94134)",
+      "description": "Exploitation POC for CVE-2026-94134",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T13:43:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-92209",
+      "repo_info": "[do4choo/CVE-2026-92209_NoMachine_LPE](https://github.com/do4choo/CVE-2026-92209_NoMachine_LPE)",
+      "description": "CVE-2026-92209",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T14:52:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-92208",
+      "repo_info": "[do4choo/CVE-2026-92208_remote_mDNS_overflow](https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow)",
+      "description": "CVE-2026-92208",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T14:45:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-90817",
+      "repo_info": "[ctsit/redcap_cve_2026_90817_scan](https://github.com/ctsit/redcap_cve_2026_90817_scan)",
+      "description": "A read-only, passive scanner that checks a REDCap host for exposure to and compromise by **CVE-2026-90817** — the unauthenticated survey-endpoint remote-code-execution flaw abused by the XMRig cryptomining campaign documented by Palo Alto Unit 42",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T13:23:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-89079",
+      "repo_info": "[murrez/CVE-2026-89079](https://github.com/murrez/CVE-2026-89079)",
+      "description": "CVE-2026-89079 — WordPress Theme My Login multisite unauth password overwrite PoC (check, verify, exploit). Not version-only: requires MS + tml_user_passwords.",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T11:44:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-79986",
+      "repo_info": "[oscerd/CVE-2026-79986](https://github.com/oscerd/CVE-2026-79986)",
+      "description": "Reproducer for CVE-2026-79986 (Apache Camel camel-azure-files): the consumer builds the remote path from the share listing without containment (author-only; see CVE-2026-79983/79984 for the runnable mechanism) — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T13:26:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-79985",
+      "repo_info": "[oscerd/CVE-2026-79985](https://github.com/oscerd/CVE-2026-79985)",
+      "description": "Reproducer for CVE-2026-79985 (Apache Camel camel-smb): the SMB consumer builds the remote path from the share listing without containment (author-only; see CVE-2026-79983/79984 for the runnable mechanism) — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T13:16:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-79984",
+      "repo_info": "[oscerd/CVE-2026-79984](https://github.com/oscerd/CVE-2026-79984)",
+      "description": "Reproducer for CVE-2026-79984 (Apache Camel camel-mina-sftp): the consumer builds the remote path from the server&#x27;s SFTP directory listing without containment, escaping the polled directory — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T13:08:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-79983",
+      "repo_info": "[oscerd/CVE-2026-79983](https://github.com/oscerd/CVE-2026-79983)",
+      "description": "Reproducer for CVE-2026-79983 (Apache Camel camel-ftp): the consumer builds the remote path from the server&#x27;s directory listing without containment, escaping the polled directory — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T11:39:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-78165",
+      "repo_info": "[oscerd/CVE-2026-78165](https://github.com/oscerd/CVE-2026-78165)",
+      "description": "Reproducer for CVE-2026-78165 (Apache Camel camel-spring-redis): default JdkSerializationRedisSerializer deserializes Redis PUBLISH payloads with no ObjectInputFilter (RCE) — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T11:18:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-78164",
+      "repo_info": "[oscerd/CVE-2026-78164](https://github.com/oscerd/CVE-2026-78164)",
+      "description": "Reproducer for CVE-2026-78164 (Apache Camel HTTP producers): property placeholders resolved on the message-supplied CamelHttpUri/CamelRestHttpUri headers leak secrets into the outbound request — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T11:07:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-78163",
+      "repo_info": "[oscerd/CVE-2026-78163](https://github.com/oscerd/CVE-2026-78163)",
+      "description": "Reproducer for CVE-2026-78163 (Apache Camel camel-docling): unvalidated String body input source enables SSRF and local file disclosure in DoclingProducer — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T09:55:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-78162",
+      "repo_info": "[oscerd/CVE-2026-78162](https://github.com/oscerd/CVE-2026-78162)",
+      "description": "Reproducer for CVE-2026-78162 (Apache Camel camel-hazelcast): ReplicatedHazelcastAggregationRepository starts a Hazelcast member with no Java deserialization filter — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T09:10:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-61979",
+      "repo_info": "[BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit](https://github.com/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit)",
+      "description": "no description",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T20:39:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC](https://github.com/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC)",
+      "description": "no description",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T20:38:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-59970",
+      "repo_info": "[asvorg/CVE-2026-59970-poc](https://github.com/asvorg/CVE-2026-59970-poc)",
+      "description": "PoC for CVE-2026-59970 Blind SSRF in Tandoor Recipes, CWE-918",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T22:49:24Z"
+    },
     {
       "cve_id": "CVE-2026-53365",
       "repo_info": "[hoodoer/VsockDrop-Adapted-CVE-2026-53365](https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365)",
       "description": "A slightly more robust version of MaherAzzouzi&#x27;s POC, created by my agent on the fly during testing.",
       "date": "2026-10-16",
       "raw_date": "2026-10-16T00:40:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-53264",
+      "repo_info": "[b1nhack/CVE-2026-53264](https://github.com/b1nhack/CVE-2026-53264)",
+      "description": "no description",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T19:21:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-51367",
+      "repo_info": "[StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR](https://github.com/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR)",
+      "description": "Security advisory — Insecure Direct Object Reference (IDOR / BOLA) in Vedo Suite (Bottinelli Informatica). Responsible disclosure.",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T10:48:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-51366",
+      "repo_info": "[StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution](https://github.com/StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution)",
+      "description": "Security advisory — SQL Injection leading to RCE in Vedo Suite (Bottinelli Informatica). Responsible disclosure.",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T10:46:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[MSEDGE-CORE/GhostLock-HonorFne](https://github.com/MSEDGE-CORE/GhostLock-HonorFne)",
+      "description": "Honor 70 (FNE-AN00) privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T11:28:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[saltlyfish666/magicpad3-root-research](https://github.com/saltlyfish666/magicpad3-root-research)",
+      "description": "荣耀 MagicPad3 (CGA-W00) 运行时 KernelSU Root 研究 —— 全自动提权循环 · 二进制补丁增强 · 社区方案深度逆向 - Runtime KernelSU root research (CVE-2026-43499)",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T07:00:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE)",
+      "description": "CVE-2026-39987 Exploit - by infrar3d",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T21:52:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)",
+      "description": "CVE-2026-38526 Exploit - by infrar3d",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T22:15:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE)",
+      "description": "CVE-2026-33017 Exploit - by infrar3d",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T22:10:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail)",
+      "description": "CVE-2026-31431 Exploit - by infrar3d",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T22:27:35Z"
     },
     {
       "cve_id": "CVE-2026-111444",
@@ -22,11 +225,46 @@
       "description": "Frappe HRMS missing input validation SQL injection vulnerability",
       "date": "2026-10-16",
       "raw_date": "2026-10-16T04:28:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-111283",
+      "repo_info": "[cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password](https://github.com/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password)",
+      "description": "CVE-2026-111283 - BMC Helix Network Management Local Administrator Account Accepts Any Password",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T23:15:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-110896",
+      "repo_info": "[azqzazq1/CVE-2026-110896](https://github.com/azqzazq1/CVE-2026-110896)",
+      "description": "no description",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T13:20:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-104745",
+      "repo_info": "[rxsklife/CVE-2026-104745](https://github.com/rxsklife/CVE-2026-104745)",
+      "description": "CVE-2026-104745 is a high-severity vulnerability rated 8.1/10 on the CVSS scale. The Customer Email Verification for WooCommerce plugin for WordPress is vulnerable to Privilege Escalation via the `alg_wc_ev_verify_email` parameter in versions up to, and including, 3.3.0.",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T06:22:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-104736",
+      "repo_info": "[BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details](https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details)",
+      "description": "no description",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T20:37:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-102764",
+      "repo_info": "[Worthes/CVE-2026-102764-Proof-of-concept](https://github.com/Worthes/CVE-2026-102764-Proof-of-concept)",
+      "description": "CVE-2026-102764 BeyondTrust Remote Support unauthenticated file write / RCE proof of concept",
+      "date": "2026-10-16",
+      "raw_date": "2026-10-16T19:14:48Z"
     }
   ],
-  "generated_at": "2026-10-17T03:55:32.476560",
+  "generated_at": "2026-10-17T05:26:13.605285",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 37,
     "date_range": "2026-10-16",
     "source": "README.md",
     "script_version": "2.0"
