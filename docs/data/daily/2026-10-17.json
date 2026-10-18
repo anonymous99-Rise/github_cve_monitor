@@ -1,13 +1,48 @@
 {
   "date": "2026-10-17",
-  "count": 8,
+  "count": 26,
   "cves": [
+    {
+      "cve_id": "CVE-2026-99999",
+      "repo_info": "[Quaerendir/cve-2026-99999-audit](https://github.com/Quaerendir/cve-2026-99999-audit)",
+      "description": "cve-2026-99999-audit script (PwnEscape)",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T08:58:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-99999",
+      "repo_info": "[PeronGH/CVE-2026-99999](https://github.com/PeronGH/CVE-2026-99999)",
+      "description": "PoC for CVE-2026-99999 (PwnEscape) on a prepared TAP.",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T06:21:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-97229",
+      "repo_info": "[gandli/cve-2026-97229-lab](https://github.com/gandli/cve-2026-97229-lab)",
+      "description": "CVE-2026-97229 GitLab CI lint regex integer overflow RCE — InstaBox version matrix reproduction &amp; libruby gadget reverse engineering",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T18:03:59Z"
+    },
     {
       "cve_id": "CVE-2026-96889",
       "repo_info": "[pauleprichna/cybersecurity](https://github.com/pauleprichna/cybersecurity)",
       "description": "Projet de Cybersécurité  (TP1 à TP9) Recherche réseau (Nmap, Scapy) • Attaques DDoS (hping3) • Force brute (Hydra, LaZagne) • Ingénierie sociale (Zphisher, Gophish) • Sécurité Wi-Fi (Airgeddon, Aircrack-ng) • Malwares (msfvenom) • Injection de code (Shellter) • MITM (Ettercap, Yersinia) • Vulnérabilités (CVE-2026-96889).",
       "date": "2026-10-17",
       "raw_date": "2026-10-17T02:32:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-96652",
+      "repo_info": "[gmh5225/plex2shell](https://github.com/gmh5225/plex2shell)",
+      "description": "CVE-2026-96652 CVE-2026-96654 CVE-2026-96655 CVE-2026-96656",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T01:44:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-94169",
+      "repo_info": "[kize7/CVE-2026-94169](https://github.com/kize7/CVE-2026-94169)",
+      "description": "WordPress The Grid plugin &lt;= 2.8.1 - Remote Code Execution (RCE) vulnerability",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T18:47:45Z"
     },
     {
       "cve_id": "CVE-2026-8933",
@@ -17,11 +52,81 @@
       "raw_date": "2026-10-17T01:42:31Z"
     },
     {
+      "cve_id": "CVE-2026-89282",
+      "repo_info": "[dorkerdevil/CVE-2026-89282](https://github.com/dorkerdevil/CVE-2026-89282)",
+      "description": "CVE-2026-89282: Apache Lounge Windows DLL Search Order Hijack → SYSTEM LPE PoC",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T06:06:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-74580",
+      "repo_info": "[V01DL1NG/vghost-watch](https://github.com/V01DL1NG/vghost-watch)",
+      "description": "Passive internet-wide discovery + responsible-disclosure helper for CVE-2026-74580 (Linux vhost metadata-cache bug) — queries existing scan data (Sonar/Shodan/Censys), triages exposure, and drafts (never auto-sends) notices to owners.",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T22:33:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-67279",
+      "repo_info": "[GoldAden/mikrotrick-verifier](https://github.com/GoldAden/mikrotrick-verifier)",
+      "description": "Non-destructive behavioral verifier for the MikroTik RouterOS SSH auth-bypass (CVE-2026-67279 / MikroTrick). Measures server reaction only — no exploit payload.",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T21:14:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[maosasagawa/pmx110-cve-2026-64560](https://github.com/maosasagawa/pmx110-cve-2026-64560)",
+      "description": "PMX110 (OPPO MT6995, kernel 6.18.21) CVE-2026-64560 research: port, evidence, bounded run scripts",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T08:26:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[totsiaw/cve-2026-64560-rmx6699](https://github.com/totsiaw/cve-2026-64560-rmx6699)",
+      "description": "CVE-2026-64560 temporary-root exploit for realme RMX6699 (Snapdragon 8 Elite, kernel 6.6.118, Android 17/COOS17)",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T12:51:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[ChaYeWuu/prague-CVE-2026-64560-OS4.0](https://github.com/ChaYeWuu/prague-CVE-2026-64560-OS4.0)",
+      "description": "REDMI K90 Max在OS4.0.0.14.XAACNXM利用CVE-2026-64560获取ROOT权限。",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T11:27:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-53995",
+      "repo_info": "[SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal](https://github.com/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal)",
+      "description": "MLflow &lt;=3.17.1 path traversal allows trace file writes outside the intended directory.",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T22:19:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[0xCyp1337/CVE-2026-48907-RCE](https://github.com/0xCyp1337/CVE-2026-48907-RCE)",
+      "description": "no description",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T18:46:29Z"
+    },
+    {
       "cve_id": "CVE-2026-43499",
       "repo_info": "[Venshell/hlk-al00-kernel-build](https://github.com/Venshell/hlk-al00-kernel-build)",
       "description": "HLK-AL00 (4.14.116 / Kirin 810) 内核云编译 — CVE-2026-43499 授权安全研究",
       "date": "2026-10-17",
       "raw_date": "2026-10-17T02:44:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[AuroraMythweaver/iqoo-neo9-ghostlock-pc](https://github.com/AuroraMythweaver/iqoo-neo9-ghostlock-pc)",
+      "description": "GhostLock (CVE-2026-43499) PC-side driver for iQOO Neo9 (PD2338): boot-window campaign over adb, temporary root via KernelSU late-load. One bash script + one payload pack.",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T20:56:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-38838",
+      "repo_info": "[pawelskokowski/CVE-2026-38838](https://github.com/pawelskokowski/CVE-2026-38838)",
+      "description": "Path traversal (CWE-22) in the Akai MPC Sample built-in web server CVE-2026-38838",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T19:13:36Z"
     },
     {
       "cve_id": "CVE-2026-27280",
@@ -36,6 +141,20 @@
       "description": "QEMU 11.1.2 - High - Local - UAF - xhci_complete leftover of CVE-2026-17588 doorbell DMA",
       "date": "2026-10-17",
       "raw_date": "2026-10-17T01:40:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-111823",
+      "repo_info": "[murrez/CVE-2026-111823](https://github.com/murrez/CVE-2026-111823)",
+      "description": "PoC for CVE-2026-111823 — Mage AI OAuth session auth bypass (POST /api/sessions). Check + exploit modes. Authorized testing only.",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T09:53:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-111437",
+      "repo_info": "[ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report](https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report)",
+      "description": "Official security advisory and technical report for CVE-2026-111437: CPU resource exhaustion and Denial of Service (DoS) in django-import-export (v2.7.0 to v4.4.1) via unvalidated integer conversion in IntegerWidget.clean()",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T15:46:57Z"
     },
     {
       "cve_id": "CVE-2026-107084",
@@ -57,11 +176,18 @@
       "description": "SQL Injection via opac_hide / promoted GET parameters in SLiMS 9.8.0 admin bibliography module. CVE-2026-107082.",
       "date": "2026-10-17",
       "raw_date": "2026-10-17T01:36:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-104850",
+      "repo_info": "[Iceman2050/mcp-oauth-discovery-prober](https://github.com/Iceman2050/mcp-oauth-discovery-prober)",
+      "description": "Probe MCP OAuth discovery issuer validation (CVE-2026-104850 class)",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T16:16:13Z"
     }
   ],
-  "generated_at": "2026-10-18T04:01:32.342307",
+  "generated_at": "2026-10-18T05:36:55.666501",
   "metadata": {
-    "total_cves": 8,
+    "total_cves": 26,
     "date_range": "2026-10-17",
     "source": "README.md",
     "script_version": "2.0"

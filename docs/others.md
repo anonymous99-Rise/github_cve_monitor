@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-17 05:25:31
+- **生成时间**: 2026-10-18 05:36:28
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -433,9 +433,11 @@
 | 🚫 未识别 | [tonyc973/agentic-cve-rag](https://github.com/tonyc973/agentic-cve-rag) | CVEs mapped to the OWASP Top 10 for Agentic Applications (2026), a minimal RAG and a tool-calling agent | 2026-10-15T20:28:48Z|
 | 🚫 未识别 | [Rakesh9742/blast-radius](https://github.com/Rakesh9742/blast-radius) | Security-triage agent on a FalkorDB code graph: which endpoints does a CVE reach, who owns the code, apply the fix. Graph Hacks 2026, Track 1. | 2026-10-15T16:50:00Z|
 | 🚫 未识别 | [C-Robinson-gass/gp-cventconnecteurope2026-ref-x7k2](https://github.com/C-Robinson-gass/gp-cventconnecteurope2026-ref-x7k2) | Cvent CONNECT Europe 2026 — Vision Mix Run of Show | 2026-10-16T08:42:38Z|
+| 🚫 未识别 | [mar-i0/vulnChecker2](https://github.com/mar-i0/vulnChecker2) | Escáner de vulnerabilidades CVE rápido y fiable (1999-2026): nmap -sV + índice SQLite + comparación de rangos de versión. Salida estilo sqlmap. | 2026-10-17T18:04:36Z|
+| 🚫 未识别 | [x0rkr/CVE-2026-XXXXX](https://github.com/x0rkr/CVE-2026-XXXXX) | first cve | 2026-10-17T06:59:13Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-17 05:26:12  
-**总记录数**: 422
+**报告生成时间**: 2026-10-18 05:36:54  
+**总记录数**: 424

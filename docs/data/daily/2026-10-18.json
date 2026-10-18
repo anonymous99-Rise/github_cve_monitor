@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-18",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-96652",
+      "repo_info": "[code-zm/plex2shell](https://github.com/code-zm/plex2shell)",
+      "description": "CVE-2026-96652 CVE-2026-96654 CVE-2026-96655 CVE-2026-96656",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T05:00:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-71557",
+      "repo_info": "[Saku0512/reprokit-go-git-cve-2026-71557-lab](https://github.com/Saku0512/reprokit-go-git-cve-2026-71557-lab)",
+      "description": "Reviewed isolated comparison lab for CVE-2026-71557",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T04:57:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-50229",
+      "repo_info": "[flvzx/CVE-2026-50229](https://github.com/flvzx/CVE-2026-50229)",
+      "description": "no description",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T00:01:16Z"
+    }
+  ],
+  "generated_at": "2026-10-18T05:36:55.666864",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-10-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
