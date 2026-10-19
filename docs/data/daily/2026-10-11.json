@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "count": 13,
+  "count": 14,
   "cves": [
     {
       "cve_id": "CVE-2026-43805",
@@ -52,6 +52,13 @@
       "raw_date": "2026-10-11T01:48:46Z"
     },
     {
+      "cve_id": "CVE-2026-27606",
+      "repo_info": "[AaaronP/Seguridad---Proyecto-de-investigaci-n](https://github.com/AaaronP/Seguridad---Proyecto-de-investigaci-n)",
+      "description": "Replicación vulnerabilidad CVE-2026-27606",
+      "date": "2026-10-11",
+      "raw_date": "2026-10-11T20:09:35Z"
+    },
+    {
       "cve_id": "CVE-2026-15748",
       "repo_info": "[0x4cr/CVE-2026-15748](https://github.com/0x4cr/CVE-2026-15748)",
       "description": "Unauthenticated RCE in WordPress Forminator Forms &lt;= 1.56.1 (CVSS 9.8)",
@@ -94,9 +101,9 @@
       "raw_date": "2026-10-11T20:50:52Z"
     }
   ],
-  "generated_at": "2026-10-19T04:10:59.800444",
+  "generated_at": "2026-10-19T05:55:02.915324",
   "metadata": {
-    "total_cves": 13,
+    "total_cves": 14,
     "date_range": "2026-10-11",
     "source": "README.md",
     "script_version": "2.0"

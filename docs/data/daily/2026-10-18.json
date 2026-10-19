@@ -1,13 +1,125 @@
 {
   "date": "2026-10-18",
-  "count": 3,
+  "count": 29,
   "cves": [
+    {
+      "cve_id": "CVE-2026-99999",
+      "repo_info": "[zakinko/kpatch-alma-cve-2026-99999](https://github.com/zakinko/kpatch-alma-cve-2026-99999)",
+      "description": "kpatch livepatch build for CVE-2026-99999 on AlmaLinux 8/9 GA kernels",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T10:31:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-99999",
+      "repo_info": "[01luyicheng/CVE-2026-99999](https://github.com/01luyicheng/CVE-2026-99999)",
+      "description": "CVE-2026-99999 PwnEscape PoC - Linux kernel IPv4 csum_start validation bug guest-to-host memory leak (CVSS 9.3)",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T13:16:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-99999",
+      "repo_info": "[kingahmadr/CVE-2026-99999-kernel-check](https://github.com/kingahmadr/CVE-2026-99999-kernel-check)",
+      "description": "no description",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T09:44:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-98385",
+      "repo_info": "[ylh440104/InfinityCore-Android-CVE-2026-98385](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98385)",
+      "description": "Android/ARM64 port",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T23:33:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[ylh440104/InfinityCore-Android-CVE-2026-98260](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260)",
+      "description": "CVE-2026-98260 (Timer) Android/ARM64 port",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T23:26:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[jadedFella/lpe-study-notes](https://github.com/jadedFella/lpe-study-notes)",
+      "description": "A slow, from-zero walk through a Linux kernel privilege-escalation bug (CVE-2026-98260)",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T18:58:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-98256",
+      "repo_info": "[ylh440104/InfinityCore-Android-CVE-2026-98256](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98256)",
+      "description": "Android/ARM64 port",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T23:33:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-98256",
+      "repo_info": "[villager1314/CVE-2026-98256-Analysis](https://github.com/villager1314/CVE-2026-98256-Analysis)",
+      "description": "no description",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T13:02:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-98180",
+      "repo_info": "[MalHyuk/CVE-2026-98180](https://github.com/MalHyuk/CVE-2026-98180)",
+      "description": "CVE-2026-98180 — drm/msm use-after-free of the scheduler-containing ring and VM objects (fixed by 01c8d1f385f7)",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T16:06:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-97941",
+      "repo_info": "[ylh440104/InfinityCore-Android-CVE-2026-97941](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-97941)",
+      "description": "Android/ARM64 port",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T23:33:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-96656",
+      "repo_info": "[a3igner/plex-codec-cache-implant](https://github.com/a3igner/plex-codec-cache-implant)",
+      "description": "Incident write-up: unsigned .so in the Plex Media Server codec cache executes a dropper on every transcode (CVE-2026-96656) — IOCs, STIX, YARA",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T10:11:53Z"
+    },
     {
       "cve_id": "CVE-2026-96652",
       "repo_info": "[code-zm/plex2shell](https://github.com/code-zm/plex2shell)",
       "description": "CVE-2026-96652 CVE-2026-96654 CVE-2026-96655 CVE-2026-96656",
       "date": "2026-10-18",
       "raw_date": "2026-10-18T05:00:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-92262",
+      "repo_info": "[SeanDishman/mariadb-cve-2026-92262](https://github.com/SeanDishman/mariadb-cve-2026-92262)",
+      "description": "PoC for CVE-2026-92262, CVE-2026-85746, CVE-2026-85748 against MariaDB 13.0.1",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T19:18:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-89754",
+      "repo_info": "[ylh440104/InfinityCore-Android-CVE-2026-89754](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-89754)",
+      "description": "Android/ARM64 port",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T23:33:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-80775",
+      "repo_info": "[ylh440104/InfinityCore-Android-CVE-2026-80775](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-80775)",
+      "description": "Android/ARM64 port",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T23:33:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-80343",
+      "repo_info": "[oscerd/CVE-2026-80343](https://github.com/oscerd/CVE-2026-80343)",
+      "description": "Reproducer for CVE-2026-80343 (Apache Camel camel-netty-http): security constraint case-sensitivity bypass — altering the path case skips the constraint while routing still dispatches to the protected endpoint — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T10:41:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-80312",
+      "repo_info": "[oscerd/CVE-2026-80312](https://github.com/oscerd/CVE-2026-80312)",
+      "description": "Reproducer for CVE-2026-80312 (Apache Camel camel-oauth): fail-open authentication guard — the OAuth processors returned control to the route instead of terminating when auth could not complete — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T10:10:54Z"
     },
     {
       "cve_id": "CVE-2026-71557",
@@ -17,16 +129,86 @@
       "raw_date": "2026-10-18T04:57:25Z"
     },
     {
+      "cve_id": "CVE-2026-58221",
+      "repo_info": "[DevAli00/CVE-2026-58221](https://github.com/DevAli00/CVE-2026-58221)",
+      "description": "CVE-2026-58221 — Samba AD Domain Takeover / DoS (CVSS 8.8)",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T10:41:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-53787",
+      "repo_info": "[elitexspam/Def4cer](https://github.com/elitexspam/Def4cer)",
+      "description": "A Secure Version of CVE-2026-53787 Amasty Order Attribute File Upload Exploit,with the modification of file upload of txt to html.",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T15:55:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-53787",
+      "repo_info": "[MRdark-ops/CVE-2026-53787-poc](https://github.com/MRdark-ops/CVE-2026-53787-poc)",
+      "description": "CVE-2026-53787 Amasty Order Attribute (AOA) file upload exploit, modified to support the upload of HTML files instead of TXT files.",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T18:00:55Z"
+    },
+    {
       "cve_id": "CVE-2026-50229",
       "repo_info": "[flvzx/CVE-2026-50229](https://github.com/flvzx/CVE-2026-50229)",
       "description": "no description",
       "date": "2026-10-18",
       "raw_date": "2026-10-18T00:01:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-39127",
+      "repo_info": "[haera/boboverflow](https://github.com/haera/boboverflow)",
+      "description": "CVE-2026-39127 - pre-auth RCE on the Minions Bob router",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T19:14:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-34157",
+      "repo_info": "[Saku0512/CVE-2026-34157-poc](https://github.com/Saku0512/CVE-2026-34157-poc)",
+      "description": "no description",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T15:14:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-20349",
+      "repo_info": "[ekacs/predicted-cve-2026-20349](https://github.com/ekacs/predicted-cve-2026-20349)",
+      "description": "Panduan Praktikum Edukasi: Deteksi Versi Cisco ASA &amp; FTD (CVE-2026-20349)",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T11:58:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-108097",
+      "repo_info": "[fortbridge/cve-2026-108097-research](https://github.com/fortbridge/cve-2026-108097-research)",
+      "description": "no description",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T11:27:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-104736",
+      "repo_info": "[murrez/CVE-2026-104736](https://github.com/murrez/CVE-2026-104736)",
+      "description": "PoC for CVE-2026-104736 — LearnPress ≤4.4.10 unauthenticated PHP object injection via checkout-email (lp-ajax=checkout). Check + exploit. Authorized testing only.",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T20:59:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-104100",
+      "repo_info": "[Saku0512/CVE-2026-104100-poc](https://github.com/Saku0512/CVE-2026-104100-poc)",
+      "description": "no description",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T14:57:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-103849",
+      "repo_info": "[dinosn/cve-2026-103849-blockstrap-lab](https://github.com/dinosn/cve-2026-103849-blockstrap-lab)",
+      "description": "CVE-2026-103849 (BlockStrap) reproduction lab: unauthenticated {{block}} injection on Magento 2.4.9 via guest GraphQL, A/B vs APSB26-153; command execution only through a labeled synthetic gadget, not stock classes.",
+      "date": "2026-10-18",
+      "raw_date": "2026-10-18T08:12:41Z"
     }
   ],
-  "generated_at": "2026-10-19T04:10:59.803336",
+  "generated_at": "2026-10-19T05:55:02.917736",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 29,
     "date_range": "2026-10-18",
     "source": "README.md",
     "script_version": "2.0"

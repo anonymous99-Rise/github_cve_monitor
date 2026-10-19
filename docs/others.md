@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-18 05:36:28
+- **生成时间**: 2026-10-19 05:54:34
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -435,9 +435,13 @@
 | 🚫 未识别 | [C-Robinson-gass/gp-cventconnecteurope2026-ref-x7k2](https://github.com/C-Robinson-gass/gp-cventconnecteurope2026-ref-x7k2) | Cvent CONNECT Europe 2026 — Vision Mix Run of Show | 2026-10-16T08:42:38Z|
 | 🚫 未识别 | [mar-i0/vulnChecker2](https://github.com/mar-i0/vulnChecker2) | Escáner de vulnerabilidades CVE rápido y fiable (1999-2026): nmap -sV + índice SQLite + comparación de rangos de versión. Salida estilo sqlmap. | 2026-10-17T18:04:36Z|
 | 🚫 未识别 | [x0rkr/CVE-2026-XXXXX](https://github.com/x0rkr/CVE-2026-XXXXX) | first cve | 2026-10-17T06:59:13Z|
+| 🚫 未识别 | [KylinDC/Radar-Yoda](https://github.com/KylinDC/Radar-Yoda) | An MCP server that brings 34 volumes of the Thoughtworks Technology Radar (2010-2026) into Claude: search history, compare technologies, score risk with GitHub and CVE data, and draft ADRs. | 2026-10-14T14:36:17Z|
+| 🚫 未识别 | [zen-studi/cvee20265524](https://github.com/zen-studi/cvee20265524) | no description | 2026-10-18T13:20:12Z|
+| 🚫 未识别 | [zen-studi/CVE20265524](https://github.com/zen-studi/CVE20265524) | no description | 2026-10-18T13:13:37Z|
+| 🚫 未识别 | [cucu-ground/2026-2-web-middle-cvehub](https://github.com/cucu-ground/2026-2-web-middle-cvehub) | no description | 2026-10-18T12:20:35Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-18 05:36:54  
-**总记录数**: 424
+**报告生成时间**: 2026-10-19 05:55:01  
+**总记录数**: 428
