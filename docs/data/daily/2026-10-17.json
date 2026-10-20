@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "count": 26,
+  "count": 27,
   "cves": [
     {
       "cve_id": "CVE-2026-99999",
@@ -122,6 +122,13 @@
       "raw_date": "2026-10-17T20:56:33Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Escosis/V2463A-LPE](https://github.com/Escosis/V2463A-LPE)",
+      "description": "基于 CVE-2026-43499 的锁屏界面自动提权工具，面向 iQOO Neo10 Pro+ 及相同芯片（骁龙8e）相同系统版本（OriginOS 6）设备",
+      "date": "2026-10-17",
+      "raw_date": "2026-10-17T14:47:18Z"
+    },
+    {
       "cve_id": "CVE-2026-38838",
       "repo_info": "[pawelskokowski/CVE-2026-38838](https://github.com/pawelskokowski/CVE-2026-38838)",
       "description": "Path traversal (CWE-22) in the Akai MPC Sample built-in web server CVE-2026-38838",
@@ -185,9 +192,9 @@
       "raw_date": "2026-10-17T16:16:13Z"
     }
   ],
-  "generated_at": "2026-10-20T04:23:17.203649",
+  "generated_at": "2026-10-20T05:47:09.837522",
   "metadata": {
-    "total_cves": 26,
+    "total_cves": 27,
     "date_range": "2026-10-17",
     "source": "README.md",
     "script_version": "2.0"

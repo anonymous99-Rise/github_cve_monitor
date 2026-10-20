@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-20",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-96652",
+      "repo_info": "[ChrisLPJones/plex2shell-check](https://github.com/ChrisLPJones/plex2shell-check)",
+      "description": "Read-only Linux check for Plex2Shell (CVE-2026-96652/-96654/-96655/-96656) exploitation and the XMRig/proxy payloads seen in the wild",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T04:07:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-35273",
+      "repo_info": "[rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-](https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-)",
+      "description": "no description",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T03:31:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-111058",
+      "repo_info": "[ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce](https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce)",
+      "description": "Mercury unauth RCE combo: CVE-2026-111058 (kernels) + CVE-2026-111057 (terminals). By 0xNuts (@ExDev994). Authorized testing only.",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T04:38:18Z"
+    }
+  ],
+  "generated_at": "2026-10-20T05:47:09.838677",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-10-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

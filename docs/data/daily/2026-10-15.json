@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2026-97205",
@@ -64,6 +64,13 @@
       "description": "⚠️ NOT SUCCESSFUL - GhostLock (CVE-2026-43499) adaptation attempt for Honor Pad V8 (BRT-W09 / MediaTek MT8797 / kernel 4.14.186+). Verified offsets + why KernelSnitch fails on 4.14.",
       "date": "2026-10-15",
       "raw_date": "2026-10-15T10:30:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-24090",
+      "repo_info": "[wnduddld0513/Lenovo_Qcom_RPMB_Tool](https://github.com/wnduddld0513/Lenovo_Qcom_RPMB_Tool)",
+      "description": "Educational proof-of-concept (PoC) research tool demonstrating CVE-2026-24090 ABL verification bypass to inspect and test Qualcomm Keymaster RPMB state on Lenovo devices.",
+      "date": "2026-10-15",
+      "raw_date": "2026-10-15T11:03:10Z"
     },
     {
       "cve_id": "CVE-2026-20896",
@@ -178,9 +185,9 @@
       "raw_date": "2026-10-15T03:16:30Z"
     }
   ],
-  "generated_at": "2026-10-20T04:23:17.202954",
+  "generated_at": "2026-10-20T05:47:09.836747",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2026-10-15",
     "source": "README.md",
     "script_version": "2.0"
