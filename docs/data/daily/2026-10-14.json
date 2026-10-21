@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "count": 27,
+  "count": 28,
   "cves": [
     {
       "cve_id": "CVE-2026-97657",
@@ -108,6 +108,13 @@
       "raw_date": "2026-10-14T05:35:45Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[shangu2003/SamsungRootKit](https://github.com/shangu2003/SamsungRootKit)",
+      "description": "Offline Android root toolkit for Samsung Galaxy (S23-S26 / Z Flip / Z Fold / Tab S9 Ultra). DF chain (DirtyFrag) first, auto-fallback to the SRK chain (CVE-2026-43499, firmware-matched payloads), then DFReroot persistence. KernelSU &amp; KernelSU-Next. For security research only.",
+      "date": "2026-10-14",
+      "raw_date": "2026-10-14T12:08:04Z"
+    },
+    {
       "cve_id": "CVE-2026-43284",
       "repo_info": "[SudoXDdX/DirtyFrag](https://github.com/SudoXDdX/DirtyFrag)",
       "description": "DirtyFrag (CVE-2026-43284) pro Galaxy A57 5G (SM-A576B, A576BXXS6AZI2): gatilho libbase pro One UI 8.5 + dfroot.ko compilado exato pro 6.12.38-android16-5 do aparelho",
@@ -192,9 +199,9 @@
       "raw_date": "2026-10-14T07:34:46Z"
     }
   ],
-  "generated_at": "2026-10-21T04:13:08.750016",
+  "generated_at": "2026-10-21T05:51:00.255744",
   "metadata": {
-    "total_cves": 27,
+    "total_cves": 28,
     "date_range": "2026-10-14",
     "source": "README.md",
     "script_version": "2.0"

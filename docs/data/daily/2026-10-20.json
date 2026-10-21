@@ -1,13 +1,153 @@
 {
   "date": "2026-10-20",
-  "count": 3,
+  "count": 33,
   "cves": [
+    {
+      "cve_id": "CVE-2026-99999",
+      "repo_info": "[01luyicheng/CVE-2026-99999-analysis](https://github.com/01luyicheng/CVE-2026-99999-analysis)",
+      "description": "CVE-2026-99999 Educational Analysis — attack chain simulation of Linux kernel csum_start bug (CVSS 9.3). See also: CVE-2026-99999-exploit (Working PoC).",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T08:45:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-99999",
+      "repo_info": "[01luyicheng/CVE-2026-99999-exploit](https://github.com/01luyicheng/CVE-2026-99999-exploit)",
+      "description": "CVE-2026-99999 Working PoC — real VM escape for Linux kernel csum_start bug (CVSS 9.3). Guest-to-Host heap leak. See also: CVE-2026-99999-analysis (Educational).",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T08:46:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-99999",
+      "repo_info": "[sqzer-x/cve-2026-99999-scanner](https://github.com/sqzer-x/cve-2026-99999-scanner)",
+      "description": "Checks whether a Linux system is affected by CVE-2026-99999 (PwnEscape) and prints or applies the distribution-specific kernel fix",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T07:06:55Z"
+    },
     {
       "cve_id": "CVE-2026-96652",
       "repo_info": "[ChrisLPJones/plex2shell-check](https://github.com/ChrisLPJones/plex2shell-check)",
       "description": "Read-only Linux check for Plex2Shell (CVE-2026-96652/-96654/-96655/-96656) exploitation and the XMRig/proxy payloads seen in the wild",
       "date": "2026-10-20",
       "raw_date": "2026-10-20T04:07:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-93300",
+      "repo_info": "[Datxzzz/CVE-2026-93300](https://github.com/Datxzzz/CVE-2026-93300)",
+      "description": "no description",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T11:57:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-87690",
+      "repo_info": "[h00die/CVE-2026-87690-POC](https://github.com/h00die/CVE-2026-87690-POC)",
+      "description": "Exploit and writeup for CVE-2026-87690",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T20:00:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-86950",
+      "repo_info": "[jpdagostin0/CVE-2026-86950-POC](https://github.com/jpdagostin0/CVE-2026-86950-POC)",
+      "description": "Proof of Concept for CVE-2026-86950",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T22:45:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-85314",
+      "repo_info": "[oscerd/CVE-2026-85314](https://github.com/oscerd/CVE-2026-85314)",
+      "description": "Reproducer for CVE-2026-85314 — Apache Camel camel-mail MimeMultipart mail.smtp header injection (CWE-20). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T13:25:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-85313",
+      "repo_info": "[oscerd/CVE-2026-85313](https://github.com/oscerd/CVE-2026-85313)",
+      "description": "Reproducer for CVE-2026-85313 — Apache Camel camel-jetty enableCORS credentialed any-origin CORS (CWE-942). Camel Spring Boot.",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T13:10:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-85312",
+      "repo_info": "[oscerd/CVE-2026-85312](https://github.com/oscerd/CVE-2026-85312)",
+      "description": "Reproducer for CVE-2026-85312 — Apache Camel camel-core saga hijacking via the Long-Running-Action header (CWE-20). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T12:26:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-85301",
+      "repo_info": "[oscerd/CVE-2026-85301](https://github.com/oscerd/CVE-2026-85301)",
+      "description": "Reproducer for CVE-2026-85301 — Apache Camel camel-keycloak issuer validation bypass (CWE-287). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T11:30:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-85300",
+      "repo_info": "[oscerd/CVE-2026-85300](https://github.com/oscerd/CVE-2026-85300)",
+      "description": "Reproducer for CVE-2026-85300 — Apache Camel camel-pqc private key written with permissive file permissions (CWE-276); Spring Boot + Quarkus, affected vs fixed",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T09:36:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-85296",
+      "repo_info": "[oscerd/CVE-2026-85296](https://github.com/oscerd/CVE-2026-85296)",
+      "description": "Reproducer for CVE-2026-85296 — Apache Camel camel-as2 cross-partner MDN signing key confusion (CWE-488); Spring Boot + Quarkus, affected vs fixed",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T09:12:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-85260",
+      "repo_info": "[oscerd/CVE-2026-85260](https://github.com/oscerd/CVE-2026-85260)",
+      "description": "Reproducer for CVE-2026-85260 — Apache Camel camel-mllp protected health information logging (CWE-532); Spring Boot + Quarkus, affected vs fixed",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T08:20:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-78250",
+      "repo_info": "[n1kat/forkybot_AI](https://github.com/n1kat/forkybot_AI)",
+      "description": "Fork optimizado de Bytebot: Agente de IA para control de escritorio. Reducido de 7GB a 1.09GB, parcheada CVE-2026-78250, con documentación viva (Obsidian) y protocolo de trabajo Human-in-the-loop.",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T16:51:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-72867",
+      "repo_info": "[Lulztigre/CVE-2026-72867](https://github.com/Lulztigre/CVE-2026-72867)",
+      "description": "Working, stdlib-only PoC. A low-privileged authenticated user stores a shell palistener",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T21:56:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[alisalive/xss2shell](https://github.com/alisalive/xss2shell)",
+      "description": "CVE-2026-64638 - WordPress &lt; 7.0.3 Pre-Auth Stored XSS → RCE",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T21:47:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[OFRPurpose/poc-cve-2026-64638](https://github.com/OFRPurpose/poc-cve-2026-64638)",
+      "description": "no description",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T17:43:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[Yunnijian/OnePlus16-Jailbreak](https://github.com/Yunnijian/OnePlus16-Jailbreak)",
+      "description": "OnePlus 16 (PYB110) jailbreak: CVE-2026-64560 + KernelSU / KernelSU Next / BakaSU / SukiSU Ultra LKM",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T09:43:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-62911",
+      "repo_info": "[fahise/cve-2026-62911](https://github.com/fahise/cve-2026-62911)",
+      "description": "cve-2026-62911-exploit",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T23:58:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[dntaskmehow/MARABUSE-](https://github.com/dntaskmehow/MARABUSE-)",
+      "description": "MARIMO RCE &amp; NKABUSE EXPLOIT FRAMEWORK (CVE-2026-39987) - RE-WEAPONIZED - This framework exploits CVE-2026-39987, a critical Remote Code Execution (RCE) vulnerability in Marimo, a popular Python-based data visualization tool. Attackers actively exploit this flaw to deploy NKAbuse, a blockchain-based botnet malware.",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T23:06:33Z"
     },
     {
       "cve_id": "CVE-2026-35273",
@@ -17,16 +157,86 @@
       "raw_date": "2026-10-20T03:31:20Z"
     },
     {
+      "cve_id": "CVE-2026-33825",
+      "repo_info": "[dntaskmehow/NEO-DEFENDER](https://github.com/dntaskmehow/NEO-DEFENDER)",
+      "description": "This framework has been **RE-WEAPONIZED** &amp; exploits CVE-2026-33825, a local privilege escalation (LPE) vulnerability in Microsoft Defender caused by insufficient access control granularity. The exploit:",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T23:50:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-24332",
+      "repo_info": "[LinkMakesMods/invisible-detector](https://github.com/LinkMakesMods/invisible-detector)",
+      "description": "An actual use of the discord exploit CVE-2026-24332.",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T21:53:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[wvverez/CVE-2026-23744](https://github.com/wvverez/CVE-2026-23744)",
+      "description": "exploit RCE (Remote Code Exec) &lt;= v1.4.2",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T19:26:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-113468",
+      "repo_info": "[yuwkaaa/CVE-2026-113468](https://github.com/yuwkaaa/CVE-2026-113468)",
+      "description": "forgeable PayPal payment callback in TYPO3 EXT:shop",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T17:45:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-112071",
+      "repo_info": "[yuwkaaa/CVE-2026-112071](https://github.com/yuwkaaa/CVE-2026-112071)",
+      "description": "unauthenticated order cancellation in TYPO3 EXT:shop",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T17:44:49Z"
+    },
+    {
       "cve_id": "CVE-2026-111058",
       "repo_info": "[ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce](https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce)",
       "description": "Mercury unauth RCE combo: CVE-2026-111058 (kernels) + CVE-2026-111057 (terminals). By 0xNuts (@ExDev994). Authorized testing only.",
       "date": "2026-10-20",
       "raw_date": "2026-10-20T04:38:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-108097",
+      "repo_info": "[ExDev994/CVE-2026-108097](https://github.com/ExDev994/CVE-2026-108097)",
+      "description": "CVE-2026-108097",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T16:59:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-106173",
+      "repo_info": "[0xBlackash/CVE-2026-106173](https://github.com/0xBlackash/CVE-2026-106173)",
+      "description": "CVE-2026-106173",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T14:59:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-106173",
+      "repo_info": "[horizon3ai/CVE-2026-106173](https://github.com/horizon3ai/CVE-2026-106173)",
+      "description": "Proof of concept exploit for CVE-2026-106173, a path traversal file write leading to RCE for Fortinet FortiSIEM",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T12:29:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-105810",
+      "repo_info": "[M0ud4/CVE-2026-105810](https://github.com/M0ud4/CVE-2026-105810)",
+      "description": "CVE-2026-105810 TP-Link Tapo C320WS authenticated connectAp stack overflow (RCE as root)",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T17:07:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-105484",
+      "repo_info": "[xiaobai718-ab/CVE-2026-105484](https://github.com/xiaobai718-ab/CVE-2026-105484)",
+      "description": "Research attribution and coordinated disclosure status for CVE-2026-105484.",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T09:01:53Z"
     }
   ],
-  "generated_at": "2026-10-21T04:13:08.752471",
+  "generated_at": "2026-10-21T05:51:00.258155",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 33,
     "date_range": "2026-10-20",
     "source": "README.md",
     "script_version": "2.0"

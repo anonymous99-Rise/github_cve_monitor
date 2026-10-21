@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-21",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9618",
+      "repo_info": "[SleepTheGod/cve-2026-9618-Patch](https://github.com/SleepTheGod/cve-2026-9618-Patch)",
+      "description": "cve-2026-9618 Poc Patch",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T02:02:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-44714",
+      "repo_info": "[dntaskmehow/BABEF](https://github.com/dntaskmehow/BABEF)",
+      "description": "This framework has been RE-WEAPONIZED &amp; exploits CVE-2026-44714, a critical signature verification flaw in the bitcoinj library (Java implementation of the Bitcoin protocol). Unpatched applications are vulnerable to transaction spoofing, allowing attackers to:",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T00:09:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-110372",
+      "repo_info": "[BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE](https://github.com/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE)",
+      "description": "no description",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T04:41:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[yetDevs/php2shell-triage](https://github.com/yetDevs/php2shell-triage)",
+      "description": "PHP estate triage for CVE-2026-109618 / CVE-2026-109619: inventory, Plesk audit, child-process detection. No exploit code.",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T05:42:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[mikensec/php2shell-lab](https://github.com/mikensec/php2shell-lab)",
+      "description": "Offline, reproducible lab to safely analyse an untrusted PoC for CVE-2026-109618/109619 and build detection rules. No exploit included; bring your own sample.",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T03:36:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[break-the-build/php-uploadprogress-waf](https://github.com/break-the-build/php-uploadprogress-waf)",
+      "description": "Defensive WAF/IDS rules for PHP session.upload_progress UAF (CVE-2026-109618/109619); detection only",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T04:32:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[syhunt/php2shell-protection](https://github.com/syhunt/php2shell-protection)",
+      "description": "Emergency Apache mitigation and testing toolkit for the zero day php2shell (CVE-2026-109618 / CVE-2026-109619), blocking multipart POST requests before they reach PHP.",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T04:01:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[0ldbaby/php2shell](https://github.com/0ldbaby/php2shell)",
+      "description": "CVE-2026-109618 / CVE-2026-109619",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T03:31:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[19h/CVE-2026-109618](https://github.com/19h/CVE-2026-109618)",
+      "description": "no description",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T03:22:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618)",
+      "description": "PoC CVE-2026-109618 / -109619 (PHP session.upload_progress heap UAF)",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T03:06:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-104736",
+      "repo_info": "[BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE](https://github.com/BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE)",
+      "description": "no description",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T04:41:12Z"
+    }
+  ],
+  "generated_at": "2026-10-21T05:51:00.258633",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2026-10-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

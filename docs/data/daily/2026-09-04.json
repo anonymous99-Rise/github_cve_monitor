@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "count": 37,
+  "count": 38,
   "cves": [
     {
       "cve_id": "CVE-2026-86595",
@@ -255,6 +255,13 @@
       "raw_date": "2026-09-04T16:47:33Z"
     },
     {
+      "cve_id": "CVE-2026-112195",
+      "repo_info": "[jasonbernier/Dialplan-Escape-RCE](https://github.com/jasonbernier/Dialplan-Escape-RCE)",
+      "description": "CVE-2026-112195 FusionPBX Dialplan Denylist Bypass Enabling Conditional OS Command Execution in FusionPBX 5.6.4-dev",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T23:25:22Z"
+    },
+    {
       "cve_id": "CVE-2026-10134",
       "repo_info": "[rmhowe425/POC-CVE-2026-10134](https://github.com/rmhowe425/POC-CVE-2026-10134)",
       "description": "no description",
@@ -262,9 +269,9 @@
       "raw_date": "2026-09-04T03:03:33Z"
     }
   ],
-  "generated_at": "2026-10-21T04:13:08.735601",
+  "generated_at": "2026-10-21T05:51:00.241161",
   "metadata": {
-    "total_cves": 37,
+    "total_cves": 38,
     "date_range": "2026-09-04",
     "source": "README.md",
     "script_version": "2.0"
