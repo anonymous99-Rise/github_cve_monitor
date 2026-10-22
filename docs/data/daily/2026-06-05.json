@@ -1,7 +1,14 @@
 {
   "date": "2026-06-05",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-48866",
+      "repo_info": "[0xABCD01/CVE-2026-48866](https://github.com/0xABCD01/CVE-2026-48866)",
+      "description": "Gravity Forms path-traversal research with a proof of concept and disclosure notes.",
+      "date": "2026-06-05",
+      "raw_date": "2026-06-05T13:38:07Z"
+    },
     {
       "cve_id": "CVE-2026-20230",
       "repo_info": "[HORKimhab/CVE-2026-20230](https://github.com/HORKimhab/CVE-2026-20230)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-06-05T01:17:53Z"
     }
   ],
-  "generated_at": "2026-10-22T04:13:38.905706",
+  "generated_at": "2026-10-22T05:54:03.801610",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-06-05",
     "source": "README.md",
     "script_version": "2.0"

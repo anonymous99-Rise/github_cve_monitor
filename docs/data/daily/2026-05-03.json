@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "count": 1,
+  "count": 2,
   "cves": [
     {
       "cve_id": "CVE-2026-31431",
@@ -8,11 +8,18 @@
       "description": "Fast, auditable Linux mitigation for CVE-2026-31431 Copy Fail: algif_aead block, verification, and AF_ALG seccomp hardening.",
       "date": "2026-05-03",
       "raw_date": "2026-05-03T19:22:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[codesource/copyfail-check](https://github.com/codesource/copyfail-check)",
+      "description": "Archived, moved to codesource/cve-check. Shell script to detect CVE-2026-31431 (Copy Fail) exposure and mitigations on Linux systems: kernel check, module state, boot params, AF_ALG reachability, and distro patch status.",
+      "date": "2026-05-03",
+      "raw_date": "2026-05-03T22:04:33Z"
     }
   ],
-  "generated_at": "2026-10-22T04:13:38.902151",
+  "generated_at": "2026-10-22T05:54:03.791975",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-05-03",
     "source": "README.md",
     "script_version": "2.0"

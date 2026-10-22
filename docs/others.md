@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-21 05:50:29
+- **生成时间**: 2026-10-22 05:53:28
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -439,9 +439,15 @@
 | 🚫 未识别 | [zen-studi/cvee20265524](https://github.com/zen-studi/cvee20265524) | no description | 2026-10-18T13:20:12Z|
 | 🚫 未识别 | [zen-studi/CVE20265524](https://github.com/zen-studi/CVE20265524) | no description | 2026-10-18T13:13:37Z|
 | 🚫 未识别 | [cucu-ground/2026-2-web-middle-cvehub](https://github.com/cucu-ground/2026-2-web-middle-cvehub) | no description | 2026-10-18T12:20:35Z|
+| 🚫 未识别 | [LightSpeedC/20261022-research-java-cve](https://github.com/LightSpeedC/20261022-research-java-cve) | Java の最近の CVE（Oracle CPU 2026年10月・Spring・Tomcat・Jackson）の注意点と対処の調査 | 2026-10-22T03:43:02Z|
+| 🚫 未识别 | [LightSpeedC/20261022-research-tomcat-cve](https://github.com/LightSpeedC/20261022-research-tomcat-cve) | Apache Tomcat 2026年の CVE 注意点の調査。最優先の脆弱性・傾向・修正一覧・対処 | 2026-10-22T03:42:31Z|
+| 🚫 未识别 | [LightSpeedC/20261022-research-node-cve](https://github.com/LightSpeedC/20261022-research-node-cve) | Node.js 2026年10月セキュリティリリース（CVE 10件）の調査。Web・CLI・Node.js 20 での影響と対処 | 2026-10-22T03:11:26Z|
+| 🚫 未识别 | [musicclub1563/nekopass](https://github.com/musicclub1563/nekopass) | nekopass snapshot + Oct-2026 CVE dependency fixes (go1.26.10 / vite 7.3.7 / vite 6.4.4) | 2026-10-21T16:46:12Z|
+| 🚫 未识别 | [luivc1/node-vuln-responder](https://github.com/luivc1/node-vuln-responder) | Agent plugin to scan, patch, verify and check for compromise after Node.js security releases (October 2026: 10 CVEs incl. Brotli RCE). | 2026-10-21T18:54:04Z|
+| 🚫 未识别 | [bobbymaher/php-7.3.33-2026-10-21-CVE-patched](https://github.com/bobbymaher/php-7.3.33-2026-10-21-CVE-patched) | php-7.3.33 patched | 2026-10-21T14:01:55Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-21 05:50:59  
-**总记录数**: 428
+**报告生成时间**: 2026-10-22 05:54:02  
+**总记录数**: 434

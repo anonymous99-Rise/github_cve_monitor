@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "count": 36,
+  "count": 37,
   "cves": [
     {
       "cve_id": "CVE-2026-99999",
@@ -213,6 +213,13 @@
       "raw_date": "2026-10-19T09:24:01Z"
     },
     {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[ziachi/DirtyFrag](https://github.com/ziachi/DirtyFrag)",
+      "description": "Ephemeral root via the CVE-2026-43284 page-cache exploit",
+      "date": "2026-10-19",
+      "raw_date": "2026-10-19T03:38:41Z"
+    },
+    {
       "cve_id": "CVE-2026-23111",
       "repo_info": "[kinokopio/CVE-2026-23111](https://github.com/kinokopio/CVE-2026-23111)",
       "description": "CVE-2026-23111 nf_tables UAF exploit for Ubuntu 6.8.0-101-generic: unprivileged user → host root, plus container escape to the host.",
@@ -255,9 +262,9 @@
       "raw_date": "2026-10-19T22:15:15Z"
     }
   ],
-  "generated_at": "2026-10-22T04:13:38.941983",
+  "generated_at": "2026-10-22T05:54:03.856261",
   "metadata": {
-    "total_cves": 36,
+    "total_cves": 37,
     "date_range": "2026-10-19",
     "source": "README.md",
     "script_version": "2.0"

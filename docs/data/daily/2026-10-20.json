@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "count": 33,
+  "count": 34,
   "cves": [
     {
       "cve_id": "CVE-2026-99999",
@@ -199,6 +199,13 @@
       "raw_date": "2026-10-20T04:38:18Z"
     },
     {
+      "cve_id": "CVE-2026-10961",
+      "repo_info": "[dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)",
+      "description": "PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→cookie memory disclosure + UAF chain), full control ladders, fixed-version negative control on 8.5.12",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T19:16:47Z"
+    },
+    {
       "cve_id": "CVE-2026-108097",
       "repo_info": "[ExDev994/CVE-2026-108097](https://github.com/ExDev994/CVE-2026-108097)",
       "description": "CVE-2026-108097",
@@ -234,9 +241,9 @@
       "raw_date": "2026-10-20T09:01:53Z"
     }
   ],
-  "generated_at": "2026-10-22T04:13:38.942465",
+  "generated_at": "2026-10-22T05:54:03.856716",
   "metadata": {
-    "total_cves": 33,
+    "total_cves": 34,
     "date_range": "2026-10-20",
     "source": "README.md",
     "script_version": "2.0"
