@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-22 05:53:28
+- **生成时间**: 2026-10-23 05:51:38
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -445,9 +445,15 @@
 | 🚫 未识别 | [musicclub1563/nekopass](https://github.com/musicclub1563/nekopass) | nekopass snapshot + Oct-2026 CVE dependency fixes (go1.26.10 / vite 7.3.7 / vite 6.4.4) | 2026-10-21T16:46:12Z|
 | 🚫 未识别 | [luivc1/node-vuln-responder](https://github.com/luivc1/node-vuln-responder) | Agent plugin to scan, patch, verify and check for compromise after Node.js security releases (October 2026: 10 CVEs incl. Brotli RCE). | 2026-10-21T18:54:04Z|
 | 🚫 未识别 | [bobbymaher/php-7.3.33-2026-10-21-CVE-patched](https://github.com/bobbymaher/php-7.3.33-2026-10-21-CVE-patched) | php-7.3.33 patched | 2026-10-21T14:01:55Z|
+| 🚫 未识别 | [MAUK9086/patch-sloth](https://github.com/MAUK9086/patch-sloth) | A second opinion on CNA-only CVSS scores for the CVEs in your lockfile (DEV Hacktoberfest 2026) | 2026-10-23T03:43:52Z|
+| 🚫 未识别 | [ngutten/cve-hawkes](https://github.com/ngutten/cve-hawkes) | CVE publication timing: Poisson with trend/calendar baseline vs Hawkes self-excitation (CVE List, Oct 2025–Oct 2026) | 2026-10-22T17:32:11Z|
+| 🚫 未识别 | [stringpilot/CVE-2026-PHP2SHELL-109618](https://github.com/stringpilot/CVE-2026-PHP2SHELL-109618) | no description | 2026-10-22T13:25:08Z|
+| 🚫 未识别 | [3rfanabedi/php-cve-2026-fix](https://github.com/3rfanabedi/php-cve-2026-fix) | no description | 2026-10-22T10:18:40Z|
+| 🚫 未识别 | [HyeonJi05/ksc2026-cve-transfer](https://github.com/HyeonJi05/ksc2026-cve-transfer) | no description | 2026-10-22T09:44:03Z|
+| 🚫 未识别 | [brigaddefin-del/phpshell](https://github.com/brigaddefin-del/phpshell) | “php2shell”是2026年10月21日公开的‌PHP核心引擎远程代码执行漏洞‌，由两个CVE组成，CVSS v4.0评分9.2，被安全界称为十多年来最严重的PHP安全问题。攻击者无需账号密码，发送特制请求即可完全控制服务器 | 2026-10-22T07:49:27Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-22 05:54:02  
-**总记录数**: 434
+**报告生成时间**: 2026-10-23 05:52:23  
+**总记录数**: 440

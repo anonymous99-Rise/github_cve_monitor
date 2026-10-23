@@ -1,6 +1,6 @@
 {
   "date": "2025-12-06",
-  "count": 6,
+  "count": 7,
   "cves": [
     {
       "cve_id": "CVE-2025-66478",
@@ -43,11 +43,18 @@
       "description": "CVE-2025-55182 React Server Components RCE - Go PoC",
       "date": "2025-12-06",
       "raw_date": "2025-12-06T15:49:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-54309",
+      "repo_info": "[Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309](https://github.com/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309)",
+      "description": "CrushFTP AS2 authentication-bypass research with lab notes and defensive detection rules.",
+      "date": "2025-12-06",
+      "raw_date": "2025-12-06T10:12:32Z"
     }
   ],
-  "generated_at": "2026-10-23T04:17:11.410748",
+  "generated_at": "2026-10-23T05:52:24.902022",
   "metadata": {
-    "total_cves": 6,
+    "total_cves": 7,
     "date_range": "2025-12-06",
     "source": "README.md",
     "script_version": "2.0"

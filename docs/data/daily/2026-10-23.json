@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-23",
+  "count": 42,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-93687",
+      "repo_info": "[canmenzo/cve-2026-93687-braces](https://github.com/canmenzo/cve-2026-93687-braces)",
+      "description": "Independent, measured check of CVE-2026-93687 (braces stack exhaustion): reproducible cold-process crash under the default 10000 maxLength, and what actually mitigates it.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T00:57:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-86476",
+      "repo_info": "[0xSemizzz/CVE-2026-86476](https://github.com/0xSemizzz/CVE-2026-86476)",
+      "description": "no description",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T05:44:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-76504",
+      "repo_info": "[pastelghost3/cve-2026-76504-nuclei](https://github.com/pastelghost3/cve-2026-76504-nuclei)",
+      "description": "Nuclei template for CVE-2026-76504 — Cisco vManage authentication bypass",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T02:00:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-71362",
+      "repo_info": "[mahumadad/cve-2026-71362-magento-ato](https://github.com/mahumadad/cve-2026-71362-magento-ato)",
+      "description": "CVE-2026-71362 — Magento Session Identity Poisoning → Mass Account Takeover (CVSS 9.1, CISA KEV)",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T03:11:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-57845",
+      "repo_info": "[SaiTeja-Erukude/CVE-2026-57845-hf-datasets-rce](https://github.com/SaiTeja-Erukude/CVE-2026-57845-hf-datasets-rce)",
+      "description": "no description",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T00:44:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-34717",
+      "repo_info": "[quanlevan1207/cve-2026-34717-exploit](https://github.com/quanlevan1207/cve-2026-34717-exploit)",
+      "description": "Boolean-based Blind SQLi exploit for CVE-2026-34717 (OpenProject 17.2.0)Boolean-based Blind SQLi exploit for CVE-2026-34717 (OpenProject 17.2.0)",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T01:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-31158",
+      "repo_info": "[Hardik007007/CVE-2026-31158-Boolean-Based-SQL-Injection-in-CRM-Login](https://github.com/Hardik007007/CVE-2026-31158-Boolean-Based-SQL-Injection-in-CRM-Login)",
+      "description": "no description",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T04:20:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-113872",
+      "repo_info": "[santihabib/multer-CVE-2026-113872](https://github.com/santihabib/multer-CVE-2026-113872)",
+      "description": "Write-up and proof of concept for CVE-2026-113872: multer async fileFilter process crash (DoS)",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T01:24:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[Saturate/CVE-2026-111497](https://github.com/Saturate/CVE-2026-111497)",
+      "description": "Tools, POC and more for CVE-2026-111497",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T04:29:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[duytien241/nodejs-CVE-2026-111497](https://github.com/duytien241/nodejs-CVE-2026-111497)",
+      "description": "no description",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T02:14:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[Charlie-Netdevops/node-hostcheck](https://github.com/Charlie-Netdevops/node-hostcheck)",
+      "description": "Read-only Node.js check for the Oct 2026 security release (CVE-2026-111497 Brotli RCE + 9). Finds every install (nvm, fnm, volta, system), what each running process actually uses, restarts needed, and eMudhra CA issues.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T00:45:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-110264",
+      "repo_info": "[TheGlitchFixer/gitlab-patch-check](https://github.com/TheGlitchFixer/gitlab-patch-check)",
+      "description": "Check whether your self-hosted GitLab version is patched against CVE-2026-110264 (CVSS 10.0 RCE) — companion script for The Homelab Fixer guide.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T05:51:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-110264",
+      "repo_info": "[bastet-ai/gitlab-firing-range](https://github.com/bastet-ai/gitlab-firing-range)",
+      "description": "Authorized loopback-only Docker firing range for CVE-2026-110264 (Onigmo regex integer-overflow, unauth RCE) research + detection engineering",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T04:07:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-109715",
+      "repo_info": "[Scyrix-LLC/CVE-2026-109715](https://github.com/Scyrix-LLC/CVE-2026-109715)",
+      "description": "CVE-2026-109715",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T01:10:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-109619",
+      "repo_info": "[MorphingYU/CVE-2026-109619](https://github.com/MorphingYU/CVE-2026-109619)",
+      "description": "CVE-2026-109619 docker本地复现环境+Poc",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T02:54:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[umair-aziz025/PHP2Shell](https://github.com/umair-aziz025/PHP2Shell)",
+      "description": "Critical Vulnerabilities in PHP Core (CVE-2026-109618/CVE-2026-109619)",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T03:49:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[gukHyeonGeum/cve-2026-109618-109619-el7](https://github.com/gukHyeonGeum/cve-2026-109618-109619-el7)",
+      "description": "PHP2Shell patches for PHP 7.0.33 on CentOS 7 (Remi RPMs)",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T03:18:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[pro-m16/CVE-2026-109618-php2shell-lab](https://github.com/pro-m16/CVE-2026-109618-php2shell-lab)",
+      "description": "PHP 8.4.4 Use-After-Free CVE-2026-109618 lab — tested against a real PHP app with mitigation applied",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T05:42:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[viralchabhadiya/php-vulnerability-checker-and-fix](https://github.com/viralchabhadiya/php-vulnerability-checker-and-fix)",
+      "description": "PHP vulnerability checker and fix: free read-only checker, guided patch script and AI agent skill for PHP2Shell (CVE-2026-109618, CVE-2026-109619). Docker, cPanel, Plesk, DirectAdmin, CloudLinux, shared hosting, VPS. WordPress, Magento, Laravel. PHP 5 to 8.5.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T04:45:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[raeseoklee/php-safepatch](https://github.com/raeseoklee/php-safepatch)",
+      "description": "Find and fix PHP2Shell (CVE-2026-109618, CVE-2026-109619) on Linux, Windows and Docker without changing the PHP minor version. Same-branch patching, admin-locked mitigations, automatic rollback.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T02:24:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[EQSTLab/CVE-2026-109618](https://github.com/EQSTLab/CVE-2026-109618)",
+      "description": "php2shell",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T05:18:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[LeisureLinux/php2shell](https://github.com/LeisureLinux/php2shell)",
+      "description": "Two PHP session CVEs (CVE-2026-109618, CVE-2026-109619) — reproducible exploits: pure-HTTP ASLR bypass and unserialize-to-RCE",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T05:21:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[joei007/PHP-5.6.40-Patched](https://github.com/joei007/PHP-5.6.40-Patched)",
+      "description": "Patch แบบย่อสำหรับ CVE-2026-109618 และ CVE-2026-109619 เพื่อต่อเวลาไปยังการ Upgrade เป็น PHP รุ่นใหม่กว่า",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T04:39:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[463861437/guard-for-php74](https://github.com/463861437/guard-for-php74)",
+      "description": "Guard for PHP 7.4: native Linux package remediation for CVE-2026-109618/109619, with verified build recipes and deployment checks.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T02:27:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[axon003/php-legacy-cve-2026-109618](https://github.com/axon003/php-legacy-cve-2026-109618)",
+      "description": "Unofficial backports of PHP CVE-2026-109618/109619 (OOM RCE) for legacy PHP 5.4, 5.5 and 7.2 + Apache/FPM mitigations",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T04:38:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[ravhirizaldi/php2shell-engine-rce](https://github.com/ravhirizaldi/php2shell-engine-rce)",
+      "description": "Engine-level PHP2SHELL (CVE-2026-109618/109619) lab: stock PHP 8.4.26 mod_php RCE, interactive exploit, multi-worker/TLS/OOB, Docker evidence.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T04:09:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[hezhidong/php2shell-guard](https://github.com/hezhidong/php2shell-guard)",
+      "description": "Cross-platform PHP2Shell (CVE-2026-109618 / CVE-2026-109619) scanner/fixer/verifier — scan, mitigate, upgrade, verify. Zero-dependency Python.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T00:30:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[MRdark-ops/php2shell](https://github.com/MRdark-ops/php2shell)",
+      "description": "PHP2Shell: version-aware research toolkit for CVE-2026-109618 / CVE-2026-109619 — pre-auth RCE in PHP session.upload_progress (mod_php). Build profiles, labs, heap calibration and detection guidance for authorized security testing.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T03:46:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[leejongyoung/php2shell-triage](https://github.com/leejongyoung/php2shell-triage)",
+      "description": "PHP2Shell (CVE-2026-109618/109619) defensive triage &amp; response toolkit: Linux/Unix/Windows/containers, host-specific patch plans, virtual patches, Korean runbook",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T02:41:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[alefkaue/php2shell-security-assessor](https://github.com/alefkaue/php2shell-security-assessor)",
+      "description": "Offline, evidence-aware PHP inventory triage for CVE-2026-109618/109619, with backport handling and static reports.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T03:42:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Kyros0324/CVE2026](https://github.com/Kyros0324/CVE2026)",
+      "description": "This is made for php2shell-CVE-2026-109618-CVE-2026-109619-PoC.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T03:38:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619](https://github.com/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619)",
+      "description": "no description",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T03:06:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[joec4i/docker-library-php](https://github.com/joec4i/docker-library-php)",
+      "description": "docker-library/php with PHP2Shell (CVE-2026-109618/109619) patched 7.4 and 8.1 buster images",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T03:25:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Taz1920/php-sentinel](https://github.com/Taz1920/php-sentinel)",
+      "description": "Reverse proxy that blocks PHP parser exploits (CVE-2026-109618/109619) by replaying requests through an 11-version canary array.   Compensating control for EOL PHP 5.6–8.1.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T00:06:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[renyang-create/php2shell-repro](https://github.com/renyang-create/php2shell-repro)",
+      "description": "CVE-2026-109618 / CVE-2026-109619 本地复现笔记：UAF 原语验证、利用链边界分析、加固方案",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T02:28:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[ahallais/php71-debian9-backport](https://github.com/ahallais/php71-debian9-backport)",
+      "description": "PHP 7.1 security backport for Debian 9 (stretch / buster 2018) fixing CVE-2026-109618 &amp; CVE-2026-109619",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T02:44:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[AbodyStudio/php2shell-shield](https://github.com/AbodyStudio/php2shell-shield)",
+      "description": "Risk-reduction WordPress plugin for the PHP2Shell exploit (CVE-2026-109618 / CVE-2026-109619) on sites that cannot update PHP yet. A shield, not a cure.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T02:30:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Pr0fEs0r-X/PHP2ShellX-](https://github.com/Pr0fEs0r-X/PHP2ShellX-)",
+      "description": "Script que detecta si tu versión de PHP es vulnerable a PHP2Shell (CVE-2026-109618 / 109619)",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T01:29:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[SideeID/php2shell](https://github.com/SideeID/php2shell)",
+      "description": "scanner CVE-2026-109618/CVE-2026-109619. write with bun",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T01:58:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[wemio/php2shell-scan](https://github.com/wemio/php2shell-scan)",
+      "description": "Defensive exposure and IOC scanner for PHP2Shell (CVE-2026-109618 / CVE-2026-109619). No exploit traffic.",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T01:06:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[techtaek77/php2shell-guide](https://github.com/techtaek77/php2shell-guide)",
+      "description": "PHP2Shell(CVE-2026-109618/109619) 원리와 PHP 버전별 대응을 택배 창고 비유로 설명하는 교육용 페이지",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T00:48:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[danieljamesbertrand/php2shell-source-hotfix](https://github.com/danieljamesbertrand/php2shell-source-hotfix)",
+      "description": "Emergency PHP2Shell hotfix (CVE-2026-109618 / CVE-2026-109619): apt if possible, else build fixed PHP from source",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T00:20:19Z"
+    }
+  ],
+  "generated_at": "2026-10-23T05:52:24.967220",
+  "metadata": {
+    "total_cves": 42,
+    "date_range": "2026-10-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
