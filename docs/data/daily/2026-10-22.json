@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "count": 305,
+  "count": 307,
   "cves": [
     {
       "cve_id": "CVE-2026-97206",
@@ -211,6 +211,13 @@
       "description": "Benign PoC carrier for CVE-2026-110264",
       "date": "2026-10-22",
       "raw_date": "2026-10-22T08:31:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-110264",
+      "repo_info": "[al4n4n/CVE-2026-110264](https://github.com/al4n4n/CVE-2026-110264)",
+      "description": "CVE-2026-110264: GitLab pre-auth RCE via Onigmo integer overflow in org-ruby. Docker-based validation, admin check script, attack surface analysis.",
+      "date": "2026-10-22",
+      "raw_date": "2026-10-22T18:22:11Z"
     },
     {
       "cve_id": "CVE-2026-109619",
@@ -2075,6 +2082,13 @@
       "raw_date": "2026-10-22T00:31:37Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[hanyuanchen08-netizen/php-exposure-audit](https://github.com/hanyuanchen08-netizen/php-exposure-audit)",
+      "description": "Read-only auditor for CVE-2026-109618 / CVE-2026-109619 — seven independent PHP exposure axes across distro backports, Docker, cPanel and LiteSpeed stacks.",
+      "date": "2026-10-22",
+      "raw_date": "2026-10-22T13:33:26Z"
+    },
+    {
       "cve_id": "CVE-2026-109255",
       "repo_info": "[D7EAD/CVE-2026-109255](https://github.com/D7EAD/CVE-2026-109255)",
       "description": "FreeRDP 3.0.0 before 3.32.0 contains an integer truncation vulnerability in license_check_stream_length that allows a malicious RDP server to trigger a heap buffer overflow on 32-bit clients.",
@@ -2138,9 +2152,9 @@
       "raw_date": "2026-10-22T07:17:14Z"
     }
   ],
-  "generated_at": "2026-10-24T04:08:22.261514",
+  "generated_at": "2026-10-24T05:35:24.804379",
   "metadata": {
-    "total_cves": 305,
+    "total_cves": 307,
     "date_range": "2026-10-22",
     "source": "README.md",
     "script_version": "2.0"

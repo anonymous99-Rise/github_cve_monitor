@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "count": 34,
+  "count": 35,
   "cves": [
     {
       "cve_id": "CVE-2026-99999",
@@ -178,6 +178,13 @@
       "raw_date": "2026-10-20T19:26:49Z"
     },
     {
+      "cve_id": "CVE-2026-114509",
+      "repo_info": "[hakaioffsec/CVE-2026-114509-PoC](https://github.com/hakaioffsec/CVE-2026-114509-PoC)",
+      "description": "A poc for https://github.com/laravel/framework/security/advisories/GHSA-f9x3-7vq9-cph6",
+      "date": "2026-10-20",
+      "raw_date": "2026-10-20T01:52:25Z"
+    },
+    {
       "cve_id": "CVE-2026-113468",
       "repo_info": "[yuwkaaa/CVE-2026-113468](https://github.com/yuwkaaa/CVE-2026-113468)",
       "description": "forgeable PayPal payment callback in TYPO3 EXT:shop",
@@ -241,9 +248,9 @@
       "raw_date": "2026-10-20T09:01:53Z"
     }
   ],
-  "generated_at": "2026-10-24T04:08:22.258657",
+  "generated_at": "2026-10-24T05:35:24.801949",
   "metadata": {
-    "total_cves": 34,
+    "total_cves": 35,
     "date_range": "2026-10-20",
     "source": "README.md",
     "script_version": "2.0"

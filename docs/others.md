@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-23 05:51:38
+- **生成时间**: 2026-10-24 05:34:55
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -451,9 +451,12 @@
 | 🚫 未识别 | [3rfanabedi/php-cve-2026-fix](https://github.com/3rfanabedi/php-cve-2026-fix) | no description | 2026-10-22T10:18:40Z|
 | 🚫 未识别 | [HyeonJi05/ksc2026-cve-transfer](https://github.com/HyeonJi05/ksc2026-cve-transfer) | no description | 2026-10-22T09:44:03Z|
 | 🚫 未识别 | [brigaddefin-del/phpshell](https://github.com/brigaddefin-del/phpshell) | “php2shell”是2026年10月21日公开的‌PHP核心引擎远程代码执行漏洞‌，由两个CVE组成，CVSS v4.0评分9.2，被安全界称为十多年来最严重的PHP安全问题。攻击者无需账号密码，发送特制请求即可完全控制服务器 | 2026-10-22T07:49:27Z|
+| 🚫 未识别 | [jlstechusa/mcp-remediation-propagation-2026](https://github.com/jlstechusa/mcp-remediation-propagation-2026) | Remediation propagation for 2026 MCP CVEs: disclosure lag, registry currency, forks, npm mirrors. Static, metadata-only, reproducible. | 2026-10-09T02:06:28Z|
+| 🚫 未识别 | [medandevsec/cvephpreact2026](https://github.com/medandevsec/cvephpreact2026) | Scanner CVE PHP &amp; React | 2026-10-23T14:43:52Z|
+| 🚫 未识别 | [melihkarasu/web-security-scanner](https://github.com/melihkarasu/web-security-scanner) | Unified Web Security &amp; Code Auditing Suite — Passive Recon (Headers/DoH/TLS), 128-Rule 7-Language SAST (PHP php2shell &amp; Node.js Oct 2026 CVEs), 8-Ecosystem OSV Scanner, Active DAST, 4-Phase AI Audit &amp; Strix Sandbox. | 2026-10-09T17:06:24Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-23 05:52:23  
-**总记录数**: 440
+**报告生成时间**: 2026-10-24 05:35:23  
+**总记录数**: 443
