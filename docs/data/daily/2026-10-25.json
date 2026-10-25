@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-25",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-88009",
+      "repo_info": "[Boreas37/CVE-2026-88009-PoC](https://github.com/Boreas37/CVE-2026-88009-PoC)",
+      "description": "CVE-2026-88009 — Traefik forwards a rootless opaque request target that routing/forwardAuth see as &#x27;/&#x27;. Auth bypass + access-log evasion, verified v3.7.10 / v3.7.13.",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T00:02:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-86426",
+      "repo_info": "[Guila95/CVE-2026-86426](https://github.com/Guila95/CVE-2026-86426)",
+      "description": "CVE-2026-86426 CHECK",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T04:54:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-85595",
+      "repo_info": "[Boreas37/CVE-2026-85595-PoC](https://github.com/Boreas37/CVE-2026-85595-PoC)",
+      "description": "CVE-2026-85595 — Traefik digestAuth authentication bypass (unknown username =&gt; empty HA1). Lab-verified: v3.7.10 bypass, v3.7.11 401.",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T00:01:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-72708",
+      "repo_info": "[ka3n1x/spip-cve-2026](https://github.com/ka3n1x/spip-cve-2026)",
+      "description": "PoC for CVE-2026-72708 (blind SQLi) and CVE-2026-109378 (SSRF) in SPIP, both fixed in 4.4.18",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T02:03:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[yameteeee-kudasaiiiiiii90/DFRoot](https://github.com/yameteeee-kudasaiiiiiii90/DFRoot)",
+      "description": "Fork of datfooldive/DFRoot (DirtyFrag CVE-2026-43284, ReSukiSU) + GitHub Actions APK build",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T00:58:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-112900",
+      "repo_info": "[moprius/CVE-2026-112900-Pillow-PoC](https://github.com/moprius/CVE-2026-112900-Pillow-PoC)",
+      "description": "no description",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T00:04:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[GlobularOne/HTTP2Shell-PoC](https://github.com/GlobularOne/HTTP2Shell-PoC)",
+      "description": "PoC for CVE-2026-111497 (HTTP2Shell)",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T04:22:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[assetnote/node2shell-scanner](https://github.com/assetnote/node2shell-scanner)",
+      "description": "High fidelity detection mechanism for node2shell (CVE-2026-111497)",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T04:23:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[yavuzsemih/brotli-secfix](https://github.com/yavuzsemih/brotli-secfix)",
+      "description": "Security backport toolkit for CVE-2026-111497 on Ubuntu 24.04, featuring upstream patch verification, custom Debian package builds, and offline remediation procedures.",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T00:02:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[vaishnavucv/php2shell](https://github.com/vaishnavucv/php2shell)",
+      "description": "PHP2Shell: finding and patching affected PHP CVE-2026-109618 and CVE-2026-109619",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T01:34:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619](https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619)",
+      "description": "no description",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T03:51:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[AbacusNin/php-radar](https://github.com/AbacusNin/php-radar)",
+      "description": "Detection-only exposure scanner for PHP2Shell (CVE-2026-109618/109619): finds PHP across repositories, hosts, a network perimeter, and AWS, and grades each install by version and config without triggering the bug.",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T02:25:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[darkLabz001/php2shell-audit](https://github.com/darkLabz001/php2shell-audit)",
+      "description": "Exposure scanner, patch verifier and threat hunter for CVE-2026-109618/9, with a cyberpunk TUI.",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T01:16:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Ademking/php2shell-migration](https://github.com/Ademking/php2shell-migration)",
+      "description": "Agent Skills skill to detect, patch and verify PHP apps affected by PHP2Shell (CVE-2026-109618, CVE-2026-109619) or outdated PHP. Works with Claude Code, Codex, Copilot, Cursor, Gemini CLI, OpenCode.",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T01:05:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[StiJans/php8-cve-109618-109619-fix](https://github.com/StiJans/php8-cve-109618-109619-fix)",
+      "description": "php:8.0.30-fpm-alpine + official PHP patch for CVE-2026-109618/109619",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T00:36:42Z"
+    }
+  ],
+  "generated_at": "2026-10-25T05:50:40.973671",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2026-10-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

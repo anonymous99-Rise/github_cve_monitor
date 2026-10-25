@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "count": 215,
+  "count": 219,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -505,6 +505,13 @@
       "description": "Detect systems affected by Node2Shell (CVE-2026-111497) on Unix and Windows",
       "date": "2026-10-23",
       "raw_date": "2026-10-23T08:16:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[datmt/emudhra-fix](https://github.com/datmt/emudhra-fix)",
+      "description": "Check and fix hosts, Docker containers and k8s pods: leaked eMudhra CA trust, and Brotli decoder CVE-2026-111497 scanner",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T00:54:47Z"
     },
     {
       "cve_id": "CVE-2026-110264",
@@ -1347,6 +1354,20 @@
       "raw_date": "2026-10-23T00:57:06Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[isaca0315/cve-2026-109618-109619-session-upload-progress-trigger](https://github.com/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger)",
+      "description": "no description",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T04:04:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[jensb1/php-8.2.34-session-uaf-rce](https://github.com/jensb1/php-8.2.34-session-uaf-rce)",
+      "description": "PHP 8.2.34 session UAF (CVE-2026-109618/619): x86_64 lab exploit, 5/5 on instrumented -g and clean -O2",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T19:19:54Z"
+    },
+    {
       "cve_id": "CVE-2026-109518",
       "repo_info": "[NeoArtemis37/PHP2shell](https://github.com/NeoArtemis37/PHP2shell)",
       "description": "Nightmare begins / CVE-2026-109518 / CVE-109619/ CVE-2026-109613 ERP Next",
@@ -1366,6 +1387,13 @@
       "description": "Defense guide + static scanner for CVE-2026-108551 (openapi-typescript-codegen code injection).",
       "date": "2026-10-23",
       "raw_date": "2026-10-23T13:32:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-107092",
+      "repo_info": "[raivenLockdown/CVE-2026-107092](https://github.com/raivenLockdown/CVE-2026-107092)",
+      "description": "no description",
+      "date": "2026-10-23",
+      "raw_date": "2026-10-23T10:46:24Z"
     },
     {
       "cve_id": "CVE-2026-106173",
@@ -1508,9 +1536,9 @@
       "raw_date": "2026-10-23T23:41:33Z"
     }
   ],
-  "generated_at": "2026-10-25T04:10:17.580154",
+  "generated_at": "2026-10-25T05:50:40.972068",
   "metadata": {
-    "total_cves": 215,
+    "total_cves": 219,
     "date_range": "2026-10-23",
     "source": "README.md",
     "script_version": "2.0"

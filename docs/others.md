@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-24 05:34:55
+- **生成时间**: 2026-10-25 05:50:12
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -454,9 +454,12 @@
 | 🚫 未识别 | [jlstechusa/mcp-remediation-propagation-2026](https://github.com/jlstechusa/mcp-remediation-propagation-2026) | Remediation propagation for 2026 MCP CVEs: disclosure lag, registry currency, forks, npm mirrors. Static, metadata-only, reproducible. | 2026-10-09T02:06:28Z|
 | 🚫 未识别 | [medandevsec/cvephpreact2026](https://github.com/medandevsec/cvephpreact2026) | Scanner CVE PHP &amp; React | 2026-10-23T14:43:52Z|
 | 🚫 未识别 | [melihkarasu/web-security-scanner](https://github.com/melihkarasu/web-security-scanner) | Unified Web Security &amp; Code Auditing Suite — Passive Recon (Headers/DoH/TLS), 128-Rule 7-Language SAST (PHP php2shell &amp; Node.js Oct 2026 CVEs), 8-Ecosystem OSV Scanner, Active DAST, 4-Phase AI Audit &amp; Strix Sandbox. | 2026-10-09T17:06:24Z|
+| 🚫 未识别 | [tyler-fitzpatrick-unh/cve-research-2026](https://github.com/tyler-fitzpatrick-unh/cve-research-2026) | Linux kernel CVE reproduction &amp; patch verification (QEMU/KVM-based) | 2026-10-05T17:07:22Z|
+| 🚫 未识别 | [NiBi8z/BadTrust](https://github.com/NiBi8z/BadTrust) | BadTrust detects whether a machine would accept a forged TLS chain built on a CA affected by CVE‑2026‑111943 | 2026-10-24T17:14:24Z|
+| 🚫 未识别 | [utkarsssh17/cve-2026-nextjs-use-cache-rce-poc](https://github.com/utkarsssh17/cve-2026-nextjs-use-cache-rce-poc) | no description | 2026-10-24T16:39:07Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-24 05:35:23  
-**总记录数**: 443
+**报告生成时间**: 2026-10-25 05:50:40  
+**总记录数**: 446
