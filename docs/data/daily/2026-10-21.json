@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "count": 277,
+  "count": 278,
   "cves": [
     {
       "cve_id": "CVE-2026-97859",
@@ -1921,6 +1921,13 @@
       "raw_date": "2026-10-21T16:45:24Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Opathedane/php2shell](https://github.com/Opathedane/php2shell)",
+      "description": "Read-only PHP discovery and patch-review scanner for Windows, Linux, and macOS. Produces HTML+CSV reports for CVE-2026-109618/109619 assessment — never claims a host is clean or that the active HTTP runtime is verified.",
+      "date": "2026-10-21",
+      "raw_date": "2026-10-21T12:03:24Z"
+    },
+    {
       "cve_id": "CVE-2026-105482",
       "repo_info": "[CaterMaoZi/CVE-2026-105482-POC](https://github.com/CaterMaoZi/CVE-2026-105482-POC)",
       "description": "Nodejs漏洞 CVE-2026-105482 POC",
@@ -1942,9 +1949,9 @@
       "raw_date": "2026-10-21T08:14:24Z"
     }
   ],
-  "generated_at": "2026-10-26T04:14:29.726336",
+  "generated_at": "2026-10-26T05:53:44.480050",
   "metadata": {
-    "total_cves": 277,
+    "total_cves": 278,
     "date_range": "2026-10-21",
     "source": "README.md",
     "script_version": "2.0"

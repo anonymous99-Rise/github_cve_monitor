@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "count": 35,
+  "count": 36,
   "cves": [
     {
       "cve_id": "CVE-2026-88772",
@@ -213,6 +213,13 @@
       "raw_date": "2026-09-27T10:16:49Z"
     },
     {
+      "cve_id": "CVE-2026-18107",
+      "repo_info": "[robalb/criu-exploit](https://github.com/robalb/criu-exploit)",
+      "description": "Universal container escape exploit targeting the CRIU container checkpoint/restore system - CVE-2026-18107",
+      "date": "2026-09-27",
+      "raw_date": "2026-09-27T21:57:13Z"
+    },
+    {
       "cve_id": "CVE-2026-14281",
       "repo_info": "[abatsakidis/CVE-2026-14281-check](https://github.com/abatsakidis/CVE-2026-14281-check)",
       "description": "A Windows-friendly, non-destructive Python checker for detecting WordPress installations potentially affected by CVE-2026-14281.",
@@ -248,9 +255,9 @@
       "raw_date": "2026-09-27T15:31:44Z"
     }
   ],
-  "generated_at": "2026-10-26T04:14:29.718412",
+  "generated_at": "2026-10-26T05:53:44.471143",
   "metadata": {
-    "total_cves": 35,
+    "total_cves": 36,
     "date_range": "2026-09-27",
     "source": "README.md",
     "script_version": "2.0"

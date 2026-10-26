@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-25 05:50:12
+- **生成时间**: 2026-10-26 05:53:12
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -457,9 +457,10 @@
 | 🚫 未识别 | [tyler-fitzpatrick-unh/cve-research-2026](https://github.com/tyler-fitzpatrick-unh/cve-research-2026) | Linux kernel CVE reproduction &amp; patch verification (QEMU/KVM-based) | 2026-10-05T17:07:22Z|
 | 🚫 未识别 | [NiBi8z/BadTrust](https://github.com/NiBi8z/BadTrust) | BadTrust detects whether a machine would accept a forged TLS chain built on a CA affected by CVE‑2026‑111943 | 2026-10-24T17:14:24Z|
 | 🚫 未识别 | [utkarsssh17/cve-2026-nextjs-use-cache-rce-poc](https://github.com/utkarsssh17/cve-2026-nextjs-use-cache-rce-poc) | no description | 2026-10-24T16:39:07Z|
+| 🚫 未识别 | [archanacontent/nvd-cve-api-docs](https://github.com/archanacontent/nvd-cve-api-docs) | Developer guide to the NVD CVE API 2.0, updated for NIST&#x27;s 2026 risk-based enrichment model. | 2026-10-26T05:28:04Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-25 05:50:40  
-**总记录数**: 446
+**报告生成时间**: 2026-10-26 05:53:43  
+**总记录数**: 447
