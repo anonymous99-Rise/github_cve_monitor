@@ -1,6 +1,6 @@
 {
   "date": "2025-12-09",
-  "count": 9,
+  "count": 10,
   "cves": [
     {
       "cve_id": "CVE-2025-67906",
@@ -59,6 +59,13 @@
       "raw_date": "2025-12-09T19:09:34Z"
     },
     {
+      "cve_id": "CVE-2025-55182",
+      "repo_info": "[solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182](https://github.com/solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182)",
+      "description": "CVE‑2025‑55182 Detection",
+      "date": "2025-12-09",
+      "raw_date": "2025-12-09T05:37:51Z"
+    },
+    {
       "cve_id": "CVE-2025-54100",
       "repo_info": "[osman1337-security/CVE-2025-54100](https://github.com/osman1337-security/CVE-2025-54100)",
       "description": "no description",
@@ -66,9 +73,9 @@
       "raw_date": "2025-12-09T20:32:36Z"
     }
   ],
-  "generated_at": "2026-10-27T04:33:32.162405",
+  "generated_at": "2026-10-27T06:07:23.635812",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 10,
     "date_range": "2025-12-09",
     "source": "README.md",
     "script_version": "2.0"

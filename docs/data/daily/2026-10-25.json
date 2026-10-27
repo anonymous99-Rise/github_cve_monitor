@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "count": 76,
+  "count": 79,
   "cves": [
     {
       "cve_id": "CVE-2026-99999",
@@ -290,6 +290,20 @@
       "raw_date": "2026-10-25T09:49:21Z"
     },
     {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[FranklinF25/http2shell](https://github.com/FranklinF25/http2shell)",
+      "description": "Security research on CVE-2026-111497 (HTTP2Shell): Docker-only differential lab probing the Brotli decoder OOB write across vulnerable/fixed Node builds",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T17:23:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497](https://github.com/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497)",
+      "description": "BigFix YARA-X discovery Fixlets and shared Analysis for Node.js Brotli CVE-2026-111497 on Windows, Linux and macOS.",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T20:09:18Z"
+    },
+    {
       "cve_id": "CVE-2026-109618",
       "repo_info": "[vaishnavucv/php2shell](https://github.com/vaishnavucv/php2shell)",
       "description": "PHP2Shell: finding and patching affected PHP CVE-2026-109618 and CVE-2026-109619",
@@ -521,6 +535,13 @@
       "raw_date": "2026-10-25T07:52:05Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[semihyesilyurt/CVE-2026-109618-PoC](https://github.com/semihyesilyurt/CVE-2026-109618-PoC)",
+      "description": "no description",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T19:55:05Z"
+    },
+    {
       "cve_id": "CVE-2026-106781",
       "repo_info": "[tanuj8124/CVE-2026-106781](https://github.com/tanuj8124/CVE-2026-106781)",
       "description": "CVE-2026-106781 CH341SER Driver Installer Privilege Escalation",
@@ -535,9 +556,9 @@
       "raw_date": "2026-10-25T19:46:46Z"
     }
   ],
-  "generated_at": "2026-10-27T04:33:32.225565",
+  "generated_at": "2026-10-27T06:07:23.709616",
   "metadata": {
-    "total_cves": 76,
+    "total_cves": 79,
     "date_range": "2026-10-25",
     "source": "README.md",
     "script_version": "2.0"

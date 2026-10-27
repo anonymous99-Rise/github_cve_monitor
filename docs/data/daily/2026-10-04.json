@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "count": 11,
+  "count": 12,
   "cves": [
     {
       "cve_id": "CVE-2026-96451",
@@ -66,6 +66,13 @@
       "raw_date": "2026-10-04T17:20:11Z"
     },
     {
+      "cve_id": "CVE-2026-116370",
+      "repo_info": "[drbloop2000/Sid-Meier-s-Civilization-VI-RCE](https://github.com/drbloop2000/Sid-Meier-s-Civilization-VI-RCE)",
+      "description": "CVE-2026-116370",
+      "date": "2026-10-04",
+      "raw_date": "2026-10-04T12:09:01Z"
+    },
+    {
       "cve_id": "CVE-2026-104991",
       "repo_info": "[wvllxe/CVE-2026-104991](https://github.com/wvllxe/CVE-2026-104991)",
       "description": "CVE-2026-104991 — Missing Authorization (BOLA/IDOR) in Phproject REST API read/comment endpoints",
@@ -80,9 +87,9 @@
       "raw_date": "2026-10-04T14:29:23Z"
     }
   ],
-  "generated_at": "2026-10-27T04:33:32.212415",
+  "generated_at": "2026-10-27T06:07:23.695291",
   "metadata": {
-    "total_cves": 11,
+    "total_cves": 12,
     "date_range": "2026-10-04",
     "source": "README.md",
     "script_version": "2.0"

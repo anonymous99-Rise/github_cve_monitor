@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "count": 28,
+  "count": 31,
   "cves": [
     {
       "cve_id": "CVE-2026-96512",
@@ -197,11 +197,32 @@
       "description": "Unauthenticated privilege escalation in WordPress WAWP (Automation Web Platform) ≤ 4.8.6 via public REST signup and unsanitized wawp_custom_fields → admin. Python check/exploit PoC (PoCbit).",
       "date": "2026-09-25",
       "raw_date": "2026-09-25T07:43:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-110200",
+      "repo_info": "[rmhowe425/POC-CVE-2026-110200](https://github.com/rmhowe425/POC-CVE-2026-110200)",
+      "description": "no description",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T20:52:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-107329",
+      "repo_info": "[rmhowe425/POC-CVE-2026-107329](https://github.com/rmhowe425/POC-CVE-2026-107329)",
+      "description": "no description",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T02:05:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-107328",
+      "repo_info": "[rmhowe425/POC-CVE-2026-107328](https://github.com/rmhowe425/POC-CVE-2026-107328)",
+      "description": "no description",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T02:10:37Z"
     }
   ],
-  "generated_at": "2026-10-27T04:33:32.208891",
+  "generated_at": "2026-10-27T06:07:23.691560",
   "metadata": {
-    "total_cves": 28,
+    "total_cves": 31,
     "date_range": "2026-09-25",
     "source": "README.md",
     "script_version": "2.0"

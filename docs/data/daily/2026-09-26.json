@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "count": 36,
+  "count": 37,
   "cves": [
     {
       "cve_id": "CVE-2026-97163",
@@ -253,11 +253,18 @@
       "description": "Unauthenticated arbitrary file upload on Honeywell PD45 web admin (firmware F10.19.010040–before F10.22.030745) leading to RCE. Python check/exploit PoC",
       "date": "2026-09-26",
       "raw_date": "2026-09-26T11:59:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-107327",
+      "repo_info": "[rmhowe425/POC-CVE-2026-107327](https://github.com/rmhowe425/POC-CVE-2026-107327)",
+      "description": "no description",
+      "date": "2026-09-26",
+      "raw_date": "2026-09-26T02:18:36Z"
     }
   ],
-  "generated_at": "2026-10-27T04:33:32.209235",
+  "generated_at": "2026-10-27T06:07:23.691943",
   "metadata": {
-    "total_cves": 36,
+    "total_cves": 37,
     "date_range": "2026-09-26",
     "source": "README.md",
     "script_version": "2.0"

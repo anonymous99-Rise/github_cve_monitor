@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "count": 309,
+  "count": 310,
   "cves": [
     {
       "cve_id": "CVE-2026-97206",
@@ -2103,6 +2103,13 @@
       "raw_date": "2026-10-22T19:49:26Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[nsrivastava2velsof/php56-php2shell-patch](https://github.com/nsrivastava2velsof/php56-php2shell-patch)",
+      "description": "PHP2Shell (CVE-2026-109618/109619) fix for PHP 5.6: Sury 0261 port, analysis, Remi rebuild spec diff, verify script",
+      "date": "2026-10-22",
+      "raw_date": "2026-10-22T16:09:54Z"
+    },
+    {
       "cve_id": "CVE-2026-109255",
       "repo_info": "[D7EAD/CVE-2026-109255](https://github.com/D7EAD/CVE-2026-109255)",
       "description": "FreeRDP 3.0.0 before 3.32.0 contains an integer truncation vulnerability in license_check_stream_length that allows a malicious RDP server to trigger a heap buffer overflow on 32-bit clients.",
@@ -2166,9 +2173,9 @@
       "raw_date": "2026-10-22T07:17:14Z"
     }
   ],
-  "generated_at": "2026-10-27T04:33:32.220286",
+  "generated_at": "2026-10-27T06:07:23.703652",
   "metadata": {
-    "total_cves": 309,
+    "total_cves": 310,
     "date_range": "2026-10-22",
     "source": "README.md",
     "script_version": "2.0"

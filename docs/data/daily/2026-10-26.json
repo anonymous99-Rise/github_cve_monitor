@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "count": 17,
+  "count": 73,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -10,11 +10,95 @@
       "raw_date": "2026-10-26T05:17:57Z"
     },
     {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[Lw5959/xring-cve-2026-98260](https://github.com/Lw5959/xring-cve-2026-98260)",
+      "description": "CVE-2026-98260（fs/exec.c POSIX CPU timer UAF）XRING O1 / Android 17 / 6.18.21 研究记录与 PC 一键流程（授权设备安全研究）",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T09:12:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[ChaYeWuu/violin-CVE-2026-98260-OS4.0](https://github.com/ChaYeWuu/violin-CVE-2026-98260-OS4.0)",
+      "description": "Xiaomi Pad7S Pro12.5在OS4.0.0.14.XOTCNXM利用CVE-2026-98260获取ROOT权限并加载KernelSU。",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T14:44:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[woshigenm/CVE-2026-98260](https://github.com/woshigenm/CVE-2026-98260)",
+      "description": "Android LPE (CVE-2026-98260) on Honor MagicPad3 Pro 13.3 (YLP-W00), kernel 6.12.38 — PoC/EXP, uid-0 shell, KernelSU app",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T16:49:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[AzirX1337/CVE-2026-98260-OnePlus16-PYB110-Jailbreak](https://github.com/AzirX1337/CVE-2026-98260-OnePlus16-PYB110-Jailbreak)",
+      "description": "CVE-2026-98260 (exec: posix CPU timer UAF) - one-command temporary root for OnePlus 16 (PYB110) from uid 2000 shell, with KernelSU/FinaSU handover",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T05:55:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[villager1314/CVE-2026-98260-Analysis](https://github.com/villager1314/CVE-2026-98260-Analysis)",
+      "description": "no description",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T09:32:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[ChaYeWuu/prague-CVE-2026-98260-OS4.0](https://github.com/ChaYeWuu/prague-CVE-2026-98260-OS4.0)",
+      "description": "REDMI K90 Max在OS4.0.5.0.XAACNXM利用CVE-2026-98260获取ROOT权限并加载KSU模块。",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T09:25:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-97229",
+      "repo_info": "[Noshadi-sec/CVE-2026-97229](https://github.com/Noshadi-sec/CVE-2026-97229)",
+      "description": "CVE-2026-97229 an external exploit for GitLab CI lint regex RCE. It is used only against a live GitLab target with permission. It creates a project, pushes a malicious CI configuration, triggers the CI lint endpoint, and receives command output through an HTTP callback. This is for authorized security research only.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T15:14:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-91403",
+      "repo_info": "[emirwtz/CVE-2026-91403](https://github.com/emirwtz/CVE-2026-91403)",
+      "description": "Offline Python detector for CVE-2026-91403 certificate indicators in Java trust stores, with fingerprint matching and JSON reports.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T13:01:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-90932",
+      "repo_info": "[capivara-research/CVE-2026-90932](https://github.com/capivara-research/CVE-2026-90932)",
+      "description": "CVE-2026-90932: LaraDashboard path traversal to arbitrary file deletion/write — bilingual analysis and safe PoC",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T23:39:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-90931",
+      "repo_info": "[capivara-research/CVE-2026-90931](https://github.com/capivara-research/CVE-2026-90931)",
+      "description": "CVE-2026-90931: LaraDashboard stored XSS via SVG upload — bilingual analysis and safe PoC",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T23:39:24Z"
+    },
+    {
       "cve_id": "CVE-2026-84589",
       "repo_info": "[isaiahehlert/CVE-2026-84589-macOS-TCC-Bypass](https://github.com/isaiahehlert/CVE-2026-84589-macOS-TCC-Bypass)",
       "description": "CVE-2026-84589: macOS TCC privacy bypass via FaceTime impersonation. Technical PoC analysis, Apple disclosure timeline, and patch coverage.",
       "date": "2026-10-26",
       "raw_date": "2026-10-26T02:59:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-77647",
+      "repo_info": "[Nxploited/CVE-2026-77647](https://github.com/Nxploited/CVE-2026-77647)",
+      "description": "SPIP before 4.4.20 allows unauthenticated remote attackers to execute arbitrary code",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T23:12:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-76466",
+      "repo_info": "[emirwtz/CVE-2026-76466](https://github.com/emirwtz/CVE-2026-76466)",
+      "description": "Offline Python detector for CVE-2026-76466 in Cisco Expressway, using version and clustering evidence with JSON reporting.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T15:37:13Z"
     },
     {
       "cve_id": "CVE-2026-75650",
@@ -24,6 +108,13 @@
       "raw_date": "2026-10-26T05:19:09Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[RetributionByRevenue/xperia1vi-root](https://github.com/RetributionByRevenue/xperia1vi-root)",
+      "description": "GhostLock (CVE-2026-43499) root for Sony Xperia 1 VI — locked bootloader, adb only, per-boot KernelSU",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T19:07:09Z"
+    },
+    {
       "cve_id": "CVE-2026-42945",
       "repo_info": "[x0xr00t/sl0ppy-riftscan-CVE-2026-42945](https://github.com/x0xr00t/sl0ppy-riftscan-CVE-2026-42945)",
       "description": "riftscan module for metasploit msf for cve CVE-2026-42945",
@@ -31,11 +122,67 @@
       "raw_date": "2026-10-26T03:03:39Z"
     },
     {
+      "cve_id": "CVE-2026-38903",
+      "repo_info": "[Lenard-BIDaaS/CVE-2026-38903](https://github.com/Lenard-BIDaaS/CVE-2026-38903)",
+      "description": "no description",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T20:10:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-22679",
+      "repo_info": "[piecar21/CVE-2026-22679](https://github.com/piecar21/CVE-2026-22679)",
+      "description": "PoC / exploit archive for CVE-2026-22679",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T13:05:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-21902",
+      "repo_info": "[piecar21/CVE-2026-21902](https://github.com/piecar21/CVE-2026-21902)",
+      "description": "PoC / exploit archive for CVE-2026-21902",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T14:53:20Z"
+    },
+    {
       "cve_id": "CVE-2026-20131",
       "repo_info": "[basesixtythree/B63-POC-CVE-2026-20131](https://github.com/basesixtythree/B63-POC-CVE-2026-20131)",
       "description": "CVE-2026-20131 (Cisco FMC): pre-auth Java deserialization to root — VERIFIED-AT-PRIMITIVE showcase artifact (rebuilt twins; appliance not executed, entitlement-gated)",
       "date": "2026-10-26",
       "raw_date": "2026-10-26T05:19:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-1281",
+      "repo_info": "[piecar21/CVE-2026-1281](https://github.com/piecar21/CVE-2026-1281)",
+      "description": "PoC / exploit archive for CVE-2026-1281",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T13:07:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-116488",
+      "repo_info": "[D7EAD/CVE-2026-116488](https://github.com/D7EAD/CVE-2026-116488)",
+      "description": "NXP Semiconductors USB middleware &lt;2.13.0 contains a heap buffer overflow in host audio, video and CDC class drivers that trust device-supplied bNumEndpoints and bLength values.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T13:12:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-116487",
+      "repo_info": "[D7EAD/CVE-2026-116487](https://github.com/D7EAD/CVE-2026-116487)",
+      "description": "NXP Semiconductors USB middleware &lt;2.13.0 contains an out-of-bounds read vulnerability in USB_DeviceCdcRndisSetCommand() that trusts a host-supplied informationBufferOffset.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T13:13:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-116004",
+      "repo_info": "[capivara-research/CVE-2026-116004](https://github.com/capivara-research/CVE-2026-116004)",
+      "description": "Safe PoC and technical analysis for CVE-2026-116004",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T23:13:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-116000",
+      "repo_info": "[capivara-research/CVE-2026-116000](https://github.com/capivara-research/CVE-2026-116000)",
+      "description": "Safe PoC and technical analysis for CVE-2026-116000",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T23:13:23Z"
     },
     {
       "cve_id": "CVE-2026-115560",
@@ -59,11 +206,60 @@
       "raw_date": "2026-10-26T04:56:41Z"
     },
     {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[axisops/CVE-2026-111497](https://github.com/axisops/CVE-2026-111497)",
+      "description": "Brotli decoder CVE-2026-111497 Mitigation work (Ansible Role)",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T23:42:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[queso/formbricks-patched](https://github.com/queso/formbricks-patched)",
+      "description": "formbricks 5.1.4 with Node.js 24.22.1 (CVE-2026-111497 and others) swapped in",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T16:57:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[piecar21/CVE-2026-111497](https://github.com/piecar21/CVE-2026-111497)",
+      "description": "PoC / exploit archive for CVE-2026-111497",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T16:47:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[amier-ge/node2shell-checker](https://github.com/amier-ge/node2shell-checker)",
+      "description": "A tool to assess potential exposure to Node2Shell (CVE-2026-111497) in Node.js projects and containers.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T15:15:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[AdapptOnAzure/CVE-2026-111497-DotNetBrotliScan](https://github.com/AdapptOnAzure/CVE-2026-111497-DotNetBrotliScan)",
+      "description": "Cross-platform scanner that finds .NET apps, runtimes and Azure App Service / Functions deployments exposed to CVE-2026-111497 (brotli decoder)",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T13:10:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[0xBlackash/CVE-2026-111497](https://github.com/0xBlackash/CVE-2026-111497)",
+      "description": "CVE-2026-111497",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T10:03:58Z"
+    },
+    {
       "cve_id": "CVE-2026-109619",
       "repo_info": "[franckferman/CVE-2026-109619](https://github.com/franckferman/CVE-2026-109619)",
       "description": "CVE-2026-109619 - PHP session.upload_progress File Poisoning + LFI RCE (CVSS 9.2)",
       "date": "2026-10-26",
       "raw_date": "2026-10-26T01:45:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-109619",
+      "repo_info": "[dev-maple/php2shell-CVE-2026-109619](https://github.com/dev-maple/php2shell-CVE-2026-109619)",
+      "description": "CVE-2026-109619 (PHP2Shell): Pre-Auth Remote Code Execution (RCE) via PHP-FPM Stale Global State Deserialization UAF. Reproducible Docker lab, interactive shell, reverse shell &amp; WAF/IDS rules.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T11:42:12Z"
     },
     {
       "cve_id": "CVE-2026-109618",
@@ -120,11 +316,207 @@
       "description": "CVE-2026-109618 - PHP session.upload_progress Heap UAF Pre-Auth RCE (CVSS 9.2)",
       "date": "2026-10-26",
       "raw_date": "2026-10-26T01:46:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[lanz/php2shell-coverage-check](https://github.com/lanz/php2shell-coverage-check)",
+      "description": "Checks that Tenable scanning is set up to detect PHP2Shell (CVE-2026-109618, CVE-2026-109619) on every PHP host: plugin feed, credentials and scan settings. Lists the hosts to rescan and flags end-of-life PHP. Works with Tenable Vulnerability Management, Security Center and .nessus files. Claude Code skill or standalone script.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T21:46:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[foxcornlab/php2shell-scanner](https://github.com/foxcornlab/php2shell-scanner)",
+      "description": "Detection-only triage scanner for PHP2Shell CVE-2026-109618 / CVE-2026-109619: PHP version fingerprinting, SAPI detection, and local php.ini audit. No exploit payloads.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T21:55:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[thetowsif/php2shell-scan-patch](https://github.com/thetowsif/php2shell-scan-patch)",
+      "description": "Universal scanner and automated patching playbook for CVE-2026-109618 and CVE-2026-109619 (&quot;PHP2Shell&quot;)",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T20:45:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[roloVibes/php2shell](https://github.com/roloVibes/php2shell)",
+      "description": "PHP2SHELL — remote scanner + research PoC for CVE-2026-109618 / CVE-2026-109619: the PHP rfc1867 pre-request OOM RCE pair (PHP 5.4.0–8.5.11, fixed in 8.5.12). Reverse-engineered from the 8.5.11→8.5.12 diff, verified against both builds.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T16:26:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[ProTekk/php2shell-detect](https://github.com/ProTekk/php2shell-detect)",
+      "description": "Benign client-testing detector for PHP2Shell / PHP session upload-progress (CVE-2026-109618, CVE-2026-109619): version ladder, config gate, behavioral probe, and the chain pubstate probe. Stdlib-only; Linux, macOS, Windows.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T20:11:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[cyrilshaji38/php2shell_offsec](https://github.com/cyrilshaji38/php2shell_offsec)",
+      "description": "This was the exploit released by Offsec for CVE-2026-109618 on 23rd October 2026. Source: https://www.exploit-db.com/exploits/52704",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T19:08:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[piecar21/CVE-2026-109618](https://github.com/piecar21/CVE-2026-109618)",
+      "description": "PoC / exploit archive for CVE-2026-109618",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T16:48:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[akaihigurashi/php2scan](https://github.com/akaihigurashi/php2scan)",
+      "description": "Check whether a website is affected by PHP2Shell (CVE-2026-109618 / CVE-2026-109619)",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T14:42:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[ggsec-de/php2shell-analysis](https://github.com/ggsec-de/php2shell-analysis)",
+      "description": "Analysis and negative control for CVE-2026-109618/109619: which PHP builds still arm, why 8.4.27 does not, and why the chain does not transfer to PHP-FPM. Exploit withheld until 2026-11-25.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T12:07:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[yunuscobas/php-inventory-scanner](https://github.com/yunuscobas/php-inventory-scanner)",
+      "description": "PHP2Shell (CVE-2026-109618/109619) exposure scanner — finds unpatched / end-of-life PHP hosts on an internal network. Bilingual, no-dependency Windows tool.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T12:04:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[gorgeoushos/CVE-2026-109618-research](https://github.com/gorgeoushos/CVE-2026-109618-research)",
+      "description": "Unauthenticated RCE in PHP via session.upload_progress use-after-free (CVE-2026-109618 / CVE-2026-109619)",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T12:43:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[fixnhanh-linux/update-php-cve](https://github.com/fixnhanh-linux/update-php-cve)",
+      "description": "Vá PHP2Shell (CVE-2026-109618/109619) và nâng cấp PHP 8.1→8.3/8.4 cho nginx + php-fpm — Ubuntu/Debian và RHEL/Rocky",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T11:08:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Frankie7techy/php2shell-lab](https://github.com/Frankie7techy/php2shell-lab)",
+      "description": "Local reproduction lab for PHP2Shell (CVE-2026-109618 / CVE-2026-109619): PHP 8.5.11 source-built mod_php target, chunked OOM trigger harness, findings + mitigations. Loopback only.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T10:27:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Abdullah-Mehtab/php2shell-lab](https://github.com/Abdullah-Mehtab/php2shell-lab)",
+      "description": "CVE-2026-109618: Unauthenticated RCE via PHP session upload progress OOM heap corruption (Apache mod_php)",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T09:38:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[ahallais/php82-ubuntu2404-backport](https://github.com/ahallais/php82-ubuntu2404-backport)",
+      "description": "PHP 8.2.35 rebuild (CVE-2026-109618 / CVE-2026-109619 fix, no telemetry) for Ubuntu 24.04 hosts running php8.2 8.2.7-1ubuntu1",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T06:49:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[RooQs/php74-alpine](https://github.com/RooQs/php74-alpine)",
+      "description": "基于 php:7.4.33-fpm-alpine3.16，应用 PHP2Shell 最小缓解补丁 712e60f9（CVE-2026-109618/109619）重新编译的 PHP 7.4 Alpine 修复镜像",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T08:37:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[troey11/php54-php2shell-backport](https://github.com/troey11/php54-php2shell-backport)",
+      "description": "Unofficial backport of the CVE-2026-109618 / CVE-2026-109619 (php2shell) fixes to Ubuntu 12.10 php5 5.4.6-1ubuntu1.8, with chroot build, regression tests, rollback and step-by-step deploy scripts for Apache 2.2 + mod_php. Stopgap only: PHP 5.4 is end-of-life.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T08:32:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Darabium/php2shell-POC](https://github.com/Darabium/php2shell-POC)",
+      "description": "A lightweight, read-only Python script that helps security teams quickly assess whether a PHP deployment may be affected by the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619). It sends **no exploit traffic** and performs **no memory-corruption attempts**.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T08:12:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[hack-ita/php2shell-cve-2026-109618-109619](https://github.com/hack-ita/php2shell-cve-2026-109618-109619)",
+      "description": "no description",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T08:13:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[kjry8sb/php2shell-mitigation](https://github.com/kjry8sb/php2shell-mitigation)",
+      "description": "Read-only scanner and config patcher to detect and work around CVE-2026-109618 / CVE-2026-109619 on PHP, with a full detection and harening manual.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T08:26:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Bccccc/php2shell-check](https://github.com/Bccccc/php2shell-check)",
+      "description": "PHP2Shell（CVE-2026-109618 / CVE-2026-109619）远程批量检测工具",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T08:04:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[gagaltotal/CVE-2026-109618-109619-php2shell](https://github.com/gagaltotal/CVE-2026-109618-109619-php2shell)",
+      "description": "CVE-2026-109618-109619 PHP2shell",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T06:43:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[yildirimserkan/php2shellscanner-web](https://github.com/yildirimserkan/php2shellscanner-web)",
+      "description": "Browser-based terminal-style UI for assetnote&#x27;s php2shell-scanner (CVE-2026-109618 / CVE-2026-109619), with live per-probe SSE activity log and JSON export. Detection engine by assetnote; original discovery by Calif.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T06:29:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-106686",
+      "repo_info": "[zfzhou0202/CVE-2026-106686](https://github.com/zfzhou0202/CVE-2026-106686)",
+      "description": "no description",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T08:17:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-106173",
+      "repo_info": "[aduli198/CVE-2026-106173](https://github.com/aduli198/CVE-2026-106173)",
+      "description": "Python PoC for CVE-2026-106173  unauthenticated path-traversal file write in FortiSIEM&#x27;s QueryResult gRPC handler.",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T08:45:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-101767",
+      "repo_info": "[seck19/CVE-2026-101767-POC](https://github.com/seck19/CVE-2026-101767-POC)",
+      "description": "CVE-2026-101767-POC",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T02:40:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-101767",
+      "repo_info": "[0xBlackash/CVE-2026-101767](https://github.com/0xBlackash/CVE-2026-101767)",
+      "description": "CVE-2026-101767",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T16:10:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-0303",
+      "repo_info": "[piecar21/CVE-2026-0303](https://github.com/piecar21/CVE-2026-0303)",
+      "description": "PoC / exploit archive for CVE-2026-0303",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T14:47:26Z"
     }
   ],
-  "generated_at": "2026-10-27T04:33:32.226302",
+  "generated_at": "2026-10-27T06:07:23.710311",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 73,
     "date_range": "2026-10-26",
     "source": "README.md",
     "script_version": "2.0"

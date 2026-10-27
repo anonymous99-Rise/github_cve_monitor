@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "count": 78,
+  "count": 80,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -232,6 +232,13 @@
       "description": "PoC, Docker lab, and technical report for CVE-2026-111497 (Node2Shell) — Node.js Brotli decoder invalid block-switch OOB write; validated errno differential and weaponized remote DoS, RCE analysis included.",
       "date": "2026-10-24",
       "raw_date": "2026-10-24T07:11:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[bastet-ai/brotli-firing-range](https://github.com/bastet-ai/brotli-firing-range)",
+      "description": "CVE-2026-111497 brotli decoder firing range (RoE: loopback lab targets only)",
+      "date": "2026-10-24",
+      "raw_date": "2026-10-24T14:01:17Z"
     },
     {
       "cve_id": "CVE-2026-110922",
@@ -535,6 +542,13 @@
       "raw_date": "2026-10-24T06:50:02Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[fksegundo/php2shell-lab](https://github.com/fksegundo/php2shell-lab)",
+      "description": "Local Docker lab PoC for CVE-2026-109618 / CVE-2026-109619 (php2shell). Authorized use only; local targets.",
+      "date": "2026-10-24",
+      "raw_date": "2026-10-24T02:37:33Z"
+    },
+    {
       "cve_id": "CVE-2026-1096",
       "repo_info": "[benzeng/php-cve-2026-1096-research](https://github.com/benzeng/php-cve-2026-1096-research)",
       "description": "no description",
@@ -549,9 +563,9 @@
       "raw_date": "2026-10-24T00:19:23Z"
     }
   ],
-  "generated_at": "2026-10-27T04:33:32.224800",
+  "generated_at": "2026-10-27T06:07:23.708850",
   "metadata": {
-    "total_cves": 78,
+    "total_cves": 80,
     "date_range": "2026-10-24",
     "source": "README.md",
     "script_version": "2.0"
