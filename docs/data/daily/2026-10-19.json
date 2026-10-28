@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "count": 37,
+  "count": 38,
   "cves": [
     {
       "cve_id": "CVE-2026-99999",
@@ -29,6 +29,13 @@
       "description": "no description",
       "date": "2026-10-19",
       "raw_date": "2026-10-19T09:44:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-9539",
+      "repo_info": "[quarkslab/slirp_snapshots_stateful](https://github.com/quarkslab/slirp_snapshots_stateful)",
+      "description": "PoC for the «Snapshotting our way to CVE-2026-9539» blogpost",
+      "date": "2026-10-19",
+      "raw_date": "2026-10-19T09:08:22Z"
     },
     {
       "cve_id": "CVE-2026-85257",
@@ -262,9 +269,9 @@
       "raw_date": "2026-10-19T22:15:15Z"
     }
   ],
-  "generated_at": "2026-10-28T05:05:49.710588",
+  "generated_at": "2026-10-28T06:44:55.483987",
   "metadata": {
-    "total_cves": 37,
+    "total_cves": 38,
     "date_range": "2026-10-19",
     "source": "README.md",
     "script_version": "2.0"

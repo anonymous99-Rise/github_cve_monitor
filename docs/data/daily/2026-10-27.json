@@ -1,13 +1,160 @@
 {
   "date": "2026-10-27",
-  "count": 9,
+  "count": 77,
   "cves": [
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[YuKongA/CVE-2026-98260](https://github.com/YuKongA/CVE-2026-98260)",
+      "description": "6.12.69-android16-6-g242e1a07f878",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T12:53:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[b1gmang0/CVE-2026-98260-pandora-lpe](https://github.com/b1gmang0/CVE-2026-98260-pandora-lpe)",
+      "description": "小米17 Pro 4.0.5.0 本地提权",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T07:17:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-97798",
+      "repo_info": "[G4sp4rCS/CVE-2026-97798-exploit](https://github.com/G4sp4rCS/CVE-2026-97798-exploit)",
+      "description": "CVE-2026-97798 Windows Error Reporting - Command Injection TO SYSTEM",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T17:45:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-97629",
+      "repo_info": "[piecar21/CVE-2026-97629](https://github.com/piecar21/CVE-2026-97629)",
+      "description": "PoC / exploit archive for CVE-2026-97629",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T08:15:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-97205",
+      "repo_info": "[piecar21/CVE-2026-97205](https://github.com/piecar21/CVE-2026-97205)",
+      "description": "PoC / exploit archive for CVE-2026-97205",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T08:15:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-96760",
+      "repo_info": "[piecar21/CVE-2026-96760](https://github.com/piecar21/CVE-2026-96760)",
+      "description": "PoC / exploit archive for CVE-2026-96760",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T14:52:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-96652",
+      "repo_info": "[akaihigurashi/plex2scan](https://github.com/akaihigurashi/plex2scan)",
+      "description": "Find Plex Media Servers affected by Plex2Shell (CVE-2026-96652 and three more)",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T17:23:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-94300",
+      "repo_info": "[emirwtz/CVE-2026-94300](https://github.com/emirwtz/CVE-2026-94300)",
+      "description": "Offline Python detector for CVE-2026-94300 exposure in ISC BIND 9, with edition-aware rules, CSV/JSON inventories, and auditable reports.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T19:12:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-93399",
+      "repo_info": "[piecar21/CVE-2026-93399](https://github.com/piecar21/CVE-2026-93399)",
+      "description": "PoC / exploit archive for CVE-2026-93399",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T08:22:31Z"
+    },
     {
       "cve_id": "CVE-2026-93328",
       "repo_info": "[sustilliano/cve-2026-93328-gate](https://github.com/sustilliano/cve-2026-93328-gate)",
       "description": "The authorization layer CVE-2026-93328 was missing: scoped grants, path confinement, and signed receipts in front of MCP storage tools. CVE reproduction + gated proof, 10/10 tests.",
       "date": "2026-10-27",
       "raw_date": "2026-10-27T05:07:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-90817",
+      "repo_info": "[piecar21/CVE-2026-90817](https://github.com/piecar21/CVE-2026-90817)",
+      "description": "PoC / exploit archive for CVE-2026-90817",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T08:24:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-89035",
+      "repo_info": "[emirwtz/CVE-2026-89035](https://github.com/emirwtz/CVE-2026-89035)",
+      "description": "Offline Python detector for CVE-2026-89035 exposure in MikroTik RouterOS inventories, with CSV/JSON input and auditable reports.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T12:19:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-8467",
+      "repo_info": "[piecar21/CVE-2026-8467](https://github.com/piecar21/CVE-2026-8467)",
+      "description": "PoC / exploit archive for CVE-2026-8467",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T16:51:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-84636",
+      "repo_info": "[speedyfriend433/CVE-2026-84636-PoC](https://github.com/speedyfriend433/CVE-2026-84636-PoC)",
+      "description": "Proof of concept of CVE-2026-84636, WiFi SSID Info Disclosure",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T11:20:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-80097",
+      "repo_info": "[Ghost-Bx1/AuthenticatorFlaw-CVE-2026-80097](https://github.com/Ghost-Bx1/AuthenticatorFlaw-CVE-2026-80097)",
+      "description": "CVE-2026-80097 - Microsoft Authenticator Android Token Theft PoC &amp; Exploit",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T14:28:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-77647",
+      "repo_info": "[piecar21/CVE-2026-77647](https://github.com/piecar21/CVE-2026-77647)",
+      "description": "PoC / exploit archive for CVE-2026-77647",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T08:27:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-76475",
+      "repo_info": "[emirwtz/CVE-2026-76475](https://github.com/emirwtz/CVE-2026-76475)",
+      "description": "Offline Python detector for CVE-2026-76475 exposure in Cisco UC inventories, with CSV/JSON input, versioned rules, and auditable reports.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T12:11:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-76474",
+      "repo_info": "[emirwtz/CVE-2026-76474](https://github.com/emirwtz/CVE-2026-76474)",
+      "description": "Offline Python detector for CVE-2026-76474 exposure in Cisco UC inventories, with CSV/JSON input, versioned rules, and auditable reports.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T12:08:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-76473",
+      "repo_info": "[emirwtz/CVE-2026-76473](https://github.com/emirwtz/CVE-2026-76473)",
+      "description": "Offline Python detector for CVE-2026-76473 release exposure in Cisco UC inventories, with CSV/JSON input and auditable reports.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T11:59:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-71195",
+      "repo_info": "[emirwtz/CVE-2026-71195](https://github.com/emirwtz/CVE-2026-71195)",
+      "description": "Offline Python detector for CVE-2026-71195 exposure in OpenStack Manila, with branch-aware rules, CSV/JSON inventories, and auditable reports.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T19:14:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-70748",
+      "repo_info": "[hktalent/cve-scanner](https://github.com/hktalent/cve-scanner)",
+      "description": "weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T06:49:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[Exo1i/opd2415-6.6.118-cve-2026-64560-ksu](https://github.com/Exo1i/opd2415-6.6.118-cve-2026-64560-ksu)",
+      "description": "Per-boot KernelSU late-load via CVE-2026-64560 — OnePlus Pad 3 (OPD2415, SM8750, kernel 6.6.118-android15-8, 4K, locked bootloader): payload port, device profile + kallsyms evidence, host driver, companion APK (me.exo1i.opd2415)",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T09:33:18Z"
     },
     {
       "cve_id": "CVE-2026-55944",
@@ -17,6 +164,41 @@
       "raw_date": "2026-10-27T02:34:06Z"
     },
     {
+      "cve_id": "CVE-2026-53576",
+      "repo_info": "[emitsco768/Vulnerability-lab-cve-2026-53576](https://github.com/emitsco768/Vulnerability-lab-cve-2026-53576)",
+      "description": "no description",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T06:16:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-5054",
+      "repo_info": "[do4choo/CVE-2026-5054](https://github.com/do4choo/CVE-2026-5054)",
+      "description": "CVE-2026-5054: writeup + PoC",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T19:59:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-5053",
+      "repo_info": "[do4choo/CVE-2026-5053](https://github.com/do4choo/CVE-2026-5053)",
+      "description": "CVE-2026-5053: Writeup + PoC",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T19:56:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-49881",
+      "repo_info": "[cyb3r-w0lf/CVE-2026-49881](https://github.com/cyb3r-w0lf/CVE-2026-49881)",
+      "description": "no description",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T11:35:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-48356",
+      "repo_info": "[piecar21/CVE-2026-48356](https://github.com/piecar21/CVE-2026-48356)",
+      "description": "PoC / exploit archive for CVE-2026-48356",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T19:52:35Z"
+    },
+    {
       "cve_id": "CVE-2026-43621",
       "repo_info": "[KharalDipendra/CVE-2026-43621](https://github.com/KharalDipendra/CVE-2026-43621)",
       "description": "no description",
@@ -24,11 +206,207 @@
       "raw_date": "2026-10-27T00:13:20Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[tokenbleed/ghostlock-tv](https://github.com/tokenbleed/ghostlock-tv)",
+      "description": "adb-to-root kernel LPE (GhostLock CVE-2026-43499) for the onn 4K Pro Google TV: futex PI UAF to write primitive to credential swap to uid 0, on locked verified-boot hardware",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T23:13:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-40281",
+      "repo_info": "[piecar21/CVE-2026-40281](https://github.com/piecar21/CVE-2026-40281)",
+      "description": "PoC / exploit archive for CVE-2026-40281",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T18:54:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-33825",
+      "repo_info": "[piecar21/CVE-2026-33825](https://github.com/piecar21/CVE-2026-33825)",
+      "description": "PoC / exploit archive for CVE-2026-33825",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T08:30:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[dichen-L/CVE-2026-16723-vul](https://github.com/dichen-L/CVE-2026-16723-vul)",
+      "description": "CVE-2026-16723漏洞环境与poc",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T15:14:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-15176",
+      "repo_info": "[FranklinF25/cve-2026-15176](https://github.com/FranklinF25/cve-2026-15176)",
+      "description": "CVE-2026-15176 — NGINX alias+rewrite heap overflow: analysis, differential lab, PoC (WIP)",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T13:36:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-1306",
+      "repo_info": "[SecureNet-Dynamics/CVE-2026-1306](https://github.com/SecureNet-Dynamics/CVE-2026-1306)",
+      "description": "The midi-Synth plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type and file extension validation in the &#x27;export&#x27; AJAX action in all versions up to, and including, 1.1.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site&#x27;s server which may make remote code execution",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T13:43:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-1296",
+      "repo_info": "[Sadaqaty/CVE-2026-1296](https://github.com/Sadaqaty/CVE-2026-1296)",
+      "description": "Frontend Post Submission Manager Lite plugin for WordPress is vulnerable to Open Redirection in all versions up to, and including, 1.2.7 due to insufficient validation on the &#x27;requested_page&#x27; POST parameter in the verify_username_password function. This makes it possible for unauthenticated attackers to redirect users to potentially malicious  site",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T13:25:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-1277",
+      "repo_info": "[Sadaqaty/CVE-2026-1277](https://github.com/Sadaqaty/CVE-2026-1277)",
+      "description": "The URL Shortify plugin for WordPress is vulnerable to Open Redirect in all versions up to, and including, 1.12.1 due to insufficient validation on the &#x27;redirect_to&#x27; parameter in the promotional dismissal handler. This makes it possible for unauthenticated attackers to redirect users to potentially malicious sites via a crafted link.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T13:53:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-118238",
+      "repo_info": "[Cushz/CVE-2026-118238](https://github.com/Cushz/CVE-2026-118238)",
+      "description": "no description",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T22:42:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-117532",
+      "repo_info": "[asvorg/CVE-2026-117532-poc](https://github.com/asvorg/CVE-2026-117532-poc)",
+      "description": "PoC for CVE-2026-117532 in REDAXO Authentication bypass, full chain not yet implemented. CVSS score 9.3 critical",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T15:17:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-116471",
+      "repo_info": "[solo506/bkwld-decoy-cve-2026-116471](https://github.com/solo506/bkwld-decoy-cve-2026-116471)",
+      "description": "Security research and documentation for BKWLD Decoy 5.11.1 — CVE-2026-116471.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T19:07:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-115905",
+      "repo_info": "[foxcornlab/zip-cloaking-scanner](https://github.com/foxcornlab/zip-cloaking-scanner)",
+      "description": "Detection-only triage scanner for Rust zip cloaking CVE-2026-115905: Cargo version check plus Central vs Local header comparison. No payloads, no extraction.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T07:34:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-115893",
+      "repo_info": "[shreyas-malhotra/CVE-2026-115893-wasmtime-sandbox-escape](https://github.com/shreyas-malhotra/CVE-2026-115893-wasmtime-sandbox-escape)",
+      "description": "CVE-2026-115893: full Wasmtime aarch64 Cranelift br_table sandbox-escape public exploit, PoV, calibration notes, and verification evidence.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T09:14:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-115889",
+      "repo_info": "[ideator-labs/wasmtime-sweep](https://github.com/ideator-labs/wasmtime-sweep)",
+      "description": "Find every Wasmtime engine embedded in binaries, wheels, NuGet packages and layers, and check CVE-2026-115889/115893",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T14:25:05Z"
+    },
+    {
       "cve_id": "CVE-2026-115560",
       "repo_info": "[yora1928/cve_2026_115560_by_yora](https://github.com/yora1928/cve_2026_115560_by_yora)",
       "description": "no description",
       "date": "2026-10-27",
       "raw_date": "2026-10-27T04:13:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-114509",
+      "repo_info": "[piecar21/CVE-2026-114509](https://github.com/piecar21/CVE-2026-114509)",
+      "description": "PoC / exploit archive for CVE-2026-114509",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T17:38:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-114509",
+      "repo_info": "[Nxploited/CVE-2026-114509](https://github.com/Nxploited/CVE-2026-114509)",
+      "description": "Laravel TokenGuard authentication bypass through non-string API credentials",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T08:59:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-114148",
+      "repo_info": "[Ghost-Bx1/DotNet-Tarball-CVE-2026-114148](https://github.com/Ghost-Bx1/DotNet-Tarball-CVE-2026-114148)",
+      "description": "CVE-2026-114148 - .NET Linux Tarball Local Privilege Escalation PoC &amp; Exploit",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T14:27:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-113870",
+      "repo_info": "[emirwtz/CVE-2026-113870](https://github.com/emirwtz/CVE-2026-113870)",
+      "description": "Offline Python detector for CVE-2026-113870 exposure in MongoDB Compass inventories, with CSV/JSON input and auditable reports.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T12:48:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-112611",
+      "repo_info": "[Ping-2o/CVE-2026-112611-cg-shading](https://github.com/Ping-2o/CVE-2026-112611-cg-shading)",
+      "description": "CVE-2026-112611/112610: CoreGraphics PDF out-of-bounds writes (fixed in iOS 27.2) — fix-diff analysis, on-device proof, methodology, and PoC generator scripts. No prebuilt PoCs, no crash reports.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T09:46:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[depuschm/brotli-k8s-scan](https://github.com/depuschm/brotli-k8s-scan)",
+      "description": "Find vulnerable Brotli (CVE-2026-111497, Broccoli2Shell / Node2Shell / HTTP2Shell) in Kubernetes clusters, container images and Linux hosts. Checks the binaries themselves, not just version numbers, so it catches bundled copies in Node.js, Python, .NET, Bun and Envoy. Read-only, bash only.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T18:11:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[Nyamort/brotli-pingback-lab](https://github.com/Nyamort/brotli-pingback-lab)",
+      "description": "WordPress XML-RPC pingback lab and crash PoC for CVE-2026-111497 (Brotli decoder out-of-bounds write).",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T19:53:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[Ghost-Bx1/DotNet-HTTP2Shell-CVE-2026-111497](https://github.com/Ghost-Bx1/DotNet-HTTP2Shell-CVE-2026-111497)",
+      "description": "CVE-2026-111497 - .NET Brotli OOB Write PoC and Exploit (HTTP2Shell) - By Gh0st-Bx1",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T18:42:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[akaihigurashi/brotli2scan](https://github.com/akaihigurashi/brotli2scan)",
+      "description": "Is your website affected by HTTP2Shell (CVE-2026-111497)?",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T10:33:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[avatarnewyork/brotli-check](https://github.com/avatarnewyork/brotli-check)",
+      "description": "Portable PHP Brotli decoder inventory for WordPress, Drupal and Symfony — CVE-2026-111497",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T16:39:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[tal7aouy/node2shell-scanner](https://github.com/tal7aouy/node2shell-scanner)",
+      "description": "Scanner for php2shell (CVE-2026-111497)",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T11:19:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[paulmann/CVE-2026-111497](https://github.com/paulmann/CVE-2026-111497)",
+      "description": "Security audit and remediation agent for CVE-2026-111497, an out-of-bounds write in the Google Brotli decoder: detect, patch and verify on Debian and Ubuntu",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T06:35:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-110720",
+      "repo_info": "[Ghost-Bx1/ConsulK8s-CVE-2026-110720](https://github.com/Ghost-Bx1/ConsulK8s-CVE-2026-110720)",
+      "description": "CVE-2026-110720 - HashiCorp consul-k8s Cross-Namespace ACL Bypass PoC &amp; Exploit",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T14:28:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-109619",
+      "repo_info": "[piecar21/CVE-2026-109619](https://github.com/piecar21/CVE-2026-109619)",
+      "description": "PoC / exploit archive for CVE-2026-109619",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T08:21:02Z"
     },
     {
       "cve_id": "CVE-2026-109618",
@@ -52,11 +430,109 @@
       "raw_date": "2026-10-27T01:59:58Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[axisops/CVE-2026-109618-109619](https://github.com/axisops/CVE-2026-109618-109619)",
+      "description": "PHP2Shell CVE-2026-109618 / CVE-2026-109619 Mitigation work (Ansible Role)",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T17:35:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[roblennon/php-scare-counted](https://github.com/roblennon/php-scare-counted)",
+      "description": "Verification artifacts for &#x27;How I replicated PHP2Shell, and 5 ways we got super lucky&#x27; — checkers for every claim: the fix that shipped nowhere, the four-architecture map, the two-gate leak bands, and the blind-fire arithmetic (CVE-2026-109618/109619)",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T21:53:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[murat-levi/php2shell-poc](https://github.com/murat-levi/php2shell-poc)",
+      "description": "PHP2Shell — CVE-2026-109618/109619 exploit toolkit: 5 chains + JA3 stealth + mass scan + safe webshell. Authorized testing only.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T21:00:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[muhammadsohaimmuqtada/php2shell-version-frontier](https://github.com/muhammadsohaimmuqtada/php2shell-version-frontier)",
+      "description": "Measured php2shell (CVE-2026-109618/109619) RCE frontier on amd64: 8.3.35 closed via gdb crash forensics (HTDATA=chunk+0x6a0d8); per-build profiles, tools, method",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T08:57:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Liquescent-Development/CVE-2026-109618-CVE-2026-109619](https://github.com/Liquescent-Development/CVE-2026-109618-CVE-2026-109619)",
+      "description": "no description",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T16:52:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[tal7aouy/php2shell-scanner](https://github.com/tal7aouy/php2shell-scanner)",
+      "description": "Scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T13:18:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[r0yfire/php2shell](https://github.com/r0yfire/php2shell)",
+      "description": "CVE-2026-109618 · CVE-2026-109619",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T10:06:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[FoxKyong/php2shell-checks](https://github.com/FoxKyong/php2shell-checks)",
+      "description": "Read-only exposure checks for PHP2Shell (CVE-2026-109618 / -109619): accuracy-hardened scanner + two on-box auditors.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T09:24:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[erdemkayar/php2shell-scan](https://github.com/erdemkayar/php2shell-scan)",
+      "description": "Exposure triage, host verification and remediation tracking for PHP2Shell (CVE-2026-109618 / CVE-2026-109619)",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T08:01:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[zinspin888/crypto_quinxin](https://github.com/zinspin888/crypto_quinxin)",
+      "description": "PHP2Shell (CVE-2026-109618/109619) exposure sweep and takeover assessment across 56 vulnerable TZ/KE hosts",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T07:15:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[HARSHA2396/php2shell-exposure-scanner](https://github.com/HARSHA2396/php2shell-exposure-scanner)",
+      "description": "Detection-only PHP version/exposure scanner for CVE-2026-109618 and CVE-2026-109619 (PHP2Shell). Fingerprints PHP version via standard HTTP headers, no exploit payload sent.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T07:40:59Z"
+    },
+    {
       "cve_id": "CVE-2026-106687",
       "repo_info": "[zfzhou0202/CVE-2026-106687](https://github.com/zfzhou0202/CVE-2026-106687)",
       "description": "no description",
       "date": "2026-10-27",
       "raw_date": "2026-10-27T05:34:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-102785",
+      "repo_info": "[piecar21/CVE-2026-102785](https://github.com/piecar21/CVE-2026-102785)",
+      "description": "PoC / exploit archive for CVE-2026-102785",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T21:28:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-102785",
+      "repo_info": "[al4n4n/CVE-2026-102785](https://github.com/al4n4n/CVE-2026-102785)",
+      "description": "CVE-2026-102785: YOOtheme Pro 5.0.0-5.0.52 unauthenticated RCE via image handler signature reuse + path traversal + JPEG/PHP polyglot. CVSS 10.0. Check script, exploit, detection rules.",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T18:38:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-101767",
+      "repo_info": "[piecar21/CVE-2026-101767](https://github.com/piecar21/CVE-2026-101767)",
+      "description": "PoC / exploit archive for CVE-2026-101767",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T17:39:18Z"
     },
     {
       "cve_id": "CVE-2017-7921",
@@ -66,9 +542,9 @@
       "raw_date": "2026-10-27T03:29:29Z"
     }
   ],
-  "generated_at": "2026-10-28T05:05:49.720607",
+  "generated_at": "2026-10-28T06:44:55.493043",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 77,
     "date_range": "2026-10-27",
     "source": "README.md",
     "script_version": "2.0"

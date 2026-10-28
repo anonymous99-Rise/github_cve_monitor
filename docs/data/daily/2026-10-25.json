@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "count": 79,
+  "count": 80,
   "cves": [
     {
       "cve_id": "CVE-2026-99999",
@@ -304,6 +304,13 @@
       "raw_date": "2026-10-25T20:09:18Z"
     },
     {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[thebarel/CVE-2026-111497](https://github.com/thebarel/CVE-2026-111497)",
+      "description": "CVE-2026-111497 client-side research",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T19:31:08Z"
+    },
+    {
       "cve_id": "CVE-2026-109618",
       "repo_info": "[vaishnavucv/php2shell](https://github.com/vaishnavucv/php2shell)",
       "description": "PHP2Shell: finding and patching affected PHP CVE-2026-109618 and CVE-2026-109619",
@@ -556,9 +563,9 @@
       "raw_date": "2026-10-25T19:46:46Z"
     }
   ],
-  "generated_at": "2026-10-28T05:05:49.719165",
+  "generated_at": "2026-10-28T06:44:55.491561",
   "metadata": {
-    "total_cves": 79,
+    "total_cves": 80,
     "date_range": "2026-10-25",
     "source": "README.md",
     "script_version": "2.0"

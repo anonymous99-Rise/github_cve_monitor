@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-28",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[4627488/cve-2026-98260-nezha](https://github.com/4627488/cve-2026-98260-nezha)",
+      "description": "CVE-2026-98260: Xiaomi 17 Ultra (nezha) temporary root + KernelSU PoC - scripts, docs and logs only; exploit built from upstream source",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T04:10:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-96778",
+      "repo_info": "[paktiko1986/CVE-2026-96778-pillow](https://github.com/paktiko1986/CVE-2026-96778-pillow)",
+      "description": "no description",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T02:50:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Syerain/cve-2026-43499-mt6896-pd2238](https://github.com/Syerain/cve-2026-43499-mt6896-pd2238)",
+      "description": "cve-2026-43499 exploit on vivo&#x27;s MT6896 device PD2238.",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T05:27:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-42530",
+      "repo_info": "[Udyz/CVE-2026-42530](https://github.com/Udyz/CVE-2026-42530)",
+      "description": "CVE-2026-42530 - NGINX HTTP/3 (QPACK) UAF",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T01:21:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-38056",
+      "repo_info": "[sudo5Q/CVE-2026-38056-PoC](https://github.com/sudo5Q/CVE-2026-38056-PoC)",
+      "description": "no description",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T02:48:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-1277",
+      "repo_info": "[piecar21/CVE-2026-1277](https://github.com/piecar21/CVE-2026-1277)",
+      "description": "PoC / exploit archive for CVE-2026-1277",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T01:11:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-116692",
+      "repo_info": "[foxcornlab/mlflow-scorer-scanner](https://github.com/foxcornlab/mlflow-scorer-scanner)",
+      "description": "Detection-only triage scanner for MLflow scorer RCE CVE-2026-116692: version check via the /version endpoint. No payloads, no scorer invocation.",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T04:15:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-115560",
+      "repo_info": "[Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-](https://github.com/Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-)",
+      "description": "Versión 2.0 — añade barrido de hosts remotos vía HTTP a la v1.0. Cuando se ejecuta sin argumentos muestra un menú interactivo.",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T03:06:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[hdez-es/php80-windows-build](https://github.com/hdez-es/php80-windows-build)",
+      "description": "PHP-8.0-CVE-2026-109618-109619",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T06:43:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[lflare/php2shell-cve-2026-109618-109619](https://github.com/lflare/php2shell-cve-2026-109618-109619)",
+      "description": "calibrated php2shell payloads for common docker images",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T04:53:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[swguan325/php80-scl-el7-rebuild](https://github.com/swguan325/php80-scl-el7-rebuild)",
+      "description": "Unofficial rebuild of Remi&#x27;s php80-php 8.0.30-21 SCL packages for CentOS/RHEL 7 (EOL). Includes all 44 CVE fixes between Remi -6 and -21, among them CVE-2026-109618 / CVE-2026-109619 (PHP2Shell).",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T02:00:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-105482",
+      "repo_info": "[EthanTech-Offical/CVE-2026-105482-Reproduce](https://github.com/EthanTech-Offical/CVE-2026-105482-Reproduce)",
+      "description": "CVE-2026-105482漏洞复现",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T01:06:08Z"
+    }
+  ],
+  "generated_at": "2026-10-28T06:44:55.493746",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2026-10-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

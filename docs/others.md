@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-27 06:06:34
+- **生成时间**: 2026-10-28 06:44:25
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -459,9 +459,10 @@
 | 🚫 未识别 | [utkarsssh17/cve-2026-nextjs-use-cache-rce-poc](https://github.com/utkarsssh17/cve-2026-nextjs-use-cache-rce-poc) | no description | 2026-10-24T16:39:07Z|
 | 🚫 未识别 | [archanacontent/nvd-cve-api-docs](https://github.com/archanacontent/nvd-cve-api-docs) | Developer guide to the NVD CVE API 2.0, updated for NIST&#x27;s 2026 risk-based enrichment model. | 2026-10-26T05:28:04Z|
 | 🚫 未识别 | [VulnCorps/refgha](https://github.com/VulnCorps/refgha) | Archived 2026-10-26. Superseded by https://github.com/cve-community/reference-archiver | 2026-03-28T21:18:49Z|
+| 🚫 未识别 | [BenAmpel/hackersignal](https://github.com/BenAmpel/hackersignal) | HackerSignal (NeurIPS 2026 Evaluations &amp; Datasets Track): a 7.45M-document cyber threat intelligence dataset and benchmark linking hacker-forum, exploit and advisory text to CVEs, with temporal splits for CVE linkage retrieval, exploit type classification and CVE-disjoint generalization. | 2026-05-04T16:41:15Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-27 06:07:22  
-**总记录数**: 448
+**报告生成时间**: 2026-10-28 06:44:54  
+**总记录数**: 449

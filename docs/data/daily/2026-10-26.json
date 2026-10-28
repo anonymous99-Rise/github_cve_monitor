@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "count": 73,
+  "count": 74,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -479,6 +479,13 @@
       "raw_date": "2026-10-26T06:29:17Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[rayaar/php2shellPoc](https://github.com/rayaar/php2shellPoc)",
+      "description": "CVE-2026-109618 / 109619 research &amp; exploit tooling (mod_php + FPM Chain-E)",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T19:29:28Z"
+    },
+    {
       "cve_id": "CVE-2026-106686",
       "repo_info": "[zfzhou0202/CVE-2026-106686](https://github.com/zfzhou0202/CVE-2026-106686)",
       "description": "no description",
@@ -514,9 +521,9 @@
       "raw_date": "2026-10-26T14:47:26Z"
     }
   ],
-  "generated_at": "2026-10-28T05:05:49.719919",
+  "generated_at": "2026-10-28T06:44:55.492284",
   "metadata": {
-    "total_cves": 73,
+    "total_cves": 74,
     "date_range": "2026-10-26",
     "source": "README.md",
     "script_version": "2.0"

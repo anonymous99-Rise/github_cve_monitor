@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "count": 80,
+  "count": 81,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -549,6 +549,13 @@
       "raw_date": "2026-10-24T02:37:33Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[ncbtn/CVE-2026-PHP-Fix](https://github.com/ncbtn/CVE-2026-PHP-Fix)",
+      "description": "PHP2Shell CVE-2026-109618 and CVE-2026-109619 Fix",
+      "date": "2026-10-24",
+      "raw_date": "2026-10-24T05:06:54Z"
+    },
+    {
       "cve_id": "CVE-2026-1096",
       "repo_info": "[benzeng/php-cve-2026-1096-research](https://github.com/benzeng/php-cve-2026-1096-research)",
       "description": "no description",
@@ -563,9 +570,9 @@
       "raw_date": "2026-10-24T00:19:23Z"
     }
   ],
-  "generated_at": "2026-10-28T05:05:49.718368",
+  "generated_at": "2026-10-28T06:44:55.490801",
   "metadata": {
-    "total_cves": 80,
+    "total_cves": 81,
     "date_range": "2026-10-24",
     "source": "README.md",
     "script_version": "2.0"

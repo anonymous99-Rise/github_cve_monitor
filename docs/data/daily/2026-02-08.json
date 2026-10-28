@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-25253",
+      "repo_info": "[al4n4n/CVE-2026-25253-research](https://github.com/al4n4n/CVE-2026-25253-research)",
+      "description": "PoC for CVE-2026-25253: one-click RCE in OpenClaw (Moltbot/Clawdbot) via token theft and cross-site WebSocket hijacking",
+      "date": "2026-02-08",
+      "raw_date": "2026-02-08T08:35:39Z"
+    }
+  ],
+  "generated_at": "2026-10-28T06:44:55.425284",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-02-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
