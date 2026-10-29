@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "count": 74,
+  "count": 75,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -246,6 +246,13 @@
       "description": "CVE-2026-111497",
       "date": "2026-10-26",
       "raw_date": "2026-10-26T10:03:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[amier-ge/Node2Shell](https://github.com/amier-ge/Node2Shell)",
+      "description": "A local Docker environment and proof of concept for Node2Shell (CVE-2026-111497)",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T15:46:23Z"
     },
     {
       "cve_id": "CVE-2026-109619",
@@ -521,9 +528,9 @@
       "raw_date": "2026-10-26T14:47:26Z"
     }
   ],
-  "generated_at": "2026-10-29T05:18:25.144619",
+  "generated_at": "2026-10-29T06:52:16.710964",
   "metadata": {
-    "total_cves": 74,
+    "total_cves": 75,
     "date_range": "2026-10-26",
     "source": "README.md",
     "script_version": "2.0"

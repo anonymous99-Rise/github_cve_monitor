@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-10-28 06:44:25
+- **生成时间**: 2026-10-29 06:51:43
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -460,9 +460,13 @@
 | 🚫 未识别 | [archanacontent/nvd-cve-api-docs](https://github.com/archanacontent/nvd-cve-api-docs) | Developer guide to the NVD CVE API 2.0, updated for NIST&#x27;s 2026 risk-based enrichment model. | 2026-10-26T05:28:04Z|
 | 🚫 未识别 | [VulnCorps/refgha](https://github.com/VulnCorps/refgha) | Archived 2026-10-26. Superseded by https://github.com/cve-community/reference-archiver | 2026-03-28T21:18:49Z|
 | 🚫 未识别 | [BenAmpel/hackersignal](https://github.com/BenAmpel/hackersignal) | HackerSignal (NeurIPS 2026 Evaluations &amp; Datasets Track): a 7.45M-document cyber threat intelligence dataset and benchmark linking hacker-forum, exploit and advisory text to CVEs, with temporal splits for CVE linkage retrieval, exploit type classification and CVE-disjoint generalization. | 2026-05-04T16:41:15Z|
+| 🚫 未识别 | [ChrisSub08/CVE-2026-XXXXX_SqlInjectionVulnerabilityOpenEMR8.4.0](https://github.com/ChrisSub08/CVE-2026-XXXXX_SqlInjectionVulnerabilityOpenEMR8.4.0) | CVE-2026-XXXXX: SQL Injection Vulnerability in OpenEMR &lt;8.5.0 | 2026-10-28T19:01:02Z|
+| 🚫 未识别 | [vncafe/php74-fix-cve-2026-10](https://github.com/vncafe/php74-fix-cve-2026-10) | no description | 2026-10-28T16:58:19Z|
+| 🚫 未识别 | [freesiacat/tomcat-oct2026-audit](https://github.com/freesiacat/tomcat-oct2026-audit) | Apache Tomcat 2026年10月修正（9.0.123 / 10.1.61 / 11.0.27）の重要CVE 3件を、ローカル環境を読み取り専用で棚卸しするPythonスクリプト | 2026-10-28T14:15:30Z|
+| 🚫 未识别 | [medandevsec/cvephpreact2026](https://github.com/medandevsec/cvephpreact2026) | no description | 2026-10-28T09:23:00Z|
 
 
 ---
 
-**报告生成时间**: 2026-10-28 06:44:54  
-**总记录数**: 449
+**报告生成时间**: 2026-10-29 06:52:15  
+**总记录数**: 453

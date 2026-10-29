@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "count": 81,
+  "count": 82,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -556,6 +556,13 @@
       "raw_date": "2026-10-24T05:06:54Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[ngenieer/php-eol-backports](https://github.com/ngenieer/php-eol-backports)",
+      "description": "Unofficial backports of the PHP2Shell fix (CVE-2026-109618, CVE-2026-109619) to end-of-life PHP 7.0–7.3, with regression-tested patches and rebuilt packages for CentOS 7 (Remi), Debian 10 and Ubuntu 18.04 (Sury).",
+      "date": "2026-10-24",
+      "raw_date": "2026-10-24T16:31:28Z"
+    },
+    {
       "cve_id": "CVE-2026-1096",
       "repo_info": "[benzeng/php-cve-2026-1096-research](https://github.com/benzeng/php-cve-2026-1096-research)",
       "description": "no description",
@@ -570,9 +577,9 @@
       "raw_date": "2026-10-24T00:19:23Z"
     }
   ],
-  "generated_at": "2026-10-29T05:18:25.142862",
+  "generated_at": "2026-10-29T06:52:16.710080",
   "metadata": {
-    "total_cves": 81,
+    "total_cves": 82,
     "date_range": "2026-10-24",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "count": 77,
+  "count": 78,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -15,6 +15,13 @@
       "description": "小米17 Pro 4.0.5.0 本地提权",
       "date": "2026-10-27",
       "raw_date": "2026-10-27T07:17:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[zjns/CVE-2026-98260](https://github.com/zjns/CVE-2026-98260)",
+      "description": "6.6.118-android15-8-g9bc34d5b0c79",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T16:18:05Z"
     },
     {
       "cve_id": "CVE-2026-97798",
@@ -542,9 +549,9 @@
       "raw_date": "2026-10-27T03:29:29Z"
     }
   ],
-  "generated_at": "2026-10-29T05:18:25.145393",
+  "generated_at": "2026-10-29T06:52:16.711392",
   "metadata": {
-    "total_cves": 77,
+    "total_cves": 78,
     "date_range": "2026-10-27",
     "source": "README.md",
     "script_version": "2.0"

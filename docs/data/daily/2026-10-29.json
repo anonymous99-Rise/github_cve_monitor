@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-29",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[Again1996-bit/CVE-2026-98260-GhostKey](https://github.com/Again1996-bit/CVE-2026-98260-GhostKey)",
+      "description": "GhostKey - CVE-2026-98260 一键提权工具（Shizuku + NDK Native）",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T05:12:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[Feiman55/CVE-2026-98260-GhostKey](https://github.com/Feiman55/CVE-2026-98260-GhostKey)",
+      "description": "GhostKey - CVE-2026-98260 一键提权工具（Shizuku + NDK Native）",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T04:23:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-97631",
+      "repo_info": "[Try2Take/CVE-2026-97631-PoC](https://github.com/Try2Take/CVE-2026-97631-PoC)",
+      "description": "An educational laboratory for studying a PXE network-boot vulnerability in EDK II / OVMF. It builds a pinned EDK II revision, boots a UEFI virtual machine in QEMU, and includes Python proof-of-concept scripts for investigating denial of service (DoS) and memory corruption.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T00:49:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[MnemosyneLab/ghostlock-honor](https://github.com/MnemosyneLab/ghostlock-honor)",
+      "description": "GhostLock One-Tap Execution App (CVE-2026-43499)",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T06:05:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-117025",
+      "repo_info": "[Lariinz/CVE-2026-117025](https://github.com/Lariinz/CVE-2026-117025)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T01:16:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-112445",
+      "repo_info": "[Mas0nShi/CVE-2026-112445](https://github.com/Mas0nShi/CVE-2026-112445)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T04:45:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[fieldse/brotli-node2shell-check](https://github.com/fieldse/brotli-node2shell-check)",
+      "description": "Vulnerability checker and remediation guide for CVE-2026-111497 vulnerability in Google&#x27;s Brotli decoder",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T03:07:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[foxcornlab/node2shell-inventory-scanner](https://github.com/foxcornlab/node2shell-inventory-scanner)",
+      "description": "Local inventory triage for Node2Shell (CVE-2026-111497): grade every Node, Bun and Brotli copy on disk. Detection-only, no network probes, no payloads.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T04:22:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-109722",
+      "repo_info": "[Scyrix-LLC/CVE-2026-109722](https://github.com/Scyrix-LLC/CVE-2026-109722)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T02:33:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[GarciaG1/charla-php2shell](https://github.com/GarciaG1/charla-php2shell)",
+      "description": "PHP2Shell (CVE-2026-109618/109619): demos reproducibles y guia de parcheo paso a paso.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T06:45:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Captain-AI-Hub/PHP2shell](https://github.com/Captain-AI-Hub/PHP2shell)",
+      "description": "CVE-2026-109618_CVE-2026-109619",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T06:44:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[kokilyadm/waffers](https://github.com/kokilyadm/waffers)",
+      "description": "The layer that protects you. Proactive defense-in-depth Web Application Firewall mitigating recent critical PHP engine vulnerabilities including PHP2Shell (CVE-2026-109618/9), PHP-CGI Argument Injection (CVE-2024-4577), iconv Filter Chains (CVE-2024-2961), and stream wrapper abuse.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T05:23:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[aulwardana/php2shell-check](https://github.com/aulwardana/php2shell-check)",
+      "description": "A Claude Skill that passively checks whether a website (and optionally its subdomains) runs PHP, confirms the version where possible, and flags exposure to PHP2Shell (CVE-2026-109618 / CVE-2026-109619)",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T02:00:29Z"
+    }
+  ],
+  "generated_at": "2026-10-29T06:52:16.712116",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2026-10-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

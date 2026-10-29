@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "count": 80,
+  "count": 81,
   "cves": [
     {
       "cve_id": "CVE-2026-99999",
@@ -311,6 +311,13 @@
       "raw_date": "2026-10-25T19:31:08Z"
     },
     {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[sakai-sktech/brotli-check](https://github.com/sakai-sktech/brotli-check)",
+      "description": "Finds copies of the Google Brotli decoder affected by CVE-2026-111497 on Ubuntu and Debian hosts: the OS packages, and the bundled copies an OS update does not fix (Node.js, Python, Envoy, browsers and more). Built by trial and error with AI-Ops, starting with the OSes on my own machines and servers. A PowerShell version for Windows is planned.",
+      "date": "2026-10-25",
+      "raw_date": "2026-10-25T21:24:13Z"
+    },
+    {
       "cve_id": "CVE-2026-109618",
       "repo_info": "[vaishnavucv/php2shell](https://github.com/vaishnavucv/php2shell)",
       "description": "PHP2Shell: finding and patching affected PHP CVE-2026-109618 and CVE-2026-109619",
@@ -563,9 +570,9 @@
       "raw_date": "2026-10-25T19:46:46Z"
     }
   ],
-  "generated_at": "2026-10-29T05:18:25.143739",
+  "generated_at": "2026-10-29T06:52:16.710532",
   "metadata": {
-    "total_cves": 80,
+    "total_cves": 81,
     "date_range": "2026-10-25",
     "source": "README.md",
     "script_version": "2.0"
