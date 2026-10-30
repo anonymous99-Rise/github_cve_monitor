@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "count": 38,
+  "count": 39,
   "cves": [
     {
       "cve_id": "CVE-2026-99999",
@@ -213,6 +213,13 @@
       "raw_date": "2026-10-19T12:30:07Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[poisongod/BakaSU-PostLock](https://github.com/poisongod/BakaSU-PostLock)",
+      "description": "OPPO A96 (PFUM10) post-relock toolkit: CVE-2026-43499 chain -&gt; real BakaSU driver, ocsk kernel defense probes vs OPPO OPLUS_ROOT_CHECK, boot restore scripts",
+      "date": "2026-10-19",
+      "raw_date": "2026-10-19T10:20:17Z"
+    },
+    {
       "cve_id": "CVE-2026-43284",
       "repo_info": "[RemiPelloux/GalaxyCrash](https://github.com/RemiPelloux/GalaxyCrash)",
       "description": "Ephemeral root for Samsung Galaxy devices via CVE-2026-43284 — stability fork of DirtyFrag. Reboot to undo.",
@@ -269,9 +276,9 @@
       "raw_date": "2026-10-19T22:15:15Z"
     }
   ],
-  "generated_at": "2026-10-30T05:17:32.308845",
+  "generated_at": "2026-10-30T06:56:17.904802",
   "metadata": {
-    "total_cves": 38,
+    "total_cves": 39,
     "date_range": "2026-10-19",
     "source": "README.md",
     "script_version": "2.0"

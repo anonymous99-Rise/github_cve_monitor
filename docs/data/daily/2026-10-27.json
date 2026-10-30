@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "count": 78,
+  "count": 79,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -232,6 +232,13 @@
       "description": "PoC / exploit archive for CVE-2026-33825",
       "date": "2026-10-27",
       "raw_date": "2026-10-27T08:30:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-26080",
+      "repo_info": "[Zeerg/haproxy-quic-cves-2026](https://github.com/Zeerg/haproxy-quic-cves-2026)",
+      "description": "Reproducible lab and network PoCs for HAProxy QUIC CVE-2026-26080 and CVE-2026-26081",
+      "date": "2026-10-27",
+      "raw_date": "2026-10-27T15:25:41Z"
     },
     {
       "cve_id": "CVE-2026-16723",
@@ -549,9 +556,9 @@
       "raw_date": "2026-10-27T03:29:29Z"
     }
   ],
-  "generated_at": "2026-10-30T05:17:32.314460",
+  "generated_at": "2026-10-30T06:56:17.913861",
   "metadata": {
-    "total_cves": 78,
+    "total_cves": 79,
     "date_range": "2026-10-27",
     "source": "README.md",
     "script_version": "2.0"

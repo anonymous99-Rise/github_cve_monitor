@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "count": 49,
+  "count": 51,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -85,6 +85,13 @@
       "description": "no description",
       "date": "2026-10-28",
       "raw_date": "2026-10-28T12:25:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-43664",
+      "repo_info": "[speedyfriend433/CVE-2026-43664](https://github.com/speedyfriend433/CVE-2026-43664)",
+      "description": "AirPods Bluetooth MAC Address Disclosure via NSUserDefaults",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T10:50:39Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -325,6 +332,13 @@
       "raw_date": "2026-10-28T09:35:56Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[iliaal/php2shell](https://github.com/iliaal/php2shell)",
+      "description": "php2shell (CVE-2026-109618/109619) reproduction lab — lab only, targets the vulnerable php:8.5.11 images",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T19:56:14Z"
+    },
+    {
       "cve_id": "CVE-2026-105482",
       "repo_info": "[EthanTech-Offical/CVE-2026-105482-Reproduce](https://github.com/EthanTech-Offical/CVE-2026-105482-Reproduce)",
       "description": "CVE-2026-105482漏洞复现",
@@ -346,9 +360,9 @@
       "raw_date": "2026-10-28T19:21:26Z"
     }
   ],
-  "generated_at": "2026-10-30T05:17:32.314858",
+  "generated_at": "2026-10-30T06:56:17.914581",
   "metadata": {
-    "total_cves": 49,
+    "total_cves": 51,
     "date_range": "2026-10-28",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,7 +1,49 @@
 {
   "date": "2026-10-29",
-  "count": 13,
+  "count": 65,
   "cves": [
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[techtaek77/ubuntu-tcp-guide](https://github.com/techtaek77/ubuntu-tcp-guide)",
+      "description": "우분투 커널 TCP 구멍(CVE-2026-98432) 쉽게 보기 · 벨로키 보안 공부",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T22:00:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[axisops/CVE-2026-98432](https://github.com/axisops/CVE-2026-98432)",
+      "description": "Linux kernel IPv4 SYN IP-options use-after-free CVE-2026-98432 Mitigation work (Ansible Role)",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T17:40:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[suominen/CVE-2026-98432](https://github.com/suominen/CVE-2026-98432)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T14:58:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[typhoon1217/cve-2026-98432-mitigation](https://github.com/typhoon1217/cve-2026-98432-mitigation)",
+      "description": "Temporary mitigation for CVE-2026-98432 (Linux IPv4 TCP ireq_opt use-after-free): drop IPv4 TCP with IP options, disable MPTCP. Tested scripts + verification. EN/KO.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T17:22:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[nsrg-fmlorg/kpatch-cve-2026-98432](https://github.com/nsrg-fmlorg/kpatch-cve-2026-98432)",
+      "description": "kpatch livepatch for CVE-2026-98432 (and CVE-2026-99999) on AlmaLinux and Rocky Linux 8, 9 and 10",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T16:58:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[Quaerendir/cve-2026-98432-audit](https://github.com/Quaerendir/cve-2026-98432-audit)",
+      "description": "cve-2026-98432 audit script (ipv4 TCP inet_opt/ireq_opt use-after-free)",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T14:17:42Z"
+    },
     {
       "cve_id": "CVE-2026-98260",
       "repo_info": "[Again1996-bit/CVE-2026-98260-GhostKey](https://github.com/Again1996-bit/CVE-2026-98260-GhostKey)",
@@ -17,11 +59,158 @@
       "raw_date": "2026-10-29T04:23:27Z"
     },
     {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[quyicheng03-boop/CVE-2026-98260-dada-android](https://github.com/quyicheng03-boop/CVE-2026-98260-dada-android)",
+      "description": "Verified CVE-2026-98260 Android port for Xiaomi 15 dada OS4.0.0.22.XOCCNXM",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T13:48:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[AzirX1337/CVE-2026-98260-PMX110-Root618-Jailbreak](https://github.com/AzirX1337/CVE-2026-98260-PMX110-Root618-Jailbreak)",
+      "description": "CVE-2026-98260 (exec: posix timer UAF) LKM jailbreak for OPPO Find X10 Pro Max (PMX110) and OnePlus 16 (PYB110): one-command root via shell uid 2000, with KernelSU / FinaSU / SukiSU / KernelSU-Next handover. Release build Root618 1.5.12 (R8-obfuscated).",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T13:07:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[simayang01/CVE-2026-98260-vivo-x-fold6-poc](https://github.com/simayang01/CVE-2026-98260-vivo-x-fold6-poc)",
+      "description": "CVE 2026 98260 vivo x fold6 poc",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T09:36:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-97798",
+      "repo_info": "[j0wii/CVE-2026-97798_LPE_Windows](https://github.com/j0wii/CVE-2026-97798_LPE_Windows)",
+      "description": "CVE-2026-97798 PoC — WER Time Travel Debugging argument injection to SYSTEM (Windows 11 LPE), with an adaptive faultrep.dll resolver.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T09:54:06Z"
+    },
+    {
       "cve_id": "CVE-2026-97631",
       "repo_info": "[Try2Take/CVE-2026-97631-PoC](https://github.com/Try2Take/CVE-2026-97631-PoC)",
       "description": "An educational laboratory for studying a PXE network-boot vulnerability in EDK II / OVMF. It builds a pinned EDK II revision, boots a UEFI virtual machine in QEMU, and includes Python proof-of-concept scripts for investigating denial of service (DoS) and memory corruption.",
       "date": "2026-10-29",
       "raw_date": "2026-10-29T00:49:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-97631",
+      "repo_info": "[RayanZiani/Bootjack](https://github.com/RayanZiani/Bootjack)",
+      "description": "CVE-2026-97631 C",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T16:02:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-97555",
+      "repo_info": "[woshigenm/CVE-2026-97555](https://github.com/woshigenm/CVE-2026-97555)",
+      "description": "CVE-2026-97555: heap overflow in the Linux SMB client DACL rewrite (cifs.ko) — analysis, POC, and an arm64 exploit chain ending in a uid-0 credential overwrite on the reference build",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T13:09:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-97229",
+      "repo_info": "[murat-levi/gitlab-rce-toolkit](https://github.com/murat-levi/gitlab-rce-toolkit)",
+      "description": "CVE-2026-97229 + CVE-2026-110264 — GitLab Onigmo RCE Exploit Toolkit (CVSS 10.0)",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:39:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-95664",
+      "repo_info": "[oscerd/CVE-2026-95664](https://github.com/oscerd/CVE-2026-95664)",
+      "description": "Reproducer for CVE-2026-95664 — Apache Camel camel-aws2-s3 evaluated a header-supplied object key as a Simple expression (CWE-917). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T09:51:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-95663",
+      "repo_info": "[oscerd/CVE-2026-95663](https://github.com/oscerd/CVE-2026-95663)",
+      "description": "Reproducer for CVE-2026-95663 — Apache Camel camel-keycloak served a cached token introspection result past the token&#x27;s expiry (CWE-613). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T09:56:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-95629",
+      "repo_info": "[oscerd/CVE-2026-95629](https://github.com/oscerd/CVE-2026-95629)",
+      "description": "Reproducer for CVE-2026-95629 — Apache Camel camel-docling passed the CamelDoclingOutputFilePath header to docling&#x27;s --output verbatim (CWE-22). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:23:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-95628",
+      "repo_info": "[oscerd/CVE-2026-95628](https://github.com/oscerd/CVE-2026-95628)",
+      "description": "Reproducer for CVE-2026-95628 — Apache Camel camel-docling custom-argument path validation did not reject absolute paths, an incomplete fix of CVE-2026-40047 (CWE-22). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:07:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-94386",
+      "repo_info": "[oscerd/CVE-2026-94386](https://github.com/oscerd/CVE-2026-94386)",
+      "description": "Reproducer for CVE-2026-94386 — Apache Camel camel-oauth cross-scope token reuse via a JVM-global token cache keyed only on endpoint+clientId (CWE-524). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:29:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-92424",
+      "repo_info": "[aymencdm/cve-2026-92424-content-egg-stored-xss-](https://github.com/aymencdm/cve-2026-92424-content-egg-stored-xss-)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T19:06:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-90885",
+      "repo_info": "[oscerd/CVE-2026-90885](https://github.com/oscerd/CVE-2026-90885)",
+      "description": "Reproducer for CVE-2026-90885 — Apache Camel camel-saxon XQuery XML External Entity via an already-built javax.xml.transform.Source (CWE-611, HIGH). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T09:44:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-88804",
+      "repo_info": "[R0gfall/CVE-2026-88804](https://github.com/R0gfall/CVE-2026-88804)",
+      "description": "PoC CVE-2026-88804 (Rancher)",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T13:50:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-78829",
+      "repo_info": "[CloudFutureSec/cve-disclosures](https://github.com/CloudFutureSec/cve-disclosures)",
+      "description": "Public security vulnerability disclosures — CVE-2026-78829 / 78830 / 78831 / 78832",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T20:19:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-71569",
+      "repo_info": "[oscerd/CVE-2026-71569](https://github.com/oscerd/CVE-2026-71569)",
+      "description": "Reproducer for CVE-2026-71569 — Apache Camel camel-a2a push-notification webhook guard accepted an IPv6 unique local address (fc00::/7) reached through a host name (CWE-918). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:33:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-56190",
+      "repo_info": "[Udyz/RDPBleed](https://github.com/Udyz/RDPBleed)",
+      "description": "CVE-2026-56190 - Windows RDP Server Uninitialized Resource leads to RCE",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:30:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-53921",
+      "repo_info": "[mehmet-emir-eroglu/CVE-2026-53921](https://github.com/mehmet-emir-eroglu/CVE-2026-53921)",
+      "description": "Offline Python source-pattern auditor for CVE-2026-53921 in odhcpd.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:50:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-50053",
+      "repo_info": "[mehmet-emir-eroglu/CVE-2026-50053](https://github.com/mehmet-emir-eroglu/CVE-2026-50053)",
+      "description": "Offline Python detector for CVE-2026-50053 version exposure in Zimbra Collaboration Suite.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:51:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[CoNistical/CVE-2026-48907](https://github.com/CoNistical/CVE-2026-48907)",
+      "description": "Adapted PoC for CVE-2026-48907 - Joomla! JCE extension &lt; 2.9.99.5",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T16:00:04Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -31,11 +220,88 @@
       "raw_date": "2026-10-29T06:05:18Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[yichen115/ghostlock-kirkwood](https://github.com/yichen115/ghostlock-kirkwood)",
+      "description": "CVE-2026-43499 (GhostLock) port for the Google TV Streamer (kirkwood / MT8696): single-file, per-boot temporary root + interactive root shell, with a build-matching case study and adaptation guide.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T13:27:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-42945",
+      "repo_info": "[ChaskarVinit/nginx-rift-cve-2026-42945-lab](https://github.com/ChaskarVinit/nginx-rift-cve-2026-42945-lab)",
+      "description": "Interactive NGINX CVE-2026-42945 educational simulation built with HTML, CSS, and JavaScript. Features vulnerable and patched modes, synthetic request inspection, memory visualization, event logging, and security recommendations. No real exploit execution.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T11:24:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-33439",
+      "repo_info": "[TeoVMP/CVE-2026-33439](https://github.com/TeoVMP/CVE-2026-33439)",
+      "description": "Pre-auth RCE exploit for OpenIdentityPlatform OpenAM &lt;=16.0.5 via Java deserialization of the jato.clientSession parameter (CVE-2026-33439, CVSS 9.8). Comparator-based gadget chain with in-band command output through Tomcat ApplicationFilterChain thread-locals.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T16:33:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-26026",
+      "repo_info": "[PeaMatNgu/CVE-2026-26026-GLPI](https://github.com/PeaMatNgu/CVE-2026-26026-GLPI)",
+      "description": "Minimal source comparison and local lab files for CVE-2026-26026 in GLPI 11.0.5 and 11.0.6",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T18:34:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-12118",
+      "repo_info": "[uday952/CVE-2026-12118-POC-](https://github.com/uday952/CVE-2026-12118-POC-)",
+      "description": "POC for CVE-2026-12118",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T11:21:36Z"
+    },
+    {
       "cve_id": "CVE-2026-117025",
       "repo_info": "[Lariinz/CVE-2026-117025](https://github.com/Lariinz/CVE-2026-117025)",
       "description": "no description",
       "date": "2026-10-29",
       "raw_date": "2026-10-29T01:16:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-115926",
+      "repo_info": "[aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth](https://github.com/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T18:44:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-115925",
+      "repo_info": "[aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure](https://github.com/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T18:40:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-115889",
+      "repo_info": "[mehmet-emir-eroglu/CVE-2026-115889](https://github.com/mehmet-emir-eroglu/CVE-2026-115889)",
+      "description": "Offline Python detector for CVE-2026-115889 version exposure in Wasmtime.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:50:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-112621",
+      "repo_info": "[794pn2s6fh-hub/CVE-2026-112621-](https://github.com/794pn2s6fh-hub/CVE-2026-112621-)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T22:08:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-112621",
+      "repo_info": "[Allen-ux-dev/cve-2026-112621-test](https://github.com/Allen-ux-dev/cve-2026-112621-test)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T19:16:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-112621",
+      "repo_info": "[Xplo8E/CVE-2026-112621-oob-write-poc](https://github.com/Xplo8E/CVE-2026-112621-oob-write-poc)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T12:58:50Z"
     },
     {
       "cve_id": "CVE-2026-112445",
@@ -57,6 +323,41 @@
       "description": "Local inventory triage for Node2Shell (CVE-2026-111497): grade every Node, Bun and Brotli copy on disk. Detection-only, no network probes, no payloads.",
       "date": "2026-10-29",
       "raw_date": "2026-10-29T04:22:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[RedSideSecurity/node2shell](https://github.com/RedSideSecurity/node2shell)",
+      "description": "Node2Shell (CVE-2026-111497) detection-only scanner + lab — RedSide Security",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T13:12:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[Sumit0x00/node2shell](https://github.com/Sumit0x00/node2shell)",
+      "description": "Scanner to checking (CVE-2026-111497) vulnerability",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T11:02:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[timosar/woff2shell](https://github.com/timosar/woff2shell)",
+      "description": "poc of CVE-2026-111497 delivered as a WOFF2 file",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T09:49:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-110447",
+      "repo_info": "[CyRouteWolf/cve-2026-110447-poc](https://github.com/CyRouteWolf/cve-2026-110447-poc)",
+      "description": "no description",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:00:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-110311",
+      "repo_info": "[akiraraikou36-hub/cve-2026-110311-gitea-lab](https://github.com/akiraraikou36-hub/cve-2026-110311-gitea-lab)",
+      "description": "Local Gitea CVE-2026-110311 reproduction: vulnerable vs patched comparison, Python verifier, recorded evidence, and Turkish report.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T12:00:10Z"
     },
     {
       "cve_id": "CVE-2026-109722",
@@ -92,11 +393,74 @@
       "description": "A Claude Skill that passively checks whether a website (and optionally its subdomains) runs PHP, confirms the version where possible, and flags exposure to PHP2Shell (CVE-2026-109618 / CVE-2026-109619)",
       "date": "2026-10-29",
       "raw_date": "2026-10-29T02:00:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[cttynul/php2shell](https://github.com/cttynul/php2shell)",
+      "description": "🐘 Ansible CVE-2026-109618, CVE-2026-109619 scanner",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T19:24:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[WebInspectPro/php2shell-poc](https://github.com/WebInspectPro/php2shell-poc)",
+      "description": "CLI scanner and PoC for CVE-2026-109618 / CVE-2026-109619 (PHP OOM heap corruption and session upload-progress injection, CVSS 9.2). Affects PHP 5.4.0-8.5.11; patched in 8.2.35, 8.3.36, 8.4.27, 8.5.12. No external dependencies.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T14:05:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[skill-tzy/php2shell-poc](https://github.com/skill-tzy/php2shell-poc)",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T13:49:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Dungsocool/PHP2Shell](https://github.com/Dungsocool/PHP2Shell)",
+      "description": "CVE-2026-109618 &amp; CVE-2026-109619 — Pre-Auth RCE in PHP Core (session.upload_progress). Scanner, exploit verifier, and full technical analysis.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:51:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Gitsimbanyi2/php2shell-advisory-response](https://github.com/Gitsimbanyi2/php2shell-advisory-response)",
+      "description": "PHP2Shell (CVE-2026-109618 / CVE-2026-109619) advisory response: inventory, patch, Wazuh hunt mapping, attestation outline.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:20:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[fahise/cve-2026-109618-cve-2026-109619-poc](https://github.com/fahise/cve-2026-109618-cve-2026-109619-poc)",
+      "description": "pHp2Shell CVE 2016 109618 - 109619",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T08:59:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[RedSideSecurity/php2shell](https://github.com/RedSideSecurity/php2shell)",
+      "description": "Realistic multi-version lab + toolkit for the PHP php2shell pre-auth RCE (CVE-2026-109618/109619): detect, blindly prove, and understand it. No shared mounts, no planted files, no LFI.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T08:02:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-104286",
+      "repo_info": "[maxprog-svg/CVE-2026-104286](https://github.com/maxprog-svg/CVE-2026-104286)",
+      "description": "Exploit for CVE-2026-104286 — FortiMail: Unauthenticated Arbitrary File Write → Code Execution",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T11:21:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-101259",
+      "repo_info": "[oscerd/CVE-2026-101259](https://github.com/oscerd/CVE-2026-101259)",
+      "description": "Reproducer for CVE-2026-101259 — Apache Camel camel-coap consumer sent the exception message to the CoAP client as a 5.00 payload (CWE-209). Camel Spring Boot + Camel Quarkus.",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T10:38:31Z"
     }
   ],
-  "generated_at": "2026-10-30T05:17:32.315119",
+  "generated_at": "2026-10-30T06:56:17.915103",
   "metadata": {
-    "total_cves": 13,
+    "total_cves": 65,
     "date_range": "2026-10-29",
     "source": "README.md",
     "script_version": "2.0"
