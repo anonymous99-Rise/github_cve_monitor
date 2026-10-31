@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "count": 65,
+  "count": 66,
   "cves": [
     {
       "cve_id": "CVE-2026-98432",
@@ -451,6 +451,13 @@
       "raw_date": "2026-10-29T11:21:35Z"
     },
     {
+      "cve_id": "CVE-2026-101767",
+      "repo_info": "[shivrajem/ebs-cve-2026-101767-check](https://github.com/shivrajem/ebs-cve-2026-101767-check)",
+      "description": "Detect Oracle E-Business Suite exposure to CVE-2026-101767 (Application Object Library, CVSS 9.8): read-only DB patch check and network exposure probe",
+      "date": "2026-10-29",
+      "raw_date": "2026-10-29T16:41:08Z"
+    },
+    {
       "cve_id": "CVE-2026-101259",
       "repo_info": "[oscerd/CVE-2026-101259](https://github.com/oscerd/CVE-2026-101259)",
       "description": "Reproducer for CVE-2026-101259 — Apache Camel camel-coap consumer sent the exception message to the CoAP client as a 5.00 payload (CWE-209). Camel Spring Boot + Camel Quarkus.",
@@ -458,9 +465,9 @@
       "raw_date": "2026-10-29T10:38:31Z"
     }
   ],
-  "generated_at": "2026-10-31T05:00:43.862278",
+  "generated_at": "2026-10-31T06:49:56.856606",
   "metadata": {
-    "total_cves": 65,
+    "total_cves": 66,
     "date_range": "2026-10-29",
     "source": "README.md",
     "script_version": "2.0"

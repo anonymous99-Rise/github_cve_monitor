@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "count": 51,
+  "count": 53,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -339,6 +339,20 @@
       "raw_date": "2026-10-28T19:56:14Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[TheMalwareGuardian/Workshop-PHP2Shell](https://github.com/TheMalwareGuardian/Workshop-PHP2Shell)",
+      "description": "Hands-on PHP2Shell workshop: Docker labs, guided debugging, and annotated exploits for CVE-2026-109618 and CVE-2026-109619.",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T06:43:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[marcostolosa/CVE-2026-109618-109619](https://github.com/marcostolosa/CVE-2026-109618-109619)",
+      "description": "PHP2Shell CVE-2026-109618 / CVE-2026-109619 Mitigation work (Ansible Role)",
+      "date": "2026-10-28",
+      "raw_date": "2026-10-28T13:02:08Z"
+    },
+    {
       "cve_id": "CVE-2026-105482",
       "repo_info": "[EthanTech-Offical/CVE-2026-105482-Reproduce](https://github.com/EthanTech-Offical/CVE-2026-105482-Reproduce)",
       "description": "CVE-2026-105482漏洞复现",
@@ -360,9 +374,9 @@
       "raw_date": "2026-10-28T19:21:26Z"
     }
   ],
-  "generated_at": "2026-10-31T05:00:43.861862",
+  "generated_at": "2026-10-31T06:49:56.856101",
   "metadata": {
-    "total_cves": 51,
+    "total_cves": 53,
     "date_range": "2026-10-28",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "count": 4,
+  "count": 5,
   "cves": [
     {
       "cve_id": "CVE-2026-77622",
@@ -24,6 +24,13 @@
       "raw_date": "2026-08-09T16:58:00Z"
     },
     {
+      "cve_id": "CVE-2026-26119",
+      "repo_info": "[r3vpwnx/CVE-2026-26119](https://github.com/r3vpwnx/CVE-2026-26119)",
+      "description": "WAC RCE - CVE-2026-26119 Windows Admin Center authenticated RCE via WinREST/PowerShell invokeCommand.",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T20:21:00Z"
+    },
+    {
       "cve_id": "CVE-2026-22747",
       "repo_info": "[gsadagopan/cve-2026-22747-sandbox](https://github.com/gsadagopan/cve-2026-22747-sandbox)",
       "description": "no description",
@@ -31,9 +38,9 @@
       "raw_date": "2026-08-09T17:08:46Z"
     }
   ],
-  "generated_at": "2026-10-31T05:00:43.837904",
+  "generated_at": "2026-10-31T06:49:56.823590",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 5,
     "date_range": "2026-08-09",
     "source": "README.md",
     "script_version": "2.0"

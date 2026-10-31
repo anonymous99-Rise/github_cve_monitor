@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "count": 10,
+  "count": 68,
   "cves": [
     {
       "cve_id": "CVE-2026-98432",
@@ -38,6 +38,111 @@
       "raw_date": "2026-10-30T00:24:18Z"
     },
     {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[ZombiePm/cve-2026-98432-mitigation](https://github.com/ZombiePm/cve-2026-98432-mitigation)",
+      "description": "Interim nftables mitigation for CVE-2026-98432, automatic rollback and Russian administrator guide. Not a kernel patch.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T20:28:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[davetha/cve-2026-98432](https://github.com/davetha/cve-2026-98432)",
+      "description": "no description",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T20:38:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[akamai/cve-2026-98432-validation-mitigation](https://github.com/akamai/cve-2026-98432-validation-mitigation)",
+      "description": "Read-only patch-state and exposure check for CVE-2026-98432 (Linux kernel IPv4 TCP use-after-free, CVSS 9.8), with opt-in interim mitigation and exact rollback.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T19:54:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[offline-ant/tcp2kaslr](https://github.com/offline-ant/tcp2kaslr)",
+      "description": "CVE-2026-98432: a plain IPv4 TCP server is vulnerable, MPTCP is not the trigger. Bug trigger, evidence and analysis.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T19:27:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[MikkoAbudo/CVE-2026-98432-POC](https://github.com/MikkoAbudo/CVE-2026-98432-POC)",
+      "description": "Toy project",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T15:27:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[Alucard0x1/cve-2026-98432](https://github.com/Alucard0x1/cve-2026-98432)",
+      "description": "Proof-only PoC for CVE-2026-98432 (Linux IPv4/TCP ireq_opt use-after-free): race trigger, heap-reuse oracle, no code execution",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T16:36:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[xen0bit/netprobe-cve-2026-98432](https://github.com/xen0bit/netprobe-cve-2026-98432)",
+      "description": "You should patch, but not worry about CVE-2026-98432",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T15:38:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[pob220/ubuntu-noble-tcp-rcu-backport](https://github.com/pob220/ubuntu-noble-tcp-rcu-backport)",
+      "description": "Ubuntu Noble backport and regression evidence for the upstream CVE-2026-98432 IPv4 RCU lifetime repair",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T16:07:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[tc4dy/CVE-2026-98432-PoC-Exploit](https://github.com/tc4dy/CVE-2026-98432-PoC-Exploit)",
+      "description": "CVE-2026-98432 (CVSS 9.8) Linux IPv4 TCP use-after-free full toolkit. Detect kernel exposure, trigger the race, analyze captures, recover KASLR slides, and lock down hosts. Single command, zero setup, standard library only. Built for real-world authorized security testing.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T13:11:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[bitwire-it/Probe-CVE-2026-98432](https://github.com/bitwire-it/Probe-CVE-2026-98432)",
+      "description": "Local kernel version checker, remote MPTCP capability probe, and interactive scan-and-probe CLI for assessing exposure to the Linux kernel IPv4 TCP use-after-free (CVSS 9.8).",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:56:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[medandevsec/cve-2026-98432-ubuntu-analisis](https://github.com/medandevsec/cve-2026-98432-ubuntu-analisis)",
+      "description": "Analisis dan panduan remediasi CVE-2026-98432 untuk Ubuntu 22.04 LTS",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:52:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[polikhronidi/cve-2026-98432-ubuntu-backport](https://github.com/polikhronidi/cve-2026-98432-ubuntu-backport)",
+      "description": "Source-validated Ubuntu 6.8 backport candidate for Eric Dumazet’s upstream CVE-2026-98432 fix, with provenance and CI. Not yet compiled or boot-tested.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:42:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[scriptzteam/Paranoid-CVE-2026-98432](https://github.com/scriptzteam/Paranoid-CVE-2026-98432)",
+      "description": "Drop incoming IPv4 TCP packets whose IP header contains options.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T06:59:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[molanp/CVE-2026-98260-vivo-s60-poc](https://github.com/molanp/CVE-2026-98260-vivo-s60-poc)",
+      "description": "CVE 2026 98260 vivo s60 poc",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T07:52:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[AmarnathCJD/CVE-2026-98260-IQOO-13](https://github.com/AmarnathCJD/CVE-2026-98260-IQOO-13)",
+      "description": "Temporary root for the Vivo iQOO 13 via CVE-2026-98260 posix-cpu-timer UAF, with KernelSU and FinaSU late-load",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T18:42:37Z"
+    },
+    {
       "cve_id": "CVE-2026-97229",
       "repo_info": "[foxcornlab/gitlab-onigmo-scanner](https://github.com/foxcornlab/gitlab-onigmo-scanner)",
       "description": "Detection-only triage for GitLab CVE-2026-97229 (and CVE-2026-110264): grade a self-managed GitLab version plus its Ruby, catch the Oct-12-patch and custom-Ruby traps. No payloads, no network probes.",
@@ -45,11 +150,214 @@
       "raw_date": "2026-10-30T04:21:38Z"
     },
     {
+      "cve_id": "CVE-2026-92744",
+      "repo_info": "[isukasanuj/CVE-2026-92744](https://github.com/isukasanuj/CVE-2026-92744)",
+      "description": "no description",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T19:37:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-89020",
+      "repo_info": "[davtur19/PoC-CVE-2026-89020-PrivEsc](https://github.com/davtur19/PoC-CVE-2026-89020-PrivEsc)",
+      "description": "no description",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T21:26:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-82384",
+      "repo_info": "[krevetkqqq/CVE-2026-82384](https://github.com/krevetkqqq/CVE-2026-82384)",
+      "description": "no description",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T17:04:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-6516",
+      "repo_info": "[t3chn0t3s-org/cve-2026-6516-scanner](https://github.com/t3chn0t3s-org/cve-2026-6516-scanner)",
+      "description": "Find ADAudit Plus web servers in nmap output and triage CVE-2026-6516 (pre-auth RCE) in a single dependency-free Python file.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T18:19:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[aucai/Redmi-K90-CVE-2026-64560](https://github.com/aucai/Redmi-K90-CVE-2026-64560)",
+      "description": "no description",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:02:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-61515",
+      "repo_info": "[krevetkqqq/CVE-2026-61515](https://github.com/krevetkqqq/CVE-2026-61515)",
+      "description": "no description",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T22:20:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-49468",
+      "repo_info": "[krevetkqqq/CVE-2026-49468](https://github.com/krevetkqqq/CVE-2026-49468)",
+      "description": "no description",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T17:04:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-48500",
+      "repo_info": "[inj3ct00r/CVE-2026-48500](https://github.com/inj3ct00r/CVE-2026-48500)",
+      "description": "CVE-2026-48500",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T12:06:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-40489",
+      "repo_info": "[saretawa/CVE-2026-40489](https://github.com/saretawa/CVE-2026-40489)",
+      "description": "no description",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T08:36:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-38751",
+      "repo_info": "[UnDefinedCS/CVE-2026-38751-exploit](https://github.com/UnDefinedCS/CVE-2026-38751-exploit)",
+      "description": "Python version of b0ySie7e/OpenSTAManager-RCE-Exploit-CVE-2026-38751 a rust-based POC",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T15:33:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-29000",
+      "repo_info": "[tscherwinski/CVE-2026-29000-jweforge](https://github.com/tscherwinski/CVE-2026-29000-jweforge)",
+      "description": "Educational PoC for an alg:none signature-bypass class in JWE-wrapped JWTs (pac4j-jwt)",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T11:27:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-20687",
+      "repo_info": "[nenasevartem70-cmyk/hidra](https://github.com/nenasevartem70-cmyk/hidra)",
+      "description": "Hidra - A12 / iOS 18.7.2 jailbreak research. Kernel entry via AppleJPEGDriver CVE-2026-20687. No public build yet.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T19:48:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-1337",
+      "repo_info": "[primatelab/bash2shell](https://github.com/primatelab/bash2shell)",
+      "description": "Joke CVE advisory for Bash2Shell (CVE-2026-1337).",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T13:30:33Z"
+    },
+    {
       "cve_id": "CVE-2026-119025",
       "repo_info": "[shouvikkkk/oauth-sink-check](https://github.com/shouvikkkk/oauth-sink-check)",
       "description": "Trace untrusted OAuth endpoint URLs from source to shell sink — the CVE-2026-119025 attack class, checked in your code, lockfile and MCP configs.",
       "date": "2026-10-30",
       "raw_date": "2026-10-30T03:57:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-118776",
+      "repo_info": "[zebbernCVE/CVE-2026-118776](https://github.com/zebbernCVE/CVE-2026-118776)",
+      "description": "Advisory for node-forge ⌯⌲ 53 mill weekly downloads",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T21:26:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-117184",
+      "repo_info": "[Primandito/CVE-2026-117184](https://github.com/Primandito/CVE-2026-117184)",
+      "description": "Unauthenticated Denial of Service (DoS) via GraphQL alias overloading in Traggo server v0.8.3. Pins CPU and exhausts memory without requiring authentication. CVE-2026-117184.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:02:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-117183",
+      "repo_info": "[Primandito/CVE-2026-117183](https://github.com/Primandito/CVE-2026-117183)",
+      "description": "Build-time RCE via FeaturedImage path traversal in astro-notion-blog 0.13.0. Allows attackers with Notion edit access to overwrite files and execute commands on the build host. CVE-2026-117183.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T08:59:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-117182",
+      "repo_info": "[Primandito/CVE-2026-117182](https://github.com/Primandito/CVE-2026-117182)",
+      "description": "Authenticated Stored XSS via SafeUrlValidator bypass on the rich-text render path in Spina CMS (&lt;= 2.21.0). Payload executes on the public site. CVE-2026-117182.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T08:52:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-116191",
+      "repo_info": "[mehmet-emir-eroglu/CVE-2026-116191](https://github.com/mehmet-emir-eroglu/CVE-2026-116191)",
+      "description": "Offline Python detector for Rclone version exposure to CVE-2026-116191.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:39:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-116165",
+      "repo_info": "[mehmet-emir-eroglu/CVE-2026-116165](https://github.com/mehmet-emir-eroglu/CVE-2026-116165)",
+      "description": "Offline Python detector for CVE-2026-116165 using Parse Server versions and database backend inventory.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:37:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-114820",
+      "repo_info": "[mehmet-emir-eroglu/CVE-2026-114820](https://github.com/mehmet-emir-eroglu/CVE-2026-114820)",
+      "description": "Offline Python inventory detector for Oracle Java and GraalVM builds affected by CVE-2026-114820.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:36:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-114625",
+      "repo_info": "[definitiveref/CVE-2026-114625-Proof-Of-Concept](https://github.com/definitiveref/CVE-2026-114625-Proof-Of-Concept)",
+      "description": "VeloCloud Orchestrator session elevation + unsanitized diagnostics RCE",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T12:35:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-114509",
+      "repo_info": "[Nguemoue/project2026_20261030_tokengate](https://github.com/Nguemoue/project2026_20261030_tokengate)",
+      "description": "Un fichier PHP, zéro dépendance : dit si laravel/framework est encore sous le correctif TokenGuard (CVE-2026-114509). Aucun exploit, aucun réseau.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T19:23:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-112705",
+      "repo_info": "[Lak453/CVE-2026-112705-poc](https://github.com/Lak453/CVE-2026-112705-poc)",
+      "description": "Crash-only public-API reproducer for CVE-2026-112705 in AVEVideoEncoder",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T08:01:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-112705",
+      "repo_info": "[MchinaMd57764/AVETemporalPoC-CVE-2026-112705](https://github.com/MchinaMd57764/AVETemporalPoC-CVE-2026-112705)",
+      "description": "PoC &amp; panic evidence for CVE-2026-112705: AppleAVE2 kernel OOB write on iOS 27.0.1 (fixed in 27.2) via VideoToolbox NumberOfTemporalLayers. Independent reproduction; original discovery by Calif / Chollima team.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:29:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-112621",
+      "repo_info": "[PickAstley11/CVE-2026-112621-oob-write-poc](https://github.com/PickAstley11/CVE-2026-112621-oob-write-poc)",
+      "description": "This is a fork of vinaykumar´s poc for CVE-2026-112621. This is for educational purposes only. I am only using this to host the website so that I can try the poc",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T12:20:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[Nucklear/CVE-2026-111497-working](https://github.com/Nucklear/CVE-2026-111497-working)",
+      "description": "no description",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T13:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[atiilla/CVE-2026-111497-Node2Shell](https://github.com/atiilla/CVE-2026-111497-Node2Shell)",
+      "description": "CVE-2026-111497 - Node2Shell / HTTP2Shell",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T10:12:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[miracle438/node2shell-two-stage](https://github.com/miracle438/node2shell-two-stage)",
+      "description": "CVE-2026-111497 two-stage Brotli harness: local trigger/error-semantics verification, no exploitation",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T07:37:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-109619",
+      "repo_info": "[solidevil14/php2shell-detections](https://github.com/solidevil14/php2shell-detections)",
+      "description": "Suricata rules + CI-proven regression suite for the php2shell PHP RCE chain (CVE-2026-109619 / CVE-2026-109618)",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:08:16Z"
     },
     {
       "cve_id": "CVE-2026-109618",
@@ -71,11 +379,109 @@
       "description": "Diagnosis and remediation prompt for PHP2Shell (CVE-2026-109618/109619), the Node.js Oct 2026 security release and Brotli CVE-2026-111497. EN + PT-BR. Facts as of 29 Oct 2026.",
       "date": "2026-10-30",
       "raw_date": "2026-10-30T00:49:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[yusufyildiz34/whichphp](https://github.com/yusufyildiz34/whichphp)",
+      "description": "Is the PHP in your container image really fixed for PHP2Shell (CVE-2026-109618, CVE-2026-109619)? Finds every PHP build without running the image, with backport-aware verdicts and evidence.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T21:46:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[kcwilus/php2shell-research-portfolio](https://github.com/kcwilus/php2shell-research-portfolio)",
+      "description": "PHP2Shell CVE-2026-109618 and CVE-2026-109619 research and isolated RCE lab",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T18:51:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[flynnsmc-lgtm/qt-t-shield](https://github.com/flynnsmc-lgtm/qt-t-shield)",
+      "description": "QT Analytics — Operation Fire Pole: Free 60-Second Emergency Defense &amp; Reverse-Proxy Shield for PHP2Shell (CVE-2026-109618 / 109619)",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T22:19:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[liztrr01/php2shell](https://github.com/liztrr01/php2shell)",
+      "description": "PHP file-upload / code-exec toolkit → shell + PHP2Shell CVE-2026-109618/109619 modules",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T15:42:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[kackey621/php2shell-emergency](https://github.com/kackey621/php2shell-emergency)",
+      "description": "PHP脆弱性（PHP2Shell: CVE-2026-109618 / CVE-2026-109619）緊急対応プランのランディングページ",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T13:56:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[ArchonXDeadLocksecurity/ArchonX-PHP2Shell](https://github.com/ArchonXDeadLocksecurity/ArchonX-PHP2Shell)",
+      "description": "Pre-auth PHP RCE framework for CVE-2026-109618/619 — ArchonX_DeadLock_Security",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T07:23:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-109566",
+      "repo_info": "[hyderpwn/CVE-rapyd-admin](https://github.com/hyderpwn/CVE-rapyd-admin)",
+      "description": "CVE-2026-109566 (CVSS 9.8) — Rapyd Admin 9.0.0 &lt; 9.20.0 hard-coded super-admin credentials via AuthSeeder (admin@laravel / admin). Standalone exploit PoC.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T17:13:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-109384",
+      "repo_info": "[noxcrypt-x/CVE-2026-109384](https://github.com/noxcrypt-x/CVE-2026-109384)",
+      "description": "CVE-2026-109384: IvyForms &lt;= 1.5.1 unauthenticated arbitrary file upload to RCE. PoC by NOXCRYPT (noxcrypt-x).",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T21:07:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-106378",
+      "repo_info": "[leisureprog/CVE-2026-106378](https://github.com/leisureprog/CVE-2026-106378)",
+      "description": "CVE-2026-106378 is a privilege escalation in the Google Chrome sandbox on macOS. An attacker who has already compromised the renderer process can execute arbitrary code **outside the sandbox** via a crafted HTML page.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T18:44:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-104623",
+      "repo_info": "[googlesky/CVE-2026-104623](https://github.com/googlesky/CVE-2026-104623)",
+      "description": "PoC and Docker lab for CVE-2026-104623 — SUSE Rancher Manager local-cluster-shell authorization bypass: any authenticated user spawns a shell pod on the management cluster via alternate request forms that dodge the authorization gate. Validated end-to-end on rancher 2.15.2 (vulnerable) vs 2.15.3 (patched).",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T18:45:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-103688",
+      "repo_info": "[noxcrypt-x/CVE-2026-103688](https://github.com/noxcrypt-x/CVE-2026-103688)",
+      "description": "CVE-2026-103688: Checkout Files Upload for WooCommerce &lt; 2.4.0 unauthenticated arbitrary file upload to RCE. PoC by NOXCRYPT (noxcrypt-x).",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T21:26:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-103409",
+      "repo_info": "[Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router](https://github.com/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router)",
+      "description": "no description",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T16:35:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-103056",
+      "repo_info": "[hyderpwn/CVE-aisoc](https://github.com/hyderpwn/CVE-aisoc)",
+      "description": "CVE-2026-103056 (CVSS 4.0 9.4 Critical) — AiSOC &lt; 12.0.0 OS command injection into CrowdStrike RTR command strings. Verified standalone PoC.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T17:44:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-10441",
+      "repo_info": "[SHIFox8/synology-dsm-vuln-scanner](https://github.com/SHIFox8/synology-dsm-vuln-scanner)",
+      "description": "Detection-only vulnerability scanner for Synology DSM — CVE-2024-10441 (SA-24:20, ransomware-exploited) and CVE-2026-13684/13639 (SA-26:13). Read-only fingerprinting, no exploits. Python 3.9+, zero dependencies.",
+      "date": "2026-10-30",
+      "raw_date": "2026-10-30T09:39:29Z"
     }
   ],
-  "generated_at": "2026-10-31T05:00:43.862797",
+  "generated_at": "2026-10-31T06:49:56.857209",
   "metadata": {
-    "total_cves": 10,
+    "total_cves": 68,
     "date_range": "2026-10-30",
     "source": "README.md",
     "script_version": "2.0"
