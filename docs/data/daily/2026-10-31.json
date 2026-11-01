@@ -1,7 +1,14 @@
 {
   "date": "2026-10-31",
-  "count": 8,
+  "count": 44,
   "cves": [
+    {
+      "cve_id": "CVE-2026-98937",
+      "repo_info": "[woshigenm/CVE-2026-98937](https://github.com/woshigenm/CVE-2026-98937)",
+      "description": "no description",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T20:13:04Z"
+    },
     {
       "cve_id": "CVE-2026-98432",
       "repo_info": "[tiendungdev/cve-2026-98432-guard](https://github.com/tiendungdev/cve-2026-98432-guard)",
@@ -24,11 +31,137 @@
       "raw_date": "2026-10-31T01:52:16Z"
     },
     {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[AronWang001/linux-cve-2026-98432-fix](https://github.com/AronWang001/linux-cve-2026-98432-fix)",
+      "description": "Detect CVE-2026-98432 on the running Linux kernel and apply the official fixed kernel only on verified distributions (Debian 12/13, Amazon Linux 2/2023). Ubuntu/RHEL detect-only; Rocky/Alma/Oracle/Fedora/SUSE/Arch/Alpine identified but not auto-fixed.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T15:41:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[sevaepsteyn/cve-2026-98432-ebpf](https://github.com/sevaepsteyn/cve-2026-98432-ebpf)",
+      "description": "eBPF (XDP/tc) mitigation for CVE-2026-98432 / RHSB-2026-016 - untested draft",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T11:25:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[soroushneshati/cve-2026-98432-ubuntu-mitigation](https://github.com/soroushneshati/cve-2026-98432-ubuntu-mitigation)",
+      "description": "Check an Ubuntu host for CVE-2026-98432 and, after you confirm, apply the interim Red Hat RHSB-2026-016 mitigation. Ubuntu 20.04 to 26.10.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T10:34:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[googlesky/CVE-2026-98432](https://github.com/googlesky/CVE-2026-98432)",
+      "description": "PoC for CVE-2026-98432 (Linux kernel IPv4 TCP inet_opt/ireq_opt use-after-free, CVSS 9.8): KASAN-verified UAF reproduction in inet_csk_route_req with A/B fixed-kernel control",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T16:04:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[antonyantony/cve-2026-98432-nft](https://github.com/antonyantony/cve-2026-98432-nft)",
+      "description": "no description",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T13:14:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[ndeet/cve-2026-98432](https://github.com/ndeet/cve-2026-98432)",
+      "description": "Stopgap firewall mitigation for CVE-2026-98432 on Ubuntu 16.04/24.04",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T10:00:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[nfodor/cve-2026-98432-nft-mitigation](https://github.com/nfodor/cve-2026-98432-nft-mitigation)",
+      "description": "Interim nftables mitigation for Linux kernel CVE-2026-98432 (IPv4-options UAF in tcp_v4_syn_recv_sock) as a reproducible agent skill",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T10:26:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[raahilmw/synipopt](https://github.com/raahilmw/synipopt)",
+      "description": "IPv4 SYN with IP options, one lab target per run, for CVE-2026-98432 research. Header-offset parser, regression tests, and a postmortem of a broken auto-exploiter.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T07:59:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-89633",
+      "repo_info": "[woshigenm/CVE-2026-89633](https://github.com/woshigenm/CVE-2026-89633)",
+      "description": "no description",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T17:03:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-77396",
+      "repo_info": "[saretawa/CVE-2026-77396](https://github.com/saretawa/CVE-2026-77396)",
+      "description": "no description",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T17:10:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[exumeOAO/plr110-6.12.38-cve-2026-64560-ksu](https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu)",
+      "description": "Use cve-2026-64560 to root OneOlus ACE 6T",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T12:53:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-63686",
+      "repo_info": "[timothyckl/CVE-2026-63686](https://github.com/timothyckl/CVE-2026-63686)",
+      "description": "CVE-2026-63686 demo",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T08:33:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-58882",
+      "repo_info": "[Ignema/WapGuard](https://github.com/Ignema/WapGuard)",
+      "description": "Tiny Shizuku app that clears stuck &#x27;SMS of Death&#x27; (CVE-2026-58882) WAP Push messages. Material 3 Expressive.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T19:20:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-54523",
+      "repo_info": "[TeamN4C/SG-2026-0037](https://github.com/TeamN4C/SG-2026-0037)",
+      "description": "CVE-2026-54523 Kyverno cross-namespace resource generation PoC and exploit",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T11:04:18Z"
+    },
+    {
       "cve_id": "CVE-2026-46300",
       "repo_info": "[foxcornlab/fragnesia-scanner](https://github.com/foxcornlab/fragnesia-scanner)",
       "description": "Detection-only local triage scanner for Linux kernel Fragnesia CVE-2026-46300: grade a running or installed kernel against upstream and distro fixed builds. No payloads, no network.",
       "date": "2026-10-31",
       "raw_date": "2026-10-31T04:21:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[RetributionByRevenue/motogstylus2023-root](https://github.com/RetributionByRevenue/motogstylus2023-root)",
+      "description": "Root exploit for Motorola Moto G Stylus 5G 2023 (genevn) via GhostLock (CVE-2026-43499) — locked bootloader, no flashing",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T11:02:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-36425",
+      "repo_info": "[MacAwad/whatsapp-valleyrat-analysis](https://github.com/MacAwad/whatsapp-valleyrat-analysis)",
+      "description": "WhatsApp-delivered Winos 4.0 / ValleyRAT stager: DLL sideloading, BYOVD Defender kill (CVE-2026-36425), custom C2 protocol on TCP 443, and previously unreported C2 infrastructure.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T14:50:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-18649",
+      "repo_info": "[C3viche/cve-2026-18649](https://github.com/C3viche/cve-2026-18649)",
+      "description": "GStreamer RTP Depayloader Memory Exhaustion Analysis",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T19:37:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-120218",
+      "repo_info": "[capivara-research/CVE-2026-120218](https://github.com/capivara-research/CVE-2026-120218)",
+      "description": "CVE-2026-120218: bilingual TypeMill stored XSS analysis and safe SVG/XSLT PoC",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T17:45:25Z"
     },
     {
       "cve_id": "CVE-2026-119712",
@@ -45,6 +178,41 @@
       "raw_date": "2026-10-31T06:32:17Z"
     },
     {
+      "cve_id": "CVE-2026-116244",
+      "repo_info": "[googlesky/CVE-2026-116244](https://github.com/googlesky/CVE-2026-116244)",
+      "description": "pgAdmin 4 server mode: libpq answers GSSAPI with the service account&#x27;s Kerberos credentials (CVE-2026-116244, fixed in v9.19) — containerized lab + PoC",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T07:40:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-112816",
+      "repo_info": "[dehasoft-tr/cve-2026-112816](https://github.com/dehasoft-tr/cve-2026-112816)",
+      "description": "no description",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T16:18:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-112816",
+      "repo_info": "[Sotrano-dev/cve-2026-112816](https://github.com/Sotrano-dev/cve-2026-112816)",
+      "description": "no description",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T16:26:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-112487",
+      "repo_info": "[Lyutoon/CVE-2026-112487](https://github.com/Lyutoon/CVE-2026-112487)",
+      "description": "macOS revisiond local privilege escalation to root (CVE-2026-112487)",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T18:04:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-111585",
+      "repo_info": "[googlesky/CVE-2026-111585](https://github.com/googlesky/CVE-2026-111585)",
+      "description": "CVE-2026-111585 — TeamViewer Remote-Control Screen Decompression Integer Overflow → Heap Buffer Overflow (PoC, fixed in 15.83, CVSS 8.8). Containerized lab + one-command repro with vulnerable/fixed differential evidence.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T14:36:35Z"
+    },
+    {
       "cve_id": "CVE-2026-111497",
       "repo_info": "[adachis/pillow-patched-brotli](https://github.com/adachis/pillow-patched-brotli)",
       "description": "Pillow 13.0.0 wheel rebuilt with Brotli 1.2.1 for CVE-2026-111497, until Pillow 13.1.0 ships",
@@ -52,16 +220,100 @@
       "raw_date": "2026-10-31T01:35:37Z"
     },
     {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[hayupisama/quarkus-brotli-audit](https://github.com/hayupisama/quarkus-brotli-audit)",
+      "description": "Audit statique de l&#x27;exposition d&#x27;une application Quarkus au décodeur Brotli vulnérable (CVE-2026-111497). Généré avec Claude Code.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T09:22:21Z"
+    },
+    {
       "cve_id": "CVE-2026-109618",
       "repo_info": "[Lydia-King-K/ddld36-solar-aegis](https://github.com/Lydia-King-K/ddld36-solar-aegis)",
       "description": "⛩️☀️ Zero-cost Cloudflare Edge Defense (CVE-2026-109618) + HTTP x402 AI Crawler Monetization. Earn 20% USDC. Landauer Thermodynamics on Base L2.",
       "date": "2026-10-31",
       "raw_date": "2026-10-31T03:54:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Cgdocx/php2shell-lab-verification](https://github.com/Cgdocx/php2shell-lab-verification)",
+      "description": "Defensive lab verification &amp; IR note for php2shell (CVE-2026-109618 / CVE-2026-109619) — patch matrix, mitigation, hunt one-liners. No PoC.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T20:08:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[haseebanjum/php-patch-check](https://github.com/haseebanjum/php-patch-check)",
+      "description": "Check whether a PHP version is patched against PHP2Shell (CVE-2026-109618 / CVE-2026-109619). Stdlib-only Python.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T20:31:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[marceloaugu/php2shell-ubuntu](https://github.com/marceloaugu/php2shell-ubuntu)",
+      "description": "Analisa e corrige as vulnerabilidades php2shell do PHP (CVE-2026-109618 e CVE-2026-109619) no Ubuntu",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T15:31:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[shellharbor/php-7.4-cve-2026-docker](https://github.com/shellharbor/php-7.4-cve-2026-docker)",
+      "description": "PHP 7.4.33 CLI/FPM Docker image with pinned backports for CVE-2026-109618 and CVE-2026-109619, plus updated native libraries. Documented builds, source and patch checksums, focused regression tests, Trivy reports, and non-root defaults. Linux amd64. UNVERIFIED development preview; independent mysqlnd review remains incomplete.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T10:22:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[shellharbor/php-8.1-cve-2026-docker](https://github.com/shellharbor/php-8.1-cve-2026-docker)",
+      "description": "PHP 8.1.34 CLI/FPM Docker image with pinned backports for CVE-2026-109618 and CVE-2026-109619, plus updated native libraries. Documented builds, source and patch checksums, focused regression tests, Trivy reports, and non-root defaults. Linux amd64. UNVERIFIED development preview; independent mysqlnd review remains incomplete.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T08:47:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[esskslifetech/php-secure-patch](https://github.com/esskslifetech/php-secure-patch)",
+      "description": "Bash toolkit that finds and fixes PHP CVEs — PHP2Shell (CVE-2026-109618/109619), CVE-2026-115560, CVE-2024-4577, CVE-2019-11043 — on Linux and macOS. Detects runtimes, audits config, applies source patches, hardens php.ini / FPM / nginx / Apache, hunts compromise, rolls back cleanly. MIT.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T09:56:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[sunnyvale-it/PHP2Shell-PoC](https://github.com/sunnyvale-it/PHP2Shell-PoC)",
+      "description": "Proof of Concept for the Two PHP Remote Code Execution Vulnerabilities (CVE-2026-109618 and CVE-2026-109619), Collectively Known as “PHP2Shell”",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T09:03:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-109520",
+      "repo_info": "[sarkewww/CVE-2026-109520](https://github.com/sarkewww/CVE-2026-109520)",
+      "description": "AAA",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T09:00:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-103039",
+      "repo_info": "[noxcrypt-x/CVE-2026-103039](https://github.com/noxcrypt-x/CVE-2026-103039)",
+      "description": "CVE-2026-103039: Gravity Forms &lt;= 3.1.2 PHP object injection to RCE. PoC by NOXCRYPT (noxcrypt-x). gen_payload.php is not included.",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T15:33:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-101767",
+      "repo_info": "[aduli198/CVE-2026-101767](https://github.com/aduli198/CVE-2026-101767)",
+      "description": "Unauthenticated SQL injection (CVSS 9.8) in the Oracle EBS 12.2.312.2.15 TCF servlet",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T08:47:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-100105",
+      "repo_info": "[googlesky/CVE-2026-100105](https://github.com/googlesky/CVE-2026-100105)",
+      "description": "Grafana alerting contact point authorization bypass via schema downgrade (CVSS 7.7) — containerized lab, full PoC, plus 2 unreported findings reproducible on 13.2.5",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T08:25:07Z"
     }
   ],
-  "generated_at": "2026-11-01T05:31:03.471147",
+  "generated_at": "2026-11-01T07:16:04.798672",
   "metadata": {
-    "total_cves": 8,
+    "total_cves": 44,
     "date_range": "2026-10-31",
     "source": "README.md",
     "script_version": "2.0"

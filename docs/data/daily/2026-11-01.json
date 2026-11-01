@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-01",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[Ghost-Bx1/cve-2026-98432-linux-tcp-uaf](https://github.com/Ghost-Bx1/cve-2026-98432-linux-tcp-uaf)",
+      "description": "no description",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T05:37:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[sabuweis/GhostLock-CVE-2026-98260](https://github.com/sabuweis/GhostLock-CVE-2026-98260)",
+      "description": "基于ghostlock-app与CVE-2026-98260漏洞开发的提权项目",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T02:24:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-88773",
+      "repo_info": "[Fyyre/CVE-2026-88773](https://github.com/Fyyre/CVE-2026-88773)",
+      "description": "CVE-2026-88773 - NetScaler nsppe 32-bit chunk-size accumulator wrap (HTTP Request Smuggling)",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T01:58:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-84295",
+      "repo_info": "[foxcornlab/wsftp-server-scanner](https://github.com/foxcornlab/wsftp-server-scanner)",
+      "description": "Detection-only local triage scanner for Progress WS_FTP Server October 2026 patch batch: CVE-2026-84295 (CVSS 10.0) and 14 more, graded per group against the split 2024.0.6/2025.0.3 vs 2024.0.7/2025.0.4 fix table. No payloads, no remote probing.",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T04:20:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-118764",
+      "repo_info": "[b1nv0id/CVE-2026-118764](https://github.com/b1nv0id/CVE-2026-118764)",
+      "description": "CVE-2026-118764 dos in minimatch",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T00:24:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-116521",
+      "repo_info": "[4m3rr0r/CVE-2026-116521-poc](https://github.com/4m3rr0r/CVE-2026-116521-poc)",
+      "description": "CVE-2026-116521-poc",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T03:12:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-115965",
+      "repo_info": "[4m3rr0r/CVE-2026-115965](https://github.com/4m3rr0r/CVE-2026-115965)",
+      "description": "CVE-2026-115965",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T05:55:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[esskslifetech/PROTECTION2Shell](https://github.com/esskslifetech/PROTECTION2Shell)",
+      "description": "Dependency-free toolkit that contains, patches and verifies the *2Shell families: PHP2Shell (CVE-2026-109618/109619), HTTP2Shell/Brotli (CVE-2026-111497), CVE-2024-4577, CVE-2019-11043. Cuts exploitation channels at the edge in minutes, applies verified upstream source patches, recycles workers, then re-checks every fix. Unattended: setup.sh --auto",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T05:41:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[riyadh920/php2shell-2026-incident-analysis](https://github.com/riyadh920/php2shell-2026-incident-analysis)",
+      "description": "Independent technical analysis of PHP2Shell (CVE-2026-109618 and CVE-2026-109619), covering root cause, disclosure, honeypot evidence, business risk, open-source security governance, and PHP ecosystem resilience.",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T02:20:31Z"
+    }
+  ],
+  "generated_at": "2026-11-01T07:16:04.799095",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2026-11-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
