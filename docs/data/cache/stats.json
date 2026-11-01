@@ -1,11 +1,11 @@
 {
   "repo_created_at": "2025-09-27T05:28:26Z",
-  "repo_updated_at": "2026-10-31T23:01:15Z",
-  "total_cves": 32103,
-  "last_update": "2026-10-31",
+  "repo_updated_at": "2026-11-01T09:49:21Z",
+  "total_cves": 32148,
+  "last_update": "2026-11-01",
   "api_limit": "5000",
   "api_remaining": "4997",
-  "monitoring_days": 399,
+  "monitoring_days": 400,
   "system_uptime": "99.9%",
-  "generated_at": "2026-11-01T04:06:16.629301"
+  "generated_at": "2026-11-01T14:42:12.391808"
 }
