@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-02",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[xxhjkl/cve-2026-98432-check](https://github.com/xxhjkl/cve-2026-98432-check)",
+      "description": "no description",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T04:50:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[johnhsb/linux-tcp-uaf-cve-2026-98432](https://github.com/johnhsb/linux-tcp-uaf-cve-2026-98432)",
+      "description": "CVE-2026-98432 (Linux IPv4 TCP inet_opt UAF): read-only diagnostic script, no-reboot nftables/sysctl mitigations, Ansible rollout and response guide (EN/KO)",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T03:27:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[0xSpuddy/cve-2026-98432-check](https://github.com/0xSpuddy/cve-2026-98432-check)",
+      "description": "A script for cve-2026-98432 vuln",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T02:48:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[illuscapital/CVE-2026-98432](https://github.com/illuscapital/CVE-2026-98432)",
+      "description": "Mitigates CVE-2026-98432 via firewall rules",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T01:47:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[al4n4n/CVE-2026-98432](https://github.com/al4n4n/CVE-2026-98432)",
+      "description": "CVE-2026-98432: Linux Kernel TCP/IPv4 Race Condition Use-After-Free (CVSS 9.8) — PoC, Scanner, Detection Rules",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T00:21:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-74583",
+      "repo_info": "[santoshkalluri/CVE-2026-74583](https://github.com/santoshkalluri/CVE-2026-74583)",
+      "description": "CVE-2026-74583: use-after-free in Linux net/sched cls_route (route4) - write-up, KASAN reproducer, A/B evidence",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T06:26:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-53157",
+      "repo_info": "[santoshkalluri/CVE-2026-53157](https://github.com/santoshkalluri/CVE-2026-53157)",
+      "description": "CVE-2026-53157: use-after-free in Linux Phonet phonet_device_destroy() - write-up, reproducer, KASAN evidence",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T05:39:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[tungmv/IONSTACK-S22E](https://github.com/tungmv/IONSTACK-S22E)",
+      "description": "CVE-2026-43499 (IonStack/GhostLock) port for Samsung Galaxy S22 SM-S901E (r0q) on S901EXXSAEXF8 — verified uid=0",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T05:50:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-33186",
+      "repo_info": "[basesixtythree/B63-POC-CVE-2026-33186](https://github.com/basesixtythree/B63-POC-CVE-2026-33186)",
+      "description": "CVE-2026-33186 (grpc-go): authorization bypass via a slash-less HTTP/2 :path -- b63 showcase, lab-verified with patched and config-leg negatives",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T06:55:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-14900",
+      "repo_info": "[tenderacer-lgtm/CVE-2026-14900-PoC](https://github.com/tenderacer-lgtm/CVE-2026-14900-PoC)",
+      "description": "CVE-2026-14900: Unauthenticated RCE in Cost Calculator Builder Pro (&lt;= 4.0.3) via XOR Gadget",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T06:40:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-112816",
+      "repo_info": "[foxcornlab/lxd-scanner](https://github.com/foxcornlab/lxd-scanner)",
+      "description": "Detection-only local triage scanner for CVE-2026-112816 (CVSS 10.0) in Canonical LXD and MicroCloud: grades LXD, MicroCloud and Incus versions against the fixed builds, catches the 6.10.0 trap. No payloads, no remote probing.",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T04:19:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[ChriSec7/CVE-2026-111497-POC](https://github.com/ChriSec7/CVE-2026-111497-POC)",
+      "description": "no description",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T04:58:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[andrysunjaya/php2shell-scanner](https://github.com/andrysunjaya/php2shell-scanner)",
+      "description": "Read-only scanner for PHP2Shell (CVE-2026-109618 / CVE-2026-109619): finds vulnerable PHP, stale processes and webshells, and prints a remediation plan",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T05:47:31Z"
+    }
+  ],
+  "generated_at": "2026-11-02T07:30:34.339533",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2026-11-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

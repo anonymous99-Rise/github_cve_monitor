@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "count": 9,
+  "count": 37,
   "cves": [
     {
       "cve_id": "CVE-2026-98432",
@@ -10,11 +10,81 @@
       "raw_date": "2026-11-01T05:37:06Z"
     },
     {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[fetus-hina/cve-2026-98432-mitigation-rpm](https://github.com/fetus-hina/cve-2026-98432-mitigation-rpm)",
+      "description": "RPM package that applies an nftables mitigation for CVE-2026-98432 (RHSB-2026-016) on EL 8/9/10",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T19:55:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[jamilbk/drop-ipv4-opt](https://github.com/jamilbk/drop-ipv4-opt)",
+      "description": "XDP program to mitigate CVE-2026-98432",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T14:04:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[uvian/xboard-core](https://github.com/uvian/xboard-core)",
+      "description": "Xboard 节点后端：基于 Xray-core v26.10.31，单补丁实现设备数/限速，严格对齐 Xboard V2 契约，内置 CVE-2026-98432 缓解",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T09:39:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[Mervent/cve-2026-98432](https://github.com/Mervent/cve-2026-98432)",
+      "description": "no description",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T10:55:33Z"
+    },
+    {
       "cve_id": "CVE-2026-98260",
       "repo_info": "[sabuweis/GhostLock-CVE-2026-98260](https://github.com/sabuweis/GhostLock-CVE-2026-98260)",
       "description": "基于ghostlock-app与CVE-2026-98260漏洞开发的提权项目",
       "date": "2026-11-01",
       "raw_date": "2026-11-01T02:24:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[cuteaplane/CVE-2026-98260-for-OPD2501](https://github.com/cuteaplane/CVE-2026-98260-for-OPD2501)",
+      "description": "A CVE-2026-98260  adapt for OPPO Pad Air 5",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T18:19:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root](https://github.com/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root)",
+      "description": "基于CVE-2026-98260的iQOO Neo9 Pro 临时Root实现，AwA",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T15:34:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[yoro1836/SamTimer](https://github.com/yoro1836/SamTimer)",
+      "description": "One-tap Android root for Samsung Galaxy devices, built around the CVE-2026-98260 timer exploit.",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T10:00:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-98258",
+      "repo_info": "[imkidz0/poc-CVE-2026-98258](https://github.com/imkidz0/poc-CVE-2026-98258)",
+      "description": "Proof-of-Concept for CVE-2026-98258.",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T09:07:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-9151",
+      "repo_info": "[hcbt/CVE-2026-9151](https://github.com/hcbt/CVE-2026-9151)",
+      "description": "Authenticated OS command injection in the TP-Link Archer AX17 v1 VPN client import.",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T21:33:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-89633",
+      "repo_info": "[woshigenm/CVE-2026-89633](https://github.com/woshigenm/CVE-2026-89633)",
+      "description": "no description",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T11:31:57Z"
     },
     {
       "cve_id": "CVE-2026-88773",
@@ -24,11 +94,39 @@
       "raw_date": "2026-11-01T01:58:23Z"
     },
     {
+      "cve_id": "CVE-2026-86962",
+      "repo_info": "[bobmarleyfaruk9/CVE-2026-86962](https://github.com/bobmarleyfaruk9/CVE-2026-86962)",
+      "description": "no description",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T18:19:56Z"
+    },
+    {
       "cve_id": "CVE-2026-84295",
       "repo_info": "[foxcornlab/wsftp-server-scanner](https://github.com/foxcornlab/wsftp-server-scanner)",
       "description": "Detection-only local triage scanner for Progress WS_FTP Server October 2026 patch batch: CVE-2026-84295 (CVSS 10.0) and 14 more, graded per group against the split 2024.0.6/2025.0.3 vs 2024.0.7/2025.0.4 fix table. No payloads, no remote probing.",
       "date": "2026-11-01",
       "raw_date": "2026-11-01T04:20:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-63765",
+      "repo_info": "[n3chik/CVE-2026-63765](https://github.com/n3chik/CVE-2026-63765)",
+      "description": "PoC exploit for CVE-2026-63765 — Chatwoot &lt; 4.16.0 unauthenticated arbitrary file write via ActiveStorage Direct Upload",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T12:39:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-60004",
+      "repo_info": "[basesixtythree/B63-POC-CVE-2026-60004](https://github.com/basesixtythree/B63-POC-CVE-2026-60004)",
+      "description": "CVE-2026-60004 (Gitea): unauth RCE via diffpatch add/add collision -&gt; live git hook in bare temp clone (KEV) — b63 showcase, lab-verified with patched + unaffected negatives",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T19:44:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-19971",
+      "repo_info": "[tianlansedexiaoniu/CVE-2026-19971_guest](https://github.com/tianlansedexiaoniu/CVE-2026-19971_guest)",
+      "description": "LB-LINK WR1210M (CVE-2026-19971) 未授权配置泄露漏洞与访客网络扩展攻击链分析",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T14:57:04Z"
     },
     {
       "cve_id": "CVE-2026-118764",
@@ -38,6 +136,13 @@
       "raw_date": "2026-11-01T00:24:51Z"
     },
     {
+      "cve_id": "CVE-2026-116779",
+      "repo_info": "[majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-](https://github.com/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-)",
+      "description": "🚨 CVE ID: CVE-2026-116779 📦 Product: FreeSWITCH 💉 Type: Command Injection (via SIP MESSAGE) 🔥 Score: 9.8 (Critical(RCE)) +20K target",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T18:15:19Z"
+    },
+    {
       "cve_id": "CVE-2026-116521",
       "repo_info": "[4m3rr0r/CVE-2026-116521-poc](https://github.com/4m3rr0r/CVE-2026-116521-poc)",
       "description": "CVE-2026-116521-poc",
@@ -45,11 +150,53 @@
       "raw_date": "2026-11-01T03:12:33Z"
     },
     {
+      "cve_id": "CVE-2026-116512",
+      "repo_info": "[BabyMushr00w/CVE-2026-116512](https://github.com/BabyMushr00w/CVE-2026-116512)",
+      "description": "Exploit for CVE-2026-116512 - weDevs Project Manager &lt;= 4.1.1 Unauthenticated RCE. For educational and authorized security testing only.",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T21:02:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-116296",
+      "repo_info": "[thalewalan/CVE-2026-116296](https://github.com/thalewalan/CVE-2026-116296)",
+      "description": "Gitea archived repository write-protection bypass — milestones, releases and labels unprotected (CVE-2026-116296)",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T17:02:47Z"
+    },
+    {
       "cve_id": "CVE-2026-115965",
       "repo_info": "[4m3rr0r/CVE-2026-115965](https://github.com/4m3rr0r/CVE-2026-115965)",
       "description": "CVE-2026-115965",
       "date": "2026-11-01",
       "raw_date": "2026-11-01T05:55:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-114509",
+      "repo_info": "[nextmend/laravel-type-juggling-auth-bypass](https://github.com/nextmend/laravel-type-juggling-auth-bypass)",
+      "description": "Simulasi type juggling &amp; implicit type conversion CVE-2026-114509 pada query autentikasi",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T16:08:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-112816",
+      "repo_info": "[MrNarsus/cve-2026-112816-poc](https://github.com/MrNarsus/cve-2026-112816-poc)",
+      "description": "Independent lab reproduction and post-patch verification tool for CVE-2026-112816 (LXD/MicroCloud mTLS chain bypass).",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T20:47:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[Sable-Research/brotli-decoder-overflow](https://github.com/Sable-Research/brotli-decoder-overflow)",
+      "description": "Analysis of buffer overflow in Google Brotli decoder (CVE-2026-111497)",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T13:21:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[mehmet-emir-eroglu/NODE2SHELL](https://github.com/mehmet-emir-eroglu/NODE2SHELL)",
+      "description": "Read-only Node2Shell detection for CVE-2026-111497 using verified Node.js artifact identities.",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T11:07:42Z"
     },
     {
       "cve_id": "CVE-2026-109618",
@@ -64,11 +211,60 @@
       "description": "Independent technical analysis of PHP2Shell (CVE-2026-109618 and CVE-2026-109619), covering root cause, disclosure, honeypot evidence, business risk, open-source security governance, and PHP ecosystem resilience.",
       "date": "2026-11-01",
       "raw_date": "2026-11-01T02:20:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[sahmsec/CVE-2026-109618-PHP2SHELL](https://github.com/sahmsec/CVE-2026-109618-PHP2SHELL)",
+      "description": "POC of CVE-2026-109618(PHP2SHELL)",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T16:22:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[drekbad/php-search](https://github.com/drekbad/php-search)",
+      "description": "PHP2Shell scanner - CVE-2026-109618 and CVE-2026-109619",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T22:26:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[PrasanthNarava/zero-day-php-rce-mitigation](https://github.com/PrasanthNarava/zero-day-php-rce-mitigation)",
+      "description": "Incident Response Case Study: Zero-Day RCE Vulnerability Mitigation &amp; Zero-Downtime Container Hotfix on AWS + Docker (CVE-2026-109618)",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T22:18:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[ys0816/php56-php2shell-rpm](https://github.com/ys0816/php56-php2shell-rpm)",
+      "description": "PHP 5.6.40 RPM packages with PHP2Shell security patches for CVE-2026-109618 and CVE-2026-109619 on EL6.",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T11:15:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[mehmet-emir-eroglu/PHP2SHELL](https://github.com/mehmet-emir-eroglu/PHP2SHELL)",
+      "description": "Evidence-based PHP2Shell assessment for CVE-2026-109618 and CVE-2026-109619.",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T10:48:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-107406",
+      "repo_info": "[maxprog-svg/CVE-2026-107406](https://github.com/maxprog-svg/CVE-2026-107406)",
+      "description": "Citrix NetScaler RCE/DoS CVE-2026-107406",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T09:23:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-105192",
+      "repo_info": "[basesixtythree/B63-POC-CVE-2026-105192](https://github.com/basesixtythree/B63-POC-CVE-2026-105192)",
+      "description": "CVE-2026-105192 (LMCache): pre-auth pickle deserialization RCE over the unauth ZMQ transport (single frame) — b63 showcase, lab-verified with patched-build negative + reliability/matrix evidence",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T19:48:42Z"
     }
   ],
-  "generated_at": "2026-11-02T05:29:34.089687",
+  "generated_at": "2026-11-02T07:30:34.339143",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 37,
     "date_range": "2026-11-01",
     "source": "README.md",
     "script_version": "2.0"

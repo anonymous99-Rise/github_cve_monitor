@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "count": 37,
+  "count": 38,
   "cves": [
     {
       "cve_id": "CVE-2026-97163",
@@ -255,6 +255,13 @@
       "raw_date": "2026-09-26T11:59:53Z"
     },
     {
+      "cve_id": "CVE-2026-120232",
+      "repo_info": "[Element2023H/CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232)",
+      "description": "no description",
+      "date": "2026-09-26",
+      "raw_date": "2026-09-26T03:13:14Z"
+    },
+    {
       "cve_id": "CVE-2026-107327",
       "repo_info": "[rmhowe425/POC-CVE-2026-107327](https://github.com/rmhowe425/POC-CVE-2026-107327)",
       "description": "no description",
@@ -262,9 +269,9 @@
       "raw_date": "2026-09-26T02:18:36Z"
     }
   ],
-  "generated_at": "2026-11-02T05:29:34.066279",
+  "generated_at": "2026-11-02T07:30:34.318890",
   "metadata": {
-    "total_cves": 37,
+    "total_cves": 38,
     "date_range": "2026-09-26",
     "source": "README.md",
     "script_version": "2.0"
