@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-03",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[schnied/cve-2026-98432-mitigation-iptables](https://github.com/schnied/cve-2026-98432-mitigation-iptables)",
+      "description": "no description",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T07:41:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[lowerpower/cve-2026-98432-mitigation](https://github.com/lowerpower/cve-2026-98432-mitigation)",
+      "description": "Interim mitigation for CVE-2026-98432 (Linux IPv4 TCP handshake use-after-free) on Ubuntu, until a fixed kernel ships",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T01:58:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[YodonTan/cve-2026-98260-harmonyos-applicability](https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability)",
+      "description": "锁定设备上的内核 CVE 适用性判定：一个有意保持未定论的适用性结论，以及得到该结论的方法。A vulnerability-applicability study on a locked-down HarmonyOS device: a deliberately unresolved verdict, and the methodology to reach it.",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T00:27:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-58115",
+      "repo_info": "[foxcornlab/node-red-scanner](https://github.com/foxcornlab/node-red-scanner)",
+      "description": "Detection-only local triage scanner for CVE-2026-58115 (CVSS 10.0) in Siemens SIMATIC IoT2050 Node-RED: grades Industrial OS versions against V4.3.4.1 and settings.js for adminAuth. No payloads, no remote probing.",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T04:17:42Z"
+    }
+  ],
+  "generated_at": "2026-11-03T07:45:08.915268",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-11-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

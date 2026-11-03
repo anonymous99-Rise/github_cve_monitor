@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "count": 44,
+  "count": 45,
   "cves": [
     {
       "cve_id": "CVE-2026-98937",
@@ -85,6 +85,13 @@
       "description": "IPv4 SYN with IP options, one lab target per run, for CVE-2026-98432 research. Header-offset parser, regression tests, and a postmortem of a broken auto-exploiter.",
       "date": "2026-10-31",
       "raw_date": "2026-10-31T07:59:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[super2tt/CVE-2026-98260-vivo-x-fold6-poc](https://github.com/super2tt/CVE-2026-98260-vivo-x-fold6-poc)",
+      "description": "CVE 2026 98260 vivo x fold6 poc",
+      "date": "2026-10-31",
+      "raw_date": "2026-10-31T19:06:26Z"
     },
     {
       "cve_id": "CVE-2026-89633",
@@ -311,9 +318,9 @@
       "raw_date": "2026-10-31T08:25:07Z"
     }
   ],
-  "generated_at": "2026-11-03T06:08:57.574796",
+  "generated_at": "2026-11-03T07:45:08.913875",
   "metadata": {
-    "total_cves": 44,
+    "total_cves": 45,
     "date_range": "2026-10-31",
     "source": "README.md",
     "script_version": "2.0"

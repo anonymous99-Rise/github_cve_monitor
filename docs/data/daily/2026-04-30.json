@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-43500",
@@ -15,11 +15,18 @@
       "description": "Wazuh SCA Linux hardening policy for Copy Fail (CVE-2026-31431)",
       "date": "2026-04-30",
       "raw_date": "2026-04-30T09:56:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[wgnet/wg.copyfail.patch](https://github.com/wgnet/wg.copyfail.patch)",
+      "description": "CVE-2026-31431 eBPF fix",
+      "date": "2026-04-30",
+      "raw_date": "2026-04-30T13:55:25Z"
     }
   ],
-  "generated_at": "2026-11-03T06:08:57.530795",
+  "generated_at": "2026-11-03T07:45:08.855435",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-04-30",
     "source": "README.md",
     "script_version": "2.0"

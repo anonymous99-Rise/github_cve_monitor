@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-11-02 07:30:02
+- **生成时间**: 2026-11-03 07:44:38
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -465,9 +465,10 @@
 | 🚫 未识别 | [freesiacat/tomcat-oct2026-audit](https://github.com/freesiacat/tomcat-oct2026-audit) | Apache Tomcat 2026年10月修正（9.0.123 / 10.1.61 / 11.0.27）の重要CVE 3件を、ローカル環境を読み取り専用で棚卸しするPythonスクリプト | 2026-10-28T14:15:30Z|
 | 🚫 未识别 | [medandevsec/cvephpreact2026](https://github.com/medandevsec/cvephpreact2026) | no description | 2026-10-28T09:23:00Z|
 | 🚫 未识别 | [Zeerg/bind-cves-2026](https://github.com/Zeerg/bind-cves-2026) | Isolated Docker reproduction labs for four BIND 2026 CVEs | 2026-10-27T16:04:12Z|
+| 🚫 未识别 | [zhangbeacon/QW-apchaeplus](https://github.com/zhangbeacon/QW-apchaeplus) | Apache httpd CVE reproduction and mimic-defense validation (Qiangwang Mimic 2026) | 2026-11-02T14:39:33Z|
 
 
 ---
 
-**报告生成时间**: 2026-11-02 07:30:33  
-**总记录数**: 454
+**报告生成时间**: 2026-11-03 07:45:07  
+**总记录数**: 455

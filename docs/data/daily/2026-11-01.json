@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "count": 37,
+  "count": 38,
   "cves": [
     {
       "cve_id": "CVE-2026-98432",
@@ -120,6 +120,13 @@
       "description": "CVE-2026-60004 (Gitea): unauth RCE via diffpatch add/add collision -&gt; live git hook in bare temp clone (KEV) — b63 showcase, lab-verified with patched + unaffected negatives",
       "date": "2026-11-01",
       "raw_date": "2026-11-01T19:44:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Delta-Water/phq110-root](https://github.com/Delta-Water/phq110-root)",
+      "description": "PHQ110（OPPO OP5613 / Android 14 / C.53）内存态 uid0 研究快照：CVE-2026-43499 GhostLock 链 + uid0 rootd + Shizuku。不写分区、不持久化。",
+      "date": "2026-11-01",
+      "raw_date": "2026-11-01T16:02:26Z"
     },
     {
       "cve_id": "CVE-2026-19971",
@@ -262,9 +269,9 @@
       "raw_date": "2026-11-01T19:48:42Z"
     }
   ],
-  "generated_at": "2026-11-03T06:08:57.575167",
+  "generated_at": "2026-11-03T07:45:08.914328",
   "metadata": {
-    "total_cves": 37,
+    "total_cves": 38,
     "date_range": "2026-11-01",
     "source": "README.md",
     "script_version": "2.0"

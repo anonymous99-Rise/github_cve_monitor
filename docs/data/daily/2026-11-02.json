@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "count": 13,
+  "count": 52,
   "cves": [
     {
       "cve_id": "CVE-2026-98432",
@@ -38,11 +38,165 @@
       "raw_date": "2026-11-02T00:21:55Z"
     },
     {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[IgrekLg/cve-2026-98432-mitigation](https://github.com/IgrekLg/cve-2026-98432-mitigation)",
+      "description": "cve-2026-98432-mitigation",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T21:05:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[GarphenGate/cve-2026-98432-defender-toolkit](https://github.com/GarphenGate/cve-2026-98432-defender-toolkit)",
+      "description": "Exposure audits, hunt queries and a validated interim mitigation for CVE-2026-98432, the use-after-free in the Linux IPv4 TCP handshake. Read-only scripts with a self-test. From GarphenGate Security Research.",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T22:14:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[braginvalentin/cve_2026_98432](https://github.com/braginvalentin/cve_2026_98432)",
+      "description": "hotfix",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T18:43:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[marcelofmatos/cve-2026-98432-check](https://github.com/marcelofmatos/cve-2026-98432-check)",
+      "description": "Verifica se um host descarta SYN TCP IPv4 com IP options (mitigação do CVE-2026-98432)",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T14:38:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[valkenindustries/cve-2026-98432-mitigation](https://github.com/valkenindustries/cve-2026-98432-mitigation)",
+      "description": "Interim mitigation for CVE-2026-98432 on Ubuntu",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T19:45:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[0xBlackash/CVE-2026-98432](https://github.com/0xBlackash/CVE-2026-98432)",
+      "description": "CVE-2026-98432",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T19:12:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[Pr0fEs0r-X/CVE-2026-98432-Checker-v-1.0-](https://github.com/Pr0fEs0r-X/CVE-2026-98432-Checker-v-1.0-)",
+      "description": "El script hace una revisión de tu Linux frente a esa vulnerabilidad, sin tocar nada por defecto: osea mira tu kernel — lee tu versión real de Linux (uname -r) y la compara con la lista de versiones donde ya está arreglado el fallo.",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T17:29:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[upeul/cve-2026-98432-linux](https://github.com/upeul/cve-2026-98432-linux)",
+      "description": "Checklist para proteger Linux (desktop e VPS) da CVE-2026-98432",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T17:45:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[akaihigurashi/kernel98scan](https://github.com/akaihigurashi/kernel98scan)",
+      "description": "Is your Linux host exposed to CVE-2026-98432?",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T15:03:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[knneth/cve-2026-98432-dkms](https://github.com/knneth/cve-2026-98432-dkms)",
+      "description": "DKMS mitigation for CVE-2026-98432",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T14:51:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[BigBIueWhale/cve-2026-98432-kernel-upgrade](https://github.com/BigBIueWhale/cve-2026-98432-kernel-upgrade)",
+      "description": "Safe kernel upgrade for CVE-2026-98432 on Ubuntu 24.04 with NVIDIA, and an analysis of the bug",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T13:27:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[maxottovon/CVE-2026-98432-scan](https://github.com/maxottovon/CVE-2026-98432-scan)",
+      "description": "CVE-2026-98432 - LINUX KERNEL IPv4 TCP USE-AFTER-FREE AUDIT    CVSS 9.8 (Critical) - Remote Code Execution &amp; Kernel Denial-of-Service",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T10:50:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[Omniversetr/omnicheck_CVE-2026-98432](https://github.com/Omniversetr/omnicheck_CVE-2026-98432)",
+      "description": "Non-destructive checker for CVE-2026-98432 (Linux kernel TCP use-after-free): patch status, exposed listeners and mitigation verification. By OMNIVERSE.",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T09:51:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[matthew-hollick/mitigate-cve-2026-98432](https://github.com/matthew-hollick/mitigate-cve-2026-98432)",
+      "description": "Use puppet to mitigate CVE-2026-98432 until vendor fixes are available.",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T08:19:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[thiscitze/cve-2026-98432-root-shell](https://github.com/thiscitze/cve-2026-98432-root-shell)",
+      "description": "CVE-2026-98432 lab root-shell kit (aid kernel; not a stock remote exploit)",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T08:07:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[kailashrs/infinitylock-app](https://github.com/kailashrs/infinitylock-app)",
+      "description": "Android app that checks a supported Vivo X200 Ultra, then uses Shizuku to attempt temporary root with CVE-2026-98260 and load KernelSU. Optional boot auto-root; one attempt per boot.",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T16:46:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-86596",
+      "repo_info": "[thiscitze/cve-2026-86596-poc](https://github.com/thiscitze/cve-2026-86596-poc)",
+      "description": "CVE-2026-86596 s2Member &lt;= 260927 template-injection PoC (lab; IPN verification required)",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T22:57:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-82474",
+      "repo_info": "[paktiko1986/CVE-2026-82474](https://github.com/paktiko1986/CVE-2026-82474)",
+      "description": "no description",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T17:16:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-78823",
+      "repo_info": "[saykino/CVE-2026-78823](https://github.com/saykino/CVE-2026-78823)",
+      "description": "no description",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T15:55:58Z"
+    },
+    {
       "cve_id": "CVE-2026-74583",
       "repo_info": "[santoshkalluri/CVE-2026-74583](https://github.com/santoshkalluri/CVE-2026-74583)",
       "description": "CVE-2026-74583: use-after-free in Linux net/sched cls_route (route4) - write-up, KASAN reproducer, A/B evidence",
       "date": "2026-11-02",
       "raw_date": "2026-11-02T06:26:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[l-i-uqing/CVE-2026-63030-wp2shell-repro](https://github.com/l-i-uqing/CVE-2026-63030-wp2shell-repro)",
+      "description": "WordPress REST Batch route confusion + SQLi RCE chain reproduction (CVE-2026-63030 &amp; CVE-2026-60137)",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T11:33:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-62911",
+      "repo_info": "[c5z54/cve-2026-62911-poc](https://github.com/c5z54/cve-2026-62911-poc)",
+      "description": "CVE-2026-62911 — Exchange MRSProxy Pre-Auth RCE PoC - Scanner + Exploit - NTLM Relay → Webshell → SYSTEM",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T21:32:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-56190",
+      "repo_info": "[danarhirany300-ctrl/CVE-2026-56190-RCE](https://github.com/danarhirany300-ctrl/CVE-2026-56190-RCE)",
+      "description": "Full RCE exploit chain for CVE-2026-56190 on Windows Server 2022. Bypasses CFG, XFG, and DEP",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T08:57:18Z"
     },
     {
       "cve_id": "CVE-2026-53157",
@@ -52,11 +206,32 @@
       "raw_date": "2026-11-02T05:39:45Z"
     },
     {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[BastianHxr/CVE-2026-48907](https://github.com/BastianHxr/CVE-2026-48907)",
+      "description": "no description",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T14:07:10Z"
+    },
+    {
       "cve_id": "CVE-2026-43499",
       "repo_info": "[tungmv/IONSTACK-S22E](https://github.com/tungmv/IONSTACK-S22E)",
       "description": "CVE-2026-43499 (IonStack/GhostLock) port for Samsung Galaxy S22 SM-S901E (r0q) on S901EXXSAEXF8 — verified uid=0",
       "date": "2026-11-02",
       "raw_date": "2026-11-02T05:50:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-42945",
+      "repo_info": "[basesixtythree/B63-POC-CVE-2026-42945](https://github.com/basesixtythree/B63-POC-CVE-2026-42945)",
+      "description": "PoC and verification material for CVE-2026-42945 (CWE-122 heap overflow in ngx_http_rewrite_module -&gt; attacker-shaped cleanup hijack -&gt; system() RCE in the ASLR-off worker; patched-twin negative + 5/5 reliability captured in the shipped lab)",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T12:20:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-33439",
+      "repo_info": "[stapat1245/CVE-2026-33439_poc](https://github.com/stapat1245/CVE-2026-33439_poc)",
+      "description": "Proof of Concept for CVE-2026-33439 RCE in OpenAM",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T22:32:24Z"
     },
     {
       "cve_id": "CVE-2026-33186",
@@ -73,11 +248,39 @@
       "raw_date": "2026-11-02T06:40:43Z"
     },
     {
+      "cve_id": "CVE-2026-120318",
+      "repo_info": "[7xd10/CVE-2026-120318](https://github.com/7xd10/CVE-2026-120318)",
+      "description": "no description",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T17:17:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-117561",
+      "repo_info": "[AlexBiller/salesforce-cve-remediation-demo](https://github.com/AlexBiller/salesforce-cve-remediation-demo)",
+      "description": "Unofficial demo built with Devin - synthetic data: CVE-2026-117561 command-injection remediation walkthrough",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T19:19:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-115904",
+      "repo_info": "[VulnSVNC/CVE-2026-115904](https://github.com/VulnSVNC/CVE-2026-115904)",
+      "description": "OS Command Injection PoC &amp; Write-up - CVE-2026-115904",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T11:51:12Z"
+    },
+    {
       "cve_id": "CVE-2026-112816",
       "repo_info": "[foxcornlab/lxd-scanner](https://github.com/foxcornlab/lxd-scanner)",
       "description": "Detection-only local triage scanner for CVE-2026-112816 (CVSS 10.0) in Canonical LXD and MicroCloud: grades LXD, MicroCloud and Incus versions against the fixed builds, catches the 6.10.0 trap. No payloads, no remote probing.",
       "date": "2026-11-02",
       "raw_date": "2026-11-02T04:19:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-112688",
+      "repo_info": "[0xjohnnydev/CVE-2026-112688-backboardd](https://github.com/0xjohnnydev/CVE-2026-112688-backboardd)",
+      "description": "CVE-2026-112688 CoreMedia PoC: controlled saved-LR corruption in backboardd, stopped by PAC, plus evidence of a constrained write-1 primitive.",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T05:45:28Z"
     },
     {
       "cve_id": "CVE-2026-111497",
@@ -87,16 +290,86 @@
       "raw_date": "2026-11-02T04:58:58Z"
     },
     {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[EQSTLab/CVE-2026-111497](https://github.com/EQSTLab/CVE-2026-111497)",
+      "description": "Node2Shell",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T09:46:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[fortbridge/cve-2026-111497-wordpress-pingback-brotli](https://github.com/fortbridge/cve-2026-111497-wordpress-pingback-brotli)",
+      "description": "Local WordPress pingback/Brotli RCE reproduction with a one-use Podman lab",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T08:55:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-110447",
+      "repo_info": "[maxprog-svg/CVE-2026-110447](https://github.com/maxprog-svg/CVE-2026-110447)",
+      "description": "CVE-2026-110447 — Collabora Online &quot;Built-in CODE Server&quot;",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T09:09:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-109619",
+      "repo_info": "[K2uci/PHP2ShellPOC-CVE-2026-109619](https://github.com/K2uci/PHP2ShellPOC-CVE-2026-109619)",
+      "description": "no description",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T16:12:42Z"
+    },
+    {
       "cve_id": "CVE-2026-109618",
       "repo_info": "[andrysunjaya/php2shell-scanner](https://github.com/andrysunjaya/php2shell-scanner)",
       "description": "Read-only scanner for PHP2Shell (CVE-2026-109618 / CVE-2026-109619): finds vulnerable PHP, stale processes and webshells, and prints a remediation plan",
       "date": "2026-11-02",
       "raw_date": "2026-11-02T05:47:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[geokali21/PHP2SHELL-TRYHACKME-WALKTHROUGH](https://github.com/geokali21/PHP2SHELL-TRYHACKME-WALKTHROUGH)",
+      "description": "Walkthrough TryHackMe room php2shell — PHP-FPM memory disclosure &amp; pre-auth RCE via upload_progress UAF (CVE-2026-109618, CVE-2026-109619).",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T11:41:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[ankushsinghrajput-git/php_vulnerability_scanner](https://github.com/ankushsinghrajput-git/php_vulnerability_scanner)",
+      "description": "A Python-based security scanner designed to identify potential exposure to critical PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619, which may lead to Out-of-Memory (OOM) conditions and Remote Code Execution (RCE).",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T17:31:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[mrnaeem4/wazuh-php2shell](https://github.com/mrnaeem4/wazuh-php2shell)",
+      "description": "Rule Wazuh untuk mendeteksi eksploitasi PHP2Shell (CVE-2026-109618 / CVE-2026-109619) pada server web berbasis PHP (Apache/`mod_php`, Nginx + PHP-FPM)",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T10:15:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[secopsxsaiyan/php2shell-wazuh-detections](https://github.com/secopsxsaiyan/php2shell-wazuh-detections)",
+      "description": "Wazuh rules and Sigma equivalents for PHP2Shell (CVE-2026-109618 / CVE-2026-109619) on Apache mod_php: a non-root shell execve rule for confirmed execution, plus the Apache-wrapped PHP fatal memory-exhaustion line that stock rules decode at level 0.",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T04:23:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-105863",
+      "repo_info": "[lelaboratoiredegenie/CVE-2026-105863](https://github.com/lelaboratoiredegenie/CVE-2026-105863)",
+      "description": "just a poc",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T16:40:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-41450",
+      "repo_info": "[GabrieleDattile/CVE-2025-41450-Fromagegate](https://github.com/GabrieleDattile/CVE-2025-41450-Fromagegate)",
+      "description": "Technical post-mortem, vulnerability analysis, and OT defense blueprint for CVE-2025-41450 &amp; the October 2026 Fromagegate retail cold-chain sabotage incident.",
+      "date": "2026-11-02",
+      "raw_date": "2026-11-02T20:57:39Z"
     }
   ],
-  "generated_at": "2026-11-03T06:08:57.575512",
+  "generated_at": "2026-11-03T07:45:08.914776",
   "metadata": {
-    "total_cves": 13,
+    "total_cves": 52,
     "date_range": "2026-11-02",
     "source": "README.md",
     "script_version": "2.0"

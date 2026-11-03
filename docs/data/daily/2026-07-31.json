@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-63563",
@@ -10,6 +10,13 @@
       "raw_date": "2026-07-31T14:41:40Z"
     },
     {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[nafiez/Metasploit-CVE-2026-54121-Certighost](https://github.com/nafiez/Metasploit-CVE-2026-54121-Certighost)",
+      "description": "A Metasploit auxiliary module that escalates from any low-privileged domain user to full domain compromise by abusing the AD CS enrollment &quot;chase&quot; fallback.  The CA can be coerced into authenticating back to attacker-controlled infrastructure and then issuing a certificate that impersonates a Domain Controller.",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T07:17:36Z"
+    },
+    {
       "cve_id": "CVE-2026-51994",
       "repo_info": "[playb0t/mcp-remote-oauth-security](https://github.com/playb0t/mcp-remote-oauth-security)",
       "description": "Forensic audit of mcp-remote: seven OAuth trust-boundary advisories, five CVE records (CVE-2026-51994/51995/51996/51997/52001). Server-selected request path (CWE-918) run against loopback canaries in 58 stable releases, 0.1.32 to the current 0.14.3; selected code and namespace signatures under 12 other npm names; search blind spots above 350 KiB.",
@@ -17,9 +24,9 @@
       "raw_date": "2026-07-31T10:36:20Z"
     }
   ],
-  "generated_at": "2026-11-03T06:08:57.546267",
+  "generated_at": "2026-11-03T07:45:08.877918",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-07-31",
     "source": "README.md",
     "script_version": "2.0"
