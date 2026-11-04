@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "count": 32,
+  "count": 33,
   "cves": [
     {
       "cve_id": "CVE-2026-96512",
@@ -199,6 +199,13 @@
       "raw_date": "2026-09-25T07:43:43Z"
     },
     {
+      "cve_id": "CVE-2026-116063",
+      "repo_info": "[SDshadow/CVE-2026-116063](https://github.com/SDshadow/CVE-2026-116063)",
+      "description": "Vulnerability advisories by SDshadow - VulDB-style entries with PoC and evidence",
+      "date": "2026-09-25",
+      "raw_date": "2026-09-25T05:38:27Z"
+    },
+    {
       "cve_id": "CVE-2026-110200",
       "repo_info": "[rmhowe425/POC-CVE-2026-110200](https://github.com/rmhowe425/POC-CVE-2026-110200)",
       "description": "no description",
@@ -227,9 +234,9 @@
       "raw_date": "2026-09-25T02:08:50Z"
     }
   ],
-  "generated_at": "2026-11-04T05:47:34.968776",
+  "generated_at": "2026-11-04T07:23:11.920484",
   "metadata": {
-    "total_cves": 32,
+    "total_cves": 33,
     "date_range": "2026-09-25",
     "source": "README.md",
     "script_version": "2.0"

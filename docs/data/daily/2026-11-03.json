@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "count": 4,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2026-98432",
@@ -17,6 +17,41 @@
       "raw_date": "2026-11-03T01:58:52Z"
     },
     {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[zenjabba/cve-2026-98432-mitigation](https://github.com/zenjabba/cve-2026-98432-mitigation)",
+      "description": "Temporary nftables mitigation for CVE-2026-98432 (Linux IPv4 TCP IP-options use-after-free)",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T22:04:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[mrjoshuap/ansible-ezcve](https://github.com/mrjoshuap/ansible-ezcve)",
+      "description": "Ansible role to audit Linux hosts for CVE-2026-98432 (critical IPv4 TCP use-after-free). Checks running kernel against known fixed versions, MPTCP status, and active MPTCP listeners across RHEL, Fedora, Debian, and Ubuntu. Produces clear per-host risk reports (high/medium/fixed). Read-only by default; ideal for fleet-wide inventory before patching.",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T16:36:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[hdp1972be-svg/cve_2026_98432_guard](https://github.com/hdp1972be-svg/cve_2026_98432_guard)",
+      "description": "Temporary eBPF/XDP mitigation for CVE-2026-98432 Linux TCP IPv4 header-options vulnerability. Helps protect unpatched systems and custom kernels until an official kernel fix can be deployed.",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T20:27:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[luxagen/tester-linux-cve-2026-98432](https://github.com/luxagen/tester-linux-cve-2026-98432)",
+      "description": "Vulnerability/mitigation tester for Linux-kernel CVE-2026-98432",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T14:29:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-98432",
+      "repo_info": "[muhammedemintombak/pardus21-cve-2026-98432](https://github.com/muhammedemintombak/pardus21-cve-2026-98432)",
+      "description": "Pardus 21.5 (amd64) için CVE-2026-98432 düzeltmesini Linux 5.10.262 tabanına taşıyan gayriresmî topluluk yaması. Proje, yamalı kaynak kodu, test edilen .deb paketini ve derleme, kurulum ve geri dönüş adımlarını içerir.",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T13:50:19Z"
+    },
+    {
       "cve_id": "CVE-2026-98260",
       "repo_info": "[YodonTan/cve-2026-98260-harmonyos-applicability](https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability)",
       "description": "锁定设备上的内核 CVE 适用性判定：一个有意保持未定论的适用性结论，以及得到该结论的方法。A vulnerability-applicability study on a locked-down HarmonyOS device: a deliberately unresolved verdict, and the methodology to reach it.",
@@ -24,16 +59,93 @@
       "raw_date": "2026-11-03T00:27:22Z"
     },
     {
+      "cve_id": "CVE-2026-98260",
+      "repo_info": "[RMDycz/K80Pro-miro-CVE-2026-98260](https://github.com/RMDycz/K80Pro-miro-CVE-2026-98260)",
+      "description": "Device-bound CVE-2026-98260 adaptation for RedMi K80pro miro OS 3.0.305.0",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T08:17:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-97229",
+      "repo_info": "[emc-kk/cve-2026-97229-lab](https://github.com/emc-kk/cve-2026-97229-lab)",
+      "description": "CVE-2026-97229 lab — Onigmo repeat integer overflow RCE (GitLab CE 19.2–19.4)",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T19:22:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-80587",
+      "repo_info": "[9technologygroup/cve-2026-80587-check](https://github.com/9technologygroup/cve-2026-80587-check)",
+      "description": "Temporary: check a Linux host for CVE-2026-80587 (MPTCP)",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T21:59:19Z"
+    },
+    {
       "cve_id": "CVE-2026-58115",
       "repo_info": "[foxcornlab/node-red-scanner](https://github.com/foxcornlab/node-red-scanner)",
       "description": "Detection-only local triage scanner for CVE-2026-58115 (CVSS 10.0) in Siemens SIMATIC IoT2050 Node-RED: grades Industrial OS versions against V4.3.4.1 and settings.js for adminAuth. No payloads, no remote probing.",
       "date": "2026-11-03",
       "raw_date": "2026-11-03T04:17:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[SnowbakaQWQ/ghostlock-ares](https://github.com/SnowbakaQWQ/ghostlock-ares)",
+      "description": "CVE-2026-43499 (rtmutex UAF) port for Redmi K40 Gaming / MediaTek MT6893 / kernel 4.14.186 — work-in-progress, blocked on payload landing",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T18:25:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[abiyeenzo/CVE-2026-31431](https://github.com/abiyeenzo/CVE-2026-31431)",
+      "description": "Research PoC for Linux Kernel LPE (CVE-2026-31431 - Copy Fail). Educational and security research purposes only.",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T20:15:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-116512",
+      "repo_info": "[0xCyp1337/CVE-2026-116512](https://github.com/0xCyp1337/CVE-2026-116512)",
+      "description": "no description",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T11:41:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-112689",
+      "repo_info": "[Lak453/CVE-2026-112689-poc](https://github.com/Lak453/CVE-2026-112689-poc)",
+      "description": "Crash-only reproducer for CVE-2026-112689 in Apple&#x27;s H.264 hardware decoder",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T21:13:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-](https://github.com/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-)",
+      "description": "no description",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T20:04:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[SecOpsLimited/php2shell-finder](https://github.com/SecOpsLimited/php2shell-finder)",
+      "description": "Non-destructive, probabilistic finder for hosts exposed to php2shell (CVE-2026-109618/109619). Blue-team triage; sends no exploit traffic. Authorised use only.",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T08:43:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[Danyw24/the-php2shell-recipe](https://github.com/Danyw24/the-php2shell-recipe)",
+      "description": "One recipe, any unpatched build → RCE in ~30 minutes - CVE-2026-109618 research lab: 4-stage chain gdb-verified, 3 RCE builds (8.3.35/8.4.26/8.5.11), adaptation pipeline + profile DB",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T23:14:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC)",
+      "description": "CVE-2026-109618 / CVE-2026-109619 php2shell PoC — PHP session.upload_progress OOM/stale-state RCE",
+      "date": "2026-11-03",
+      "raw_date": "2026-11-03T19:27:44Z"
     }
   ],
-  "generated_at": "2026-11-04T05:47:34.991838",
+  "generated_at": "2026-11-04T07:23:11.941071",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 20,
     "date_range": "2026-11-03",
     "source": "README.md",
     "script_version": "2.0"

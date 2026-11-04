@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-04",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-92183",
+      "repo_info": "[CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept](https://github.com/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept)",
+      "description": "GIMP 3.2.2 contains a stack-based buffer overflow in its APNG loader (load_apng_image) when processing the tRNS (transparency) chunk. This writeup demonstrates a proof of concept for remote code execution leveraging this vulnerability.",
+      "date": "2026-11-04",
+      "raw_date": "2026-11-04T00:39:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-58115",
+      "repo_info": "[al4n4n/CVE-2026-58115](https://github.com/al4n4n/CVE-2026-58115)",
+      "description": "CVE-2026-58115: Siemens SIMATIC IoT2050 Node-RED unauthenticated root RCE. PoC, scanner, PCAP, detection rules.",
+      "date": "2026-11-04",
+      "raw_date": "2026-11-04T05:48:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-56190",
+      "repo_info": "[danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chainn](https://github.com/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chainn)",
+      "description": "Full unauthenticated RCE chain for Windows Server 2022 by chaining CVE-2026-56190 (RCE) and CVE-2026-42908 (Info Leak). Bypasses ASLR, CFG, XFG, and DEP.",
+      "date": "2026-11-04",
+      "raw_date": "2026-11-04T02:10:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-56190",
+      "repo_info": "[danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chain](https://github.com/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chain)",
+      "description": "ull unauthenticated RCE chain for Windows Server 2022 by chaining CVE-2026-56190 (RCE) and CVE-2026-42908 (Info Leak). Bypasses ASLR, CFG, XFG, and DEP.",
+      "date": "2026-11-04",
+      "raw_date": "2026-11-04T02:08:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[1nt1m4cy/HTB-Cohort](https://github.com/1nt1m4cy/HTB-Cohort)",
+      "description": "HTB Cohort writeup -- SSRF, Marimo CVE-2026-39987, PackageKit CVE-2026-41651",
+      "date": "2026-11-04",
+      "raw_date": "2026-11-04T00:45:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-21440",
+      "repo_info": "[Rui0828/CVE-2026-21440-adonisjs-bodyparser](https://github.com/Rui0828/CVE-2026-21440-adonisjs-bodyparser)",
+      "description": "Docker-based reproduction lab for CVE-2026-21440. A path traversal / arbitrary file write vulnerability in @adonisjs/bodyparser ≤10.1.1.",
+      "date": "2026-11-04",
+      "raw_date": "2026-11-04T06:34:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-119977",
+      "repo_info": "[foxcornlab/wordpress-core-scanner](https://github.com/foxcornlab/wordpress-core-scanner)",
+      "description": "Detection-only local triage scanner for CVE-2026-119977 (CISA KEV 2026-11-03) in WordPress Core: grades versions 4.7-7.1.3 against per-branch fixes (7.1.4 and backports) and flags wp-content/upgrade exposure. No payloads, no remote probing.",
+      "date": "2026-11-04",
+      "raw_date": "2026-11-04T04:15:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-110186",
+      "repo_info": "[al4n4n/CVE-2026-110186](https://github.com/al4n4n/CVE-2026-110186)",
+      "description": "CVE-2026-110186: Langflow OSS code injection via pydoc scanner bypass (CVSS 9.8, pre-auth RCE)",
+      "date": "2026-11-04",
+      "raw_date": "2026-11-04T07:10:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[okumura-pico/php-7.2.11-cve-2026-109618-fix](https://github.com/okumura-pico/php-7.2.11-cve-2026-109618-fix)",
+      "description": "Unofficial backport",
+      "date": "2026-11-04",
+      "raw_date": "2026-11-04T07:21:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[SquidSec/php2shell](https://github.com/SquidSec/php2shell)",
+      "description": "php2shell (CVE-2026-109618 / CVE-2026-109619) — deliberately vulnerable PHP 8.4.26 lab with a patched 8.4.27 control and a working proof-of-concept that lands a shell as www-data.",
+      "date": "2026-11-04",
+      "raw_date": "2026-11-04T00:47:43Z"
+    }
+  ],
+  "generated_at": "2026-11-04T07:23:11.941423",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2026-11-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

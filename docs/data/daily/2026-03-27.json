@@ -1,0 +1,20 @@
+{
+  "date": "2026-03-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[AhmadF77/CVE-2026-23744](https://github.com/AhmadF77/CVE-2026-23744)",
+      "description": "Proof-of-concept exploit for CVE-2026-23744 (authorized testing / research only)",
+      "date": "2026-03-27",
+      "raw_date": "2026-03-27T14:14:14Z"
+    }
+  ],
+  "generated_at": "2026-11-04T07:23:11.869481",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-03-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

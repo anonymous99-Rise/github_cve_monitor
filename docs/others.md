@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-11-03 07:44:38
+- **生成时间**: 2026-11-04 07:22:23
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -466,9 +466,11 @@
 | 🚫 未识别 | [medandevsec/cvephpreact2026](https://github.com/medandevsec/cvephpreact2026) | no description | 2026-10-28T09:23:00Z|
 | 🚫 未识别 | [Zeerg/bind-cves-2026](https://github.com/Zeerg/bind-cves-2026) | Isolated Docker reproduction labs for four BIND 2026 CVEs | 2026-10-27T16:04:12Z|
 | 🚫 未识别 | [zhangbeacon/QW-apchaeplus](https://github.com/zhangbeacon/QW-apchaeplus) | Apache httpd CVE reproduction and mimic-defense validation (Qiangwang Mimic 2026) | 2026-11-02T14:39:33Z|
+| 🚫 未识别 | [c4dt/ubuntu-cve-2026](https://github.com/c4dt/ubuntu-cve-2026) | no description | 2026-11-03T17:31:47Z|
+| 🚫 未识别 | [jgamblin/NVDAnalysisStatus](https://github.com/jgamblin/NVDAnalysisStatus) | Tracks the NVD CVE analysis backlog since NIST&#x27;s February 15, 2024 reduced-capacity announcement, updated every 6 hours | 2024-05-21T19:18:21Z|
 
 
 ---
 
-**报告生成时间**: 2026-11-03 07:45:07  
-**总记录数**: 455
+**报告生成时间**: 2026-11-04 07:23:10  
+**总记录数**: 457

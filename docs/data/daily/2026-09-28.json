@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "count": 49,
+  "count": 50,
   "cves": [
     {
       "cve_id": "CVE-2026-93958",
@@ -134,6 +134,13 @@
       "description": "no description",
       "date": "2026-09-28",
       "raw_date": "2026-09-28T18:51:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-59795",
+      "repo_info": "[JoakimBulow/CVE-2026-59795](https://github.com/JoakimBulow/CVE-2026-59795)",
+      "description": "CVE-2026-59795 - TeamCity - XSS",
+      "date": "2026-09-28",
+      "raw_date": "2026-09-28T08:40:52Z"
     },
     {
       "cve_id": "CVE-2026-58225",
@@ -346,9 +353,9 @@
       "raw_date": "2026-09-28T09:45:48Z"
     }
   ],
-  "generated_at": "2026-11-04T05:47:34.970125",
+  "generated_at": "2026-11-04T07:23:11.921807",
   "metadata": {
-    "total_cves": 49,
+    "total_cves": 50,
     "date_range": "2026-09-28",
     "source": "README.md",
     "script_version": "2.0"
